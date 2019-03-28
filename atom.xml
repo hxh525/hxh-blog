@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>黄小黄</title>
+  
+  <subtitle>很傻 太天真</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hxh.red/"/>
+  <updated>2019-03-28T02:11:33.961Z</updated>
+  <id>http://hxh.red/</id>
+  
+  <author>
+    <name>Jay</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大学</title>
+    <link href="http://hxh.red/2099/05/29/da-xue/"/>
+    <id>http://hxh.red/2099/05/29/da-xue/</id>
+    <published>2099-05-28T16:00:00.000Z</published>
+    <updated>2019-03-28T02:11:33.961Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;大学&lt;br&gt;（《礼记·大学》古本）&lt;br&gt;大学之道1，在明明德2，在亲民3，在止于至善4。知止而后有定5，定而后能静6，静而后能安7，安而后能虑8，虑而后能得9。物有本末，事有终始。知所先后，则近道矣。&lt;br&gt;古之欲明明德于天下者，先治其国。欲治其国者，先齐其家10。欲齐其
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mac command</title>
+    <link href="http://hxh.red/2099/05/29/mac-command/"/>
+    <id>http://hxh.red/2099/05/29/mac-command/</id>
+    <published>2099-05-28T16:00:00.000Z</published>
+    <updated>2019-03-28T02:11:33.953Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h6 id=&quot;mac-safeguard&quot;&gt;&lt;a href=&quot;#mac-safeguard&quot; class=&quot;headerlink&quot; title=&quot;mac safeguard&quot;&gt;&lt;/a&gt;mac safeguard&lt;/h6&gt;&lt;pre&gt;&lt;code&gt;sudo spctl
+        
+      
+    
+    </summary>
+    
+      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux command</title>
+    <link href="http://hxh.red/2099/05/29/linux-command/"/>
+    <id>http://hxh.red/2099/05/29/linux-command/</id>
+    <published>2099-05-28T16:00:00.000Z</published>
+    <updated>2019-03-28T02:11:33.951Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h6 id=&quot;查看物理CPU个数&quot;&gt;&lt;a href=&quot;#查看物理CPU个数&quot; class=&quot;headerlink&quot; title=&quot;查看物理CPU个数&quot;&gt;&lt;/a&gt;查看物理CPU个数&lt;/h6&gt;&lt;pre&gt;&lt;code&gt;cat /proc/cpuinfo| grep
+        
+      
+    
+    </summary>
+    
+      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20190327</title>
+    <link href="http://hxh.red/2019/03/27/20190327/"/>
+    <id>http://hxh.red/2019/03/27/20190327/</id>
+    <published>2019-03-27T15:13:37.000Z</published>
+    <updated>2019-03-28T02:11:33.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    人活一世,总要想清楚一些事&lt;br&gt;大学毕业有很久了16年6月,现在是19年3月,过去了有3年了将近&lt;br&gt;越来越清晰的认识到这个社会是如此的现实,那些理想的东西大多都不是穷人能够奢望的&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>new year</title>
+    <link href="http://hxh.red/2019/01/01/new-year/"/>
+    <id>http://hxh.red/2019/01/01/new-year/</id>
+    <published>2018-12-31T16:00:00.000Z</published>
+    <updated>2019-03-28T02:11:33.959Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;元旦&lt;br&gt;这是一个跨年夜,步入2019已经有几分钟了&lt;br&gt;渐渐地明白了自己,长大了&lt;br&gt;长大到我能明白这个社会的进步&lt;br&gt;长大到我能认识到自己的不足&lt;/p&gt;
+&lt;p&gt;这个日志我有好久没有跟新了&lt;br&gt;不是因为工作忙,也不是因为去学习了&lt;br&gt;其实就是过了那个新鲜度&lt;/
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180613</title>
+    <link href="http://hxh.red/2018/06/23/20180613/"/>
+    <id>http://hxh.red/2018/06/23/20180613/</id>
+    <published>2018-06-23T09:43:00.000Z</published>
+    <updated>2019-03-28T02:11:33.943Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    今天我有一节英孚的课,然后我也到了中心,最后我没有进去教室&lt;br&gt;    i want to said “if i can speak English like speak Chinese ,i will be glad”&lt;br&gt;youdao said
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180620</title>
+    <link href="http://hxh.red/2018/06/20/20180620/"/>
+    <id>http://hxh.red/2018/06/20/20180620/</id>
+    <published>2018-06-20T02:25:00.000Z</published>
+    <updated>2019-03-28T02:11:33.944Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    working&lt;br&gt;    这家公司待了快一年,现在的自己是个什么状态I have been in the     company for one year. What is my status now ?&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>21080616</title>
+    <link href="http://hxh.red/2018/06/16/21080616/"/>
+    <id>http://hxh.red/2018/06/16/21080616/</id>
+    <published>2018-06-16T13:20:00.000Z</published>
+    <updated>2019-03-28T02:11:33.949Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    肉食社会&lt;br&gt;    出了大学的生活真的是让人捉急,偌大的城市,都没有一个能谈天说地的人&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>i think about the world</title>
+    <link href="http://hxh.red/2018/05/29/i-think-about-the-world/"/>
+    <id>http://hxh.red/2018/05/29/i-think-about-the-world/</id>
+    <published>2018-05-29T01:15:14.000Z</published>
+    <updated>2019-03-28T02:11:33.958Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;什么是大学生？&lt;br&gt;大学生，一个再熟悉不过的陌生词，一个青春正旺的年纪，一个朝气蓬勃的学子，那是一段美好的时光，那是一个难忘的经历&lt;br&gt;在人生的轨迹上，大学生充当的是一个点，这个点连接着社会的两头，这个点连接着责任的两头，这个点连接着成长的两头，这个点连接的太多太多，步
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180513</title>
+    <link href="http://hxh.red/2018/05/13/20180513/"/>
+    <id>http://hxh.red/2018/05/13/20180513/</id>
+    <published>2018-05-13T03:50:00.000Z</published>
+    <updated>2019-03-28T02:11:33.942Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;快一年了，2017.7.13&lt;br&gt;每个周末都会患得患失，已经成了习惯，譬如现在这个时间点，面对生活的压力，我不知道这是不是压力，已经快喘不过气了，但还是得努力得活着&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180421</title>
+    <link href="http://hxh.red/2018/04/21/20180421/"/>
+    <id>http://hxh.red/2018/04/21/20180421/</id>
+    <published>2018-04-20T18:42:00.000Z</published>
+    <updated>2019-03-28T02:11:33.940Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    很多时候都有睡不着的时候，但是很少有这种看着时间一点点过去&lt;br&gt;那是我很小的时候，妈妈去上下午班，晚上12点回家，以往我都会一个人在家自己打理好了就睡觉，记得只有那一个晚上，我一直没有睡着，然后坐在床头看着房间里的那个钟，一直等到妈妈下班回来了&lt;br&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>work difficult - grandinsight</title>
+    <link href="http://hxh.red/2018/04/12/work-difficult-grandinsight/"/>
+    <id>http://hxh.red/2018/04/12/work-difficult-grandinsight/</id>
+    <published>2018-04-12T07:06:00.000Z</published>
+    <updated>2019-03-28T02:11:33.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;To
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20160406</title>
+    <link href="http://hxh.red/2018/04/06/20160406/"/>
+    <id>http://hxh.red/2018/04/06/20160406/</id>
+    <published>2018-04-06T13:30:00.000Z</published>
+    <updated>2019-03-28T02:11:33.904Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我能行&lt;br&gt;你始终要告诉自己，这个美好的世界，你要过好每一天&lt;br&gt;I said that I would learn English everyday, but I was lazy so I didn’t study English every
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180331</title>
+    <link href="http://hxh.red/2018/03/31/20180331/"/>
+    <id>http://hxh.red/2018/03/31/20180331/</id>
+    <published>2018-03-31T05:19:00.000Z</published>
+    <updated>2019-03-28T02:11:33.939Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    当我十分惦记她的时候，心里不会有任何事情，所有东西都会变得不重要，在久久得不到回复，另一个恶魔般的黄小黄就会出来惹事，变得不可理喻&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180325</title>
+    <link href="http://hxh.red/2018/03/25/20180325/"/>
+    <id>http://hxh.red/2018/03/25/20180325/</id>
+    <published>2018-03-25T01:46:00.000Z</published>
+    <updated>2019-03-28T02:11:33.938Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>To Jimmy</title>
+    <link href="http://hxh.red/2018/03/21/to-jimmy/"/>
+    <id>http://hxh.red/2018/03/21/to-jimmy/</id>
+    <published>2018-03-21T14:41:00.000Z</published>
+    <updated>2019-03-28T02:11:33.954Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h6 id=&quot;2018-05-20&quot;&gt;&lt;a href=&quot;#2018-05-20&quot; class=&quot;headerlink&quot; title=&quot;2018.05.20&quot;&gt;&lt;/a&gt;2018.05.20&lt;/h6&gt;&lt;p&gt;jimmy&lt;br&gt;    嘿，我是黄小黄，我找到我家吉祥了，谢谢你&lt;br&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="Jimmy" scheme="http://hxh.red/categories/jimmy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180321</title>
+    <link href="http://hxh.red/2018/03/21/20180321/"/>
+    <id>http://hxh.red/2018/03/21/20180321/</id>
+    <published>2018-03-21T06:25:00.000Z</published>
+    <updated>2019-03-28T02:11:33.936Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    起床-上班-下班-回家，往常一样的节奏&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180312</title>
+    <link href="http://hxh.red/2018/03/12/20180312/"/>
+    <id>http://hxh.red/2018/03/12/20180312/</id>
+    <published>2018-03-12T08:43:00.000Z</published>
+    <updated>2019-03-28T02:11:33.935Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;    值得纪念的日子&lt;br&gt;这是个周一，正常来说应该是无比的繁忙，因为公司搬迁后的第一天上班，网络没有解决好，导致工作没法开展&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20180130</title>
+    <link href="http://hxh.red/2018/01/30/20180130/"/>
+    <id>http://hxh.red/2018/01/30/20180130/</id>
+    <published>2018-01-30T02:22:00.000Z</published>
+    <updated>2019-03-28T02:11:33.933Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;-&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="http://hxh.red/categories/dairy/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello word</title>
+    <link href="http://hxh.red/2018/01/23/hello-word/"/>
+    <id>http://hxh.red/2018/01/23/hello-word/</id>
+    <published>2018-01-23T13:11:55.000Z</published>
+    <updated>2019-03-28T02:11:33.956Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我的第一篇博文终于折腾好了&lt;/p&gt;
+&lt;p&gt;不知道这次折腾的东西会弄多久&lt;/p&gt;
+&lt;p&gt;加油，黄小黄！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.zybuluo.com/cmd/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
