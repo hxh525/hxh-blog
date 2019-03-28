@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hxh.red/"/>
-  <updated>2019-03-28T13:48:33.755Z</updated>
+  <updated>2019-03-28T13:48:36.126Z</updated>
   <id>http://hxh.red/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Mac command</title>
-    <link href="http://hxh.red/2099/12/31/mac-command/"/>
-    <id>http://hxh.red/2099/12/31/mac-command/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-28T13:48:33.755Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;code&gt;mac safeguard&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;sudo spctl
-        
-      
-    
-    </summary>
-    
-      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>Linux command</title>
@@ -89,6 +64,31 @@
     
     
       <category term="classic" scheme="http://hxh.red/tags/classic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac command</title>
+    <link href="http://hxh.red/2099/12/31/mac-command/"/>
+    <id>http://hxh.red/2099/12/31/mac-command/</id>
+    <published>2099-12-31T15:59:59.000Z</published>
+    <updated>2019-03-28T13:48:33.755Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;code&gt;mac safeguard&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo spctl
+        
+      
+    
+    </summary>
+    
+      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+    
     
   </entry>
   
