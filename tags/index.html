@@ -231,11 +231,130 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             </div>
             <div class="tag-chips">
                 
+                
+                <a href="/tags/essays/" title="essays: 3">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="essays" style="background-color: #F9EBEA;">essays
+                        <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/jimmy/" title="Jimmy: 7">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="Jimmy" style="background-color: #F5EEF8;">Jimmy
+                        <span class="tag-length">7</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/java/" title="Java: 2">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="Java" style="background-color: #D5F5E3;">Java
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/面向对象编程/" title="面向对象编程: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="面向对象编程" style="background-color: #E8F8F5;">面向对象编程
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/classic/" title="classic: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="classic" style="background-color: #FEF9E7;">classic
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/整洁代码/" title="整洁代码: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="整洁代码" style="background-color: #F8F9F9;">整洁代码
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/重构/" title="重构: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="重构" style="background-color: #82E0AA;">重构
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/测试/" title="测试: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="测试" style="background-color: #D7BDE2;">测试
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/hexo/" title="hexo: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="hexo" style="background-color: #A3E4D7;">hexo
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/hexo-theme-matery/" title="hexo-theme-matery: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="hexo-theme-matery" style="background-color: #85C1E9;">hexo-theme-matery
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/google/" title="Google: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="Google" style="background-color: #F8C471;">Google
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/diary/" title="diary: 46">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default " data-tagname="diary" style="background-color: #F9E79F;">diary
+                        <span class="tag-length">46</span>
+                    </span>
+                </a>
+                
             </div>
         </div>
     </div>
 </div>
 
+    
+    <link rel="stylesheet" type="text/css" href="/libs/jqcloud/jqcloud.css">
+<style type="text/css">
+    #tag-wordcloud {
+        width: 100%;
+        height: 300px;
+    }
+</style>
+
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="tag-wordcloud" class="card-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/libs/jqcloud/jqcloud-1.0.4.min.js"></script>
+<script type="text/javascript">
+    
+
+    $('#tag-wordcloud').jQCloud([{"text":"essays","weight":3,"link":"http://hxh.red/tags/essays/"},{"text":"Jimmy","weight":7,"link":"http://hxh.red/tags/jimmy/"},{"text":"Java","weight":2,"link":"http://hxh.red/tags/java/"},{"text":"面向对象编程","weight":1,"link":"http://hxh.red/tags/面向对象编程/"},{"text":"classic","weight":1,"link":"http://hxh.red/tags/classic/"},{"text":"整洁代码","weight":1,"link":"http://hxh.red/tags/整洁代码/"},{"text":"重构","weight":1,"link":"http://hxh.red/tags/重构/"},{"text":"测试","weight":1,"link":"http://hxh.red/tags/测试/"},{"text":"hexo","weight":1,"link":"http://hxh.red/tags/hexo/"},{"text":"hexo-theme-matery","weight":1,"link":"http://hxh.red/tags/hexo-theme-matery/"},{"text":"Google","weight":1,"link":"http://hxh.red/tags/google/"},{"text":"diary","weight":46,"link":"http://hxh.red/tags/diary/"}], {
+        autoResize: true
+    });
+</script>
     
 
 </main>
@@ -261,7 +380,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
             
                 <i class="fa fa-area-chart"></i>
-                words: <span class="white-color">40.5k</span>&nbsp;
+                words: <span class="white-color">56.5k</span>&nbsp;
             
             
             <div>
@@ -308,7 +427,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             <span class="title"><i class="fa fa-search"></i>&nbsp;&nbsp;Search</span>
             <input type="search" id="searchInput" name="s" placeholder="Please enter a search keyword" class="search-input">
         </div>
-        <div id="searchResult"></div>
+        <div id="searchResult" style="max-height: 100px"></div>
     </div>
 </div>
 
