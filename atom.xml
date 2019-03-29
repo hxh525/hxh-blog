@@ -41,6 +41,31 @@
   </entry>
   
   <entry>
+    <title>Linux command</title>
+    <link href="http://hxh.red/2099/12/31/linux-command/"/>
+    <id>http://hxh.red/2099/12/31/linux-command/</id>
+    <published>2099-12-31T15:59:59.000Z</published>
+    <updated>2019-03-29T04:18:19.357Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;cpu-信息&quot;&gt;&lt;a href=&quot;#cpu-信息&quot; class=&quot;headerlink&quot; title=&quot;cpu 信息&quot;&gt;&lt;/a&gt;cpu 信息&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;#查看物理 CPU 个数
+cat /proc/cpuinfo | grep
+        
+      
+    
+    </summary>
+    
+      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>大学</title>
     <link href="http://hxh.red/2099/12/31/classic-da-xue/"/>
     <id>http://hxh.red/2099/12/31/classic-da-xue/</id>
@@ -63,31 +88,6 @@
     
     
       <category term="classic" scheme="http://hxh.red/tags/classic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Linux command</title>
-    <link href="http://hxh.red/2099/12/31/linux-command/"/>
-    <id>http://hxh.red/2099/12/31/linux-command/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-29T04:18:19.357Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;cpu-信息&quot;&gt;&lt;a href=&quot;#cpu-信息&quot; class=&quot;headerlink&quot; title=&quot;cpu 信息&quot;&gt;&lt;/a&gt;cpu 信息&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;#查看物理 CPU 个数
-cat /proc/cpuinfo | grep
-        
-      
-    
-    </summary>
-    
-      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
-    
     
   </entry>
   
