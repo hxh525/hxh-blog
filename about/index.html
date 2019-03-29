@@ -221,7 +221,7 @@
 </div>
 <script>
 // 每天切换 banner 图.  Switch banner image every day.
-$('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay() + '.jpg)');
+$('.bg-cover').css('background-image', 'url("http://image.hxh.red/images/banner/' + new Date().getDay() + '.jpg")');
 </script>
     </div>
 </div>
@@ -235,21 +235,21 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                     <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
                         
 <div class="statis">
-    <span class="count"><a href="/" target="_blank">65</a></span>
+    <span class="count"><a href="/" target="_blank">72</a></span>
     <span class="name">Posts</span>
 </div>
 
 
 
 <div class="statis">
-    <span class="count"><a href="/categories" target="_blank">7</a></span>
+    <span class="count"><a href="/categories" target="_blank">12</a></span>
     <span class="name">Categories</span>
 </div>
 
 
 
 <div class="statis">
-    <span class="count"><a href="/tags" target="_blank">12</a></span>
+    <span class="count"><a href="/tags" target="_blank">20</a></span>
     <span class="name">Tags</span>
 </div>
 
@@ -263,21 +263,21 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                                 <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
                                     
 <div class="statis">
-    <span class="count"><a href="/" target="_blank">65</a></span>
+    <span class="count"><a href="/" target="_blank">72</a></span>
     <span class="name">Posts</span>
 </div>
 
 
 
 <div class="statis">
-    <span class="count"><a href="/categories" target="_blank">7</a></span>
+    <span class="count"><a href="/categories" target="_blank">12</a></span>
     <span class="name">Categories</span>
 </div>
 
 
 
 <div class="statis">
-    <span class="count"><a href="/tags" target="_blank">12</a></span>
+    <span class="count"><a href="/tags" target="_blank">20</a></span>
     <span class="name">Tags</span>
 </div>
 
@@ -394,7 +394,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 name: 'Number of posts',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [4,3,3,3,0,0,0,3,0,0,1,0,2],
+                data: [4,3,3,3,0,0,0,3,0,0,1,0,9],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -436,7 +436,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"computer","value":2},{"name":"classic","value":1},{"name":"coding","value":3},{"name":"essays","value":3},{"name":"Jimmy","value":7},{"name":"hexo","value":1},{"name":"diary","value":46}],
+                data: [{"name":"computer","value":2},{"name":"classic","value":1},{"name":"Jimmy","value":7},{"name":"coding","value":3},{"name":"essays","value":3},{"name":"linux","value":2},{"name":"english","value":1},{"name":"hexo","value":1},{"name":"js","value":1},{"name":"md","value":1},{"name":"gitlab","value":1},{"name":"diary","value":48}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -460,7 +460,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         xAxis: [
             {
                 type: 'category',
-                data: ["diary","Jimmy","essays","Java","面向对象编程","hexo","classic","整洁代码","重构","测试"]
+                data: ["diary","Jimmy","essays","shell","Java","mount","work","重构","测试","apt-get"]
             }
         ],
         yAxis: [
@@ -473,7 +473,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [46,7,3,2,1,1,1,1,1,1],
+                data: [48,7,3,2,2,1,1,1,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -519,33 +519,25 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             
                 
                 <span id="busuanzi_container_site_pv">
-                    <i class="fa fa-heart-o"></i>
                     PV: <span id="busuanzi_value_site_pv" class="white-color"></span>&nbsp;
                 </span>
                 
                 
                 <span id="busuanzi_container_site_uv">
-                    <i class="fa fa-users"></i>
                     CV: <span id="busuanzi_value_site_uv" class="white-color"></span>&nbsp;
                 </span>
                 
             
 
             
-                <i class="fa fa-area-chart"></i>
-                words: <span class="white-color">56.5k</span>&nbsp;
+                words: <span class="white-color">59.5k</span>&nbsp;
             
             
             <div>
-                <span itemprop="copyrightYear">© 2016-2019&nbsp;</span>
 
-                <span class="post-meta-divider">&nbsp;|&nbsp;</span>
-                <span class="with-love">
-                    <i class="fa fa-user"></i>
-                </span>
-                <span class="author" itemprop="copyrightHolder"></span>Jay&nbsp;
-                <span class="post-meta-divider">&nbsp;|&nbsp;</span>
-                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener">鄂ICP备18006161号-1</a>
+                Copyright©<span class="white-color">2016-2019</span>
+                <span class="white-color">&nbsp;Jay Yang</span>
+                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#FFF'">&nbsp;鄂ICP备18006161号-1</a>
             </div>
         </div>
         <div class="col s12 m4 l4 social-link">

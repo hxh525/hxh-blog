@@ -261,7 +261,7 @@
 </div>
 <script>
 // 每天切换 banner 图.  Switch banner image every day.
-$('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay() + '.jpg)');
+$('.bg-cover').css('background-image', 'url("http://image.hxh.red/images/banner/' + new Date().getDay() + '.jpg")');
 </script>
 
             <div class="cover-btns">
@@ -380,7 +380,7 @@ $(function () {
     new APlayer({
         container: document.getElementById('aplayer'),
         fixed: 'true' === 'true',
-        autoplay: 'true' === 'true',
+        autoplay: 'false' === 'true',
         theme: '#42b983',
         loop: 'none',
         order: 'list',
@@ -388,7 +388,7 @@ $(function () {
         volume: Number('0.7'),
         listFolded: 'false' === 'true',
         listMaxHeight: '',
-        audio: JSON.parse('[{"name":"海阔天空","artist":"Beyond","url":"http://music.163.com/song/media/outer/url?id=400162138.mp3","cover":"http://p1.music.126.net/a9oLdcFPhqQyuouJzG2mAQ==/3273246124149810.jpg"},{"name":"凡人歌","artist":"李宗盛","url":"http://music.163.com/song/media/outer/url?id=108697.mp3","cover":"http://p1.music.126.net/XXlcoIURJoLp3D5YcX1V9g==/109951163071279000.jpg"},{"name":"水手","artist":"郑智化","url":"http://music.163.com/song/media/outer/url?id=190381.mp3","cover":"http://p1.music.126.net/xv-3emr0E933jxuarRCSIg==/109951163449493273.jpg"}]')
+        audio: JSON.parse('[{"name":"光辉岁月","artist":"Beyond","url":"http://music.163.com/song/media/outer/url?id=346576.mp3","cover":"http://p2.music.126.net/JOJvZc_7SqQjKf8TktQ_bw==/29686813951246.jpg"},{"name":"凡人歌","artist":"李宗盛","url":"http://music.163.com/song/media/outer/url?id=108697.mp3","cover":"http://p1.music.126.net/XXlcoIURJoLp3D5YcX1V9g==/109951163071279000.jpg"},{"name":"海阔天空","artist":"Beyond","url":"http://music.163.com/song/media/outer/url?id=400162138.mp3","cover":"http://p1.music.126.net/a9oLdcFPhqQyuouJzG2mAQ==/3273246124149810.jpg"},{"name":"水手","artist":"郑智化","url":"http://music.163.com/song/media/outer/url?id=190381.mp3","cover":"http://p1.music.126.net/xv-3emr0E933jxuarRCSIg==/109951163449493273.jpg"},{"name":"月半小夜曲","artist":"李克勤","url":"http://music.163.com/song/media/outer/url?id=115162.mp3","cover":"http://p2.music.126.net/bYTctrjUegSyzDPteIeNOw==/74766790705099.jpg"}]')
     });
 });
 </script>
@@ -407,8 +407,8 @@ $(function () {
 
     
     
-    <div class="col s12">
-        <div class="post-card" style="background-image: url('/medias/featureimages/15.jpg')">
+    <div class="col s12 m6">
+        <div class="post-card" style="background-image: url('http://image.hxh.red/images/featureimages/15.jpg')">
             <div class="post-body">
                 <div class="post-categories">
                     
@@ -418,8 +418,36 @@ $(function () {
                 <a href="/2099/12/31/classic-da-xue/" target="_blank">
                     <h3 class="post-title">大学</h3>
                 </a>
-                <p class="post-description">大学（《礼记·大学》古本）大学之道 1，在明明德 2，在亲民 3，在止于至善 4。知止而后有定 5，定而后能静 6，静而后能安 7，安而后能虑 8，虑而后能得 9。物有本</p>
+                <p class="post-description">
+                    
+                        大学 (《礼记·大学》古本)大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，
+                    
+                </p>
                 <a href="/2099/12/31/classic-da-xue/" target="_blank" class="read-more btn waves-effect waves-light" style="background: linear-gradient(to right, #FF5E3A 0%, #FF2A68 100%)">
+                    <i class="icon fa fa-eye fa-fw"></i>Read more
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="col s12 m6">
+        <div class="post-card" style="background-image: url('http://image.hxh.red/images/featureimages/21.jpg')">
+            <div class="post-body">
+                <div class="post-categories">
+                    
+                    <a href="/categories/essays/" class="category" target="_blank">essays</a>
+                    
+                </div>
+                <a href="/2018/05/29/essays-i-think-about-the-world/" target="_blank">
+                    <h3 class="post-title">i think about the world</h3>
+                </a>
+                <p class="post-description">
+                    
+                        什么是大学生？大学生，一个再熟悉不过的陌生词，一个青春正旺的年纪，一个朝气蓬勃的学子，那是一段美好的时光，那是一个难忘的经历在人生的轨迹上，
+                    
+                </p>
+                <a href="/2018/05/29/essays-i-think-about-the-world/" target="_blank" class="read-more btn waves-effect waves-light" style="background: linear-gradient(to right, #EF4DB6 0%, #C643FC 100%)">
                     <i class="icon fa fa-eye fa-fw"></i>Read more
                 </a>
             </div>
@@ -445,21 +473,21 @@ $(function () {
             
             <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2099/12/31/linux-command/">
+                    <a href="/2099/12/31/mac-command/">
                         <div class="card-image">
                             
+                            <img src="http://image.hxh.red/images/banner/5.jpg" class="responsive-img" alt="Mac command">
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="Linux command">
-                            
-                            <span class="card-title">Linux command</span>
+                            <span class="card-title">Mac command</span>
                         </div>
                     </a>
 
                     <div class="card-content article-content">
                         <div class="summary">
                             
-                                查看物理 CPU 个数
-cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | 
+                                mac safeguard (外部源安装)sudo spctl --master-disabl
+
+Mac command line shor
                             
                         </div>
                         <div class="publish-info">
@@ -489,7 +517,7 @@ cat /proc/cpuinfo | grep &quot;physical id&quot; | sort |
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="大学">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="大学">
                             
                             <span class="card-title">大学</span>
                         </div>
@@ -498,7 +526,7 @@ cat /proc/cpuinfo | grep &quot;physical id&quot; | sort |
                     <div class="card-content article-content">
                         <div class="summary">
                             
-                                大学（《礼记·大学》古本）大学之道 1，在明明德 2，在亲民 3，在止于至善 4。知止而后有定 5，定而后能静 6，静而后能安 7，安而后能
+                                大学 (《礼记·大学》古本)大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，
                             
                         </div>
                         <div class="publish-info">
@@ -532,22 +560,21 @@ cat /proc/cpuinfo | grep &quot;physical id&quot; | sort |
             
             <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2099/12/31/mac-command/">
+                    <a href="/2099/12/31/linux-command/">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="Mac command">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="Linux command">
                             
-                            <span class="card-title">Mac command</span>
+                            <span class="card-title">Linux command</span>
                         </div>
                     </a>
 
                     <div class="card-content article-content">
                         <div class="summary">
                             
-                                mac safeguard
-sudo spctl --master-disabl
-
+                                cpu 信息#查看物理 CPU 个数
+cat /proc/cpuinfo | grep &quot;physical id&quot; | 
                             
                         </div>
                         <div class="publish-info">
@@ -573,11 +600,370 @@ sudo spctl --master-disabl
             
             <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
                 <div class="card">
+                    <a href="/2019/03/29/study-linux-mount/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/4.jpg" class="responsive-img" alt="mount command">
+                            
+                            <span class="card-title">mount command</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                mountsudo mkdir /bak
+sudo fdisk -l
+sudo mount /dev/xvdf1 /bak
+
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/linux/" class="post-category" target="_blank">
+                                    linux
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/shell/" target="_blank">
+                            <span class="chip bg-color">shell</span>
+                        </a>
+                        
+                        <a href="/tags/mount/" target="_blank">
+                            <span class="chip bg-color">mount</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/03/29/study-linux-apt-get/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/23.jpg" class="responsive-img" alt="apt-get command">
+                            
+                            <span class="card-title">apt-get command</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                apt-getapt-get [选项] 命令
+选项：-h 本帮助文件。
+-q 输出到日志 - 无进展指示
+-qq 不输出信息，错误除外
+-d
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/linux/" class="post-category" target="_blank">
+                                    linux
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/apt-get/" target="_blank">
+                            <span class="chip bg-color">apt-get</span>
+                        </a>
+                        
+                        <a href="/tags/shell/" target="_blank">
+                            <span class="chip bg-color">shell</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/03/29/study-gitlab-gitlab-command/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/2.jpg" class="responsive-img" alt="gitlab command">
+                            
+                            <span class="card-title">gitlab command</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                GitlabInstallhttps://about.gitlab.com/install/
+Gitlab 默认路径#配置路径
+/etc/g
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/gitlab/" class="post-category" target="_blank">
+                                    gitlab
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/gitlab/" target="_blank">
+                            <span class="chip bg-color">gitlab</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/03/29/study-english-time-date/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/21.jpg" class="responsive-img" alt="time & date">
+                            
+                            <span class="card-title">time & date</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                time &amp; datemonthJanuary
+February
+March
+April
+May
+June
+July
+August
+
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/english/" class="post-category" target="_blank">
+                                    english
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/english/" target="_blank">
+                            <span class="chip bg-color">english</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/03/29/study-vue-vscode-pei-zhi/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/11.jpg" class="responsive-img" alt="vscode配置">
+                            
+                            <span class="card-title">vscode配置</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                vscode config{
+  // vue eslint设置
+  "eslint.validate": [
+    "javascrip
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/js/" class="post-category" target="_blank">
+                                    js
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/vscode/" target="_blank">
+                            <span class="chip bg-color">vscode</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/03/29/daily-2019-03-29/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/8.jpg" class="responsive-img" alt="20190329">
+                            
+                            <span class="card-title">20190329</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                折腾了很久,终于把我的博客弄好了,还有七牛云的图床还在等待认证审核
+对于目前的工作,我感觉自己有点情绪,不太想接手任何事情,我知道这是不好的
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/diary/" class="post-category" target="_blank">
+                                    diary
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/diary/" target="_blank">
+                            <span class="chip bg-color">diary</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/03/29/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/8.jpg" class="responsive-img" alt="Md 文档支持的代码块引用语言高亮">
+                            
+                            <span class="card-title">Md 文档支持的代码块引用语言高亮</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                Md 文档支持的代码块引用语言高亮代码
+```css.bg-cover .description {&nbsp;&nbsp;font-wei
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/md/" class="post-category" target="_blank">
+                                    md
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/md/" target="_blank">
+                            <span class="chip bg-color">md</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
                     <a href="/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="hexo-theme-matery">
+                            <img src="http://image.hxh.red/images/featureimages/1.jpg" class="responsive-img" alt="hexo-theme-matery">
                             
                             <span class="card-title">hexo-theme-matery</span>
                         </div>
@@ -628,9 +1014,9 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/10.jpg" class="responsive-img" alt="20190327">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20190321">
                             
-                            <span class="card-title">20190327</span>
+                            <span class="card-title">20190321</span>
                         </div>
                     </a>
 
@@ -646,13 +1032,25 @@ sudo spctl --master-disabl
                             </span>
                             <span class="publish-author">
                                 
-                                <i class="fa fa-user fa-fw"></i>
-                                Jay Yang
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/diary/" class="post-category" target="_blank">
+                                    diary
+                                </a>
+                                
                                 
                             </span>
                         </div>
                     </div>
 
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/diary/" target="_blank">
+                            <span class="chip bg-color">diary</span>
+                        </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -663,7 +1061,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="new year">
+                            <img src="http://image.hxh.red/images/featureimages/21.jpg" class="responsive-img" alt="new year">
                             
                             <span class="card-title">new year</span>
                         </div>
@@ -710,7 +1108,8 @@ sudo spctl --master-disabl
                     <a href="/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/">
                         <div class="card-image">
                             
-                            <img src="http://static.blinkfox.com/20181021-oop.jpg" class="responsive-img" alt="面向对象编程的理解">
+                            
+                            <img src="http://image.hxh.red/images/featureimages/19.jpg" class="responsive-img" alt="面向对象编程的理解">
                             
                             <span class="card-title">面向对象编程的理解</span>
                         </div>
@@ -761,7 +1160,8 @@ sudo spctl --master-disabl
                     <a href="/2018/10/15/coding-dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/">
                         <div class="card-image">
                             
-                            <img src="http://static.blinkfox.com/20181015_code.jpg" class="responsive-img" alt="代码整洁之道内容概要">
+                            
+                            <img src="http://image.hxh.red/images/featureimages/6.jpg" class="responsive-img" alt="代码整洁之道内容概要">
                             
                             <span class="card-title">代码整洁之道内容概要</span>
                         </div>
@@ -816,7 +1216,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Google Java编程风格指南">
+                            <img src="http://image.hxh.red/images/featureimages/12.jpg" class="responsive-img" alt="Google Java编程风格指南">
                             
                             <span class="card-title">Google Java编程风格指南</span>
                         </div>
@@ -867,7 +1267,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="20180613">
+                            <img src="http://image.hxh.red/images/featureimages/19.jpg" class="responsive-img" alt="20180613">
                             
                             <span class="card-title">20180613</span>
                         </div>
@@ -914,7 +1314,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="20180620">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="20180620">
                             
                             <span class="card-title">20180620</span>
                         </div>
@@ -961,7 +1361,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="20180616">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20180616">
                             
                             <span class="card-title">20180616</span>
                         </div>
@@ -1008,7 +1408,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="i think about the world">
+                            <img src="http://image.hxh.red/images/featureimages/21.jpg" class="responsive-img" alt="i think about the world">
                             
                             <span class="card-title">i think about the world</span>
                         </div>
@@ -1055,7 +1455,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="To Jimmy 20180520">
+                            <img src="http://image.hxh.red/images/featureimages/5.jpg" class="responsive-img" alt="To Jimmy 20180520">
                             
                             <span class="card-title">To Jimmy 20180520</span>
                         </div>
@@ -1102,7 +1502,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/20.jpg" class="responsive-img" alt="20180513">
+                            <img src="http://image.hxh.red/images/featureimages/20.jpg" class="responsive-img" alt="20180513">
                             
                             <span class="card-title">20180513</span>
                         </div>
@@ -1149,7 +1549,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="20180421">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20180421">
                             
                             <span class="card-title">20180421</span>
                         </div>
@@ -1197,7 +1597,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="work difficult - grandinsight">
+                            <img src="http://image.hxh.red/images/featureimages/1.jpg" class="responsive-img" alt="work difficult - grandinsight">
                             
                             <span class="card-title">work difficult - grandinsight</span>
                         </div>
@@ -1206,8 +1606,7 @@ sudo spctl --master-disabl
                     <div class="card-content article-content">
                         <div class="summary">
                             
-                                To ceo:
-孙总，很冒昧给您发消息，其实我编辑了很多，最后我又删掉了很多，我其实就想表达两件事，一个是杨尚川给我说想回公司做 paas，
+                                To ceo:孙总，很冒昧给您发消息，其实我编辑了很多，最后我又删掉了很多，我其实就想表达两件事，一个是杨尚川给我说想回公司做 paas，当
                             
                         </div>
                         <div class="publish-info">
@@ -1234,6 +1633,10 @@ sudo spctl --master-disabl
                             <span class="chip bg-color">essays</span>
                         </a>
                         
+                        <a href="/tags/work/" target="_blank">
+                            <span class="chip bg-color">work</span>
+                        </a>
+                        
                     </div>
                     
                 </div>
@@ -1245,7 +1648,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="20160406">
+                            <img src="http://image.hxh.red/images/featureimages/3.jpg" class="responsive-img" alt="20160406">
                             
                             <span class="card-title">20160406</span>
                         </div>
@@ -1292,7 +1695,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/10.jpg" class="responsive-img" alt="20180331">
+                            <img src="http://image.hxh.red/images/featureimages/10.jpg" class="responsive-img" alt="20180331">
                             
                             <span class="card-title">20180331</span>
                         </div>
@@ -1339,7 +1742,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="20180325" ">
+                            <img src="http://image.hxh.red/images/featureimages/1.jpg" class="responsive-img" alt="20180325" ">
                             
                             <span class="card-title">20180325"</span>
                         </div>
@@ -1386,7 +1789,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="20180321" ">
+                            <img src="http://image.hxh.red/images/featureimages/5.jpg" class="responsive-img" alt="20180321" ">
                             
                             <span class="card-title">20180321"</span>
                         </div>
@@ -1433,7 +1836,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/23.jpg" class="responsive-img" alt="20180312" ">
+                            <img src="http://image.hxh.red/images/featureimages/23.jpg" class="responsive-img" alt="20180312" ">
                             
                             <span class="card-title">20180312"</span>
                         </div>
@@ -1480,7 +1883,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="20180130" ">
+                            <img src="http://image.hxh.red/images/featureimages/1.jpg" class="responsive-img" alt="20180130" ">
                             
                             <span class="card-title">20180130"</span>
                         </div>
@@ -1527,7 +1930,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="hello word">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="hello word">
                             
                             <span class="card-title">hello word</span>
                         </div>
@@ -1566,7 +1969,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="20170321">
+                            <img src="http://image.hxh.red/images/featureimages/18.jpg" class="responsive-img" alt="20170321">
                             
                             <span class="card-title">20170321</span>
                         </div>
@@ -1614,7 +2017,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="To Jimmy 20161109">
+                            <img src="http://image.hxh.red/images/featureimages/9.jpg" class="responsive-img" alt="To Jimmy 20161109">
                             
                             <span class="card-title">To Jimmy 20161109</span>
                         </div>
@@ -1661,7 +2064,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/11.jpg" class="responsive-img" alt="20160923">
+                            <img src="http://image.hxh.red/images/featureimages/11.jpg" class="responsive-img" alt="20160923">
                             
                             <span class="card-title">20160923</span>
                         </div>
@@ -1708,7 +2111,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="20160919">
+                            <img src="http://image.hxh.red/images/featureimages/12.jpg" class="responsive-img" alt="20160919">
                             
                             <span class="card-title">20160919</span>
                         </div>
@@ -1755,7 +2158,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/13.jpg" class="responsive-img" alt="20160918">
+                            <img src="http://image.hxh.red/images/featureimages/13.jpg" class="responsive-img" alt="20160918">
                             
                             <span class="card-title">20160918</span>
                         </div>
@@ -1802,7 +2205,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/14.jpg" class="responsive-img" alt="20160917">
+                            <img src="http://image.hxh.red/images/featureimages/14.jpg" class="responsive-img" alt="20160917">
                             
                             <span class="card-title">20160917</span>
                         </div>
@@ -1850,7 +2253,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="20160916">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="20160916">
                             
                             <span class="card-title">20160916</span>
                         </div>
@@ -1897,7 +2300,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="20160915">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20160915">
                             
                             <span class="card-title">20160915</span>
                         </div>
@@ -1944,7 +2347,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="20160913">
+                            <img src="http://image.hxh.red/images/featureimages/18.jpg" class="responsive-img" alt="20160913">
                             
                             <span class="card-title">20160913</span>
                         </div>
@@ -1992,7 +2395,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="20160912">
+                            <img src="http://image.hxh.red/images/featureimages/19.jpg" class="responsive-img" alt="20160912">
                             
                             <span class="card-title">20160912</span>
                         </div>
@@ -2040,7 +2443,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/20.jpg" class="responsive-img" alt="20160911">
+                            <img src="http://image.hxh.red/images/featureimages/20.jpg" class="responsive-img" alt="20160911">
                             
                             <span class="card-title">20160911</span>
                         </div>
@@ -2087,7 +2490,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="20160910">
+                            <img src="http://image.hxh.red/images/featureimages/21.jpg" class="responsive-img" alt="20160910">
                             
                             <span class="card-title">20160910</span>
                         </div>
@@ -2135,7 +2538,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="20160817">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="20160817">
                             
                             <span class="card-title">20160817</span>
                         </div>
@@ -2182,7 +2585,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="20160816">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20160816">
                             
                             <span class="card-title">20160816</span>
                         </div>
@@ -2229,7 +2632,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/17.jpg" class="responsive-img" alt="20160815">
+                            <img src="http://image.hxh.red/images/featureimages/17.jpg" class="responsive-img" alt="20160815">
                             
                             <span class="card-title">20160815</span>
                         </div>
@@ -2276,7 +2679,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="20160814">
+                            <img src="http://image.hxh.red/images/featureimages/18.jpg" class="responsive-img" alt="20160814">
                             
                             <span class="card-title">20160814</span>
                         </div>
@@ -2323,7 +2726,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="To Jimmy 20160809">
+                            <img src="http://image.hxh.red/images/featureimages/9.jpg" class="responsive-img" alt="To Jimmy 20160809">
                             
                             <span class="card-title">To Jimmy 20160809</span>
                         </div>
@@ -2370,7 +2773,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/4.jpg" class="responsive-img" alt="From Jimmy 20160720">
+                            <img src="http://image.hxh.red/images/featureimages/4.jpg" class="responsive-img" alt="From Jimmy 20160720">
                             
                             <span class="card-title">From Jimmy 20160720</span>
                         </div>
@@ -2417,7 +2820,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="20160720">
+                            <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20160720">
                             
                             <span class="card-title">20160720</span>
                         </div>
@@ -2464,7 +2867,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/13.jpg" class="responsive-img" alt="20180619">
+                            <img src="http://image.hxh.red/images/featureimages/13.jpg" class="responsive-img" alt="20180619">
                             
                             <span class="card-title">20180619</span>
                         </div>
@@ -2511,7 +2914,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="20160718">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="20160718">
                             
                             <span class="card-title">20160718</span>
                         </div>
@@ -2558,7 +2961,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="20160715">
+                            <img src="http://image.hxh.red/images/featureimages/18.jpg" class="responsive-img" alt="20160715">
                             
                             <span class="card-title">20160715</span>
                         </div>
@@ -2606,7 +3009,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="To Jimmy 20160710">
+                            <img src="http://image.hxh.red/images/featureimages/12.jpg" class="responsive-img" alt="To Jimmy 20160710">
                             
                             <span class="card-title">To Jimmy 20160710</span>
                         </div>
@@ -2653,7 +3056,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="20160704">
+                            <img src="http://image.hxh.red/images/featureimages/2.jpg" class="responsive-img" alt="20160704">
                             
                             <span class="card-title">20160704</span>
                         </div>
@@ -2697,11 +3100,58 @@ sudo spctl --master-disabl
             
             <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
                 <div class="card">
+                    <a href="/2016/07/01/jimmy-to-20160701/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="http://image.hxh.red/images/featureimages/18.jpg" class="responsive-img" alt="To Jimmy 20160701">
+                            
+                            <span class="card-title">To Jimmy 20160701</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary">
+                            
+                                jimmy：哈哈哈哈哈这是第二次了，感觉挺美妙，上次写信是 520，一时肚子没货了，都不知道写啥了小小的我，不能理解很多东西，就是一小孩，说
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2016-07-01
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/jimmy/" class="post-category" target="_blank">
+                                    Jimmy
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/jimmy/" target="_blank">
+                            <span class="chip bg-color">Jimmy</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
+                <div class="card">
                     <a href="/2016/07/01/daily-2016-07-10/">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="20160701">
+                            <img src="http://image.hxh.red/images/featureimages/5.jpg" class="responsive-img" alt="20160701">
                             
                             <span class="card-title">20160701</span>
                         </div>
@@ -2745,58 +3195,11 @@ sudo spctl --master-disabl
             
             <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2016/07/01/jimmy-to-20160701/">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="To Jimmy 20160701">
-                            
-                            <span class="card-title">To Jimmy 20160701</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary">
-                            
-                                jimmy：哈哈哈哈哈这是第二次了，感觉挺美妙，上次写信是 520，一时肚子没货了，都不知道写啥了小小的我，不能理解很多东西，就是一小孩，说
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2016-07-01
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fa fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/jimmy/" class="post-category" target="_blank">
-                                    Jimmy
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/jimmy/" target="_blank">
-                            <span class="chip bg-color">Jimmy</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="article col s12 m6 l4 overflow-policy" data-aos="zoom-in">
-                <div class="card">
                     <a href="/2016/06/10/daily-2016-06-10/">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="20160610">
+                            <img src="http://image.hxh.red/images/featureimages/1.jpg" class="responsive-img" alt="20160610">
                             
                             <span class="card-title">20160610</span>
                         </div>
@@ -2844,7 +3247,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="20160606">
+                            <img src="http://image.hxh.red/images/featureimages/1.jpg" class="responsive-img" alt="20160606">
                             
                             <span class="card-title">20160606</span>
                         </div>
@@ -2892,7 +3295,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="20160604">
+                            <img src="http://image.hxh.red/images/featureimages/3.jpg" class="responsive-img" alt="20160604">
                             
                             <span class="card-title">20160604</span>
                         </div>
@@ -2940,7 +3343,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/7.jpg" class="responsive-img" alt="To Jimmy 20160520">
+                            <img src="http://image.hxh.red/images/featureimages/7.jpg" class="responsive-img" alt="To Jimmy 20160520">
                             
                             <span class="card-title">To Jimmy 20160520</span>
                         </div>
@@ -2987,7 +3390,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/20.jpg" class="responsive-img" alt="20160515">
+                            <img src="http://image.hxh.red/images/featureimages/20.jpg" class="responsive-img" alt="20160515">
                             
                             <span class="card-title">20160515</span>
                         </div>
@@ -3034,7 +3437,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/22.jpg" class="responsive-img" alt="20160513">
+                            <img src="http://image.hxh.red/images/featureimages/22.jpg" class="responsive-img" alt="20160513">
                             
                             <span class="card-title">20160513</span>
                         </div>
@@ -3081,7 +3484,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="20160502">
+                            <img src="http://image.hxh.red/images/featureimages/6.jpg" class="responsive-img" alt="20160502">
                             
                             <span class="card-title">20160502</span>
                         </div>
@@ -3129,7 +3532,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="20160420">
+                            <img src="http://image.hxh.red/images/featureimages/19.jpg" class="responsive-img" alt="20160420">
                             
                             <span class="card-title">20160420</span>
                         </div>
@@ -3177,7 +3580,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/14.jpg" class="responsive-img" alt="20160326">
+                            <img src="http://image.hxh.red/images/featureimages/14.jpg" class="responsive-img" alt="20160326">
                             
                             <span class="card-title">20160326</span>
                         </div>
@@ -3225,7 +3628,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="20160325">
+                            <img src="http://image.hxh.red/images/featureimages/15.jpg" class="responsive-img" alt="20160325">
                             
                             <span class="card-title">20160325</span>
                         </div>
@@ -3273,7 +3676,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="20160321">
+                            <img src="http://image.hxh.red/images/featureimages/19.jpg" class="responsive-img" alt="20160321">
                             
                             <span class="card-title">20160321</span>
                         </div>
@@ -3321,7 +3724,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="20160319">
+                            <img src="http://image.hxh.red/images/featureimages/18.jpg" class="responsive-img" alt="20160319">
                             
                             <span class="card-title">20160319</span>
                         </div>
@@ -3369,7 +3772,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/20.jpg" class="responsive-img" alt="20160317">
+                            <img src="http://image.hxh.red/images/featureimages/20.jpg" class="responsive-img" alt="20160317">
                             
                             <span class="card-title">20160317</span>
                         </div>
@@ -3416,7 +3819,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/23.jpg" class="responsive-img" alt="20160314">
+                            <img src="http://image.hxh.red/images/featureimages/23.jpg" class="responsive-img" alt="20160314">
                             
                             <span class="card-title">20160314</span>
                         </div>
@@ -3464,7 +3867,7 @@ sudo spctl --master-disabl
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="20160301">
+                            <img src="http://image.hxh.red/images/featureimages/9.jpg" class="responsive-img" alt="20160301">
                             
                             <span class="card-title">20160301</span>
                         </div>
@@ -3522,33 +3925,25 @@ sudo spctl --master-disabl
             
                 
                 <span id="busuanzi_container_site_pv">
-                    <i class="fa fa-heart-o"></i>
                     PV: <span id="busuanzi_value_site_pv" class="white-color"></span>&nbsp;
                 </span>
                 
                 
                 <span id="busuanzi_container_site_uv">
-                    <i class="fa fa-users"></i>
                     CV: <span id="busuanzi_value_site_uv" class="white-color"></span>&nbsp;
                 </span>
                 
             
 
             
-                <i class="fa fa-area-chart"></i>
-                words: <span class="white-color">56.5k</span>&nbsp;
+                words: <span class="white-color">59.5k</span>&nbsp;
             
             
             <div>
-                <span itemprop="copyrightYear">© 2016-2019&nbsp;</span>
 
-                <span class="post-meta-divider">&nbsp;|&nbsp;</span>
-                <span class="with-love">
-                    <i class="fa fa-user"></i>
-                </span>
-                <span class="author" itemprop="copyrightHolder"></span>Jay&nbsp;
-                <span class="post-meta-divider">&nbsp;|&nbsp;</span>
-                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener">鄂ICP备18006161号-1</a>
+                Copyright©<span class="white-color">2016-2019</span>
+                <span class="white-color">&nbsp;Jay Yang</span>
+                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#FFF'">&nbsp;鄂ICP备18006161号-1</a>
             </div>
         </div>
         <div class="col s12 m4 l4 social-link">

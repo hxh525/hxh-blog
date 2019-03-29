@@ -209,7 +209,7 @@ Markd">
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/1.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/1.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
@@ -384,7 +384,7 @@ Markd">
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h3 id="hexo-theme-matery"><a href="#hexo-theme-matery" class="headerlink" title="hexo-theme-matery"></a><a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a></h3><h3 id="Front-matter-选项详解"><a href="#Front-matter-选项详解" class="headerlink" title="Front-matter 选项详解"></a>Front-matter 选项详解</h3><p><code>Front-matter</code> 选项中的所有内容均为<strong>非必填</strong>的。但我仍然建议至少填写 <code>title</code> 和 <code>date</code> 的值。</p>
+                <h4 id="hexo-theme-matery"><a href="#hexo-theme-matery" class="headerlink" title="hexo-theme-matery"></a><a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a></h4><h4 id="Front-matter-选项详解"><a href="#Front-matter-选项详解" class="headerlink" title="Front-matter 选项详解"></a>Front-matter 选项详解</h4><p><code>Front-matter</code> 选项中的所有内容均为<strong>非必填</strong>的。但我仍然建议至少填写 <code>title</code> 和 <code>date</code> 的值。</p>
 <table>
 <thead>
 <tr>
@@ -497,34 +497,41 @@ Markd">
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;Previous</div>
             <div class="card">
-                <a href="/2099/12/31/mac-command/">
+                <a href="/2019/03/29/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="Mac command">
+                        <img src="http://image.hxh.red/images/featureimages/8.jpg" class="responsive-img" alt="Md 文档支持的代码块引用语言高亮">
                         
-                        <span class="card-title">Mac command</span>
+                        <span class="card-title">Md 文档支持的代码块引用语言高亮</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary">mac safeguard
-sudo spctl --master-disabl
-</div>
+                    <div class="summary">Md 文档支持的代码块引用语言高亮代码
+```css.bg-cover .description {&nbsp;&nbsp;font-weight: 300;&nbsp;&nbsp;line-height: 1.4em;&nbsp;&nbs</div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="fa fa-clock-o fa-fw icon-date"></i>2099-12-31
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-29
                         </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/computer/" class="post-category" target="_blank">
-                                    computer
+                            <a href="/categories/md/" class="post-category" target="_blank">
+                                    md
                                 </a>
                             
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/md/" target="_blank">
+                        <span class="chip bg-color">md</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -540,9 +547,9 @@ sudo spctl --master-disabl
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/10.jpg" class="responsive-img" alt="20190327">
+                        <img src="http://image.hxh.red/images/featureimages/16.jpg" class="responsive-img" alt="20190321">
                         
-                        <span class="card-title">20190327</span>
+                        <span class="card-title">20190321</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -553,11 +560,23 @@ sudo spctl --master-disabl
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fa fa-user fa-fw"></i>
-                            Jay Yang
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/diary/" class="post-category" target="_blank">
+                                    diary
+                                </a>
+                            
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/diary/" target="_blank">
+                        <span class="chip bg-color">diary</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -594,7 +613,7 @@ sudo spctl --master-disabl
             contentSelector: '#articleContent',
             headingsOffset: -($(window).height() * 0.4 - 45),
             // headingsOffset: -205,
-            headingSelector: 'h3, h4, h5'
+            headingSelector: 'h3, h4, h5, h6'
         });
 
         // modify the toc link href to support Chinese.
@@ -606,7 +625,7 @@ sudo spctl --master-disabl
 
         // modify the heading title id to support Chinese.
         i = 0;
-        $('#articleContent').children('h3, h4, h5').each(function () {
+        $('#articleContent').children('h3, h4, h5, h6').each(function () {
             $(this).attr('id', tocHeading + (++i));
         });
 
@@ -673,33 +692,25 @@ sudo spctl --master-disabl
             
                 
                 <span id="busuanzi_container_site_pv">
-                    <i class="fa fa-heart-o"></i>
                     PV: <span id="busuanzi_value_site_pv" class="white-color"></span>&nbsp;
                 </span>
                 
                 
                 <span id="busuanzi_container_site_uv">
-                    <i class="fa fa-users"></i>
                     CV: <span id="busuanzi_value_site_uv" class="white-color"></span>&nbsp;
                 </span>
                 
             
 
             
-                <i class="fa fa-area-chart"></i>
-                words: <span class="white-color">56.5k</span>&nbsp;
+                words: <span class="white-color">59.5k</span>&nbsp;
             
             
             <div>
-                <span itemprop="copyrightYear">© 2016-2019&nbsp;</span>
 
-                <span class="post-meta-divider">&nbsp;|&nbsp;</span>
-                <span class="with-love">
-                    <i class="fa fa-user"></i>
-                </span>
-                <span class="author" itemprop="copyrightHolder"></span>Jay&nbsp;
-                <span class="post-meta-divider">&nbsp;|&nbsp;</span>
-                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener">鄂ICP备18006161号-1</a>
+                Copyright©<span class="white-color">2016-2019</span>
+                <span class="white-color">&nbsp;Jay Yang</span>
+                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#FFF'">&nbsp;鄂ICP备18006161号-1</a>
             </div>
         </div>
         <div class="col s12 m4 l4 social-link">

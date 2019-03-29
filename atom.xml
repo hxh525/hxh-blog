@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hxh.red/"/>
-  <updated>2019-03-28T13:48:36.126Z</updated>
+  <updated>2019-03-29T13:18:15.448Z</updated>
   <id>http://hxh.red/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux command</title>
-    <link href="http://hxh.red/2099/12/31/linux-command/"/>
-    <id>http://hxh.red/2099/12/31/linux-command/</id>
+    <title>Mac command</title>
+    <link href="http://hxh.red/2099/12/31/mac-command/"/>
+    <id>http://hxh.red/2099/12/31/mac-command/</id>
     <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-28T13:48:36.126Z</updated>
+    <updated>2019-03-29T13:18:15.448Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;p&gt;&lt;code&gt;查看物理 CPU 个数&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat /proc/cpuinfo | grep &amp;quot;physical id&amp;quot; | sort | uniq | wc
+          &lt;h4 id=&quot;mac-safeguard-外部源安装&quot;&gt;&lt;a href=&quot;#mac-safeguard-外部源安装&quot; class=&quot;headerlink&quot; title=&quot;mac safeguard (外部源安装)&quot;&gt;&lt;/a&gt;mac safeguard
         
       
     
@@ -46,7 +45,7 @@
     <link href="http://hxh.red/2099/12/31/classic-da-xue/"/>
     <id>http://hxh.red/2099/12/31/classic-da-xue/</id>
     <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-28T13:48:26.924Z</updated>
+    <updated>2019-03-29T04:54:24.718Z</updated>
     
     <summary type="html">
     
@@ -54,7 +53,7 @@
       
         
         
-          &lt;p&gt;大学&lt;br&gt;（《礼记·大学》古本）&lt;br&gt;大学之道 1，在明明德 2，在亲民 3，在止于至善 4。知止而后有定 5，定而后能静 6，静而后能安 7，安而后能虑 8，虑而后能得
+          &lt;h5 id=&quot;大学-《礼记·大学》古本&quot;&gt;&lt;a href=&quot;#大学-《礼记·大学》古本&quot; class=&quot;headerlink&quot; title=&quot;大学 (《礼记·大学》古本)&quot;&gt;&lt;/a&gt;大学
         
       
     
@@ -68,11 +67,11 @@
   </entry>
   
   <entry>
-    <title>Mac command</title>
-    <link href="http://hxh.red/2099/12/31/mac-command/"/>
-    <id>http://hxh.red/2099/12/31/mac-command/</id>
+    <title>Linux command</title>
+    <link href="http://hxh.red/2099/12/31/linux-command/"/>
+    <id>http://hxh.red/2099/12/31/linux-command/</id>
     <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-28T13:48:33.755Z</updated>
+    <updated>2019-03-29T04:18:19.357Z</updated>
     
     <summary type="html">
     
@@ -80,8 +79,8 @@
       
         
         
-          &lt;p&gt;&lt;code&gt;mac safeguard&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;sudo spctl
+          &lt;h4 id=&quot;cpu-信息&quot;&gt;&lt;a href=&quot;#cpu-信息&quot; class=&quot;headerlink&quot; title=&quot;cpu 信息&quot;&gt;&lt;/a&gt;cpu 信息&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;#查看物理 CPU 个数
+cat /proc/cpuinfo | grep
         
       
     
@@ -93,11 +92,11 @@
   </entry>
   
   <entry>
-    <title>hexo-theme-matery</title>
-    <link href="http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/"/>
-    <id>http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/</id>
-    <published>2019-03-28T09:48:03.000Z</published>
-    <updated>2019-03-28T13:32:00.734Z</updated>
+    <title>mount command</title>
+    <link href="http://hxh.red/2019/03/29/study-linux-mount/"/>
+    <id>http://hxh.red/2019/03/29/study-linux-mount/</id>
+    <published>2019-03-29T06:28:23.000Z</published>
+    <updated>2019-03-29T06:30:54.140Z</updated>
     
     <summary type="html">
     
@@ -105,7 +104,198 @@
       
         
         
-          &lt;h3 id=&quot;hexo-theme-matery&quot;&gt;&lt;a href=&quot;#hexo-theme-matery&quot; class=&quot;headerlink&quot; title=&quot;hexo-theme-matery&quot;&gt;&lt;/a&gt;&lt;a
+          &lt;h4 id=&quot;mount&quot;&gt;&lt;a href=&quot;#mount&quot; class=&quot;headerlink&quot; title=&quot;mount&quot;&gt;&lt;/a&gt;mount&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;sudo mkdir /bak
+sudo fdisk -l
+sudo mount
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="http://hxh.red/categories/linux/"/>
+    
+    
+      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
+    
+      <category term="mount" scheme="http://hxh.red/tags/mount/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>apt-get command</title>
+    <link href="http://hxh.red/2019/03/29/study-linux-apt-get/"/>
+    <id>http://hxh.red/2019/03/29/study-linux-apt-get/</id>
+    <published>2019-03-29T06:24:33.000Z</published>
+    <updated>2019-03-29T06:45:07.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;apt-get&quot;&gt;&lt;a href=&quot;#apt-get&quot; class=&quot;headerlink&quot; title=&quot;apt-get&quot;&gt;&lt;/a&gt;apt-get&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;apt-get [选项] 命令
+&lt;/code&gt;&lt;/pre&gt;&lt;h5
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="http://hxh.red/categories/linux/"/>
+    
+    
+      <category term="apt-get" scheme="http://hxh.red/tags/apt-get/"/>
+    
+      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gitlab command</title>
+    <link href="http://hxh.red/2019/03/29/study-gitlab-gitlab-command/"/>
+    <id>http://hxh.red/2019/03/29/study-gitlab-gitlab-command/</id>
+    <published>2019-03-29T06:12:19.000Z</published>
+    <updated>2019-03-29T06:22:01.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;Gitlab&quot;&gt;&lt;a href=&quot;#Gitlab&quot; class=&quot;headerlink&quot; title=&quot;Gitlab&quot;&gt;&lt;/a&gt;Gitlab&lt;/h4&gt;&lt;h5 id=&quot;Install&quot;&gt;&lt;a href=&quot;#Install&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="gitlab" scheme="http://hxh.red/categories/gitlab/"/>
+    
+    
+      <category term="gitlab" scheme="http://hxh.red/tags/gitlab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>time &amp; date</title>
+    <link href="http://hxh.red/2019/03/29/study-english-time-date/"/>
+    <id>http://hxh.red/2019/03/29/study-english-time-date/</id>
+    <published>2019-03-29T06:07:14.000Z</published>
+    <updated>2019-03-29T06:09:12.385Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;time-amp-date&quot;&gt;&lt;a href=&quot;#time-amp-date&quot; class=&quot;headerlink&quot; title=&quot;time &amp;amp; date&quot;&gt;&lt;/a&gt;time &amp;amp; date&lt;/h4&gt;&lt;h5 id=&quot;month&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="english" scheme="http://hxh.red/categories/english/"/>
+    
+    
+      <category term="english" scheme="http://hxh.red/tags/english/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vscode配置</title>
+    <link href="http://hxh.red/2019/03/29/study-vue-vscode-pei-zhi/"/>
+    <id>http://hxh.red/2019/03/29/study-vue-vscode-pei-zhi/</id>
+    <published>2019-03-29T05:57:58.000Z</published>
+    <updated>2019-03-29T06:02:48.753Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;vscode-config&quot;&gt;&lt;a href=&quot;#vscode-config&quot; class=&quot;headerlink&quot; title=&quot;vscode config&quot;&gt;&lt;/a&gt;vscode config&lt;/h4&gt;&lt;pre class=&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="js" scheme="http://hxh.red/categories/js/"/>
+    
+    
+      <category term="vscode" scheme="http://hxh.red/tags/vscode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20190329</title>
+    <link href="http://hxh.red/2019/03/29/daily-2019-03-29/"/>
+    <id>http://hxh.red/2019/03/29/daily-2019-03-29/</id>
+    <published>2019-03-29T04:56:49.000Z</published>
+    <updated>2019-03-29T13:25:20.566Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;折腾了很久,终于把我的博客弄好了,还有七牛云的图床还在等待认证审核&lt;/p&gt;
+&lt;p&gt;对于目前的工作,我感觉自己有点情绪,不太想接手任何事情,我知道这是不好的,希望自己能尽快调整好工作状态&lt;/p&gt;
+&lt;p&gt;能有个地方记录自己的成长,记录人生的点点滴滴,从我认识这个世界的 25
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Md 文档支持的代码块引用语言高亮</title>
+    <link href="http://hxh.red/2019/03/29/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
+    <id>http://hxh.red/2019/03/29/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/</id>
+    <published>2019-03-29T03:13:56.000Z</published>
+    <updated>2019-03-29T04:02:19.952Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;Md-文档支持的代码块引用语言高亮&quot;&gt;&lt;a href=&quot;#Md-文档支持的代码块引用语言高亮&quot; class=&quot;headerlink&quot; title=&quot;Md 文档支持的代码块引用语言高亮&quot;&gt;&lt;/a&gt;Md 文档支持的代码块引用语言高亮&lt;/h4&gt;&lt;h5
+        
+      
+    
+    </summary>
+    
+      <category term="md" scheme="http://hxh.red/categories/md/"/>
+    
+    
+      <category term="md" scheme="http://hxh.red/tags/md/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-theme-matery</title>
+    <link href="http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/"/>
+    <id>http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/</id>
+    <published>2019-03-28T09:48:03.000Z</published>
+    <updated>2019-03-29T04:01:07.533Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;hexo-theme-matery&quot;&gt;&lt;a href=&quot;#hexo-theme-matery&quot; class=&quot;headerlink&quot; title=&quot;hexo-theme-matery&quot;&gt;&lt;/a&gt;&lt;a
         
       
     
@@ -121,11 +311,11 @@
   </entry>
   
   <entry>
-    <title>20190327</title>
+    <title>20190321</title>
     <link href="http://hxh.red/2019/03/21/daily-2019-03-21/"/>
     <id>http://hxh.red/2019/03/21/daily-2019-03-21/</id>
     <published>2019-03-20T16:00:00.000Z</published>
-    <updated>2019-03-28T11:40:27.370Z</updated>
+    <updated>2019-03-29T04:55:06.257Z</updated>
     
     <summary type="html">
     
@@ -139,6 +329,10 @@
     
     </summary>
     
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   
@@ -173,7 +367,7 @@
     <link href="http://hxh.red/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/"/>
     <id>http://hxh.red/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/</id>
     <published>2018-10-20T16:30:00.000Z</published>
-    <updated>2019-03-28T13:39:35.502Z</updated>
+    <updated>2019-03-29T04:46:32.698Z</updated>
     
     <summary type="html">
     
@@ -201,7 +395,7 @@
     <link href="http://hxh.red/2018/10/15/coding-dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/"/>
     <id>http://hxh.red/2018/10/15/coding-dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/</id>
     <published>2018-10-15T14:48:00.000Z</published>
-    <updated>2019-03-28T13:39:32.579Z</updated>
+    <updated>2019-03-29T04:46:34.677Z</updated>
     
     <summary type="html">
     
@@ -232,7 +426,7 @@
     <link href="http://hxh.red/2018/10/05/coding-google-java-bian-cheng-feng-ge-zhi-nan/"/>
     <id>http://hxh.red/2018/10/05/coding-google-java-bian-cheng-feng-ge-zhi-nan/</id>
     <published>2018-10-05T08:38:00.000Z</published>
-    <updated>2019-03-28T13:39:24.890Z</updated>
+    <updated>2019-03-29T04:53:57.785Z</updated>
     
     <summary type="html">
     
@@ -338,7 +532,7 @@
     <link href="http://hxh.red/2018/05/29/essays-i-think-about-the-world/"/>
     <id>http://hxh.red/2018/05/29/essays-i-think-about-the-world/</id>
     <published>2018-05-29T01:15:14.000Z</published>
-    <updated>2019-03-28T13:07:28.730Z</updated>
+    <updated>2019-03-29T04:50:56.419Z</updated>
     
     <summary type="html">
     
@@ -346,7 +540,7 @@
       
         
         
-          &lt;p&gt;什么是大学生？&lt;br&gt;大学生，一个再熟悉不过的陌生词，一个青春正旺的年纪，一个朝气蓬勃的学子，那是一段美好的时光，那是一个难忘的经历&lt;br&gt;在人生的轨迹上，大学生充当的是一个点，这个点连接着社会的两头，这个点连接着责任的两头，这个点连接着成长的两头，这个点连接的太多太多，步
+          &lt;h5 id=&quot;什么是大学生？&quot;&gt;&lt;a href=&quot;#什么是大学生？&quot; class=&quot;headerlink&quot;
         
       
     
@@ -356,191 +550,6 @@
     
     
       <category term="essays" scheme="http://hxh.red/tags/essays/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>To Jimmy 20180520</title>
-    <link href="http://hxh.red/2018/05/20/jimmy-to-20180520/"/>
-    <id>http://hxh.red/2018/05/20/jimmy-to-20180520/</id>
-    <published>2018-05-19T16:00:00.000Z</published>
-    <updated>2019-03-28T13:44:05.283Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;jimmy&lt;br&gt;嘿，我是黄小黄，我找到我家吉祥了，谢谢你&lt;br&gt;大千世界，坚定的守着这份爱，始终如一，爱你，宝贝&lt;br&gt;记得两年前第一次给你写信时候的激动，很久没有给你以这种方式传达我的情感了，回首看着以往的书信，青涩的没有头脑的文字，花了很大力气，其实就是为了告诉你，我
-        
-      
-    
-    </summary>
-    
-      <category term="Jimmy" scheme="http://hxh.red/categories/jimmy/"/>
-    
-    
-      <category term="Jimmy" scheme="http://hxh.red/tags/jimmy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180513</title>
-    <link href="http://hxh.red/2018/05/13/daily-2018-05-13/"/>
-    <id>http://hxh.red/2018/05/13/daily-2018-05-13/</id>
-    <published>2018-05-12T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:56.948Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;快一年了，2017.7.13&lt;br&gt;每个周末都会患得患失，已经成了习惯，譬如现在这个时间点，面对生活的压力，我不知道这是不是压力，已经快喘不过气了，但还是得努力得活着&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180421</title>
-    <link href="http://hxh.red/2018/04/21/daily-2018-04-21/"/>
-    <id>http://hxh.red/2018/04/21/daily-2018-04-21/</id>
-    <published>2018-04-20T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:56.931Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;很多时候都有睡不着的时候，但是很少有这种看着时间一点点过去&lt;/p&gt;
-&lt;p&gt;那是我很小的时候，妈妈去上下午班，晚上 12
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>work difficult - grandinsight</title>
-    <link href="http://hxh.red/2018/04/12/essays-work-difficult-grandinsight/"/>
-    <id>http://hxh.red/2018/04/12/essays-work-difficult-grandinsight/</id>
-    <published>2018-04-12T07:06:00.000Z</published>
-    <updated>2019-03-28T13:07:14.855Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;To ceo:&lt;/p&gt;
-&lt;p&gt;孙总，很冒昧给您发消息，其实我编辑了很多，最后我又删掉了很多，我其实就想表达两件事，一个是杨尚川给我说想回公司做
-        
-      
-    
-    </summary>
-    
-      <category term="essays" scheme="http://hxh.red/categories/essays/"/>
-    
-    
-      <category term="essays" scheme="http://hxh.red/tags/essays/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20160406</title>
-    <link href="http://hxh.red/2018/04/06/daily-2016-04-06/"/>
-    <id>http://hxh.red/2018/04/06/daily-2016-04-06/</id>
-    <published>2018-04-05T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:57.004Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;我能行&lt;br&gt;你始终要告诉自己，这个美好的世界，你要过好每一天&lt;br&gt;I said that I would learn English everyday, but I was lazy so I didn’t study English every
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180331</title>
-    <link href="http://hxh.red/2018/03/31/daily-2018-03-31/"/>
-    <id>http://hxh.red/2018/03/31/daily-2018-03-31/</id>
-    <published>2018-03-30T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:57.004Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;当我十分惦记她的时候，心里不会有任何事情，所有东西都会变得不重要，在久久得不到回复，另一个恶魔般的黄小黄就会出来惹事，变得不可理喻&lt;br&gt;从开始喜欢上她就是这幅模样，情绪会不受控制，我也顺着情绪发展，一下心情就低落到冰点，这时就会出现两个我，他们在打仗，不是每次都是理性的我
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180325&quot;</title>
-    <link href="http://hxh.red/2018/03/25/daily-2018-03-25/"/>
-    <id>http://hxh.red/2018/03/25/daily-2018-03-25/</id>
-    <published>2018-03-24T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:56.931Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;距离我看到这无数个未接电话已经过去 7
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   
