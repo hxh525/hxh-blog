@@ -11,3 +11,7 @@ hexo clean && hexo d && git commit -a -m 'update diary' && git push
 ## 生成日记
 
 hexo new 'x' -p daily/2019/
+
+## 同步图片至 7 牛云
+
+hexo qiniu sync

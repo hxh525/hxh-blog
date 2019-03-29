@@ -8,9 +8,9 @@ tags:
   - hexo-theme-matery
 ---
 
-### [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
+#### [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
 
-### Front-matter 选项详解
+#### Front-matter 选项详解
 
 `Front-matter` 选项中的所有内容均为**非必填**的。但我仍然建议至少填写 `title` 和 `date` 的值。
 
