@@ -250,19 +250,19 @@ googleAnalytics:
 libs:
   css:
     fontAwesome: https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css # V4.7.0
-    materialize: https://cdn.staticfile.org/materialize/1.0.0-rc.2/css/materialize.min.css # 1.0.0
-    aos: https://cdn.staticfile.org/aos/3.0.0-beta.6/aos.css
-    animate: https://cdn.staticfile.org/animate.css/3.7.0/animate.min.css # V3.5.1
+    materialize: https://cdn.staticfile.org/materialize/1.0.0/css/materialize.min.css # 1.0.0
+    aos: https://cdn.staticfile.org/aos/2.3.4/aos.css #2.3.4
+    animate: https://cdn.staticfile.org/animate.css/3.5.1/animate.min.css # V3.5.1
     lightgallery: https://cdn.staticfile.org/lightgallery/1.6.12/css/lightgallery.min.css # V1.6.12
     aplayer: https://cdn.staticfile.org/aplayer/1.10.1/APlayer.min.css
     dplayer: https://cdn.staticfile.org/dplayer/1.25.0/DPlayer.min.css
     jqcloud: https://cdn.staticfile.org/jqcloud/1.0.4/jqcloud.css
     tocbot: https://cdn.staticfile.org/tocbot/4.5.1/tocbot.css
   js:
-    jquery: https://cdn.staticfile.org/jquery/2.0.0/jquery.min.js
-    materialize: https://cdn.staticfile.org/materialize/1.0.0-rc.2/js/materialize.min.js # 1.0.0
+    jquery: https://cdn.staticfile.org/jquery/2.0.0/jquery.min.js #2.0.0
+    materialize: https://cdn.staticfile.org/materialize/1.0.0/js/materialize.min.js # 1.0.0
     masonry: https://cdn.staticfile.org/masonry/4.2.2/masonry.pkgd.min.js # v4.0.0
-    aos: https://cdn.staticfile.org/aos/3.0.0-beta.6/aos.js
+    aos: https://cdn.staticfile.org/aos/2.3.4/aos.js
     scrollProgress: https://cdn.staticfile.org/scrollprogress/3.0.2/scrollProgress.min.js
     lightgallery: https://cdn.staticfile.org/lightgallery/1.6.12/js/lightgallery-all.min.js # V1.6.12
     clicklove: /js/clicklove.js
