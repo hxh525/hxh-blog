@@ -1,33 +1,25 @@
-
-<footer class="page-footer bg-color">
-    <div class="container row center-align">
-        <div class="col s12 m8 l8 copy-right">
-            <% if (theme.busuanziStatistics && theme.busuanziStatistics.enable) { %>
-                <% if (theme.busuanziStatistics && theme.busuanziStatistics.totalTraffic) { %>
-                <span id="busuanzi_container_site_pv">
-                    PV: <span id="busuanzi_value_site_pv" class="white-color"></span>&nbsp;
-                </span>
-                <% } %>
-                <% if (theme.busuanziStatistics && theme.busuanziStatistics.totalNumberOfvisitors) { %>
-                <span id="busuanzi_container_site_uv">
-                    CV: <span id="busuanzi_value_site_uv" class="white-color"></span>&nbsp;
-                </span>
-                <% } %>
-            <% } %>
-
-            <% if (theme.wordCount.enable && theme.wordCount.totalCount) { %>
-                words: <span class="white-color"><%= totalcount(site) %></span>&nbsp;
-            <% } %>
-            
-            <div>
-
-                Copyright©<span class="white-color">2016-2019</span>
-                <span class="white-color">&nbsp;Jay Yang</span>
-                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onMouseOver="this.style.color='#000'" onMouseOut="this.style.color='#FFF'">&nbsp;鄂ICP备18006161号-1</a>
-            </div>
-        </div>
-        <div class="col s12 m4 l4 social-link"><%- partial('_partial/social-link') %></div>
+<footer class="bg-color" style="padding:10px 0px">
+  <div class="container center-align">
+    <div class="col s12 m4 l4 social-link">
+      <%- partial('_partial/social-link') %>
     </div>
+    <div class="col s12 m8 l8 copy-right">
+      <div>
+        Copyright©<span class="white-color">2016-2019</span>
+        <span class="white-color">&nbsp;Jay Yang</span>
+        <% if (theme.wordCount.enable && theme.wordCount.totalCount) { %>
+        <span class="white-color"><%= totalcount(site) %></span>&nbsp; <% } %>
+        <a
+          target="_blank"
+          href="http://www.miitbeian.gov.cn"
+          rel="noopener"
+          onMouseOver="this.style.color='#000'"
+          onMouseOut="this.style.color='#FFF'"
+          >&nbsp;鄂ICP备18006161号-1</a
+        >
+      </div>
+    </div>
+  </div>
 </footer>
 
 <div class="progress-bar"></div>
