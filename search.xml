@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Mac command</title>
+      <link href="/2099/12/31/mac-command/"/>
+      <url>/2099/12/31/mac-command/</url>
+      
+        <content type="html"><![CDATA[<h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="Mac-command-line-shortcut"><a href="#Mac-command-line-shortcut" class="headerlink" title="Mac command line shortcut"></a>Mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词option &gt; 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> computer </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Linux command</title>
       <link href="/2099/12/31/linux-command/"/>
       <url>/2099/12/31/linux-command/</url>
@@ -42,25 +61,6 @@
             <tag> classic </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Mac command</title>
-      <link href="/2099/12/31/mac-command/"/>
-      <url>/2099/12/31/mac-command/</url>
-      
-        <content type="html"><![CDATA[<h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="Mac-command-line-shortcut"><a href="#Mac-command-line-shortcut" class="headerlink" title="Mac command line shortcut"></a>Mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词option &gt; 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> computer </category>
-          
-      </categories>
-      
       
     </entry>
     
