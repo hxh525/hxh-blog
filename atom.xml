@@ -92,6 +92,32 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
+    <title>20190330</title>
+    <link href="http://hxh.red/2019/03/30/daily-2019-03-30/"/>
+    <id>http://hxh.red/2019/03/30/daily-2019-03-30/</id>
+    <published>2019-03-29T23:44:35.000Z</published>
+    <updated>2019-03-29T23:47:45.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨天把博客的静态资源转到七牛云,然后发布github page,结果访问github
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>mount command</title>
     <link href="http://hxh.red/2019/03/29/study-linux-mount/"/>
     <id>http://hxh.red/2019/03/29/study-linux-mount/</id>
@@ -524,32 +550,6 @@ sudo mount
     
     
       <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>i think about the world</title>
-    <link href="http://hxh.red/2018/05/29/essays-i-think-about-the-world/"/>
-    <id>http://hxh.red/2018/05/29/essays-i-think-about-the-world/</id>
-    <published>2018-05-29T01:15:14.000Z</published>
-    <updated>2019-03-29T04:50:56.419Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h5 id=&quot;什么是大学生？&quot;&gt;&lt;a href=&quot;#什么是大学生？&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="essays" scheme="http://hxh.red/categories/essays/"/>
-    
-    
-      <category term="essays" scheme="http://hxh.red/tags/essays/"/>
     
   </entry>
   

@@ -67,6 +67,31 @@
     
     
     <entry>
+      <title>20190330</title>
+      <link href="/2019/03/30/daily-2019-03-30/"/>
+      <url>/2019/03/30/daily-2019-03-30/</url>
+      
+        <content type="html"><![CDATA[<p>昨天把博客的静态资源转到七牛云,然后发布github page,结果访问github page,访问静态资源的链接404,研究了几个小时,还是不知道是什么问题,真的很头疼呢<br>有时候觉得吧,不管日记写的是不是流水账,那是我一个成长阶段的记录,所有的行为,心情</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>mount command</title>
       <link href="/2019/03/29/study-linux-mount/"/>
       <url>/2019/03/29/study-linux-mount/</url>
@@ -1371,31 +1396,6 @@
     
     
     <entry>
-      <title>20160701</title>
-      <link href="/2016/07/01/daily-2016-07-10/"/>
-      <url>/2016/07/01/daily-2016-07-10/</url>
-      
-        <content type="html"><![CDATA[<p>纽涞汗蒸</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> diary </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> diary </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>To Jimmy 20160701</title>
       <link href="/2016/07/01/jimmy-to-20160701/"/>
       <url>/2016/07/01/jimmy-to-20160701/</url>
@@ -1413,6 +1413,31 @@
         <tags>
             
             <tag> Jimmy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20160701</title>
+      <link href="/2016/07/01/daily-2016-07-10/"/>
+      <url>/2016/07/01/daily-2016-07-10/</url>
+      
+        <content type="html"><![CDATA[<p>纽涞汗蒸</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
             
         </tags>
       
