@@ -9,7 +9,6 @@
         if (!str && str.length === 0) {
             return 0;
         }
-
         var hash = 0;
         for (var i = 0, len = str.length; i < len; i++) {
             hash = ((hash << 5) - hash) + str.charCodeAt(i);
@@ -37,7 +36,7 @@
                         <div class="card-image tag-image">
                             <% if (post.img) { %>
                             <img src="<%= post.img %>" class="responsive-img" alt="<%- post.title %>">
-                            <% } else{  %>
+                            <% } else { %>
                             <%
                                 var len = theme.featureImages.length;
                                 var num = Math.abs(hashCode(post.title) % len);
