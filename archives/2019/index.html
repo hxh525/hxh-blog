@@ -255,11 +255,11 @@ $('.bg-cover').css('background-image', 'url("http://image.hxh.red/images/banner/
         visualMap: {
             show: true,
             showLabel: true,
-            categories: [0, 1, 2, 3, 4],
+            categories: [0, 1, 2, 3, 4, 5, 6, 7],
             calculable: true,
             inRange: {
                 symbol: 'rect',
-                color: ['#ebedf0', '#c6e48b', '#7bc96f', '#239a3b', '#196127']
+                color: ['#ebedf0', '#54FF9F', '#4EEE94', '#43CD80', '#00FF00', '#00EE00', '#00CD00','#008B00']
             },
             itemWidth: 12,
             itemHeight: 12,
@@ -1008,35 +1008,10 @@ September
 </main>
 
 
-
-<footer class="page-footer bg-color">
-    <div class="container row center-align">
-        <div class="col s12 m8 l8 copy-right">
-            
-                
-                <span id="busuanzi_container_site_pv">
-                    PV: <span id="busuanzi_value_site_pv" class="white-color"></span>&nbsp;
-                </span>
-                
-                
-                <span id="busuanzi_container_site_uv">
-                    CV: <span id="busuanzi_value_site_uv" class="white-color"></span>&nbsp;
-                </span>
-                
-            
-
-            
-                words: <span class="white-color">59.7k</span>&nbsp;
-            
-            
-            <div>
-
-                Copyright©<span class="white-color">2016-2019</span>
-                <span class="white-color">&nbsp;Jay Yang</span>
-                <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#FFF'">&nbsp;鄂ICP备18006161号-1</a>
-            </div>
-        </div>
-        <div class="col s12 m4 l4 social-link">
+<footer class="bg-color" style="padding:10px 0px">
+  <div class="container center-align">
+    <div class="col s12 m4 l4 social-link">
+      
 
 
     <a href="mailto:hyj01@foxmail.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
@@ -1054,8 +1029,18 @@ September
     <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
         <i class="fa fa-rss"></i>
     </a>
-</div>
+
     </div>
+    <div class="col s12 m8 l8 copy-right">
+      <div>
+        Copyright©<span class="white-color">2016-2019</span>
+        <span class="white-color">&nbsp;Jay Yang</span>
+        
+        <span class="white-color">59.8k</span>&nbsp; 
+        <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#FFF'">&nbsp;鄂ICP备18006161号-1</a>
+      </div>
+    </div>
+  </div>
 </footer>
 
 <div class="progress-bar"></div>
@@ -1098,9 +1083,6 @@ $(function () {
 
 
     <script src="/js/clicklove.js"></script>
-
-
-    <script async src="/js/busuanzi.pure.mini.js"></script>
 
 
 </body>
