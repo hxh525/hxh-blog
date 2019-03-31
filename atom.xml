@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>黄小黄</title>
+  <title>Jay Yang</title>
   
   <subtitle>很傻 太天真</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hxh.red/"/>
-  <updated>2019-03-29T04:18:19.357Z</updated>
+  <updated>2019-03-31T04:04:35.857Z</updated>
   <id>http://hxh.red/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://hxh.red/2099/12/31/linux-command/"/>
     <id>http://hxh.red/2099/12/31/linux-command/</id>
     <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-29T04:18:19.357Z</updated>
+    <updated>2019-03-31T04:04:35.857Z</updated>
     
     <summary type="html">
     
@@ -38,6 +38,8 @@ cat /proc/cpuinfo | grep
     
       <category term="computer" scheme="http://hxh.red/categories/computer/"/>
     
+    
+      <category term="command" scheme="http://hxh.red/tags/command/"/>
     
   </entry>
   
@@ -72,7 +74,7 @@ cat /proc/cpuinfo | grep
     <link href="http://hxh.red/2099/12/31/mac-command/"/>
     <id>http://hxh.red/2099/12/31/mac-command/</id>
     <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-29T13:18:15.448Z</updated>
+    <updated>2019-03-31T04:06:21.707Z</updated>
     
     <summary type="html">
     
@@ -89,6 +91,62 @@ cat /proc/cpuinfo | grep
       <category term="computer" scheme="http://hxh.red/categories/computer/"/>
     
     
+      <category term="command" scheme="http://hxh.red/tags/command/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>renameImg</title>
+    <link href="http://hxh.red/2019/03/31/coding-renameimg/"/>
+    <id>http://hxh.red/2019/03/31/coding-renameimg/</id>
+    <published>2019-03-31T02:10:38.000Z</published>
+    <updated>2019-03-31T02:27:09.347Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;修改指定文件夹下的图片名称按照序号重命名&quot;&gt;&lt;a href=&quot;#修改指定文件夹下的图片名称按照序号重命名&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="coding" scheme="http://hxh.red/categories/coding/"/>
+    
+    
+      <category term="java" scheme="http://hxh.red/tags/java/"/>
+    
+      <category term="coding" scheme="http://hxh.red/tags/coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20190331</title>
+    <link href="http://hxh.red/2019/03/31/daily-2019-03-31/"/>
+    <id>http://hxh.red/2019/03/31/daily-2019-03-31/</id>
+    <published>2019-03-31T00:58:28.000Z</published>
+    <updated>2019-03-31T04:03:19.362Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨晚和Jimmy打电话了很久,说了很多,用她的话说就是很佛性的聊天,反正也没什么结论,最后都睡了&lt;br&gt;最后睡前我总结了一句话,&lt;em&gt;憋在心里的东西,总有一天你会讲出来&lt;/em&gt;&lt;br&gt;也发现了一个的番茄时钟的东西Tadam(mac)简单,方便的倒计时工具,所谓的25分钟
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+    
   </entry>
   
   <entry>
@@ -96,7 +154,7 @@ cat /proc/cpuinfo | grep
     <link href="http://hxh.red/2019/03/30/daily-2019-03-30/"/>
     <id>http://hxh.red/2019/03/30/daily-2019-03-30/</id>
     <published>2019-03-29T23:44:35.000Z</published>
-    <updated>2019-03-30T02:28:48.222Z</updated>
+    <updated>2019-03-31T01:14:16.195Z</updated>
     
     <summary type="html">
     
@@ -141,9 +199,9 @@ sudo mount
       <category term="linux" scheme="http://hxh.red/categories/linux/"/>
     
     
-      <category term="mount" scheme="http://hxh.red/tags/mount/"/>
-    
       <category term="shell" scheme="http://hxh.red/tags/shell/"/>
+    
+      <category term="mount" scheme="http://hxh.red/tags/mount/"/>
     
   </entry>
   
@@ -170,9 +228,9 @@ sudo mount
       <category term="linux" scheme="http://hxh.red/categories/linux/"/>
     
     
-      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
-    
       <category term="apt-get" scheme="http://hxh.red/tags/apt-get/"/>
+    
+      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
     
   </entry>
   
@@ -313,7 +371,7 @@ sudo mount
     <link href="http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/"/>
     <id>http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/</id>
     <published>2019-03-28T09:48:03.000Z</published>
-    <updated>2019-03-29T04:01:07.533Z</updated>
+    <updated>2019-03-31T04:00:32.588Z</updated>
     
     <summary type="html">
     
@@ -393,7 +451,7 @@ sudo mount
     <link href="http://hxh.red/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/"/>
     <id>http://hxh.red/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/</id>
     <published>2018-10-20T16:30:00.000Z</published>
-    <updated>2019-03-29T04:46:32.698Z</updated>
+    <updated>2019-03-31T04:05:31.270Z</updated>
     
     <summary type="html">
     
@@ -410,7 +468,7 @@ sudo mount
       <category term="coding" scheme="http://hxh.red/categories/coding/"/>
     
     
-      <category term="Java" scheme="http://hxh.red/tags/java/"/>
+      <category term="java" scheme="http://hxh.red/tags/java/"/>
     
       <category term="面向对象编程" scheme="http://hxh.red/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
     
@@ -452,7 +510,7 @@ sudo mount
     <link href="http://hxh.red/2018/10/05/coding-google-java-bian-cheng-feng-ge-zhi-nan/"/>
     <id>http://hxh.red/2018/10/05/coding-google-java-bian-cheng-feng-ge-zhi-nan/</id>
     <published>2018-10-05T08:38:00.000Z</published>
-    <updated>2019-03-29T04:53:57.785Z</updated>
+    <updated>2019-03-31T04:05:40.976Z</updated>
     
     <summary type="html">
     
@@ -469,9 +527,9 @@ sudo mount
       <category term="coding" scheme="http://hxh.red/categories/coding/"/>
     
     
-      <category term="Java" scheme="http://hxh.red/tags/java/"/>
+      <category term="java" scheme="http://hxh.red/tags/java/"/>
     
-      <category term="Google" scheme="http://hxh.red/tags/google/"/>
+      <category term="goole" scheme="http://hxh.red/tags/goole/"/>
     
   </entry>
   
@@ -489,58 +547,6 @@ sudo mount
         
         
           &lt;p&gt;今天我有一节英孚的课,然后我也到了中心,最后我没有进去教室&lt;br&gt;i want to said “if i can speak English like speak Chinese ,i will be glad”&lt;br&gt;youdao said “I would be
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180620</title>
-    <link href="http://hxh.red/2018/06/20/daily-2018-06-20/"/>
-    <id>http://hxh.red/2018/06/20/daily-2018-06-20/</id>
-    <published>2018-06-19T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:56.969Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;working&lt;br&gt;这家公司待了快一年,现在的自己是个什么状态 I have been in the company for one year. What is my status now ?&lt;br&gt;趋于安逸,不愿追逐,惰于学习,工作打盹,思念成疾,心如死水&lt;br&gt;my
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180616</title>
-    <link href="http://hxh.red/2018/06/16/daily-2018-06-16/"/>
-    <id>http://hxh.red/2018/06/16/daily-2018-06-16/</id>
-    <published>2018-06-15T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:56.963Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;肉食社会&lt;br&gt;出了大学的生活真的是让人捉急,偌大的城市,都没有一个能谈天说地的人&lt;br&gt;大家都很忙,来不及照顾你的情绪,很累,生活在社会的底层,少壮不努力老大徒伤悲,以前只是在书上看到,现在就在生活中,好像我描述的事情没有丝毫唯美的文字,看着就很粗硬,不好玩&lt;br&gt;my
         
       
     
