@@ -84,29 +84,12 @@ var coverPostsCount = coverPosts.length;
     </div>
 
     <% if (coverPostsCount > 0) { %>
-    <%
-        var hashCode = function (str) {
-            if (!str && str.length === 0) {
-                return 0;
-            }
-
-            var hash = 0;
-            for (var i = 0, len = str.length; i < len; i++) {
-                hash = ((hash << 5) - hash) + str.charCodeAt(i);
-                hash |= 0;
-            }
-            return hash;
-        };
-
-        var featureImages = theme.featureImages;
-        var imgCount = featureImages.length;
-    %>
-
     <% for (var i = 0; i < coverPostsCount; i++) { %>
     <%
+        var featureimg = "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg"
         var post = coverPosts[i];
         var coverImg = post.coverImg ? post.coverImg
-                : (post.img ? post.img : featureImages[Math.abs(hashCode(post.title) % imgCount)]);
+                : (post.img ? post.img : featureimg);
     %>
     <div class="carousel-item amber white-text carousel-post bg-cover"
             style="background-image: url('<%- coverImg %>');">

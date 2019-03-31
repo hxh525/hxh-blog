@@ -272,31 +272,3 @@ libs:
     echarts: https://cdn.staticfile.org/echarts/4.2.1-rc1/echarts.min.js
     jqcloud: https://cdn.staticfile.org/jqcloud/1.0.4/jqcloud-1.0.4.js
     tocbot: https://cdn.staticfile.org/tocbot/4.5.1/tocbot.min.js
-
-# The post featured images that needs to be displayed when there is no image.
-# 无文章特色图片时需要显示的文章特色图片.
-featureImages:
-  - http://image.hxh.red/images/featureimages/1.jpg
-  - http://image.hxh.red/images/featureimages/1.jpg
-  - http://image.hxh.red/images/featureimages/2.jpg
-  - http://image.hxh.red/images/featureimages/3.jpg
-  - http://image.hxh.red/images/featureimages/4.jpg
-  - http://image.hxh.red/images/featureimages/5.jpg
-  - http://image.hxh.red/images/featureimages/6.jpg
-  - http://image.hxh.red/images/featureimages/7.jpg
-  - http://image.hxh.red/images/featureimages/8.jpg
-  - http://image.hxh.red/images/featureimages/9.jpg
-  - http://image.hxh.red/images/featureimages/10.jpg
-  - http://image.hxh.red/images/featureimages/11.jpg
-  - http://image.hxh.red/images/featureimages/12.jpg
-  - http://image.hxh.red/images/featureimages/13.jpg
-  - http://image.hxh.red/images/featureimages/14.jpg
-  - http://image.hxh.red/images/featureimages/15.jpg
-  - http://image.hxh.red/images/featureimages/16.jpg
-  - http://image.hxh.red/images/featureimages/17.jpg
-  - http://image.hxh.red/images/featureimages/18.jpg
-  - http://image.hxh.red/images/featureimages/19.jpg
-  - http://image.hxh.red/images/featureimages/20.jpg
-  - http://image.hxh.red/images/featureimages/21.jpg
-  - http://image.hxh.red/images/featureimages/22.jpg
-  - http://image.hxh.red/images/featureimages/23.jpg

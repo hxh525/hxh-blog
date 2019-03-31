@@ -11,21 +11,7 @@
 
 <% if (topPostsCount > 0) { %>
 <%
-    var hashCode = function (str) {
-        if (!str && str.length === 0) {
-            return 0;
-        }
-
-        var hash = 0;
-        for (var i = 0, len = str.length; i < len; i++) {
-            hash = ((hash << 5) - hash) + str.charCodeAt(i);
-            hash |= 0;
-        }
-        return hash;
-    };
-
-    var featureImages = theme.featureImages;
-    var imgCount = featureImages.length;
+    var featureimg = "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg"
     var bgColorArr = [
             'linear-gradient(to right, #FF5E3A 0%, #FF2A68 100%)',
             'linear-gradient(to right, #EF4DB6 0%, #C643FC 100%)',
@@ -45,7 +31,7 @@
     <% for (var i = 0; i < topPostsCount; i++) { %>
     <%
         var post = topPosts[i];
-        var featureImg = post.img ? post.img : featureImages[Math.abs(hashCode(post.title) % imgCount)];
+        var featureImg = post.img ? post.img : featureimg;
         var bgColor = bgColorArr[i % colorCount];
     %>
     <div class="col s12 m6" <% if (i > 1) { %>data-aos="zoom-in-up"<% } %>>
