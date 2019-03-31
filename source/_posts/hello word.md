@@ -1,7 +1,7 @@
 ---
 title: hello word
 date: 2018-01-23 21:11:55
-tags:
+tags: hello word
 ---
 
 我的第一篇博文终于折腾好了

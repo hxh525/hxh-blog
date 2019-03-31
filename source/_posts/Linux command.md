@@ -1,7 +1,7 @@
 ---
 title: Linux command
 author: Jay Yang
-tags:
+tags: command
 categories:
   - computer
 date: 2099-12-31 23:59:59

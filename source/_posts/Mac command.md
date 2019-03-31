@@ -1,8 +1,7 @@
 ---
 title: Mac command
 author: Jay Yang
-tags:
-img: http://image.hxh.red/images/banner/5.jpg
+tags: command
 categories:
   - computer
 date: 2099-12-31 23:59:59

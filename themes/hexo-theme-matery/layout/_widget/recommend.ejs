@@ -11,7 +11,6 @@
 
 <% if (topPostsCount > 0) { %>
 <%
-    var featureimg = "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg"
     var bgColorArr = [
             'linear-gradient(to right, #FF5E3A 0%, #FF2A68 100%)',
             'linear-gradient(to right, #EF4DB6 0%, #C643FC 100%)',
@@ -31,7 +30,7 @@
     <% for (var i = 0; i < topPostsCount; i++) { %>
     <%
         var post = topPosts[i];
-        var featureImg = post.img ? post.img : featureimg;
+        var featureImg = post.img ? post.img : "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg";
         var bgColor = bgColorArr[i % colorCount];
     %>
     <div class="col s12 m6" <% if (i > 1) { %>data-aos="zoom-in-up"<% } %>>
@@ -49,7 +48,7 @@
                     <% if (post.summary && post.summary.length > 0) { %>
                         <%- post.summary %>
                     <% } else { %>
-                        <%- strip_html(post.content).substring(0, 70) %>
+                        <%- strip_html(post.content).substring(0, 110) %>
                     <% } %>
                 </p>
                 <a href="<%- url_for(post.path) %>" target="_blank"
@@ -65,12 +64,12 @@
     <%
         var post = topPosts[i];
         var grid = (i % 3 === 0) ? 's12' : 's12 m6';
-        var description = (i % 3 === 0) ? strip_html(post.content).substring(0, 85)
-                : strip_html(post.content).substring(0, 70);
+        var description = (i % 3 === 0) ? strip_html(post.content).substring(0, 90)
+                : strip_html(post.content).substring(0, 90);
         if (post.summary && post.summary.length > 0) {
             description = post.summary;
         }
-        var featureImg = post.img ? post.img : featureImages[Math.abs(hashCode(post.title) % imgCount)];
+        var featureImg = post.img ? post.img : "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg";
         var bgColor = bgColorArr[i % colorCount];
     %>
     <div class="col <%- grid %>" <% if (i > 0) { %>data-aos="zoom-in-up"<% } %>>
