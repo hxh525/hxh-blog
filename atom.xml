@@ -117,9 +117,9 @@ cat /proc/cpuinfo | grep
       <category term="coding" scheme="http://hxh.red/categories/coding/"/>
     
     
-      <category term="coding" scheme="http://hxh.red/tags/coding/"/>
-    
       <category term="java" scheme="http://hxh.red/tags/java/"/>
+    
+      <category term="coding" scheme="http://hxh.red/tags/coding/"/>
     
   </entry>
   
@@ -199,9 +199,9 @@ sudo mount
       <category term="linux" scheme="http://hxh.red/categories/linux/"/>
     
     
-      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
-    
       <category term="mount" scheme="http://hxh.red/tags/mount/"/>
+    
+      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
     
   </entry>
   
@@ -228,9 +228,9 @@ sudo mount
       <category term="linux" scheme="http://hxh.red/categories/linux/"/>
     
     
-      <category term="apt-get" scheme="http://hxh.red/tags/apt-get/"/>
-    
       <category term="shell" scheme="http://hxh.red/tags/shell/"/>
+    
+      <category term="apt-get" scheme="http://hxh.red/tags/apt-get/"/>
     
   </entry>
   
