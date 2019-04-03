@@ -79,11 +79,36 @@
     
     
     <entry>
+      <title>20190403</title>
+      <link href="/2019/04/03/daily-2019-04-03/"/>
+      <url>/2019/04/03/daily-2019-04-03/</url>
+      
+        <content type="html"><![CDATA[<p>这几天也是没有写日记了,是因为上周末写完日记时候的一个念头,就开始看小说了<br>年轻,总会遇到一些迷茫的时候<br>但是一定不要虚度,过好自己的每一天<br>即使是消极的时候,也要清晰认识自己<br>来深圳有接近 2 年了,有很多感悟<br>这些日子,对于自己的各种自闭,各种放纵<br>说实话有些消极的无法接受<br>可能我以后不会在追什么小说了吧<br>花了 4 天时间,看完了武动乾坤,一念之间,用了四天时间(看书时长 49 时)<br>记得第一本小说,是在那上高中时候,大概是高三时候,看的丹武乾坤<br>17 年底看的斗罗大陆,那是要过年了,也是花了大概一周不到<br>接着 18 年不知道什么时候看的斗破苍穹<br>都是在我特别厌世的时候<br>这个时代催生的一种产物,小说<br>目前为止,我看过的 4 本<br>然后说下我看过的动漫<br>大学时期室友推荐的黑子的篮球,一直很喜欢<br>在我大学暑假期间,在家的时候,开始追的火影忍者,这个剧我追了一半,实在看的都疼,最后 17 年的时候终于接着追完了,然后开始追博人传<br>网球王子大概也是 17 年看的,记不清了<br>19 年年初状态超级差<br>我又陷入一种自闭状态,开始没日没夜看动漫<br>什么烂片都看<br>腾讯视频上追了 斗罗大陆 武动乾坤 灵剑尊 星辰变 妖神记<br>爱奇艺追了 海贼王<br>优酷追了 博人传<br>bilibili追了 jojo奇妙冒险 刀剑神域<br>还有很多不记得了,也有很多都在连载,以后可能不会看了<br>想想上个月,花了 2 周多的时间,看完了海贼王追到了连载最后一集 865<br>现在开始决心学英语,准备软考了<br>目前工作状态也不是很好,希望今年能静下心,加油<br>至于Jimmy,只希望我们能有个很好的将来吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>renameImg</title>
       <link href="/2019/03/31/coding-renameimg/"/>
       <url>/2019/03/31/coding-renameimg/</url>
       
-        <content type="html"><![CDATA[<h4 id="修改指定文件夹下的图片名称按照序号重命名"><a href="#修改指定文件夹下的图片名称按照序号重命名" class="headerlink" title="修改指定文件夹下的图片名称按照序号重命名"></a>修改指定文件夹下的图片名称按照序号重命名</h4><pre class=" language-java"><code class="language-java"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span>String<span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>    File file <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token string">"/Users/x/Downloads/untitled folder"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    File<span class="token punctuation">[</span><span class="token punctuation">]</span> files <span class="token operator">=</span> file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        String filename <span class="token operator">=</span> i <span class="token operator">+</span> files<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">2</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        files<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    File<span class="token punctuation">[</span><span class="token punctuation">]</span> files1 <span class="token operator">=</span> file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span>File file1 <span class="token operator">:</span> files1<span class="token punctuation">)</span> <span class="token punctuation">{</span>        System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"file1.getName() = "</span> <span class="token operator">+</span> file1<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span><span class="token punctuation">}</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="修改指定文件夹下的图片名称按照序号重命名"><a href="#修改指定文件夹下的图片名称按照序号重命名" class="headerlink" title="修改指定文件夹下的图片名称按照序号重命名"></a>修改指定文件夹下的图片名称按照序号重命名</h4><pre class=" language-java"><code class="language-java"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span>String<span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>    File file <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token string">"/Users/x/Downloads/untitled folder"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        String filename <span class="token operator">=</span>            System<span class="token punctuation">.</span><span class="token function">nanoTime</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>        files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files1 <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files1<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        String filename <span class="token operator">=</span> i <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>        files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">forEach</span><span class="token punctuation">(</span>f <span class="token operator">-</span><span class="token operator">></span> System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>f<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre>]]></content>
       
       
       <categories>
@@ -95,9 +120,9 @@
       
         <tags>
             
-            <tag> java </tag>
-            
             <tag> coding </tag>
+            
+            <tag> java </tag>
             
         </tags>
       
@@ -110,7 +135,7 @@
       <link href="/2019/03/31/daily-2019-03-31/"/>
       <url>/2019/03/31/daily-2019-03-31/</url>
       
-        <content type="html"><![CDATA[<p>昨晚和Jimmy打电话了很久,说了很多,用她的话说就是很佛性的聊天,反正也没什么结论,最后都睡了<br>最后睡前我总结了一句话,<em>憋在心里的东西,总有一天你会讲出来</em><br>也发现了一个的番茄时钟的东西Tadam(mac)简单,方便的倒计时工具,所谓的25分钟休息5分钟,正在试试看<br>我发现根本停不下来25分钟又一个25分钟<br>把所有的背景图片替换成了七牛云随机图</p>]]></content>
+        <content type="html"><![CDATA[<p>昨晚和Jimmy打电话了很久,说了很多,用她的话说就是很佛性的聊天,反正也没什么结论,最后都睡了<br>最后睡前我总结了一句话,<em>憋在心里的东西,总有一天你会讲出来</em><br>也发现了一个的番茄时钟的东西Tadam(mac)简单,方便的倒计时工具,所谓的25分钟休息5分钟,正在试试看<br>我发现根本停不下来25分钟又一个25分钟<br>把所有的背景图片替换成了七牛云随机图,最后发现发布到github page后图片都是固定的,没有动态的变动,真的好可惜<br>弄了一会,又去看了一下想要的域名,结果都被注册了,有一个出售的域名 jayyang.com 4900,想想只能说,买不起,以后还是要少看这些,哈哈</p>]]></content>
       
       
       <categories>
@@ -1466,31 +1491,6 @@
     
     
     <entry>
-      <title>20160701</title>
-      <link href="/2016/07/01/daily-2016-07-10/"/>
-      <url>/2016/07/01/daily-2016-07-10/</url>
-      
-        <content type="html"><![CDATA[<p>纽涞汗蒸</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> diary </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> diary </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>To Jimmy 20160701</title>
       <link href="/2016/07/01/jimmy-to-20160701/"/>
       <url>/2016/07/01/jimmy-to-20160701/</url>
@@ -1508,6 +1508,31 @@
         <tags>
             
             <tag> Jimmy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20160701</title>
+      <link href="/2016/07/01/daily-2016-07-10/"/>
+      <url>/2016/07/01/daily-2016-07-10/</url>
+      
+        <content type="html"><![CDATA[<p>纽涞汗蒸</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
             
         </tags>
       

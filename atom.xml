@@ -96,11 +96,37 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
+    <title>20190403</title>
+    <link href="http://hxh.red/2019/04/03/daily-2019-04-03/"/>
+    <id>http://hxh.red/2019/04/03/daily-2019-04-03/</id>
+    <published>2019-04-03T10:03:58.000Z</published>
+    <updated>2019-04-03T10:44:25.802Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这几天也是没有写日记了,是因为上周末写完日记时候的一个念头,就开始看小说了&lt;br&gt;年轻,总会遇到一些迷茫的时候&lt;br&gt;但是一定不要虚度,过好自己的每一天&lt;br&gt;即使是消极的时候,也要清晰认识自己&lt;br&gt;来深圳有接近 2
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>renameImg</title>
     <link href="http://hxh.red/2019/03/31/coding-renameimg/"/>
     <id>http://hxh.red/2019/03/31/coding-renameimg/</id>
     <published>2019-03-31T02:10:38.000Z</published>
-    <updated>2019-03-31T02:27:09.347Z</updated>
+    <updated>2019-04-03T10:44:58.748Z</updated>
     
     <summary type="html">
     
@@ -117,9 +143,9 @@ cat /proc/cpuinfo | grep
       <category term="coding" scheme="http://hxh.red/categories/coding/"/>
     
     
-      <category term="java" scheme="http://hxh.red/tags/java/"/>
-    
       <category term="coding" scheme="http://hxh.red/tags/coding/"/>
+    
+      <category term="java" scheme="http://hxh.red/tags/java/"/>
     
   </entry>
   
@@ -128,7 +154,7 @@ cat /proc/cpuinfo | grep
     <link href="http://hxh.red/2019/03/31/daily-2019-03-31/"/>
     <id>http://hxh.red/2019/03/31/daily-2019-03-31/</id>
     <published>2019-03-31T00:58:28.000Z</published>
-    <updated>2019-03-31T04:03:19.362Z</updated>
+    <updated>2019-03-31T05:16:08.911Z</updated>
     
     <summary type="html">
     
@@ -530,32 +556,6 @@ sudo mount
       <category term="java" scheme="http://hxh.red/tags/java/"/>
     
       <category term="goole" scheme="http://hxh.red/tags/goole/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20180613</title>
-    <link href="http://hxh.red/2018/06/23/daily-2018-06-13/"/>
-    <id>http://hxh.red/2018/06/23/daily-2018-06-13/</id>
-    <published>2018-06-22T16:00:00.000Z</published>
-    <updated>2019-03-28T13:05:56.969Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;今天我有一节英孚的课,然后我也到了中心,最后我没有进去教室&lt;br&gt;i want to said “if i can speak English like speak Chinese ,i will be glad”&lt;br&gt;youdao said “I would be
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   

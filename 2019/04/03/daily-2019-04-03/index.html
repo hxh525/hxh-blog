@@ -4,9 +4,8 @@
 
 <head><meta name="generator" content="Hexo 3.8.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="renameImg, Jay Yang">
-    <meta name="description" content="修改指定文件夹下的图片名称按照序号重命名public static void main(String[] args) {
-    File file = new File(&#34;/Users/x/Downloads/untitled folde">
+    <meta name="keywords" content="20190403, Jay Yang">
+    <meta name="description" content="这几天也是没有写日记了,是因为上周末写完日记时候的一个念头,就开始看小说了年轻,总会遇到一些迷茫的时候但是一定不要虚度,过好自己的每一天即使是消极的时候,也要清晰认识自己来深圳有接近 2 年了,有很多感悟这些日子,对于自己的各种自闭,各种放">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -14,7 +13,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>renameImg | Jay Yang</title>
+    <title>20190403 | Jay Yang</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
@@ -197,13 +196,13 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/31.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/96.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
                     <div class="description center-align post-title">
-                        renameImg
+                        20190403
                     </div>
                 </div>
             </div>
@@ -314,12 +313,8 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/coding/" target="_blank">
-                                <span class="chip bg-color">coding</span>
-                            </a>
-                        
-                            <a href="/tags/java/" target="_blank">
-                                <span class="chip bg-color">java</span>
+                            <a href="/tags/diary/" target="_blank">
+                                <span class="chip bg-color">diary</span>
                             </a>
                         
                     </div>
@@ -330,8 +325,8 @@
                     <div class="post-cate">
                         <i class="fa fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/coding/" class="post-category" target="_blank">
-                                coding
+                            <a href="/categories/diary/" class="post-category" target="_blank">
+                                diary
                             </a>
                         
                     </div>
@@ -342,14 +337,14 @@
             <div class="post-info">
                 <div class="post-date info-break-policy">
                     <i class="fa fa-calendar-minus-o fa-fw"></i>Publish Date:&nbsp;&nbsp;
-                    2019-03-31
+                    2019-04-03
                 </div>
 
                 
                     
                     <div class="info-break-policy">
                         <i class="fa fa-file-word-o fa-fw"></i>Word Count:&nbsp;&nbsp;
-                        161
+                        563
                     </div>
                     
 
@@ -365,30 +360,7 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h4 id="修改指定文件夹下的图片名称按照序号重命名"><a href="#修改指定文件夹下的图片名称按照序号重命名" class="headerlink" title="修改指定文件夹下的图片名称按照序号重命名"></a>修改指定文件夹下的图片名称按照序号重命名</h4><pre class=" language-java"><code class="language-java"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span>String<span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    File file <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token string">"/Users/x/Downloads/untitled folder"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>
-            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>
-        String filename <span class="token operator">=</span>
-            System<span class="token punctuation">.</span><span class="token function">nanoTime</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
-        files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    <span class="token punctuation">}</span>
-
-    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files1 <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>
-            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files1<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>
-        String filename <span class="token operator">=</span> i <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
-        files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    <span class="token punctuation">}</span>
-    Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token punctuation">.</span><span class="token function">forEach</span><span class="token punctuation">(</span>f <span class="token operator">-</span><span class="token operator">></span> System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>f<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token punctuation">}</span>
-</code></pre>
+                <p>这几天也是没有写日记了,是因为上周末写完日记时候的一个念头,就开始看小说了<br>年轻,总会遇到一些迷茫的时候<br>但是一定不要虚度,过好自己的每一天<br>即使是消极的时候,也要清晰认识自己<br>来深圳有接近 2 年了,有很多感悟<br>这些日子,对于自己的各种自闭,各种放纵<br>说实话有些消极的无法接受<br>可能我以后不会在追什么小说了吧<br>花了 4 天时间,看完了武动乾坤,一念之间,用了四天时间(看书时长 49 时)<br>记得第一本小说,是在那上高中时候,大概是高三时候,看的丹武乾坤<br>17 年底看的斗罗大陆,那是要过年了,也是花了大概一周不到<br>接着 18 年不知道什么时候看的斗破苍穹<br>都是在我特别厌世的时候<br>这个时代催生的一种产物,小说<br>目前为止,我看过的 4 本<br>然后说下我看过的动漫<br>大学时期室友推荐的黑子的篮球,一直很喜欢<br>在我大学暑假期间,在家的时候,开始追的火影忍者,这个剧我追了一半,实在看的都疼,最后 17 年的时候终于接着追完了,然后开始追博人传<br>网球王子大概也是 17 年看的,记不清了<br>19 年年初状态超级差<br>我又陷入一种自闭状态,开始没日没夜看动漫<br>什么烂片都看<br>腾讯视频上追了 斗罗大陆 武动乾坤 灵剑尊 星辰变 妖神记<br>爱奇艺追了 海贼王<br>优酷追了 博人传<br>bilibili追了 jojo奇妙冒险 刀剑神域<br>还有很多不记得了,也有很多都在连载,以后可能不会看了<br>想想上个月,花了 2 周多的时间,看完了海贼王追到了连载最后一集 865<br>现在开始决心学英语,准备软考了<br>目前工作状态也不是很好,希望今年能静下心,加油<br>至于Jimmy,只希望我们能有个很好的将来吧</p>
 
             </div>
             <hr>
@@ -402,7 +374,7 @@
                     </span>
                     <a href="http://hxh.red" class="b-link-green">Jay Yang</a>
                     <i class="fa fa-angle-right fa-lg fa-fw text-color"></i>
-                    <a href="/2019/03/31/coding-renameimg/" class="b-link-green">renameImg</a>
+                    <a href="/2019/04/03/daily-2019-04-03/" class="b-link-green">20190403</a>
                 </p>
             </div>
         </div>
@@ -415,27 +387,28 @@
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;Previous</div>
             <div class="card">
-                <a href="/2019/04/03/daily-2019-04-03/">
+                <a href="/2099/12/31/classic-da-xue/">
                     <div class="card-image">
                         
                         
-                        <img src="http://image.hxh.red/images/featureimages/3.jpg" class="responsive-img" alt="20190403">
+                        <img src="http://image.hxh.red/images/featureimages/39.jpg" class="responsive-img" alt="大学">
                         
-                        <span class="card-title">20190403</span>
+                        <span class="card-title">大学</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary block-with-text">这几天也是没有写日记了,是因为上周末写完日记时候的一个念头,就开始看小说了年轻,总会遇到一些迷茫的时候但是一定不要虚度,过好自己的每一天即使是消极的时候,也要清晰认识自己来深圳有接近 2 年了,有很多感悟这些日子,对于自己的各种自闭,各种放</div>
+                    <div class="summary block-with-text">大学 (《礼记·大学》古本)大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，事有终始。知所先后，则近道矣。
+古之欲明明德于天下者，先治其国。欲治其国者，先齐其家。欲齐其家者，先</div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="fa fa-clock-o fa-fw icon-date"></i>2019-04-03
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2099-12-31
                         </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/diary/" class="post-category" target="_blank">
-                                    diary
+                            <a href="/categories/classic/" class="post-category" target="_blank">
+                                    classic
                                 </a>
                             
                             
@@ -445,8 +418,8 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/diary/" target="_blank">
-                        <span class="chip bg-color">diary</span>
+                    <a href="/tags/classic/" target="_blank">
+                        <span class="chip bg-color">classic</span>
                     </a>
                     
                 </div>
@@ -460,17 +433,18 @@
                 Next&nbsp;<i class="fa fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2019/03/31/daily-2019-03-31/">
+                <a href="/2019/03/31/coding-renameimg/">
                     <div class="card-image">
                         
                         
-                        <img src="http://image.hxh.red/images/featureimages/24.jpg" class="responsive-img" alt="20190331">
+                        <img src="http://image.hxh.red/images/featureimages/88.jpg" class="responsive-img" alt="renameImg">
                         
-                        <span class="card-title">20190331</span>
+                        <span class="card-title">renameImg</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary block-with-text">昨晚和Jimmy打电话了很久,说了很多,用她的话说就是很佛性的聊天,反正也没什么结论,最后都睡了最后睡前我总结了一句话,憋在心里的东西,总有一天你会讲出来也发现了一个的番茄时钟的东西Tadam(mac)简单,方便的倒计时工具,所谓的25分钟</div>
+                    <div class="summary block-with-text">修改指定文件夹下的图片名称按照序号重命名public static void main(String[] args) {
+    File file = new File("/Users/x/Downloads/untitled folde</div>
                     <div class="publish-info">
                             <span class="publish-date">
                                 <i class="fa fa-clock-o fa-fw icon-date"></i>2019-03-31
@@ -479,8 +453,8 @@
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/diary/" class="post-category" target="_blank">
-                                    diary
+                            <a href="/categories/coding/" class="post-category" target="_blank">
+                                    coding
                                 </a>
                             
                             
@@ -490,8 +464,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/diary/" target="_blank">
-                        <span class="chip bg-color">diary</span>
+                    <a href="/tags/coding/" target="_blank">
+                        <span class="chip bg-color">coding</span>
+                    </a>
+                    
+                    <a href="/tags/java/" target="_blank">
+                        <span class="chip bg-color">java</span>
                     </a>
                     
                 </div>
