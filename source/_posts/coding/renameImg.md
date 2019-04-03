@@ -14,16 +14,25 @@ img:
 ```java
 public static void main(String[] args) {
     File file = new File("/Users/x/Downloads/untitled folder");
-    File[] files = file.listFiles();
-    for (int i = 0; i < files.length; i++) {
-        String filename = i + files[i].getName().split(".")[2]);
+    List<File> files = Arrays.stream(file.listFiles())
+        .filter(a -> !a.getName().equals(".DS_Store")).collect(
+            Collectors.toList());
+    for (int i = 0; i < files.size(); i++) {
         //文件名除了后缀没有字符 .
-        files[i].renameTo(new File(files[i].getParent(), filename);
+        String filename =
+            System.nanoTime() + "." + files.get(i).getName().split("\\.")[1];
+        files.get(i).renameTo(new File(files.get(i).getParent(), filename));
     }
-    File[] files1 = file.listFiles();
 
-    for (File file1 : files1) {
-        System.out.println("file1.getName() = " + file1.getName());
+    List<File> files1 = Arrays.stream(file.listFiles())
+        .filter(a -> !a.getName().equals(".DS_Store")).collect(
+            Collectors.toList());
+    for (int i = 0; i < files1.size(); i++) {
+        //文件名除了后缀没有字符 .
+        String filename = i + "." + files1.get(i).getName().split("\\.")[1];
+        files1.get(i).renameTo(new File(files1.get(i).getParent(), filename));
     }
+    Arrays.stream(file.listFiles())
+        .forEach(f -> System.out.println(f.getName()));
 }
 ```
