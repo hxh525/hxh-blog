@@ -96,11 +96,37 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
+    <title>20190404</title>
+    <link href="http://hxh.red/2019/04/04/daily-2019-04-04/"/>
+    <id>http://hxh.red/2019/04/04/daily-2019-04-04/</id>
+    <published>2019-04-04T00:55:04.000Z</published>
+    <updated>2019-04-04T15:03:54.347Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;新的一天,每天早上都有种睡不醒的感觉&lt;br&gt;大清早把ef的level6
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>20190403</title>
     <link href="http://hxh.red/2019/04/03/daily-2019-04-03/"/>
     <id>http://hxh.red/2019/04/03/daily-2019-04-03/</id>
     <published>2019-04-03T10:03:58.000Z</published>
-    <updated>2019-04-03T10:44:25.802Z</updated>
+    <updated>2019-04-03T12:12:14.894Z</updated>
     
     <summary type="html">
     
@@ -225,9 +251,9 @@ sudo mount
       <category term="linux" scheme="http://hxh.red/categories/linux/"/>
     
     
-      <category term="mount" scheme="http://hxh.red/tags/mount/"/>
-    
       <category term="shell" scheme="http://hxh.red/tags/shell/"/>
+    
+      <category term="mount" scheme="http://hxh.red/tags/mount/"/>
     
   </entry>
   
@@ -254,9 +280,9 @@ sudo mount
       <category term="linux" scheme="http://hxh.red/categories/linux/"/>
     
     
-      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
-    
       <category term="apt-get" scheme="http://hxh.red/tags/apt-get/"/>
+    
+      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
     
   </entry>
   
@@ -528,34 +554,6 @@ sudo mount
       <category term="重构" scheme="http://hxh.red/tags/%E9%87%8D%E6%9E%84/"/>
     
       <category term="测试" scheme="http://hxh.red/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Google Java编程风格指南</title>
-    <link href="http://hxh.red/2018/10/05/coding-google-java-bian-cheng-feng-ge-zhi-nan/"/>
-    <id>http://hxh.red/2018/10/05/coding-google-java-bian-cheng-feng-ge-zhi-nan/</id>
-    <published>2018-10-05T08:38:00.000Z</published>
-    <updated>2019-03-31T04:05:40.976Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1 前言&quot;&gt;&lt;/a&gt;1 前言&lt;/h3&gt;&lt;p&gt;这份文档是&lt;code&gt;Google
-        
-      
-    
-    </summary>
-    
-      <category term="coding" scheme="http://hxh.red/categories/coding/"/>
-    
-    
-      <category term="java" scheme="http://hxh.red/tags/java/"/>
-    
-      <category term="goole" scheme="http://hxh.red/tags/goole/"/>
     
   </entry>
   
