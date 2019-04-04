@@ -114,8 +114,8 @@ code:
 reward:
   enable: false
   title: 你的赏识是我前进的动力
-  wechat: 
-  alipay: 
+  wechat:
+  alipay:
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
@@ -155,9 +155,9 @@ clicklove:
 profile:
   avatar: http://image.hxh.red/images/avatar.png
   career: Software Engineer
-  introduction: I'm Jay, like free.
+  introduction: I'm Jay,I like free.
     最难的就是描述自己, 我是个害羞shy的人, 不太习惯人前表露太多自己的想法, 但想说的时候会让你觉得烦
-    对于自己, 对于人生, 这些话题太大了, 在我们所处的环境, 阶段, 认知都会不一样, 怀疑人生和自信满满, 走好自己的人生轨迹, 不断修正自己
+    对于自己, 对于人生, 这些话题太大了, 在我们所处的环境, 阶段, 认知都会不一样, 怀疑人生和自信满满, 走好自己的人生轨迹, 不断修正自己, 接受自己的过去是需要莫大的勇气
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
