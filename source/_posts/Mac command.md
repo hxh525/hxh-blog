@@ -8,13 +8,18 @@ date: 2099-12-31 23:59:59
 ---
 
 #### mac safeguard (外部源安装)
+
 ```bash
 sudo spctl --master-disabl
 ```
 
 #### Mac command line shortcut
+
     option < 光标向前移动一个单词
+    option b 光标向前移动一个单词
+
     option > 光标向后移动一个单词
+    option f 光标向后移动一个单词
 
     ctrl a 将光标移至行首
     ctrl e 将光标移至行尾
@@ -26,3 +31,5 @@ sudo spctl --master-disabl
     ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键
 
     ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作
+
+    ctrl+y 粘贴刚才所删除的字符

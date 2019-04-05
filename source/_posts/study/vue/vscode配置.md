@@ -11,7 +11,33 @@ img:
 
 ```json
 {
-  // vue eslint设置
+  "workbench.startupEditor": "welcomePage",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": true,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "workbench.colorTheme": "Visual Studio Dark",
+  "gitlens.keymap": "alternate",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "gitlens.views.repositories.files.layout": "tree",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "editor.suggestSelection": "first",
+
+  // eslint设置
   "eslint.validate": [
     "javascript",
     "javascriptreact",
@@ -38,7 +64,12 @@ img:
   "prettier.eslintIntegration": true,
   // 自动保存
   "files.autoSave": "afterDelay",
-  // vue 格式化js关闭
-  "vetur.format.defaultFormatter.js": "none"
+  "vetur.format.defaultFormatter.js": "none",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": true,
+  "editor.renderWhitespace": "none",
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  "git.autoStash": true
 }
 ```
