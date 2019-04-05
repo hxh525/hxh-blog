@@ -4,36 +4,11 @@
   
     
     <entry>
-      <title>Linux command</title>
-      <link href="/2099/12/31/linux-command/"/>
-      <url>/2099/12/31/linux-command/</url>
-      
-        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> computer </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> command </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Mac command</title>
       <link href="/2099/12/31/mac-command/"/>
       <url>/2099/12/31/mac-command/</url>
       
-        <content type="html"><![CDATA[<h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="Mac-command-line-shortcut"><a href="#Mac-command-line-shortcut" class="headerlink" title="Mac command line shortcut"></a>Mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词option &gt; 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作</code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="Mac-command-line-shortcut"><a href="#Mac-command-line-shortcut" class="headerlink" title="Mac command line shortcut"></a>Mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词option b 光标向前移动一个单词option &gt; 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre>]]></content>
       
       
       <categories>
@@ -71,6 +46,56 @@
         <tags>
             
             <tag> classic </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux command</title>
+      <link href="/2099/12/31/linux-command/"/>
+      <url>/2099/12/31/linux-command/</url>
+      
+        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> computer </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> command </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20190405</title>
+      <link href="/2019/04/05/daily-2019-04-05/"/>
+      <url>/2019/04/05/daily-2019-04-05/</url>
+      
+        <content type="html"><![CDATA[<p>早起看到了一个初中同学 李雅 在空间发布了一个轻松筹<br>感叹人事总有那么多不困难,贡献了自己一点绵薄之力<br>这个节日多出来的一天,本该是工作日,又给我这样耗光了<br>整理了一天的Chrome bookmarks<br>晚上找到一个美剧,神探系列</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
             
         </tags>
       
@@ -314,7 +339,7 @@
       <link href="/2019/03/29/study-vue-vscode-pei-zhi/"/>
       <url>/2019/03/29/study-vue-vscode-pei-zhi/</url>
       
-        <content type="html"><![CDATA[<h4 id="vscode-config"><a href="#vscode-config" class="headerlink" title="vscode config"></a>vscode config</h4><pre class=" language-json"><code class="language-json"><span class="token punctuation">{</span>  // vue eslint设置  <span class="token property">"eslint.validate"</span><span class="token operator">:</span> <span class="token punctuation">[</span>    <span class="token string">"javascript"</span><span class="token punctuation">,</span>    <span class="token string">"javascriptreact"</span><span class="token punctuation">,</span>    <span class="token punctuation">{</span>      <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"html"</span><span class="token punctuation">,</span>      <span class="token property">"autoFix"</span><span class="token operator">:</span> <span class="token boolean">true</span>    <span class="token punctuation">}</span><span class="token punctuation">,</span>    <span class="token punctuation">{</span>      <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"vue"</span><span class="token punctuation">,</span>      <span class="token property">"autoFix"</span><span class="token operator">:</span> <span class="token boolean">true</span>    <span class="token punctuation">}</span>  <span class="token punctuation">]</span><span class="token punctuation">,</span>  // 保存自动修复  <span class="token property">"eslint.autoFixOnSave"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  // tab锁紧  <span class="token property">"editor.tabSize"</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>  // 保存格式化  <span class="token property">"editor.formatOnSave"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  // html格式化  <span class="token property">"html.format.enable"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  // css 校验  <span class="token property">"css.validate"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  // eslint 集成  <span class="token property">"prettier.eslintIntegration"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  // 自动保存  <span class="token property">"files.autoSave"</span><span class="token operator">:</span> <span class="token string">"afterDelay"</span><span class="token punctuation">,</span>  // vue 格式化js关闭  <span class="token property">"vetur.format.defaultFormatter.js"</span><span class="token operator">:</span> <span class="token string">"none"</span><span class="token punctuation">}</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="vscode-config"><a href="#vscode-config" class="headerlink" title="vscode config"></a>vscode config</h4><pre class=" language-json"><code class="language-json"><span class="token punctuation">{</span>  <span class="token property">"workbench.startupEditor"</span><span class="token operator">:</span> <span class="token string">"welcomePage"</span><span class="token punctuation">,</span>  <span class="token property">"explorer.confirmDragAndDrop"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  <span class="token property">"explorer.confirmDelete"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  <span class="token property">"window.zoomLevel"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>  <span class="token property">"gitlens.advanced.messages"</span><span class="token operator">:</span> <span class="token punctuation">{</span>    <span class="token property">"suppressCommitHasNoPreviousCommitWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressCommitNotFoundWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressFileNotUnderSourceControlWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressGitVersionWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressLineUncommittedWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressNoRepositoryWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressResultsExplorerNotice"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>    <span class="token property">"suppressShowKeyBindingsNotice"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>    <span class="token property">"suppressUpdateNotice"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>    <span class="token property">"suppressWelcomeNotice"</span><span class="token operator">:</span> <span class="token boolean">true</span>  <span class="token punctuation">}</span><span class="token punctuation">,</span>  <span class="token property">"workbench.colorTheme"</span><span class="token operator">:</span> <span class="token string">"Visual Studio Dark"</span><span class="token punctuation">,</span>  <span class="token property">"gitlens.keymap"</span><span class="token operator">:</span> <span class="token string">"alternate"</span><span class="token punctuation">,</span>  <span class="token property">"git.autofetch"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"git.confirmSync"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  <span class="token property">"git.enableSmartCommit"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"gitlens.views.repositories.files.layout"</span><span class="token operator">:</span> <span class="token string">"tree"</span><span class="token punctuation">,</span>  <span class="token property">"gitlens.views.fileHistory.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"gitlens.views.lineHistory.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"editor.suggestSelection"</span><span class="token operator">:</span> <span class="token string">"first"</span><span class="token punctuation">,</span>  // eslint设置  <span class="token property">"eslint.validate"</span><span class="token operator">:</span> <span class="token punctuation">[</span>    <span class="token string">"javascript"</span><span class="token punctuation">,</span>    <span class="token string">"javascriptreact"</span><span class="token punctuation">,</span>    <span class="token punctuation">{</span>      <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"html"</span><span class="token punctuation">,</span>      <span class="token property">"autoFix"</span><span class="token operator">:</span> <span class="token boolean">true</span>    <span class="token punctuation">}</span><span class="token punctuation">,</span>    <span class="token punctuation">{</span>      <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"vue"</span><span class="token punctuation">,</span>      <span class="token property">"autoFix"</span><span class="token operator">:</span> <span class="token boolean">true</span>    <span class="token punctuation">}</span>  <span class="token punctuation">]</span><span class="token punctuation">,</span>  // 保存自动修复  <span class="token property">"eslint.autoFixOnSave"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  // tab锁紧  <span class="token property">"editor.tabSize"</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>  // 保存格式化  <span class="token property">"editor.formatOnSave"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  // html格式化  <span class="token property">"html.format.enable"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  // css 校验  <span class="token property">"css.validate"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>  // eslint 集成  <span class="token property">"prettier.eslintIntegration"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  // 自动保存  <span class="token property">"files.autoSave"</span><span class="token operator">:</span> <span class="token string">"afterDelay"</span><span class="token punctuation">,</span>  <span class="token property">"vetur.format.defaultFormatter.js"</span><span class="token operator">:</span> <span class="token string">"none"</span><span class="token punctuation">,</span>  <span class="token property">"javascript.updateImportsOnFileMove.enabled"</span><span class="token operator">:</span> <span class="token string">"always"</span><span class="token punctuation">,</span>  <span class="token property">"editor.minimap.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"editor.renderWhitespace"</span><span class="token operator">:</span> <span class="token string">"none"</span><span class="token punctuation">,</span>  <span class="token property">"workbench.activityBar.visible"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"workbench.statusBar.visible"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token property">"git.autoStash"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">}</span></code></pre>]]></content>
       
       
       <categories>
@@ -1516,31 +1541,6 @@
     
     
     <entry>
-      <title>20160701</title>
-      <link href="/2016/07/01/daily-2016-07-01/"/>
-      <url>/2016/07/01/daily-2016-07-01/</url>
-      
-        <content type="html"><![CDATA[<p>我在武汉待了几天,今天Jimmy也来武汉了,一同去了纽涞汗蒸馆</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> diary </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> diary </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>To Jimmy 20160701</title>
       <link href="/2016/07/01/jimmy-to-20160701/"/>
       <url>/2016/07/01/jimmy-to-20160701/</url>
@@ -1558,6 +1558,31 @@
         <tags>
             
             <tag> Jimmy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20160701</title>
+      <link href="/2016/07/01/daily-2016-07-01/"/>
+      <url>/2016/07/01/daily-2016-07-01/</url>
+      
+        <content type="html"><![CDATA[<p>我在武汉待了几天,今天Jimmy也来武汉了,一同去了纽涞汗蒸馆</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
             
         </tags>
       

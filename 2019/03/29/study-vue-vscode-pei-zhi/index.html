@@ -6,12 +6,9 @@
     <meta charset="utf-8">
     <meta name="keywords" content="vscode配置, Jay Yang">
     <meta name="description" content="vscode config{
-  // vue eslint设置
-  &#34;eslint.validate&#34;: [
-    &#34;javascript&#34;,
-    &#34;javascriptreact&#34;,
-    {
-      &#34;language&#34;:">
+  &#34;workbench.startupEditor&#34;: &#34;welcomePage&#34;,
+  &#34;explorer.confirmDragAndDrop&#34;: false,
+  &#34;explorer.confirmDe">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -202,7 +199,7 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/27.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/84.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
@@ -350,7 +347,7 @@
                     
                     <div class="info-break-policy">
                         <i class="fa fa-file-word-o fa-fw"></i>Word Count:&nbsp;&nbsp;
-                        80
+                        165
                     </div>
                     
 
@@ -367,7 +364,33 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <h4 id="vscode-config"><a href="#vscode-config" class="headerlink" title="vscode config"></a>vscode config</h4><pre class=" language-json"><code class="language-json"><span class="token punctuation">{</span>
-  // vue eslint设置
+  <span class="token property">"workbench.startupEditor"</span><span class="token operator">:</span> <span class="token string">"welcomePage"</span><span class="token punctuation">,</span>
+  <span class="token property">"explorer.confirmDragAndDrop"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+  <span class="token property">"explorer.confirmDelete"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+  <span class="token property">"window.zoomLevel"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>
+  <span class="token property">"gitlens.advanced.messages"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">"suppressCommitHasNoPreviousCommitWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressCommitNotFoundWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressFileNotUnderSourceControlWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressGitVersionWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressLineUncommittedWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressNoRepositoryWarning"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressResultsExplorerNotice"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressShowKeyBindingsNotice"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressUpdateNotice"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"suppressWelcomeNotice"</span><span class="token operator">:</span> <span class="token boolean">true</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token property">"workbench.colorTheme"</span><span class="token operator">:</span> <span class="token string">"Visual Studio Dark"</span><span class="token punctuation">,</span>
+  <span class="token property">"gitlens.keymap"</span><span class="token operator">:</span> <span class="token string">"alternate"</span><span class="token punctuation">,</span>
+  <span class="token property">"git.autofetch"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"git.confirmSync"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+  <span class="token property">"git.enableSmartCommit"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"gitlens.views.repositories.files.layout"</span><span class="token operator">:</span> <span class="token string">"tree"</span><span class="token punctuation">,</span>
+  <span class="token property">"gitlens.views.fileHistory.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"gitlens.views.lineHistory.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"editor.suggestSelection"</span><span class="token operator">:</span> <span class="token string">"first"</span><span class="token punctuation">,</span>
+
+  // eslint设置
   <span class="token property">"eslint.validate"</span><span class="token operator">:</span> <span class="token punctuation">[</span>
     <span class="token string">"javascript"</span><span class="token punctuation">,</span>
     <span class="token string">"javascriptreact"</span><span class="token punctuation">,</span>
@@ -394,8 +417,13 @@
   <span class="token property">"prettier.eslintIntegration"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
   // 自动保存
   <span class="token property">"files.autoSave"</span><span class="token operator">:</span> <span class="token string">"afterDelay"</span><span class="token punctuation">,</span>
-  // vue 格式化js关闭
-  <span class="token property">"vetur.format.defaultFormatter.js"</span><span class="token operator">:</span> <span class="token string">"none"</span>
+  <span class="token property">"vetur.format.defaultFormatter.js"</span><span class="token operator">:</span> <span class="token string">"none"</span><span class="token punctuation">,</span>
+  <span class="token property">"javascript.updateImportsOnFileMove.enabled"</span><span class="token operator">:</span> <span class="token string">"always"</span><span class="token punctuation">,</span>
+  <span class="token property">"editor.minimap.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"editor.renderWhitespace"</span><span class="token operator">:</span> <span class="token string">"none"</span><span class="token punctuation">,</span>
+  <span class="token property">"workbench.activityBar.visible"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"workbench.statusBar.visible"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">"git.autoStash"</span><span class="token operator">:</span> <span class="token boolean">true</span>
 <span class="token punctuation">}</span>
 </code></pre>
 
@@ -428,7 +456,7 @@
                     <div class="card-image">
                         
                         
-                        <img src="http://image.hxh.red/images/featureimages/71.jpg" class="responsive-img" alt="time & date">
+                        <img src="http://image.hxh.red/images/featureimages/14.jpg" class="responsive-img" alt="time & date">
                         
                         <span class="card-title">time & date</span>
                     </div>
@@ -486,7 +514,7 @@ wenkendMonday
                     <div class="card-image">
                         
                         
-                        <img src="http://image.hxh.red/images/featureimages/14.jpg" class="responsive-img" alt="20190329">
+                        <img src="http://image.hxh.red/images/featureimages/92.jpg" class="responsive-img" alt="20190329">
                         
                         <span class="card-title">20190329</span>
                     </div>
@@ -654,7 +682,7 @@ wenkendMonday
         <span class="white-color">Copyright©2016-2019</span>&nbsp;|&nbsp;
         <span class="white-color">Jay Yang</span>&nbsp;|&nbsp;
         <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">&nbsp;鄂ICP备18006161号-1</a>&nbsp;|&nbsp; 
-        <span class="white-color">61.1k</span> 
+        <span class="white-color">61.4k</span> 
       </div>
     </div>
   </div>
