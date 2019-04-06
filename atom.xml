@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hxh.red/"/>
-  <updated>2019-04-05T04:40:11.043Z</updated>
+  <updated>2019-03-31T04:04:35.857Z</updated>
   <id>http://hxh.red/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux command</title>
+    <link href="http://hxh.red/2099/12/31/linux-command/"/>
+    <id>http://hxh.red/2099/12/31/linux-command/</id>
+    <published>2099-12-31T15:59:59.000Z</published>
+    <updated>2019-03-31T04:04:35.857Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;cpu-信息&quot;&gt;&lt;a href=&quot;#cpu-信息&quot; class=&quot;headerlink&quot; title=&quot;cpu 信息&quot;&gt;&lt;/a&gt;cpu 信息&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;#查看物理 CPU 个数
+cat /proc/cpuinfo | grep
+        
+      
+    
+    </summary>
+    
+      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+    
+    
+      <category term="command" scheme="http://hxh.red/tags/command/"/>
+    
+  </entry>
   
   <entry>
     <title>Mac command</title>
@@ -69,11 +96,11 @@
   </entry>
   
   <entry>
-    <title>Linux command</title>
-    <link href="http://hxh.red/2099/12/31/linux-command/"/>
-    <id>http://hxh.red/2099/12/31/linux-command/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-31T04:04:35.857Z</updated>
+    <title>20190406</title>
+    <link href="http://hxh.red/2019/04/06/daily-2019-04-06/"/>
+    <id>http://hxh.red/2019/04/06/daily-2019-04-06/</id>
+    <published>2019-04-06T01:25:16.000Z</published>
+    <updated>2019-04-06T14:35:54.460Z</updated>
     
     <summary type="html">
     
@@ -81,17 +108,16 @@
       
         
         
-          &lt;h4 id=&quot;cpu-信息&quot;&gt;&lt;a href=&quot;#cpu-信息&quot; class=&quot;headerlink&quot; title=&quot;cpu 信息&quot;&gt;&lt;/a&gt;cpu 信息&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;#查看物理 CPU 个数
-cat /proc/cpuinfo | grep
+          &lt;p&gt;早起就要和Jimmy探讨去留问题,真的很头疼&lt;br&gt;我总是不会意识到自己处在什么境地,需要怎么样束缚自己,我指的是为什么不会主动学习,闲逛来打磨时间,不能为了梦想努力&lt;br&gt;整理了电脑的文件,还是不想去沉浸学习,怎么办&lt;br&gt;不要谈以前,也不要说以后,立足现在&lt;br&gt;也不用
         
       
     
     </summary>
     
-      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
     
     
-      <category term="command" scheme="http://hxh.red/tags/command/"/>
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   
@@ -100,7 +126,7 @@ cat /proc/cpuinfo | grep
     <link href="http://hxh.red/2019/04/05/daily-2019-04-05/"/>
     <id>http://hxh.red/2019/04/05/daily-2019-04-05/</id>
     <published>2019-04-04T23:52:26.000Z</published>
-    <updated>2019-04-05T15:02:45.434Z</updated>
+    <updated>2019-04-06T00:25:00.405Z</updated>
     
     <summary type="html">
     
@@ -108,7 +134,7 @@ cat /proc/cpuinfo | grep
       
         
         
-          &lt;p&gt;早起看到了一个初中同学 李雅 在空间发布了一个轻松筹&lt;br&gt;感叹人事总有那么多不困难,贡献了自己一点绵薄之力&lt;br&gt;这个节日多出来的一天,本该是工作日,又给我这样耗光了&lt;br&gt;整理了一天的Chrome
+          &lt;p&gt;早起看到了一个初中同学 李雅 在空间发布了一个轻松筹&lt;br&gt;感叹人事总有那么多困难,贡献了自己一点绵薄之力&lt;br&gt;这个节日多出来的一天,本该是工作日,又给我这样耗光了&lt;br&gt;整理了一天的Chrome
         
       
     
@@ -126,7 +152,7 @@ cat /proc/cpuinfo | grep
     <link href="http://hxh.red/2019/04/04/daily-2019-04-04/"/>
     <id>http://hxh.red/2019/04/04/daily-2019-04-04/</id>
     <published>2019-04-04T00:55:04.000Z</published>
-    <updated>2019-04-04T15:03:54.347Z</updated>
+    <updated>2019-04-06T13:39:10.227Z</updated>
     
     <summary type="html">
     
@@ -195,9 +221,9 @@ cat /proc/cpuinfo | grep
       <category term="coding" scheme="http://hxh.red/categories/coding/"/>
     
     
-      <category term="coding" scheme="http://hxh.red/tags/coding/"/>
-    
       <category term="java" scheme="http://hxh.red/tags/java/"/>
+    
+      <category term="coding" scheme="http://hxh.red/tags/coding/"/>
     
   </entry>
   
@@ -521,34 +547,6 @@ sudo mount
     
     
       <category term="essays" scheme="http://hxh.red/tags/essays/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>面向对象编程的理解</title>
-    <link href="http://hxh.red/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/"/>
-    <id>http://hxh.red/2018/10/21/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/</id>
-    <published>2018-10-20T16:30:00.000Z</published>
-    <updated>2019-03-31T04:05:31.270Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;面向过程和面向对象&quot;&gt;&lt;a href=&quot;#面向过程和面向对象&quot; class=&quot;headerlink&quot; title=&quot;面向过程和面向对象&quot;&gt;&lt;/a&gt;面向过程和面向对象&lt;/h3&gt;&lt;h4 id=&quot;面向过程思想概述&quot;&gt;&lt;a href=&quot;#面向过程思想概述&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="coding" scheme="http://hxh.red/categories/coding/"/>
-    
-    
-      <category term="java" scheme="http://hxh.red/tags/java/"/>
-    
-      <category term="面向对象编程" scheme="http://hxh.red/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
