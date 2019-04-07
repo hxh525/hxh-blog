@@ -96,11 +96,38 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
+    <title>20190407</title>
+    <link href="http://hxh.red/2019/04/07/daily-2019-04-07/"/>
+    <id>http://hxh.red/2019/04/07/daily-2019-04-07/</id>
+    <published>2019-04-07T14:15:30.000Z</published>
+    <updated>2019-04-07T14:18:40.602Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;和Jimmy打了一晚上电话&lt;br&gt;给她讲了我从小到大的经历和心路,告诉她我是个什么样的人&lt;br&gt;打完电话,最后决定来重庆了,就直接过来了&lt;br&gt;来了之后说了很多,心情是异样的复杂&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>20190406</title>
     <link href="http://hxh.red/2019/04/06/daily-2019-04-06/"/>
     <id>http://hxh.red/2019/04/06/daily-2019-04-06/</id>
     <published>2019-04-06T01:25:16.000Z</published>
-    <updated>2019-04-06T14:35:54.460Z</updated>
+    <updated>2019-04-06T15:37:35.159Z</updated>
     
     <summary type="html">
     
@@ -221,9 +248,9 @@ cat /proc/cpuinfo | grep
       <category term="coding" scheme="http://hxh.red/categories/coding/"/>
     
     
-      <category term="java" scheme="http://hxh.red/tags/java/"/>
-    
       <category term="coding" scheme="http://hxh.red/tags/coding/"/>
+    
+      <category term="java" scheme="http://hxh.red/tags/java/"/>
     
   </entry>
   
@@ -521,32 +548,6 @@ sudo mount
     
     
       <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>new year</title>
-    <link href="http://hxh.red/2019/01/01/essays-new-year/"/>
-    <id>http://hxh.red/2019/01/01/essays-new-year/</id>
-    <published>2018-12-31T16:00:00.000Z</published>
-    <updated>2019-03-28T13:07:42.911Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;元旦&lt;br&gt;这是一个跨年夜,步入 2019
-        
-      
-    
-    </summary>
-    
-      <category term="essays" scheme="http://hxh.red/categories/essays/"/>
-    
-    
-      <category term="essays" scheme="http://hxh.red/tags/essays/"/>
     
   </entry>
   
