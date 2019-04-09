@@ -44,6 +44,32 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
+    <title>大学</title>
+    <link href="http://hxh.red/2099/12/31/classic-da-xue/"/>
+    <id>http://hxh.red/2099/12/31/classic-da-xue/</id>
+    <published>2099-12-31T15:59:59.000Z</published>
+    <updated>2019-03-29T04:54:24.718Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;大学-《礼记·大学》古本&quot;&gt;&lt;a href=&quot;#大学-《礼记·大学》古本&quot; class=&quot;headerlink&quot; title=&quot;大学 (《礼记·大学》古本)&quot;&gt;&lt;/a&gt;大学
+        
+      
+    
+    </summary>
+    
+      <category term="classic" scheme="http://hxh.red/categories/classic/"/>
+    
+    
+      <category term="classic" scheme="http://hxh.red/tags/classic/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Mac command</title>
     <link href="http://hxh.red/2099/12/31/mac-command/"/>
     <id>http://hxh.red/2099/12/31/mac-command/</id>
@@ -70,11 +96,11 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
-    <title>大学</title>
-    <link href="http://hxh.red/2099/12/31/classic-da-xue/"/>
-    <id>http://hxh.red/2099/12/31/classic-da-xue/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-29T04:54:24.718Z</updated>
+    <title>20190409</title>
+    <link href="http://hxh.red/2019/04/09/daily-2019-04-09/"/>
+    <id>http://hxh.red/2019/04/09/daily-2019-04-09/</id>
+    <published>2019-04-09T03:39:01.000Z</published>
+    <updated>2019-04-09T04:27:02.950Z</updated>
     
     <summary type="html">
     
@@ -82,16 +108,16 @@ cat /proc/cpuinfo | grep
       
         
         
-          &lt;h5 id=&quot;大学-《礼记·大学》古本&quot;&gt;&lt;a href=&quot;#大学-《礼记·大学》古本&quot; class=&quot;headerlink&quot; title=&quot;大学 (《礼记·大学》古本)&quot;&gt;&lt;/a&gt;大学
+          &lt;p&gt;昨天一天都在酒店,Jimmy下午有事去忙了&lt;br&gt;晚上聊了很多,有一种奇怪的感觉,不知道是好是坏&lt;br&gt;今天早上起来也是,说了一会话&lt;br&gt;也不知道最后会变成什么样子,各自生活,还会有交集吗&lt;br&gt;王老师的儿子结婚了,4月21号的酒席,小三帮忙张罗我们当初的那些人&lt;br&gt;时
         
       
     
     </summary>
     
-      <category term="classic" scheme="http://hxh.red/categories/classic/"/>
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
     
     
-      <category term="classic" scheme="http://hxh.red/tags/classic/"/>
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   
@@ -522,32 +548,6 @@ sudo mount
       <category term="hexo" scheme="http://hxh.red/tags/hexo/"/>
     
       <category term="hexo-theme-matery" scheme="http://hxh.red/tags/hexo-theme-matery/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20190321</title>
-    <link href="http://hxh.red/2019/03/21/daily-2019-03-21/"/>
-    <id>http://hxh.red/2019/03/21/daily-2019-03-21/</id>
-    <published>2019-03-20T16:00:00.000Z</published>
-    <updated>2019-03-29T04:55:06.257Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;人活一世,总要想清楚一些事&lt;br&gt;大学毕业有很久了 16 年 6 月,现在是 19 年 3 月,过去了有 3 年了将近&lt;br&gt;越来越清晰的认识到这个社会是如此的现实,那些理想的东西大多都不是穷人能够奢望的&lt;br&gt;去年 3
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   
