@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>Mac command</title>
+      <link href="/2099/12/31/mac-command/"/>
+      <url>/2099/12/31/mac-command/</url>
+      
+        <content type="html"><![CDATA[<h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="Mac-command-line-shortcut"><a href="#Mac-command-line-shortcut" class="headerlink" title="Mac command line shortcut"></a>Mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词option b 光标向前移动一个单词option &gt; 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> computer </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> command </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>大学</title>
       <link href="/2099/12/31/classic-da-xue/"/>
       <url>/2099/12/31/classic-da-xue/</url>
@@ -54,23 +79,23 @@
     
     
     <entry>
-      <title>Mac command</title>
-      <link href="/2099/12/31/mac-command/"/>
-      <url>/2099/12/31/mac-command/</url>
+      <title>20190410</title>
+      <link href="/2019/04/10/daily-2019-04-10/"/>
+      <url>/2019/04/10/daily-2019-04-10/</url>
       
-        <content type="html"><![CDATA[<h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="Mac-command-line-shortcut"><a href="#Mac-command-line-shortcut" class="headerlink" title="Mac command line shortcut"></a>Mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词option b 光标向前移动一个单词option &gt; 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre>]]></content>
+        <content type="html"><![CDATA[<p>昨天回深圳的飞机晚点了,搞到11点才到宿舍,一身疲惫的洗洗就睡了<br>晚上Jimmy打来电话了,说着说着就睡着了<br>早上把丢了两天的快递取了<br>突然想起来了,昨天发现一个很巧合的事情,<br>4月20日 时隔三年,我去天津,同样的时间点,也是很巧了,一切好像是为了来个了断还是新的开始<br>昨天回来路上发生了一件很剧情的事,给Jimmy发着微信消息,好像剧情有所进展的时候,发送的消息出现了惊叹号,需要先认证朋友关系,那种发消息只能自己看到的状况发生了两次的<br>早起上班,一切都发生的朦朦胧胧,但是这样朝九晚五的生活好像已经习惯了<br>上午又和Jimmy打电话来着,然后说着说着,大家决定简单点,爱 or 不爱,不要整那么多弯弯绕绕的<br>中午吃饭时间我去南山出入境拿港澳证,然后一路都在思考这个问题,最后有了结果,那就是 爱<br><em>爱就继续，不爱滚蛋，不纠缠过去，不揣测将来，过好现在即可</em><br>和Jimmy约法三章 1戒烟 2戒酒 3减肥<br>下午莫名的小伙伴决定今天聚餐,也好,结束这一些糟心事</p>]]></content>
       
       
       <categories>
           
-          <category> computer </category>
+          <category> diary </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> command </tag>
+            <tag> diary </tag>
             
         </tags>
       
@@ -1616,31 +1641,6 @@
     
     
     <entry>
-      <title>20160701</title>
-      <link href="/2016/07/01/daily-2016-07-01/"/>
-      <url>/2016/07/01/daily-2016-07-01/</url>
-      
-        <content type="html"><![CDATA[<p>我在武汉待了几天,今天Jimmy也来武汉了,一同去了纽涞汗蒸馆</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> diary </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> diary </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>To Jimmy 20160701</title>
       <link href="/2016/07/01/jimmy-to-20160701/"/>
       <url>/2016/07/01/jimmy-to-20160701/</url>
@@ -1658,6 +1658,31 @@
         <tags>
             
             <tag> Jimmy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20160701</title>
+      <link href="/2016/07/01/daily-2016-07-01/"/>
+      <url>/2016/07/01/daily-2016-07-01/</url>
+      
+        <content type="html"><![CDATA[<p>我在武汉待了几天,今天Jimmy也来武汉了,一同去了纽涞汗蒸馆</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
             
         </tags>
       

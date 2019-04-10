@@ -44,6 +44,32 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
+    <title>Mac command</title>
+    <link href="http://hxh.red/2099/12/31/mac-command/"/>
+    <id>http://hxh.red/2099/12/31/mac-command/</id>
+    <published>2099-12-31T15:59:59.000Z</published>
+    <updated>2019-04-05T04:40:11.043Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;mac-safeguard-外部源安装&quot;&gt;&lt;a href=&quot;#mac-safeguard-外部源安装&quot; class=&quot;headerlink&quot; title=&quot;mac safeguard (外部源安装)&quot;&gt;&lt;/a&gt;mac safeguard
+        
+      
+    
+    </summary>
+    
+      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+    
+    
+      <category term="command" scheme="http://hxh.red/tags/command/"/>
+    
+  </entry>
+  
+  <entry>
     <title>大学</title>
     <link href="http://hxh.red/2099/12/31/classic-da-xue/"/>
     <id>http://hxh.red/2099/12/31/classic-da-xue/</id>
@@ -70,11 +96,11 @@ cat /proc/cpuinfo | grep
   </entry>
   
   <entry>
-    <title>Mac command</title>
-    <link href="http://hxh.red/2099/12/31/mac-command/"/>
-    <id>http://hxh.red/2099/12/31/mac-command/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-04-05T04:40:11.043Z</updated>
+    <title>20190410</title>
+    <link href="http://hxh.red/2019/04/10/daily-2019-04-10/"/>
+    <id>http://hxh.red/2019/04/10/daily-2019-04-10/</id>
+    <published>2019-04-10T01:08:43.000Z</published>
+    <updated>2019-04-10T09:17:26.087Z</updated>
     
     <summary type="html">
     
@@ -82,16 +108,16 @@ cat /proc/cpuinfo | grep
       
         
         
-          &lt;h4 id=&quot;mac-safeguard-外部源安装&quot;&gt;&lt;a href=&quot;#mac-safeguard-外部源安装&quot; class=&quot;headerlink&quot; title=&quot;mac safeguard (外部源安装)&quot;&gt;&lt;/a&gt;mac safeguard
+          &lt;p&gt;昨天回深圳的飞机晚点了,搞到11点才到宿舍,一身疲惫的洗洗就睡了&lt;br&gt;晚上Jimmy打来电话了,说着说着就睡着了&lt;br&gt;早上把丢了两天的快递取了&lt;br&gt;突然想起来了,昨天发现一个很巧合的事情,&lt;br&gt;4月20日
         
       
     
     </summary>
     
-      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
     
     
-      <category term="command" scheme="http://hxh.red/tags/command/"/>
+      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
     
   </entry>
   
@@ -520,34 +546,6 @@ sudo mount
     
     
       <category term="md" scheme="http://hxh.red/tags/md/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo-theme-matery</title>
-    <link href="http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/"/>
-    <id>http://hxh.red/2019/03/28/study-hexo-hexo-theme-matery-shi-yong/</id>
-    <published>2019-03-28T09:48:03.000Z</published>
-    <updated>2019-03-31T04:00:32.588Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;hexo-theme-matery&quot;&gt;&lt;a href=&quot;#hexo-theme-matery&quot; class=&quot;headerlink&quot; title=&quot;hexo-theme-matery&quot;&gt;&lt;/a&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="hexo" scheme="http://hxh.red/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="http://hxh.red/tags/hexo/"/>
-    
-      <category term="hexo-theme-matery" scheme="http://hxh.red/tags/hexo-theme-matery/"/>
     
   </entry>
   
