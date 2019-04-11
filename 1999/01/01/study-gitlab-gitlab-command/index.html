@@ -1,0 +1,721 @@
+<!DOCTYPE HTML>
+<html lang="">
+
+
+<head><meta name="generator" content="Hexo 3.8.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="gitlab command, Jay Yang">
+    <meta name="description" content="GitlabInstallhttps://about.gitlab.com/install/
+Gitlab 默认路径#配置路径
+/etc/gitlab/gitlab.rb
+#备份路径
+/var/opt/gitlab/backups
+Gitl">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="renderer" content="webkit|ie-stand|ie-comp">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>gitlab command | Jay Yang</title>
+    <link rel="icon" type="image/png" href="/favicon.png">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/aos/2.3.4/aos.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/animate.css/3.5.1/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/lightgallery/1.6.12/css/lightgallery.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/matery.css">
+    <style type="text/css">
+        
+    </style>
+
+    <script src="https://cdn.staticfile.org/jquery/2.0.0/jquery.min.js"></script>
+<link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
+
+
+<body>
+
+<header class="navbar-fixed">
+    <nav id="headNav" class="bg-color nav-transparent">
+        <div id="navContainer" class="nav-wrapper container">
+            <div class="brand-logo">
+                <a href="/" class="waves-effect waves-light">
+                    
+                    <img src="http://image.hxh.red/images/logo.png" class="logo-img" alt="LOGO">
+                    
+                    <span class="logo-span">Jay Yang</span>
+                </a>
+            </div>
+            
+
+<a href="#" data-target="mobile-nav" class="sidenav-trigger button-collapse"><i class="fa fa-navicon"></i></a>
+<ul class="right">
+    
+    <li class="hide-on-med-and-down">
+        <a href="/" class="waves-effect waves-light">
+            
+            <i class="fa fa-home"></i>
+            
+            <span>Index</span>
+        </a>
+    </li>
+    
+    <li class="hide-on-med-and-down">
+        <a href="/tags" class="waves-effect waves-light">
+            
+            <i class="fa fa-tags"></i>
+            
+            <span>Tags</span>
+        </a>
+    </li>
+    
+    <li class="hide-on-med-and-down">
+        <a href="/categories" class="waves-effect waves-light">
+            
+            <i class="fa fa-bookmark"></i>
+            
+            <span>Categories</span>
+        </a>
+    </li>
+    
+    <li class="hide-on-med-and-down">
+        <a href="/archives" class="waves-effect waves-light">
+            
+            <i class="fa fa-archive"></i>
+            
+            <span>Archives</span>
+        </a>
+    </li>
+    
+    <li class="hide-on-med-and-down">
+        <a href="/about" class="waves-effect waves-light">
+            
+            <i class="fa fa-user-circle-o"></i>
+            
+            <span>About</span>
+        </a>
+    </li>
+    
+    <li class="hide-on-med-and-down">
+        <a href="/friends" class="waves-effect waves-light">
+            
+            <i class="fa fa-address-book"></i>
+            
+            <span>Friends</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="#searchModal" class="modal-trigger waves-effect waves-light">
+            <i id="searchIcon" class="fa fa-search" title="Search"></i>
+        </a>
+    </li>
+</ul>
+
+<div id="mobile-nav" class="side-nav sidenav">
+
+    <div class="mobile-head bg-color">
+        
+        <img src="http://image.hxh.red/images/logo.png" class="logo-img circle responsive-img">
+        
+        <div class="logo-name">Jay Yang</div>
+        <div class="logo-desc">
+            
+            hxh`s bolg
+            
+        </div>
+    </div>
+
+    
+
+    <ul class="menu-list mobile-menu-list">
+        
+        <li>
+            <a href="/" class="waves-effect waves-light">
+                
+                <i class="fa fa-fw fa-home"></i>
+                
+                Index
+            </a>
+        </li>
+        
+        <li>
+            <a href="/tags" class="waves-effect waves-light">
+                
+                <i class="fa fa-fw fa-tags"></i>
+                
+                Tags
+            </a>
+        </li>
+        
+        <li>
+            <a href="/categories" class="waves-effect waves-light">
+                
+                <i class="fa fa-fw fa-bookmark"></i>
+                
+                Categories
+            </a>
+        </li>
+        
+        <li>
+            <a href="/archives" class="waves-effect waves-light">
+                
+                <i class="fa fa-fw fa-archive"></i>
+                
+                Archives
+            </a>
+        </li>
+        
+        <li>
+            <a href="/about" class="waves-effect waves-light">
+                
+                <i class="fa fa-fw fa-user-circle-o"></i>
+                
+                About
+            </a>
+        </li>
+        
+        <li>
+            <a href="/friends" class="waves-effect waves-light">
+                
+                <i class="fa fa-fw fa-address-book"></i>
+                
+                Friends
+            </a>
+        </li>
+        
+        
+    </ul>
+</div>
+
+        </div>
+
+        
+    </nav>
+
+</header>
+
+
+
+
+
+<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/61.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <div class="brand">
+                    <div class="description center-align post-title">
+                        gitlab command
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<main class="post-container content">
+
+    
+    <link rel="stylesheet" href="https://cdn.staticfile.org/tocbot/4.5.1/tocbot.css">
+<style>
+    #articleContent h1::before,
+    #articleContent h2::before,
+    #articleContent h3::before,
+    #articleContent h4::before,
+    #articleContent h5::before,
+    #articleContent h6::before {
+        display: block;
+        content: " ";
+        height: 100px;
+        margin-top: -100px;
+        visibility: hidden;
+    }
+
+    #articleContent :focus {
+        outline: none;
+    }
+
+    .toc-fixed {
+        position: fixed;
+        top: 64px;
+    }
+
+    .toc-widget {
+        padding-left: 20px;
+    }
+
+    .toc-widget .toc-title {
+        margin: 35px 0 15px 0;
+        padding-left: 17px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.5rem;
+    }
+
+    .toc-widget ol {
+        padding: 0;
+        list-style: none;
+    }
+
+    #toc-content ol {
+        padding-left: 10px;
+    }
+
+    #toc-content ol li {
+        padding-left: 10px;
+    }
+
+    #toc-content .toc-link:hover {
+        color: #42b983;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    #toc-content .toc-link::before {
+        background-color: transparent;
+        max-height: 25px;
+    }
+
+    #toc-content .is-active-link {
+        color: #42b983;
+    }
+
+    #toc-content .is-active-link::before {
+        background-color: #42b983;
+    }
+
+    #floating-toc-btn {
+        position: fixed;
+        right: 20px;
+        bottom: 76px;
+        padding-top: 15px;
+        margin-bottom: 0;
+        z-index: 998;
+    }
+
+    #floating-toc-btn .btn-floating {
+        width: 48px;
+        height: 48px;
+    }
+
+    #floating-toc-btn .btn-floating i {
+        line-height: 48px;
+        font-size: 1.4rem;
+    }
+</style>
+<div class="row">
+    <div id="main-content" class="col s12 m12 l9">
+        <!-- 文章内容详情 -->
+<div id="artDetail">
+    <div class="card">
+        <div class="card-content article-info">
+            <div class="row tag-cate">
+                <div class="col s7">
+                    
+                    <div class="article-tag">
+                        
+                            <a href="/tags/gitlab/" target="_blank">
+                                <span class="chip bg-color">gitlab</span>
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+                <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fa fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/gitlab/" class="post-category" target="_blank">
+                                gitlab
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="post-info">
+                <div class="post-date info-break-policy">
+                    <i class="fa fa-calendar-minus-o fa-fw"></i>Publish Date:&nbsp;&nbsp;
+                    1999-01-01
+                </div>
+
+                
+                    
+                    <div class="info-break-policy">
+                        <i class="fa fa-file-word-o fa-fw"></i>Word Count:&nbsp;&nbsp;
+                        391
+                    </div>
+                    
+
+                    
+                    <div class="info-break-policy">
+                        <i class="fa fa-clock-o fa-fw"></i>Read Times:&nbsp;&nbsp;
+                        1 Min
+                    </div>
+                    
+                
+            </div>
+        </div>
+        <hr class="clearfix">
+        <div class="card-content article-card-content">
+            <div id="articleContent">
+                <h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/" target="_blank" rel="noopener">https://about.gitlab.com/install/</a></p>
+<h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre><code>#配置路径
+/etc/gitlab/gitlab.rb
+#备份路径
+/var/opt/gitlab/backups
+</code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre><code>sudo gitlab-rake gitlab:backup:create
+</code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre><code>sudo  ./gitlab-ctl stop unicorn
+sudo  ./gitlab-ctl stop sidekiq
+sudo  ./gitlab-rake gitlab:backup:restore BACKUP=&#39;备份的identity&#39;
+sudo  ./gitlab-ctl start
+</code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre><code>sudo gitlab-ctl status
+sudo gitlab-ctl reconfigure
+sudo gitlab-ctl start
+sudo gitlab-ctl stop
+sudo gitlab-ctl restart
+sudo gitlab-ctl tail
+</code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre><code>sudo gitlab-ctl tail redis
+</code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre><code>sudo gitlab-ctl tail postgresql
+</code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre><code>sudo gitlab-ctl tail gitlab-workhorse
+</code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre><code>sudo gitlab-ctl tail logrotate
+</code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre><code>sudo gitlab-ctl tail nginx
+</code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre><code>sudo gitlab-ctl tail sidekiq
+</code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre><code>sudo gitlab-ctl tail unicorn
+</code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre><code>sudo gitlab-rails console production
+
+user = User.where(id: 1).first
+user.password = ‘新密码‘
+user.password_confirmation = ‘新密码‘
+user.save!
+</code></pre><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><pre><code>Guest：可以创建issue、发表评论，不能读写版本库
+Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限
+Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限
+Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限
+Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限
+
+Private：只有组成员才能看到
+Internal：只要登录的用户就能看到
+Public：所有人都能看到
+</code></pre><blockquote>
+<p>ps:开源项目和组设置的是 Internal</p>
+</blockquote>
+
+            </div>
+            <hr>
+
+            
+
+            <div class="reprint">
+                <p>
+                    <span class="reprint-tip">
+                        <i class="fa fa-exclamation-circle"></i>&nbsp;&nbsp;No reprint:
+                    </span>
+                    <a href="http://blog.hxh.red" class="b-link-green">Jay Yang</a>
+                    <i class="fa fa-angle-right fa-lg fa-fw text-color"></i>
+                    <a href="/1999/01/01/study-gitlab-gitlab-command/" class="b-link-green">gitlab command</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <article id="prenext-posts" class="prev-next articles">
+    <div class="row article-row">
+        
+        <div class="article col s12 m6 overflow-policy" data-aos="fade-up">
+            <div class="article-badge left-badge text-color">
+                <i class="fa fa-chevron-left"></i>&nbsp;Previous</div>
+            <div class="card">
+                <a href="/1999/01/01/study-english-time-date/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="http://image.hxh.red/images/featureimages/64.jpg" class="responsive-img" alt="time & date">
+                        
+                        <span class="card-title">time & date</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">time &amp; datemonthJanuary
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+wenkendMonday
+</div>
+                    <div class="publish-info">
+                        <span class="publish-date">
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>1999-01-01
+                        </span>
+                        <span class="publish-author">
+                            
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/english/" class="post-category" target="_blank">
+                                    english
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/english/" target="_blank">
+                        <span class="chip bg-color">english</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="article col s12 m6 overflow-policy" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                Next&nbsp;<i class="fa fa-chevron-right"></i>
+            </div>
+            <div class="card">
+                <a href="/1999/01/01/coding-dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="http://image.hxh.red/images/featureimages/27.jpg" class="responsive-img" alt="代码整洁之道内容概要">
+                        
+                        <span class="card-title">代码整洁之道内容概要</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">读了代码整洁之道，觉得这本书写的很好，所以就将里面自己觉得很经典的内容记录下来，作为自己以后写代码的标准和准则。同时也为那些曾经困惑过的人一点参考吧！
+一、在正式开始之前，我们先思考几个几个问题：1.需求与代码哪个重要？答：并不是所有的产品</div>
+                    <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>1999-01-01
+                            </span>
+                        <span class="publish-author">
+                            
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/coding/" class="post-category" target="_blank">
+                                    coding
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/整洁代码/" target="_blank">
+                        <span class="chip bg-color">整洁代码</span>
+                    </a>
+                    
+                    <a href="/tags/重构/" target="_blank">
+                        <span class="chip bg-color">重构</span>
+                    </a>
+                    
+                    <a href="/tags/测试/" target="_blank">
+                        <span class="chip bg-color">测试</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+</article>
+</div>
+
+
+    </div>
+    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
+        <div class="toc-widget">
+            <div class="toc-title"><i class="fa fa-list-alt"></i>&nbsp;&nbsp;TOC</div>
+            <div id="toc-content"></div>
+        </div>
+    </div>
+</div>
+
+<!-- TOC 悬浮按钮. -->
+
+<div id="floating-toc-btn" class="hide-on-med-and-down">
+    <a class="btn-floating btn-large bg-color">
+        <i class="fa fa-list"></i>
+    </a>
+</div>
+
+
+<script src="https://cdn.staticfile.org/tocbot/4.5.1/tocbot.min.js"></script>
+<script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            // headingsOffset: -205,
+            headingSelector: 'h3, h4, h5, h6'
+        });
+
+        // modify the toc link href to support Chinese.
+        let i = 0;
+        let tocHeading = 'toc-heading-';
+        $('#toc-content a').each(function () {
+            $(this).attr('href', '#' + tocHeading + (++i));
+        });
+
+        // modify the heading title id to support Chinese.
+        i = 0;
+        $('#articleContent').children('h3, h4, h5, h6').each(function () {
+            $(this).attr('id', tocHeading + (++i));
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).slideUp(500);
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).slideDown(500);
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script>
+    
+
+</main>
+
+
+<footer class="bg-color" style="padding:10px 0px">
+  <div class="container center-align">
+    <div class="col s12 m4 l4 social-link">
+      
+
+
+    <a href="mailto:hyj01@foxmail.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+        <i class="fa fa-envelope-open"></i>
+    </a>
+
+
+
+    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=15527849567" class="tooltipped" data-tooltip="QQ联系我: 15527849567" data-position="top" data-delay="50">
+        <i class="fa fa-qq"></i>
+    </a>
+
+
+
+    <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
+        <i class="fa fa-rss"></i>
+    </a>
+
+    </div>
+    <div class="col s12 m8 l8 copy-right">
+      <div>
+        <span class="white-color">Copyright©2016-2019</span>&nbsp;|&nbsp;
+        <span class="white-color">Jay Yang</span>&nbsp;|&nbsp;
+        <a target="_blank" href="http://www.miitbeian.gov.cn" rel="noopener" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">&nbsp;鄂ICP备18006161号-1</a>&nbsp;|&nbsp; 
+        <span class="white-color">62.2k</span> 
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="progress-bar"></div>
+
+
+<!-- 搜索遮罩框 -->
+<div id="searchModal" class="modal">
+    <div class="modal-content">
+        <div class="search-header">
+            <span class="title"><i class="fa fa-search"></i>&nbsp;&nbsp;Search</span>
+            <input type="search" id="searchInput" name="s" placeholder="Please enter a search keyword" class="search-input">
+        </div>
+        <div id="searchResult" style="max-height: 100px"></div>
+    </div>
+</div>
+
+<script src="/js/search.js"></script>
+<script type="text/javascript">
+$(function () {
+    searchFunc("/" + "search.xml", 'searchInput', 'searchResult');
+});
+</script>
+<!-- 回到顶部按钮 -->
+<div id="backTop" class="top-scroll">
+    <a class="btn-floating btn-large waves-effect waves-light" href="#!">
+        <i class="fa fa-angle-up"></i>
+    </a>
+</div>
+
+
+<script src="https://cdn.staticfile.org/materialize/1.0.0/js/materialize.min.js"></script>
+<script src="https://cdn.staticfile.org/masonry/4.2.2/masonry.pkgd.min.js"></script>
+<script src="https://cdn.staticfile.org/aos/2.3.4/aos.js"></script>
+<script src="https://cdn.staticfile.org/scrollprogress/3.0.2/scrollProgress.min.js"></script>
+<script src="https://cdn.staticfile.org/lightgallery/1.6.12/js/lightgallery-all.min.js"></script>
+<script src="/js/matery.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+    <script src="/js/clicklove.js"></script>
+
+
+</body>
+</html>

@@ -5,9 +5,9 @@
   <subtitle>很傻 太天真</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hxh.red/"/>
-  <updated>2019-03-31T04:04:35.857Z</updated>
-  <id>http://hxh.red/</id>
+  <link href="http://blog.hxh.red/"/>
+  <updated>2019-04-11T09:24:47.205Z</updated>
+  <id>http://blog.hxh.red/</id>
   
   <author>
     <name>Jay Yang</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux command</title>
-    <link href="http://hxh.red/2099/12/31/linux-command/"/>
-    <id>http://hxh.red/2099/12/31/linux-command/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-31T04:04:35.857Z</updated>
+    <title>20190411</title>
+    <link href="http://blog.hxh.red/2019/04/11/daily-2019-04-11/"/>
+    <id>http://blog.hxh.red/2019/04/11/daily-2019-04-11/</id>
+    <published>2019-04-11T05:07:15.000Z</published>
+    <updated>2019-04-11T09:24:47.205Z</updated>
     
     <summary type="html">
     
@@ -29,76 +29,24 @@
       
         
         
-          &lt;h4 id=&quot;cpu-信息&quot;&gt;&lt;a href=&quot;#cpu-信息&quot; class=&quot;headerlink&quot; title=&quot;cpu 信息&quot;&gt;&lt;/a&gt;cpu 信息&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;#查看物理 CPU 个数
-cat /proc/cpuinfo | grep
+          &lt;p&gt;大早上居然起不来,浑身无力的感觉&lt;br&gt;今天公司事情比较多,还没来得及喘口气&lt;br&gt;今天算是过得比较充实了,忙了一天,都在解决工作上的问题&lt;/p&gt;
+
         
       
     
     </summary>
     
-      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="command" scheme="http://hxh.red/tags/command/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac command</title>
-    <link href="http://hxh.red/2099/12/31/mac-command/"/>
-    <id>http://hxh.red/2099/12/31/mac-command/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-04-05T04:40:11.043Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;mac-safeguard-外部源安装&quot;&gt;&lt;a href=&quot;#mac-safeguard-外部源安装&quot; class=&quot;headerlink&quot; title=&quot;mac safeguard (外部源安装)&quot;&gt;&lt;/a&gt;mac safeguard
-        
-      
-    
-    </summary>
-    
-      <category term="computer" scheme="http://hxh.red/categories/computer/"/>
-    
-    
-      <category term="command" scheme="http://hxh.red/tags/command/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大学</title>
-    <link href="http://hxh.red/2099/12/31/classic-da-xue/"/>
-    <id>http://hxh.red/2099/12/31/classic-da-xue/</id>
-    <published>2099-12-31T15:59:59.000Z</published>
-    <updated>2019-03-29T04:54:24.718Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h5 id=&quot;大学-《礼记·大学》古本&quot;&gt;&lt;a href=&quot;#大学-《礼记·大学》古本&quot; class=&quot;headerlink&quot; title=&quot;大学 (《礼记·大学》古本)&quot;&gt;&lt;/a&gt;大学
-        
-      
-    
-    </summary>
-    
-      <category term="classic" scheme="http://hxh.red/categories/classic/"/>
-    
-    
-      <category term="classic" scheme="http://hxh.red/tags/classic/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190410</title>
-    <link href="http://hxh.red/2019/04/10/daily-2019-04-10/"/>
-    <id>http://hxh.red/2019/04/10/daily-2019-04-10/</id>
+    <link href="http://blog.hxh.red/2019/04/10/daily-2019-04-10/"/>
+    <id>http://blog.hxh.red/2019/04/10/daily-2019-04-10/</id>
     <published>2019-04-10T01:08:43.000Z</published>
     <updated>2019-04-10T09:17:26.087Z</updated>
     
@@ -114,17 +62,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190409</title>
-    <link href="http://hxh.red/2019/04/09/daily-2019-04-09/"/>
-    <id>http://hxh.red/2019/04/09/daily-2019-04-09/</id>
+    <link href="http://blog.hxh.red/2019/04/09/daily-2019-04-09/"/>
+    <id>http://blog.hxh.red/2019/04/09/daily-2019-04-09/</id>
     <published>2019-04-09T03:39:01.000Z</published>
     <updated>2019-04-09T04:27:02.950Z</updated>
     
@@ -140,17 +88,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190407</title>
-    <link href="http://hxh.red/2019/04/07/daily-2019-04-07/"/>
-    <id>http://hxh.red/2019/04/07/daily-2019-04-07/</id>
+    <link href="http://blog.hxh.red/2019/04/07/daily-2019-04-07/"/>
+    <id>http://blog.hxh.red/2019/04/07/daily-2019-04-07/</id>
     <published>2019-04-07T14:15:30.000Z</published>
     <updated>2019-04-07T14:18:40.602Z</updated>
     
@@ -167,17 +115,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190406</title>
-    <link href="http://hxh.red/2019/04/06/daily-2019-04-06/"/>
-    <id>http://hxh.red/2019/04/06/daily-2019-04-06/</id>
+    <link href="http://blog.hxh.red/2019/04/06/daily-2019-04-06/"/>
+    <id>http://blog.hxh.red/2019/04/06/daily-2019-04-06/</id>
     <published>2019-04-06T01:25:16.000Z</published>
     <updated>2019-04-06T15:37:35.159Z</updated>
     
@@ -193,17 +141,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190405</title>
-    <link href="http://hxh.red/2019/04/05/daily-2019-04-05/"/>
-    <id>http://hxh.red/2019/04/05/daily-2019-04-05/</id>
+    <link href="http://blog.hxh.red/2019/04/05/daily-2019-04-05/"/>
+    <id>http://blog.hxh.red/2019/04/05/daily-2019-04-05/</id>
     <published>2019-04-04T23:52:26.000Z</published>
     <updated>2019-04-06T00:25:00.405Z</updated>
     
@@ -219,17 +167,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190404</title>
-    <link href="http://hxh.red/2019/04/04/daily-2019-04-04/"/>
-    <id>http://hxh.red/2019/04/04/daily-2019-04-04/</id>
+    <link href="http://blog.hxh.red/2019/04/04/daily-2019-04-04/"/>
+    <id>http://blog.hxh.red/2019/04/04/daily-2019-04-04/</id>
     <published>2019-04-04T00:55:04.000Z</published>
     <updated>2019-04-06T13:39:10.227Z</updated>
     
@@ -245,17 +193,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190403</title>
-    <link href="http://hxh.red/2019/04/03/daily-2019-04-03/"/>
-    <id>http://hxh.red/2019/04/03/daily-2019-04-03/</id>
+    <link href="http://blog.hxh.red/2019/04/03/daily-2019-04-03/"/>
+    <id>http://blog.hxh.red/2019/04/03/daily-2019-04-03/</id>
     <published>2019-04-03T10:03:58.000Z</published>
     <updated>2019-04-03T12:12:14.894Z</updated>
     
@@ -271,45 +219,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>renameImg</title>
-    <link href="http://hxh.red/2019/03/31/coding-renameimg/"/>
-    <id>http://hxh.red/2019/03/31/coding-renameimg/</id>
-    <published>2019-03-31T02:10:38.000Z</published>
-    <updated>2019-04-03T10:44:58.748Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;修改指定文件夹下的图片名称按照序号重命名&quot;&gt;&lt;a href=&quot;#修改指定文件夹下的图片名称按照序号重命名&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="coding" scheme="http://hxh.red/categories/coding/"/>
-    
-    
-      <category term="coding" scheme="http://hxh.red/tags/coding/"/>
-    
-      <category term="java" scheme="http://hxh.red/tags/java/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190331</title>
-    <link href="http://hxh.red/2019/03/31/daily-2019-03-31/"/>
-    <id>http://hxh.red/2019/03/31/daily-2019-03-31/</id>
+    <link href="http://blog.hxh.red/2019/03/31/daily-2019-03-31/"/>
+    <id>http://blog.hxh.red/2019/03/31/daily-2019-03-31/</id>
     <published>2019-03-31T00:58:28.000Z</published>
     <updated>2019-03-31T05:16:08.911Z</updated>
     
@@ -325,17 +245,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190330</title>
-    <link href="http://hxh.red/2019/03/30/daily-2019-03-30/"/>
-    <id>http://hxh.red/2019/03/30/daily-2019-03-30/</id>
+    <link href="http://blog.hxh.red/2019/03/30/daily-2019-03-30/"/>
+    <id>http://blog.hxh.red/2019/03/30/daily-2019-03-30/</id>
     <published>2019-03-29T23:44:35.000Z</published>
     <updated>2019-03-31T01:14:16.195Z</updated>
     
@@ -351,154 +271,17 @@ cat /proc/cpuinfo | grep
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>mount command</title>
-    <link href="http://hxh.red/2019/03/29/study-linux-mount/"/>
-    <id>http://hxh.red/2019/03/29/study-linux-mount/</id>
-    <published>2019-03-29T06:28:23.000Z</published>
-    <updated>2019-03-29T06:30:54.140Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;mount&quot;&gt;&lt;a href=&quot;#mount&quot; class=&quot;headerlink&quot; title=&quot;mount&quot;&gt;&lt;/a&gt;mount&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;sudo mkdir /bak
-sudo fdisk -l
-sudo mount
-        
-      
-    
-    </summary>
-    
-      <category term="linux" scheme="http://hxh.red/categories/linux/"/>
-    
-    
-      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
-    
-      <category term="mount" scheme="http://hxh.red/tags/mount/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>apt-get command</title>
-    <link href="http://hxh.red/2019/03/29/study-linux-apt-get/"/>
-    <id>http://hxh.red/2019/03/29/study-linux-apt-get/</id>
-    <published>2019-03-29T06:24:33.000Z</published>
-    <updated>2019-03-29T06:45:07.995Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;apt-get&quot;&gt;&lt;a href=&quot;#apt-get&quot; class=&quot;headerlink&quot; title=&quot;apt-get&quot;&gt;&lt;/a&gt;apt-get&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;apt-get [选项] 命令
-&lt;/code&gt;&lt;/pre&gt;&lt;h5
-        
-      
-    
-    </summary>
-    
-      <category term="linux" scheme="http://hxh.red/categories/linux/"/>
-    
-    
-      <category term="apt-get" scheme="http://hxh.red/tags/apt-get/"/>
-    
-      <category term="shell" scheme="http://hxh.red/tags/shell/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>gitlab command</title>
-    <link href="http://hxh.red/2019/03/29/study-gitlab-gitlab-command/"/>
-    <id>http://hxh.red/2019/03/29/study-gitlab-gitlab-command/</id>
-    <published>2019-03-29T06:12:19.000Z</published>
-    <updated>2019-03-29T06:22:01.337Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;Gitlab&quot;&gt;&lt;a href=&quot;#Gitlab&quot; class=&quot;headerlink&quot; title=&quot;Gitlab&quot;&gt;&lt;/a&gt;Gitlab&lt;/h4&gt;&lt;h5 id=&quot;Install&quot;&gt;&lt;a href=&quot;#Install&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="gitlab" scheme="http://hxh.red/categories/gitlab/"/>
-    
-    
-      <category term="gitlab" scheme="http://hxh.red/tags/gitlab/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>time &amp; date</title>
-    <link href="http://hxh.red/2019/03/29/study-english-time-date/"/>
-    <id>http://hxh.red/2019/03/29/study-english-time-date/</id>
-    <published>2019-03-29T06:07:14.000Z</published>
-    <updated>2019-03-29T06:09:12.385Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;time-amp-date&quot;&gt;&lt;a href=&quot;#time-amp-date&quot; class=&quot;headerlink&quot; title=&quot;time &amp;amp; date&quot;&gt;&lt;/a&gt;time &amp;amp; date&lt;/h4&gt;&lt;h5 id=&quot;month&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="english" scheme="http://hxh.red/categories/english/"/>
-    
-    
-      <category term="english" scheme="http://hxh.red/tags/english/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>vscode配置</title>
-    <link href="http://hxh.red/2019/03/29/study-vue-vscode-pei-zhi/"/>
-    <id>http://hxh.red/2019/03/29/study-vue-vscode-pei-zhi/</id>
-    <published>2019-03-29T05:57:58.000Z</published>
-    <updated>2019-04-05T00:44:41.792Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;vscode-config&quot;&gt;&lt;a href=&quot;#vscode-config&quot; class=&quot;headerlink&quot; title=&quot;vscode config&quot;&gt;&lt;/a&gt;vscode config&lt;/h4&gt;&lt;pre class=&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="js" scheme="http://hxh.red/categories/js/"/>
-    
-    
-      <category term="vscode" scheme="http://hxh.red/tags/vscode/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>20190329</title>
-    <link href="http://hxh.red/2019/03/29/daily-2019-03-29/"/>
-    <id>http://hxh.red/2019/03/29/daily-2019-03-29/</id>
+    <link href="http://blog.hxh.red/2019/03/29/daily-2019-03-29/"/>
+    <id>http://blog.hxh.red/2019/03/29/daily-2019-03-29/</id>
     <published>2019-03-29T04:56:49.000Z</published>
     <updated>2019-03-29T13:25:20.566Z</updated>
     
@@ -516,19 +299,19 @@ sudo mount
     
     </summary>
     
-      <category term="diary" scheme="http://hxh.red/categories/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="diary" scheme="http://hxh.red/tags/diary/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
   <entry>
-    <title>Md 文档支持的代码块引用语言高亮</title>
-    <link href="http://hxh.red/2019/03/29/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
-    <id>http://hxh.red/2019/03/29/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/</id>
-    <published>2019-03-29T03:13:56.000Z</published>
-    <updated>2019-03-29T04:02:19.952Z</updated>
+    <title>20190321</title>
+    <link href="http://blog.hxh.red/2019/03/21/daily-2019-03-21/"/>
+    <id>http://blog.hxh.red/2019/03/21/daily-2019-03-21/</id>
+    <published>2019-03-20T16:00:00.000Z</published>
+    <updated>2019-03-29T04:55:06.257Z</updated>
     
     <summary type="html">
     
@@ -536,16 +319,226 @@ sudo mount
       
         
         
-          &lt;h4 id=&quot;Md-文档支持的代码块引用语言高亮&quot;&gt;&lt;a href=&quot;#Md-文档支持的代码块引用语言高亮&quot; class=&quot;headerlink&quot; title=&quot;Md 文档支持的代码块引用语言高亮&quot;&gt;&lt;/a&gt;Md 文档支持的代码块引用语言高亮&lt;/h4&gt;&lt;h5
+          &lt;p&gt;人活一世,总要想清楚一些事&lt;br&gt;大学毕业有很久了 16 年 6 月,现在是 19 年 3 月,过去了有 3 年了将近&lt;br&gt;越来越清晰的认识到这个社会是如此的现实,那些理想的东西大多都不是穷人能够奢望的&lt;br&gt;去年 3
         
       
     
     </summary>
     
-      <category term="md" scheme="http://hxh.red/categories/md/"/>
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
     
     
-      <category term="md" scheme="http://hxh.red/tags/md/"/>
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>new year</title>
+    <link href="http://blog.hxh.red/2019/01/01/essays-new-year/"/>
+    <id>http://blog.hxh.red/2019/01/01/essays-new-year/</id>
+    <published>2018-12-31T16:00:00.000Z</published>
+    <updated>2019-03-28T13:07:42.911Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;元旦&lt;br&gt;这是一个跨年夜,步入 2019
+        
+      
+    
+    </summary>
+    
+      <category term="essays" scheme="http://blog.hxh.red/categories/essays/"/>
+    
+    
+      <category term="essays" scheme="http://blog.hxh.red/tags/essays/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20180613</title>
+    <link href="http://blog.hxh.red/2018/06/23/daily-2018-06-13/"/>
+    <id>http://blog.hxh.red/2018/06/23/daily-2018-06-13/</id>
+    <published>2018-06-22T16:00:00.000Z</published>
+    <updated>2019-03-28T13:05:56.969Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天我有一节英孚的课,然后我也到了中心,最后我没有进去教室&lt;br&gt;i want to said “if i can speak English like speak Chinese ,i will be glad”&lt;br&gt;youdao said “I would be
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20180620</title>
+    <link href="http://blog.hxh.red/2018/06/20/daily-2018-06-20/"/>
+    <id>http://blog.hxh.red/2018/06/20/daily-2018-06-20/</id>
+    <published>2018-06-19T16:00:00.000Z</published>
+    <updated>2019-03-28T13:05:56.969Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;working&lt;br&gt;这家公司待了快一年,现在的自己是个什么状态 I have been in the company for one year. What is my status now ?&lt;br&gt;趋于安逸,不愿追逐,惰于学习,工作打盹,思念成疾,心如死水&lt;br&gt;my
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20180616</title>
+    <link href="http://blog.hxh.red/2018/06/16/daily-2018-06-16/"/>
+    <id>http://blog.hxh.red/2018/06/16/daily-2018-06-16/</id>
+    <published>2018-06-15T16:00:00.000Z</published>
+    <updated>2019-03-28T13:05:56.963Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;肉食社会&lt;br&gt;出了大学的生活真的是让人捉急,偌大的城市,都没有一个能谈天说地的人&lt;br&gt;大家都很忙,来不及照顾你的情绪,很累,生活在社会的底层,少壮不努力老大徒伤悲,以前只是在书上看到,现在就在生活中,好像我描述的事情没有丝毫唯美的文字,看着就很粗硬,不好玩&lt;br&gt;my
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>i think about the world</title>
+    <link href="http://blog.hxh.red/2018/05/29/essays-i-think-about-the-world/"/>
+    <id>http://blog.hxh.red/2018/05/29/essays-i-think-about-the-world/</id>
+    <published>2018-05-29T01:15:14.000Z</published>
+    <updated>2019-03-31T04:19:49.356Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;什么是大学生？&quot;&gt;&lt;a href=&quot;#什么是大学生？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="essays" scheme="http://blog.hxh.red/categories/essays/"/>
+    
+    
+      <category term="essays" scheme="http://blog.hxh.red/tags/essays/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>To Jimmy 20180520</title>
+    <link href="http://blog.hxh.red/2018/05/20/jimmy-to-20180520/"/>
+    <id>http://blog.hxh.red/2018/05/20/jimmy-to-20180520/</id>
+    <published>2018-05-19T16:00:00.000Z</published>
+    <updated>2019-03-28T13:44:05.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;jimmy&lt;br&gt;嘿，我是黄小黄，我找到我家吉祥了，谢谢你&lt;br&gt;大千世界，坚定的守着这份爱，始终如一，爱你，宝贝&lt;br&gt;记得两年前第一次给你写信时候的激动，很久没有给你以这种方式传达我的情感了，回首看着以往的书信，青涩的没有头脑的文字，花了很大力气，其实就是为了告诉你，我
+        
+      
+    
+    </summary>
+    
+      <category term="Jimmy" scheme="http://blog.hxh.red/categories/jimmy/"/>
+    
+    
+      <category term="Jimmy" scheme="http://blog.hxh.red/tags/jimmy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20180513</title>
+    <link href="http://blog.hxh.red/2018/05/13/daily-2018-05-13/"/>
+    <id>http://blog.hxh.red/2018/05/13/daily-2018-05-13/</id>
+    <published>2018-05-12T16:00:00.000Z</published>
+    <updated>2019-03-28T13:05:56.948Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;快一年了，2017.7.13&lt;br&gt;每个周末都会患得患失，已经成了习惯，譬如现在这个时间点，面对生活的压力，我不知道这是不是压力，已经快喘不过气了，但还是得努力得活着&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20180421</title>
+    <link href="http://blog.hxh.red/2018/04/21/daily-2018-04-21/"/>
+    <id>http://blog.hxh.red/2018/04/21/daily-2018-04-21/</id>
+    <published>2018-04-20T16:00:00.000Z</published>
+    <updated>2019-03-28T13:05:56.931Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;很多时候都有睡不着的时候，但是很少有这种看着时间一点点过去&lt;/p&gt;
+&lt;p&gt;那是我很小的时候，妈妈去上下午班，晚上 12
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
     
   </entry>
   
