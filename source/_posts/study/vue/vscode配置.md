@@ -70,6 +70,13 @@ img:
   "editor.renderWhitespace": "none",
   "workbench.activityBar.visible": true,
   "workbench.statusBar.visible": true,
-  "git.autoStash": true
+  "git.autoStash": true,
+  "files.exclude": {
+    "**/.deploy_git": true,
+    "**/.vscode": true,
+    "**/db.json": true,
+    "**/node_modules": true,
+    "**/public": true
+  }
 }
 ```
