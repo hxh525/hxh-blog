@@ -5,7 +5,7 @@ tags:
   - mount 
   - shell
 title: mount command
-date: 2019-03-29 14:28:23
+date: 1999-01-01 00:00:00
 img:
 ---
 

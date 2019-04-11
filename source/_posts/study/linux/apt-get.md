@@ -5,7 +5,7 @@ tags:
     - apt-get 
     - shell
 title: apt-get command
-date: 2019-03-29 14:24:33
+date: 1999-01-01 00:00:00
 img:
 ---
 

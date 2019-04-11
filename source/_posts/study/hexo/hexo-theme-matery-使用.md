@@ -1,7 +1,7 @@
 ---
 title: hexo-theme-matery
 author: Jay Yang
-date: 2019-03-28 17:48:03
+date: 1999-01-01 00:00:00
 categories: hexo
 tags:
   - hexo
