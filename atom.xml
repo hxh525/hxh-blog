@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.hxh.red/"/>
-  <updated>2019-04-18T02:18:47.980Z</updated>
+  <updated>2019-04-19T17:12:57.811Z</updated>
   <id>http://blog.hxh.red/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>20190418</title>
-    <link href="http://blog.hxh.red/2019/04/18/daily-2019-04-18/"/>
-    <id>http://blog.hxh.red/2019/04/18/daily-2019-04-18/</id>
-    <published>2019-04-18T02:15:55.000Z</published>
-    <updated>2019-04-18T02:18:47.980Z</updated>
+    <title>20190420</title>
+    <link href="http://blog.hxh.red/2019/04/20/daily-2019-04-20/"/>
+    <id>http://blog.hxh.red/2019/04/20/daily-2019-04-20/</id>
+    <published>2019-04-19T17:12:12.000Z</published>
+    <updated>2019-04-19T17:12:57.811Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,60 @@
       
         
         
-          &lt;p&gt;不知道为什么,手臂肌肉开始酸痛了&lt;br&gt;第二天从新窝出发来公司&lt;br&gt;换了公交出行,结果发现堵得一塌糊涂,简直没法按时上班&lt;/p&gt;
+          &lt;p&gt;未来,我希望能和自己喜欢的人一起抱着看电视&lt;/p&gt;
 
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20190419</title>
+    <link href="http://blog.hxh.red/2019/04/19/daily-2019-04-19/"/>
+    <id>http://blog.hxh.red/2019/04/19/daily-2019-04-19/</id>
+    <published>2019-04-19T00:52:11.000Z</published>
+    <updated>2019-04-19T17:12:03.047Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨天大晚上分配了任务,说周末要加班,可惜了我周末需要去天津&lt;br&gt;争取今天把事情弄完,下周回来真的要安心备考了,不然真的可能考挂了&lt;br&gt;今天也是坐公交,但是一切很顺利的样子,公交加自行车&lt;br&gt;下暴雨了,冰箱,花洒都弄好了,明天洗衣机到&lt;br&gt;看到的电视都是超级的励志&lt;b
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20190418</title>
+    <link href="http://blog.hxh.red/2019/04/18/daily-2019-04-18/"/>
+    <id>http://blog.hxh.red/2019/04/18/daily-2019-04-18/</id>
+    <published>2019-04-18T02:15:55.000Z</published>
+    <updated>2019-04-19T00:52:00.198Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;不知道为什么,手臂肌肉开始酸痛了&lt;br&gt;第二天从新窝出发来公司&lt;br&gt;换了公交出行,结果发现堵得一塌糊涂,简直没法按时上班&lt;br&gt;今天办了电信宽带,99/月,贵得很&lt;br&gt;免费弄了个 4k
         
       
     
@@ -487,58 +539,6 @@
     
     
       <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20190321</title>
-    <link href="http://blog.hxh.red/2019/03/21/daily-2019-03-21/"/>
-    <id>http://blog.hxh.red/2019/03/21/daily-2019-03-21/</id>
-    <published>2019-03-20T16:00:00.000Z</published>
-    <updated>2019-03-29T04:55:06.257Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;人活一世,总要想清楚一些事&lt;br&gt;大学毕业有很久了 16 年 6 月,现在是 19 年 3 月,过去了有 3 年了将近&lt;br&gt;越来越清晰的认识到这个社会是如此的现实,那些理想的东西大多都不是穷人能够奢望的&lt;br&gt;去年 3
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>new year</title>
-    <link href="http://blog.hxh.red/2019/01/01/essays-new-year/"/>
-    <id>http://blog.hxh.red/2019/01/01/essays-new-year/</id>
-    <published>2018-12-31T16:00:00.000Z</published>
-    <updated>2019-03-28T13:07:42.911Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;元旦&lt;br&gt;这是一个跨年夜,步入 2019
-        
-      
-    
-    </summary>
-    
-      <category term="essays" scheme="http://blog.hxh.red/categories/essays/"/>
-    
-    
-      <category term="essays" scheme="http://blog.hxh.red/tags/essays/"/>
     
   </entry>
   
