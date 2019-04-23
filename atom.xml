@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.hxh.red/"/>
-  <updated>2019-04-19T17:12:57.811Z</updated>
+  <updated>2019-04-23T01:34:00.364Z</updated>
   <id>http://blog.hxh.red/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>20190420</title>
-    <link href="http://blog.hxh.red/2019/04/20/daily-2019-04-20/"/>
-    <id>http://blog.hxh.red/2019/04/20/daily-2019-04-20/</id>
-    <published>2019-04-19T17:12:12.000Z</published>
-    <updated>2019-04-19T17:12:57.811Z</updated>
+    <title>20190422</title>
+    <link href="http://blog.hxh.red/2019/04/22/daily-2019-04-22/"/>
+    <id>http://blog.hxh.red/2019/04/22/daily-2019-04-22/</id>
+    <published>2019-04-22T01:28:35.000Z</published>
+    <updated>2019-04-23T01:34:00.364Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,59 @@
       
         
         
-          &lt;p&gt;未来,我希望能和自己喜欢的人一起抱着看电视&lt;/p&gt;
-
+          &lt;p&gt;大早上,习惯性的起床了,走出宾馆,准备出门找吃的&lt;br&gt;看到了三年前那个被取消的如家酒店公交站台,现在又开通了&lt;br&gt;几经感叹的拍照瞬间,被路过的胡永乐喊上去了大院&lt;br&gt;习惯性的听这群人述说他们商业梦,可惜我不再是那么憧憬他们的生活了&lt;br&gt;晚上送走我和胡永乐的是一个新员
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20190421</title>
+    <link href="http://blog.hxh.red/2019/04/21/daily-2019-04-21/"/>
+    <id>http://blog.hxh.red/2019/04/21/daily-2019-04-21/</id>
+    <published>2019-04-21T01:22:18.000Z</published>
+    <updated>2019-04-23T01:33:56.220Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;早早就起来去准备王老师儿子的婚礼现场&lt;br&gt;倒腾了一会,去找银行取了钱,布置场地,放彩纸炮,吃婚宴,收拾现场,回惠普大院&lt;br&gt;三年了,还是原来那群大院的人&lt;br&gt;陈松说,我们是不是又在搬砖&lt;br&gt;本来三哥他们是要几天走的,搞着搞着就没票了,只能明天走,正好晚上和他们唠会嗑
+        
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
+    
+    
+      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20190420</title>
+    <link href="http://blog.hxh.red/2019/04/20/daily-2019-04-20/"/>
+    <id>http://blog.hxh.red/2019/04/20/daily-2019-04-20/</id>
+    <published>2019-04-19T17:12:12.000Z</published>
+    <updated>2019-04-23T01:21:59.879Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;未来,我希望能和自己喜欢的人一起抱着看电视&lt;br&gt;收拾了一天家里的箱子,看了会电视就来机场了,暂时延误 1.5 个小时&lt;br&gt;穿上了从来没有穿过的酒红皮鞋,真的是穿的脚疼,走路就疼&lt;br&gt;最后晚点 2
         
       
     
@@ -476,60 +527,6 @@
         
         
           &lt;p&gt;昨晚和Jimmy打电话了很久,说了很多,用她的话说就是很佛性的聊天,反正也没什么结论,最后都睡了&lt;br&gt;最后睡前我总结了一句话,&lt;em&gt;憋在心里的东西,总有一天你会讲出来&lt;/em&gt;&lt;br&gt;也发现了一个的番茄时钟的东西Tadam(mac)简单,方便的倒计时工具,所谓的25分钟
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20190330</title>
-    <link href="http://blog.hxh.red/2019/03/30/daily-2019-03-30/"/>
-    <id>http://blog.hxh.red/2019/03/30/daily-2019-03-30/</id>
-    <published>2019-03-29T23:44:35.000Z</published>
-    <updated>2019-03-31T01:14:16.195Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;昨天把博客的静态资源转到七牛云,然后发布 github page,结果访问 github page,访问静态资源的链接
-        
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://blog.hxh.red/categories/diary/"/>
-    
-    
-      <category term="diary" scheme="http://blog.hxh.red/tags/diary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20190329</title>
-    <link href="http://blog.hxh.red/2019/03/29/daily-2019-03-29/"/>
-    <id>http://blog.hxh.red/2019/03/29/daily-2019-03-29/</id>
-    <published>2019-03-29T04:56:49.000Z</published>
-    <updated>2019-03-29T13:25:20.566Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;折腾了很久,终于把我的博客弄好了,还有七牛云的图床还在等待认证审核&lt;/p&gt;
-&lt;p&gt;对于目前的工作,我感觉自己有点情绪,不太想接手任何事情,我知道这是不好的,希望自己能尽快调整好工作状态&lt;/p&gt;
-&lt;p&gt;能有个地方记录自己的成长,记录人生的点点滴滴,从我认识这个世界的 25
         
       
     
