@@ -2,7 +2,7 @@
 
 ## 启动命令
 
-hexo clean && hexo server
+hexo clean && hexo server -p 525
 
 ## 发布命令
 
