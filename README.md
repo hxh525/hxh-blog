@@ -15,3 +15,8 @@ hexo new 'x' -p daily/2019/
 ## 同步图片至 7 牛云
 
 hexo qiniu sync
+
+## page title
+
+top: true
+toc: false
