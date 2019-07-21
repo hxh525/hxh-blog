@@ -1,23 +1,30 @@
 [
   {
-    "avatar": "http://www.ruanyifeng.com/blog/images/person2.jpg",
+    "avatar": "https://avatars2.githubusercontent.com/u/905434?s=460&v=4",
     "name": "Ruan Yifeng",
     "introduction": "focusing on web technology",
     "url": "http://www.ruanyifeng.com/home.html",
     "title": "go go go"
   },
   {
-    "avatar": "https://pic1.zhimg.com/v2-5b072417c2ecb9d4b200494c0e0c5f06_xl.jpg",
+    "avatar": "https://avatars3.githubusercontent.com/u/4979648?s=180&v=4",
     "name": "纯洁的微笑",
     "introduction": "programmer",
     "url": "http://www.ityouknow.com/",
     "title": "go go go"
   },
   {
-    "avatar": "http://wangnan.tech//assets/images/ice_bear.jpg",
+    "avatar": "https://avatars3.githubusercontent.com/u/10127059?s=460&v=4",
     "name": "Ghost Stories",
     "introduction": "programmer",
     "url": "http://wangnan.tech/all-tags/",
+    "title": "go go go"
+  },
+  {
+    "avatar": "https://avatars1.githubusercontent.com/u/470058?s=460&v=4",
+    "name": "廖雪峰",
+    "introduction": "programmer",
+    "url": "https://www.liaoxuefeng.com/",
     "title": "go go go"
   }
 ]
