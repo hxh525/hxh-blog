@@ -8,6 +8,7 @@ date: 1999-01-01 00:00:00
 ---
 
 #### cpu 信息
+
     #查看物理 CPU 个数
     cat /proc/cpuinfo | grep "physical id" | sort | uniq | wc -l
 
