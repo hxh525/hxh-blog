@@ -1,6 +1,6 @@
 ---
 title: work difficult - grandinsight
-author: Jay Yang
+author: Jaye Huang
 tags:
   - essays
   - work

@@ -1,6 +1,6 @@
 ---
 title: hexo-theme-matery
-author: Jay Yang
+author: Jaye Huang
 date: 1999-01-01 00:00:00
 categories: hexo
 tags:

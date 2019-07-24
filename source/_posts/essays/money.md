@@ -1,6 +1,6 @@
 ---
 title: money
-author: Jay Yang
+author: Jaye Huang
 tags: money
 categories: essays
 date: 2019-01-01 00:00:00

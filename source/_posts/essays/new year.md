@@ -1,6 +1,6 @@
 ---
 title: new year
-author: Jay Yang
+author: Jaye Huang
 tags: essays
 categories: essays
 date: 2019-01-01 00:00:00

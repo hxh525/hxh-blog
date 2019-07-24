@@ -1,5 +1,5 @@
 ---
-author: Jay Yang
+author: Jaye Huang
 categories: english
 tags: english
 title: sentence

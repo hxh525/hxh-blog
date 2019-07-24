@@ -1,6 +1,6 @@
 ---
 title: Mac command
-author: Jay Yang
+author: Jaye Huang
 tags: command
 categories:
   - computer

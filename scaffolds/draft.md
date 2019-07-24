@@ -1,7 +1,7 @@
 ---
 title: {{ date }}
 date: {{ date }}
-author: Jay Yang
+author: Jaye Huang
 img: 
 categories: diary
 tags: diary

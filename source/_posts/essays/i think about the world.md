@@ -1,6 +1,6 @@
 ---
 title: i think about the world
-author: Jay Yang
+author: Jaye Huang
 date: 2018-05-29 09:15:14
 tags: essays
 categories: essays
