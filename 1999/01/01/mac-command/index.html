@@ -4,7 +4,7 @@
 
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Mac command, Jay Yang">
+    <meta name="keywords" content="Mac command, Jaye Huang">
     <meta name="description" content="Mac 键盘快捷键
 mac safeguard (外部源安装)sudo spctl --master-disabl
 
@@ -17,7 +17,7 @@ option b 光标向前">
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Mac command | Jay Yang</title>
+    <title>Mac command | Jaye Huang</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
@@ -44,7 +44,7 @@ option b 光标向前">
                     
                     <img src="http://image.hxh.red/images/logo.png" class="logo-img" alt="LOGO">
                     
-                    <span class="logo-span">Jay Yang</span>
+                    <span class="logo-span">Jaye Huang</span>
                 </a>
             </div>
             
@@ -119,7 +119,7 @@ option b 光标向前">
         
         <img src="http://image.hxh.red/images/logo.png" class="logo-img circle responsive-img">
         
-        <div class="logo-name">Jay Yang</div>
+        <div class="logo-name">Jaye Huang</div>
         <div class="logo-desc">
             
             hxh`s bolg
@@ -200,7 +200,7 @@ option b 光标向前">
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/20.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('http://image.hxh.red/images/featureimages/93.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
@@ -348,7 +348,7 @@ option b 光标向前">
                     
                     <div class="info-break-policy">
                         <i class="fa fa-file-word-o fa-fw"></i>Word Count:&nbsp;&nbsp;
-                        351
+                        348
                     </div>
                     
 
@@ -367,10 +367,10 @@ option b 光标向前">
                 <p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p>
 <h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl
 </code></pre>
-<h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre><code>option &lt; 光标向前移动一个单词
+<h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词
 option b 光标向前移动一个单词
 
-option &gt; 光标向后移动一个单词
+option <span class="token operator">></span> 光标向后移动一个单词
 option f 光标向后移动一个单词
 
 ctrl a 将光标移至行首
@@ -380,32 +380,36 @@ ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身�
 ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）
 ctrl w 删除你键入的最后一个单词
 
-ctrl v 插入特殊字符,如Ctrl+v+Tab加入Tab字符键
+ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键
 
-ctrl (x u) 按住Ctrl的同时再先后按x和u，撤销刚才的操作
+ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作
 
 ctrl+y 粘贴刚才所删除的字符
-</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre><code>uuidgen #生成uuid
-</code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre><code>last #命令行登录记录
-
-netstat #显示当前网络情况
-
-printenv #打印系统环境变量
-set KEY=VALUE #设置环境变量
-unuset KEY #删除环境变量
-
-uname -a #当前系统信息
-uname -r #当前系统内核版本
-sw_vers #当前 OSX 版本信息
-
-sysctl -a | grep -Eo &quot;core_count:(.+?)$&quot; # cpu核心数
-sysctl -n machdep.cpu.brand_string #cpu品牌
-</code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre><code>whois HOST #查询域名的注册信息
-ping HOST #测试域名的连接延迟
-nslookup HOST #查询域名的 DNS 信息
-dig HOST #查询域名的 DNS 信息
-traceroute HOST #查询域名查找的路由信息
 </code></pre>
+<h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span>
+</code></pre>
+<h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span>
+
+<span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span>
+
+<span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span>
+<span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>
+unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span>
+
+<span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span>
+<span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>
+sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>
+
+sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>
+sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span>
+</code></pre>
+<h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span>
+<span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span>
+<span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span>
+<span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span>
+<span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span>
+</code></pre>
+
             </div>
             <hr/>
 
@@ -416,7 +420,7 @@ traceroute HOST #查询域名查找的路由信息
                     <span class="reprint-tip">
                         <i class="fa fa-exclamation-circle"></i>&nbsp;&nbsp;No reprint:
                     </span>
-                    <a href="http://blog.hxh.red" class="b-link-green">Jay Yang</a>
+                    <a href="http://blog.hxh.red" class="b-link-green">Jaye Huang</a>
                     <i class="fa fa-angle-right fa-lg fa-fw text-color"></i>
                     <a href="/1999/01/01/mac-command/" class="b-link-green">Mac command</a>
                 </p>
@@ -431,18 +435,20 @@ traceroute HOST #查询域名查找的路由信息
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;Previous</div>
             <div class="card">
-                <a href="/1999/01/01/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/">
+                <a href="/1999/01/01/study-linux-mount/">
                     <div class="card-image">
                         
                         
-                        <img src="http://image.hxh.red/images/featureimages/33.jpg" class="responsive-img" alt="Md 文档支持的代码块引用语言高亮">
+                        <img src="http://image.hxh.red/images/featureimages/52.jpg" class="responsive-img" alt="mount command">
                         
-                        <span class="card-title">Md 文档支持的代码块引用语言高亮</span>
+                        <span class="card-title">mount command</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary block-with-text">Md 文档支持的代码块引用语言高亮代码
-```css.bg-cover .description {&nbsp;&nbsp;font-weight: 300;&nbsp;&nbsp;line-height: 1.4em;&nbsp;&nbs</div>
+                    <div class="summary block-with-text">mountsudo mkdir /bak
+sudo fdisk -l
+sudo mount /dev/xvdf1 /bak
+</div>
                     <div class="publish-info">
                         <span class="publish-date">
                             <i class="fa fa-clock-o fa-fw icon-date"></i>1999-01-01
@@ -451,8 +457,8 @@ traceroute HOST #查询域名查找的路由信息
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/md/" class="post-category" target="_blank">
-                                    md
+                            <a href="/categories/linux/" class="post-category" target="_blank">
+                                    linux
                                 </a>
                             
                             
@@ -462,8 +468,12 @@ traceroute HOST #查询域名查找的路由信息
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/md/" target="_blank">
-                        <span class="chip bg-color">md</span>
+                    <a href="/tags/shell/" target="_blank">
+                        <span class="chip bg-color">shell</span>
+                    </a>
+                    
+                    <a href="/tags/mount/" target="_blank">
+                        <span class="chip bg-color">mount</span>
                     </a>
                     
                 </div>
@@ -481,7 +491,7 @@ traceroute HOST #查询域名查找的路由信息
                     <div class="card-image">
                         
                         
-                        <img src="http://image.hxh.red/images/featureimages/90.jpg" class="responsive-img" alt="str-length command">
+                        <img src="http://image.hxh.red/images/featureimages/79.jpg" class="responsive-img" alt="str-length command">
                         
                         <span class="card-title">str-length command</span>
                     </div>
@@ -657,16 +667,16 @@ $ str="1</div>
     <div class="col s12 m8 l8 copy-right">
       <div>
         <span class="white-color">Copyright©2016-2019</span>&nbsp;|&nbsp;
-        <span class="white-color">Jay Yang</span>&nbsp;|&nbsp;
+        <span class="white-color">Jaye Huang</span>&nbsp;|&nbsp;
         <a
           target="_blank"
-          href="http://www.miitbeian.gov.cn"
+          href="http://beian.miit.gov.cn"
           rel="noopener"
           onMouseOver="this.style.textDecoration='underline'"
           onMouseOut="this.style.textDecoration='none'"
           >&nbsp;鄂ICP备18006161号-1</a
         >&nbsp;|&nbsp; 
-        <span class="white-color">88.7k</span> 
+        <span class="white-color">89k</span> 
       </div>
     </div>
   </div>
