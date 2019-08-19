@@ -86,7 +86,7 @@ var coverPostsCount = coverPosts.length;
     <% if (coverPostsCount > 0) { %>
     <% for (var i = 0; i < coverPostsCount; i++) { %>
     <%
-        var featureimg = "http://image.jayehuang.com/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg"
+        var featureimg = "https://image.jayehuang.com/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg"
         var post = coverPosts[i];
         var coverImg = post.coverImg ? post.coverImg
                 : (post.img ? post.img : featureimg);
