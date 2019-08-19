@@ -687,4 +687,4 @@ public int method(String p1) { ... }
 
 对于包外不可见的类和方法，如有需要，也是要使用`Javadoc`的。如果一个注释是用来定义一个类，方法，字段的整体目的或行为， 那么这个注释应该写成`Javadoc`，这样更统一更友好。
 
-原文地址: [Google Java Style Guide](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html)
+原文地址: [Google Java Style Guide](https://checkstyle.sourceforge.net/reports/google-java-style-20170228.html)
