@@ -30,7 +30,7 @@
     <% for (var i = 0; i < topPostsCount; i++) { %>
     <%
         var post = topPosts[i];
-        var featureImg = post.img ? post.img : "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg";
+        var featureImg = post.img ? post.img : "http://image.jayehuang.com/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg";
         var bgColor = bgColorArr[i % colorCount];
     %>
     <div class="col s12 m6" <% if (i > 1) { %>data-aos="zoom-in-up"<% } %>>
@@ -69,7 +69,7 @@
         if (post.summary && post.summary.length > 0) {
             description = post.summary;
         }
-        var featureImg = post.img ? post.img : "http://image.hxh.red/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg";
+        var featureImg = post.img ? post.img : "http://image.jayehuang.com/images/featureimages/" + Math.floor(Math.random() * 101) + ".jpg";
         var bgColor = bgColorArr[i % colorCount];
     %>
     <div class="col <%- grid %>" <% if (i > 0) { %>data-aos="zoom-in-up"<% } %>>
