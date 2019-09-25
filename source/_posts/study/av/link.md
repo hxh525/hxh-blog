@@ -19,10 +19,15 @@ img:
 
 ##### 番号
 
-[福利社](https://www.zhainanfu.com/)
-[番号库](https://www.shuangla.net/)
+[番号族](https://www.fhz360.com/)
+[解花语](https://www.gzkd888.com/)
+[番号列表](https://www.2535fh.com/)
 [jav 情报站](http://www.javlibrary.com/cn/)
 [av 资料库](http://av.nightlife141.com/)
+
+##### 番号搜索
+
+[种子猫](https://www.seedmao.top/)
 
 ##### 香港
 

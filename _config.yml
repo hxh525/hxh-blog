@@ -131,7 +131,7 @@ qiniu:
   access_key: 6J6eVzl9ME1vMADmdhgn0UATOr24fyF8x8FdeGrA
   secret_key: KXviMdOi5UbfLyd_Y6UjHe5TVOl2rUyOeTeor0pV
   dirPrefix:
-  urlPrefix: http://image.jayehuang.com/
+  urlPrefix: http://res.jayehuang.com/
   up_host: http://up-z2.qiniup.com
   local_dir: static
   update_exist: true

@@ -26,10 +26,10 @@ img:
 
 ##### Gitlab 数据恢复
 
-    sudo  ./gitlab-ctl stop unicorn
-    sudo  ./gitlab-ctl stop sidekiq
-    sudo  ./gitlab-rake gitlab:backup:restore BACKUP='备份的identity'
-    sudo  ./gitlab-ctl start
+    sudo  gitlab-ctl stop unicorn
+    sudo  gitlab-ctl stop sidekiq
+    sudo  gitlab-rake gitlab:backup:restore BACKUP='备份的identity'
+    sudo  gitlab-ctl start
 
 ##### 安装完 gitlab 后的运维操作
 
@@ -76,6 +76,16 @@ img:
     user.password = ‘新密码‘
     user.password_confirmation = ‘新密码‘
     user.save!
+
+##### Gitlab 取消注册有效确认
+
+    vi /opt/gitlab/embedded/service/gitlab-rails/app/models
+
+    #devise :lockable, :recoverable, :rememberable, :trackable,
+    #    :validatable, :omniauthable, :confirmable, :registerable
+
+    devise :lockable, :recoverable, :rememberable, :trackable,
+        :validatable, :omniauthable,  :registerable
 
 ##### gitlab setting
 

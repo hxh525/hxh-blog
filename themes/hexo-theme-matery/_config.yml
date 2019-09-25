@@ -77,7 +77,7 @@ recommend:
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
 favicon: /favicon.png
-logo: https://image.jayehuang.com/images/logo.png
+logo: http://res.jayehuang.com/images/logo.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -153,7 +153,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: https://image.jayehuang.com/images/avatar.png
+  avatar: http://res.jayehuang.com/images/avatar.png
   career: Software Engineer
   introduction: I'm Jay,I like free.
     最难的就是描述自己, 我是个害羞shy的人, 不太习惯人前表露太多自己的想法, 但想说的时候会让你觉得烦
@@ -212,9 +212,9 @@ mySkills:
 myGallery:
   enable: false
   data:
-    - https://image.jayehuang.com/images/featureimages/0.jpg
-    - https://image.jayehuang.com/images/featureimages/1.jpg
-    - https://image.jayehuang.com/images/featureimages/2.jpg
+    - http://res.jayehuang.com/images/featureimages/0.jpg
+    - http://res.jayehuang.com/images/featureimages/1.jpg
+    - http://res.jayehuang.com/images/featureimages/2.jpg
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
