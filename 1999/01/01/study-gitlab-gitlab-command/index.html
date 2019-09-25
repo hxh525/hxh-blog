@@ -43,7 +43,7 @@ Gitl">
             <div class="brand-logo">
                 <a href="/" class="waves-effect waves-light">
                     
-                    <img src="https://image.jayehuang.com/images/logo.png" class="logo-img" alt="LOGO">
+                    <img src="http://res.jayehuang.com/images/logo.png" class="logo-img" alt="LOGO">
                     
                     <span class="logo-span">Jaye Huang</span>
                 </a>
@@ -118,7 +118,7 @@ Gitl">
 
     <div class="mobile-head bg-color">
         
-        <img src="https://image.jayehuang.com/images/logo.png" class="logo-img circle responsive-img">
+        <img src="http://res.jayehuang.com/images/logo.png" class="logo-img circle responsive-img">
         
         <div class="logo-name">Jaye Huang</div>
         <div class="logo-desc">
@@ -201,7 +201,7 @@ Gitl">
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('https://image.jayehuang.com/images/featureimages/50.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('http://res.jayehuang.com/images/featureimages/0.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
@@ -349,7 +349,7 @@ Gitl">
                     
                     <div class="info-break-policy">
                         <i class="fa fa-file-word-o fa-fw"></i>Word Count:&nbsp;&nbsp;
-                        391
+                        426
                     </div>
                     
 
@@ -371,10 +371,10 @@ Gitl">
 #备份路径
 /var/opt/gitlab/backups
 </code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre><code>sudo gitlab-rake gitlab:backup:create
-</code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre><code>sudo  ./gitlab-ctl stop unicorn
-sudo  ./gitlab-ctl stop sidekiq
-sudo  ./gitlab-rake gitlab:backup:restore BACKUP=&#39;备份的identity&#39;
-sudo  ./gitlab-ctl start
+</code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre><code>sudo  gitlab-ctl stop unicorn
+sudo  gitlab-ctl stop sidekiq
+sudo  gitlab-rake gitlab:backup:restore BACKUP=&#39;备份的identity&#39;
+sudo  gitlab-ctl start
 </code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre><code>sudo gitlab-ctl status
 sudo gitlab-ctl reconfigure
 sudo gitlab-ctl start
@@ -394,6 +394,13 @@ user = User.where(id: 1).first
 user.password = ‘新密码‘
 user.password_confirmation = ‘新密码‘
 user.save!
+</code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre><code>vi /opt/gitlab/embedded/service/gitlab-rails/app/models
+
+#devise :lockable, :recoverable, :rememberable, :trackable,
+#    :validatable, :omniauthable, :confirmable, :registerable
+
+devise :lockable, :recoverable, :rememberable, :trackable,
+    :validatable, :omniauthable,  :registerable
 </code></pre><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><pre><code>Guest：可以创建issue、发表评论，不能读写版本库
 Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限
 Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限
@@ -432,30 +439,53 @@ Public：所有人都能看到
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;Previous</div>
             <div class="card">
-                <a href="/1999/01/01/study-english-time-date/">
+                <a href="/1999/01/01/study-java-date/">
                     <div class="card-image">
                         
                         
-                        <img src="https://image.jayehuang.com/images/featureimages/13.jpg" class="responsive-img" alt="time & date">
+                        <img src="http://res.jayehuang.com/images/featureimages/63.jpg" class="responsive-img" alt="date format">
                         
-                        <span class="card-title">time & date</span>
+                        <span class="card-title">date format</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary block-with-text">time &amp; datemonthJanuary
-February
-March
-April
-May
-June
-July
-August
-September
-October
-November
-December
-wenkendMonday
-</div>
+                    <div class="summary block-with-text">
+
+
+字母
+日期或时间元素
+表示
+示例
+
+
+
+
+G
+Era 标志符
+Text
+AD
+
+
+y
+年
+Year
+1996; 96
+
+
+M
+年中的月份
+Month
+July; Jul;07
+
+
+w
+年中的周数
+Number
+27
+
+
+W
+月份中的周</div>
                     <div class="publish-info">
                         <span class="publish-date">
                             <i class="fa fa-clock-o fa-fw icon-date"></i>1999-01-01
@@ -464,8 +494,8 @@ wenkendMonday
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/english/" class="post-category" target="_blank">
-                                    english
+                            <a href="/categories/java/" class="post-category" target="_blank">
+                                    java
                                 </a>
                             
                             
@@ -475,8 +505,12 @@ wenkendMonday
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/english/" target="_blank">
-                        <span class="chip bg-color">english</span>
+                    <a href="/tags/java/" target="_blank">
+                        <span class="chip bg-color">java</span>
+                    </a>
+                    
+                    <a href="/tags/date/" target="_blank">
+                        <span class="chip bg-color">date</span>
                     </a>
                     
                 </div>
@@ -494,7 +528,7 @@ wenkendMonday
                     <div class="card-image">
                         
                         
-                        <img src="https://image.jayehuang.com/images/featureimages/53.jpg" class="responsive-img" alt="hexo-theme-matery">
+                        <img src="http://res.jayehuang.com/images/featureimages/79.jpg" class="responsive-img" alt="hexo-theme-matery">
                         
                         <span class="card-title">hexo-theme-matery</span>
                     </div>
