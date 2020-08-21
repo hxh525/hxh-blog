@@ -72,3 +72,9 @@ nslookup HOST #查询域名的 DNS 信息
 dig HOST #查询域名的 DNS 信息
 traceroute HOST #查询域名查找的路由信息
 ```
+
+#### mac ari2
+
+```bash
+aria2c --conf-path="/Users/x/.aria2/aria2.conf" -D #后台启动
+```
