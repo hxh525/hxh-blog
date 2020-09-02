@@ -1429,6 +1429,31 @@
     
     
     <entry>
+      <title>uncle</title>
+      <link href="/2019/01/01/essays-uncle/"/>
+      <url>/2019/01/01/essays-uncle/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th></th><th>金额</th><th>备注</th></tr></thead><tbody><tr><td>2020.03.25</td><td>-1000</td><td>微信</td></tr><tr><td></td><td>132498-1000</td><td>131498</td></tr><tr><td>2020.03.25</td><td>-888</td><td>微信</td></tr><tr><td></td><td>133386-888</td><td>132498</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2020.01.07</td><td>36</td><td>借呗利息</td></tr><tr><td></td><td>133350+36</td><td>133386</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.12.07</td><td>69</td><td>借呗利息</td></tr><tr><td></td><td>133281+69</td><td>133350</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.11.07</td><td>153</td><td>借呗利息</td></tr><tr><td></td><td>133128+153</td><td>133281</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.09.15</td><td>-1000</td><td>微信</td></tr><tr><td>2019.09.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>133982-1000+146</td><td>133128</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.08.07</td><td>88</td><td>借呗利息</td></tr><tr><td>2019.08.09</td><td>145</td><td>信用卡利息</td></tr><tr><td>2019.08.09</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.08.11</td><td>-1500</td><td>微信</td></tr><tr><td></td><td>135044+88+145+205-1500</td><td>133982</td></tr><tr><td>2019.07.07</td><td>148</td><td>借呗利息</td></tr><tr><td>2019.07.10</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.07.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>134545+148+205+146</td><td>135044</td></tr><tr><td>2019.06.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.06.07</td><td>20</td><td>借呗利息</td></tr><tr><td>2019.06.10</td><td>-4000</td><td>微信</td></tr><tr><td>2019.06.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>138021+298+20-4000+206</td><td>134545</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.05.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.05.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.05.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>137421+298+96+206</td><td>138021</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.04.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.04.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.04.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136821+298+96+206</td><td>137421</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.03.07</td><td>269</td><td>借呗利息</td></tr><tr><td>2019.03.07</td><td>87</td><td>借呗利息</td></tr><tr><td>2019.03.15</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136259+269+87+206</td><td>136821</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.02.07</td><td>190</td><td>微信(80+30+80)</td></tr><tr><td>2019.02.07</td><td>183</td><td>朋友金条</td></tr><tr><td>2019.02.07</td><td>296</td><td>借呗利息</td></tr><tr><td>2019.02.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.02.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.02.23</td><td>633</td><td>信用卡还款</td></tr><tr><td></td><td>132486+190+183+296+96+2375+633</td><td>136259</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.01.07</td><td>95</td><td>朋友借呗</td></tr><tr><td>2019.01.07</td><td>295</td><td>借呗利息</td></tr><tr><td>2019.01.17</td><td>-3000</td><td>微信</td></tr><tr><td>2019.01.17</td><td>1922</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>13463</td><td>信用卡还款</td></tr><tr><td>2019.01.30</td><td>103</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>62</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>33</td><td>信用卡套现</td></tr><tr><td></td><td>117168+95+295-3000+1922+2375+13463+103+62+33</td><td>132486</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.12.7</td><td>253</td><td>借呗利息</td></tr><tr><td>2018.12.7</td><td>97</td><td>借呗利息</td></tr><tr><td>2018.12.13</td><td>125</td><td>京东利息</td></tr><tr><td>2018.12.19</td><td>61</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>-10000</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>7761</td><td>信用卡还款(3464+2375+1922)</td></tr><tr><td></td><td>118871+97+253+125+61-10000+7761</td><td>117168</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.11.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.11.7</td><td>96</td><td>朋友利息</td></tr><tr><td>2018.11.13</td><td>270</td><td>京东利息</td></tr><tr><td>2018.11.13</td><td>221</td><td>朋友利息</td></tr><tr><td>2018.11.14</td><td>3496</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>1922</td><td>信用卡还款</td></tr><tr><td></td><td>110193+298+96+270+221+3496+2375+1922</td><td>118871</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.10.3</td><td>500</td><td>微信</td></tr><tr><td>2018.10.7</td><td>287</td><td>借呗利息</td></tr><tr><td>2018.10.7</td><td>91</td><td>朋友利息</td></tr><tr><td>2018.10.7</td><td>1000</td><td>微信</td></tr><tr><td>2018.10.12</td><td>162</td><td>朋友利息</td></tr><tr><td>2018.10.15</td><td>300</td><td>微信</td></tr><tr><td>2018.10.16</td><td>190</td><td>京东利息</td></tr><tr><td>2018.10.19</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.10.21</td><td>120</td><td>支付宝代付</td></tr><tr><td>2018.10.22</td><td>3464</td><td>信用卡还款</td></tr><tr><td>2018.10.22</td><td>300</td><td>微信</td></tr><tr><td>2018.10.24</td><td>2375</td><td>信用卡还款</td></tr><tr><td></td><td>99483+500+287+91+1000+162+300+190+1921+120+3464+300+2375</td><td>110193</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.9.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.9.7</td><td>73</td><td>朋友借呗利息</td></tr><tr><td>2018.9.13</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.9.16</td><td>400</td><td>朋友利息(210+190)</td></tr><tr><td>2018.9.17</td><td>6523</td><td>信用卡还款(3464+3059)</td></tr><tr><td></td><td>90268+298+73+1921+400+6523</td><td>99483</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.8.2</td><td>80</td><td>朋友利息</td></tr><tr><td>2018.8.7</td><td>285</td><td>借呗利息</td></tr><tr><td>2018.8.14</td><td>190</td><td>朋友利息</td></tr><tr><td>2018.8.19</td><td>5558</td><td>信用卡(1922+750+2886)</td></tr><tr><td></td><td>84155+80+285+190+5558</td><td>90268</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.7.2</td><td>320</td><td>话费</td></tr><tr><td>2018.7.5</td><td>260</td><td>借呗</td></tr><tr><td>2018.7.10</td><td>1825</td><td>花呗</td></tr><tr><td>2018.7.22</td><td>91</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>180</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>210</td><td>朋友利息</td></tr><tr><td></td><td>81269+320+260+1825+91+180+210</td><td>84155</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.6.5</td><td>1183</td><td>给你花</td></tr><tr><td>2018.6.5</td><td>3638</td><td>招联金融</td></tr><tr><td>2018.6.7</td><td>122</td><td>借呗</td></tr><tr><td>2018.6.10</td><td>6226</td><td>花呗</td></tr><tr><td>2018.6.10</td><td>290</td><td>信用卡套现</td></tr><tr><td>2018.6.10</td><td>360</td><td>朋友 app 利息</td></tr><tr><td></td><td>68600+850+1183+3638+122+6226+290+360</td><td>81269</td></tr><tr><td>2018.6</td><td>69450</td><td>6 月前合计</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> essays </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> money </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>new year</title>
       <link href="/2019/01/01/essays-new-year/"/>
       <url>/2019/01/01/essays-new-year/</url>
@@ -1446,31 +1471,6 @@
         <tags>
             
             <tag> essays </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>uncle</title>
-      <link href="/2019/01/01/essays-uncle/"/>
-      <url>/2019/01/01/essays-uncle/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th></th><th>金额</th><th>备注</th></tr></thead><tbody><tr><td>2020.03.25</td><td>-888</td><td>微信</td></tr><tr><td></td><td>133386-888</td><td>132498</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2020.01.07</td><td>36</td><td>借呗利息</td></tr><tr><td></td><td>133350+36</td><td>133386</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.12.07</td><td>69</td><td>借呗利息</td></tr><tr><td></td><td>133281+69</td><td>133350</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.11.07</td><td>153</td><td>借呗利息</td></tr><tr><td></td><td>133128+153</td><td>133281</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.09.15</td><td>-1000</td><td>微信</td></tr><tr><td>2019.09.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>133982-1000+146</td><td>133128</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.08.07</td><td>88</td><td>借呗利息</td></tr><tr><td>2019.08.09</td><td>145</td><td>信用卡利息</td></tr><tr><td>2019.08.09</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.08.11</td><td>-1500</td><td>微信</td></tr><tr><td></td><td>135044+88+145+205-1500</td><td>133982</td></tr><tr><td>2019.07.07</td><td>148</td><td>借呗利息</td></tr><tr><td>2019.07.10</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.07.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>134545+148+205+146</td><td>135044</td></tr><tr><td>2019.06.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.06.07</td><td>20</td><td>借呗利息</td></tr><tr><td>2019.06.10</td><td>-4000</td><td>微信</td></tr><tr><td>2019.06.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>138021+298+20-4000+206</td><td>134545</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.05.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.05.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.05.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>137421+298+96+206</td><td>138021</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.04.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.04.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.04.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136821+298+96+206</td><td>137421</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.03.07</td><td>269</td><td>借呗利息</td></tr><tr><td>2019.03.07</td><td>87</td><td>借呗利息</td></tr><tr><td>2019.03.15</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136259+269+87+206</td><td>136821</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.02.07</td><td>190</td><td>微信(80+30+80)</td></tr><tr><td>2019.02.07</td><td>183</td><td>朋友金条</td></tr><tr><td>2019.02.07</td><td>296</td><td>借呗利息</td></tr><tr><td>2019.02.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.02.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.02.23</td><td>633</td><td>信用卡还款</td></tr><tr><td></td><td>132486+190+183+296+96+2375+633</td><td>136259</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.01.07</td><td>95</td><td>朋友借呗</td></tr><tr><td>2019.01.07</td><td>295</td><td>借呗利息</td></tr><tr><td>2019.01.17</td><td>-3000</td><td>微信</td></tr><tr><td>2019.01.17</td><td>1922</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>13463</td><td>信用卡还款</td></tr><tr><td>2019.01.30</td><td>103</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>62</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>33</td><td>信用卡套现</td></tr><tr><td></td><td>117168+95+295-3000+1922+2375+13463+103+62+33</td><td>132486</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.12.7</td><td>253</td><td>借呗利息</td></tr><tr><td>2018.12.7</td><td>97</td><td>借呗利息</td></tr><tr><td>2018.12.13</td><td>125</td><td>京东利息</td></tr><tr><td>2018.12.19</td><td>61</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>-10000</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>7761</td><td>信用卡还款(3464+2375+1922)</td></tr><tr><td></td><td>118871+97+253+125+61-10000+7761</td><td>117168</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.11.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.11.7</td><td>96</td><td>朋友利息</td></tr><tr><td>2018.11.13</td><td>270</td><td>京东利息</td></tr><tr><td>2018.11.13</td><td>221</td><td>朋友利息</td></tr><tr><td>2018.11.14</td><td>3496</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>1922</td><td>信用卡还款</td></tr><tr><td></td><td>110193+298+96+270+221+3496+2375+1922</td><td>118871</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.10.3</td><td>500</td><td>微信</td></tr><tr><td>2018.10.7</td><td>287</td><td>借呗利息</td></tr><tr><td>2018.10.7</td><td>91</td><td>朋友利息</td></tr><tr><td>2018.10.7</td><td>1000</td><td>微信</td></tr><tr><td>2018.10.12</td><td>162</td><td>朋友利息</td></tr><tr><td>2018.10.15</td><td>300</td><td>微信</td></tr><tr><td>2018.10.16</td><td>190</td><td>京东利息</td></tr><tr><td>2018.10.19</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.10.21</td><td>120</td><td>支付宝代付</td></tr><tr><td>2018.10.22</td><td>3464</td><td>信用卡还款</td></tr><tr><td>2018.10.22</td><td>300</td><td>微信</td></tr><tr><td>2018.10.24</td><td>2375</td><td>信用卡还款</td></tr><tr><td></td><td>99483+500+287+91+1000+162+300+190+1921+120+3464+300+2375</td><td>110193</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.9.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.9.7</td><td>73</td><td>朋友借呗利息</td></tr><tr><td>2018.9.13</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.9.16</td><td>400</td><td>朋友利息(210+190)</td></tr><tr><td>2018.9.17</td><td>6523</td><td>信用卡还款(3464+3059)</td></tr><tr><td></td><td>90268+298+73+1921+400+6523</td><td>99483</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.8.2</td><td>80</td><td>朋友利息</td></tr><tr><td>2018.8.7</td><td>285</td><td>借呗利息</td></tr><tr><td>2018.8.14</td><td>190</td><td>朋友利息</td></tr><tr><td>2018.8.19</td><td>5558</td><td>信用卡(1922+750+2886)</td></tr><tr><td></td><td>84155+80+285+190+5558</td><td>90268</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.7.2</td><td>320</td><td>话费</td></tr><tr><td>2018.7.5</td><td>260</td><td>借呗</td></tr><tr><td>2018.7.10</td><td>1825</td><td>花呗</td></tr><tr><td>2018.7.22</td><td>91</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>180</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>210</td><td>朋友利息</td></tr><tr><td></td><td>81269+320+260+1825+91+180+210</td><td>84155</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.6.5</td><td>1183</td><td>给你花</td></tr><tr><td>2018.6.5</td><td>3638</td><td>招联金融</td></tr><tr><td>2018.6.7</td><td>122</td><td>借呗</td></tr><tr><td>2018.6.10</td><td>6226</td><td>花呗</td></tr><tr><td>2018.6.10</td><td>290</td><td>信用卡套现</td></tr><tr><td>2018.6.10</td><td>360</td><td>朋友 app 利息</td></tr><tr><td></td><td>68600+850+1183+3638+122+6226+290+360</td><td>81269</td></tr><tr><td>2018.6</td><td>69450</td><td>6 月前合计</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> essays </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> money </tag>
             
         </tags>
       
@@ -3021,11 +3021,11 @@
     
     
     <entry>
-      <title>Mac command</title>
-      <link href="/1999/01/01/mac-command/"/>
-      <url>/1999/01/01/mac-command/</url>
+      <title>Linux command</title>
+      <link href="/1999/01/01/linux-command/"/>
+      <url>/1999/01/01/linux-command/</url>
       
-        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">></span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span><span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span><span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span><span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class=" language-bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> -D <span class="token comment" spellcheck="true">#后台启动</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
       
       
       <categories>
@@ -3063,33 +3063,6 @@
         <tags>
             
             <tag> classic </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>verb</title>
-      <link href="/1999/01/01/study-english-doing/"/>
-      <url>/1999/01/01/study-english-doing/</url>
-      
-        <content type="html"><![CDATA[<h4 id="verb-doing"><a href="#verb-doing" class="headerlink" title="verb + doing"></a>verb + doing</h4><table><thead><tr><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th></tr></thead><tbody><tr><td style="text-align:left">allow</td><td style="text-align:left">discuss</td><td style="text-align:left">permit</td><td style="text-align:left">report</td><td style="text-align:left">miss</td><td style="text-align:left">be busy</td></tr><tr><td style="text-align:left">consider</td><td style="text-align:left">admit</td><td style="text-align:left">suggest</td><td style="text-align:left">mind</td><td style="text-align:left">dislike</td><td style="text-align:left">forgive</td></tr><tr><td style="text-align:left">advice</td><td style="text-align:left">risk</td><td style="text-align:left">keep on</td><td style="text-align:left">insist on</td><td style="text-align:left">understand</td><td style="text-align:left">delay</td></tr><tr><td style="text-align:left">appreciate</td><td style="text-align:left">put off</td><td style="text-align:left">enjoy</td><td style="text-align:left">finish</td><td style="text-align:left">burst out</td><td style="text-align:left">imagine</td></tr><tr><td style="text-align:left">forbid</td><td style="text-align:left">pardon</td><td style="text-align:left">escape</td><td style="text-align:left">give up</td><td style="text-align:left">can’t stand</td><td style="text-align:left">include</td></tr><tr><td style="text-align:left">practise</td><td style="text-align:left"></td><td style="text-align:left">excuse</td><td style="text-align:left">be worth</td><td style="text-align:left">feel like</td><td style="text-align:left">prevent</td></tr></tbody></table><h4 id="verb-to-do"><a href="#verb-to-do" class="headerlink" title="verb + to do"></a>verb + to do</h4><table><thead><tr><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th></th></tr></thead><tbody><tr><td style="text-align:left">ask</td><td style="text-align:left">should like</td><td style="text-align:left">learn</td><td style="text-align:left">offer</td><td style="text-align:left">intend</td><td style="text-align:left">promise</td><td>desire</td></tr><tr><td style="text-align:left">demand</td><td style="text-align:left">would prefer</td><td style="text-align:left">wish</td><td style="text-align:left">apply</td><td style="text-align:left">mean</td><td style="text-align:left">decide</td><td>expect</td></tr><tr><td style="text-align:left">plan</td><td style="text-align:left">agree</td><td style="text-align:left">hope</td><td style="text-align:left">help</td><td style="text-align:left">determine long</td><td style="text-align:left">pretend</td><td>manage</td></tr><tr><td style="text-align:left">would like</td><td style="text-align:left">happen</td><td style="text-align:left">want</td><td style="text-align:left">prepare</td><td style="text-align:left">fail</td><td style="text-align:left">refuse</td></tr><tr><td style="text-align:left">afford choose</td><td style="text-align:left">do / try one’s best</td><td style="text-align:left">make an attempt /</td><td style="text-align:left">make a decision</td><td style="text-align:left">make up one’s mind</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> english </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> verb </tag>
-            
-            <tag> english </tag>
             
         </tags>
       
@@ -3173,6 +3146,33 @@
     
     
     <entry>
+      <title>verb</title>
+      <link href="/1999/01/01/study-english-doing/"/>
+      <url>/1999/01/01/study-english-doing/</url>
+      
+        <content type="html"><![CDATA[<h4 id="verb-doing"><a href="#verb-doing" class="headerlink" title="verb + doing"></a>verb + doing</h4><table><thead><tr><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th></tr></thead><tbody><tr><td style="text-align:left">allow</td><td style="text-align:left">discuss</td><td style="text-align:left">permit</td><td style="text-align:left">report</td><td style="text-align:left">miss</td><td style="text-align:left">be busy</td></tr><tr><td style="text-align:left">consider</td><td style="text-align:left">admit</td><td style="text-align:left">suggest</td><td style="text-align:left">mind</td><td style="text-align:left">dislike</td><td style="text-align:left">forgive</td></tr><tr><td style="text-align:left">advice</td><td style="text-align:left">risk</td><td style="text-align:left">keep on</td><td style="text-align:left">insist on</td><td style="text-align:left">understand</td><td style="text-align:left">delay</td></tr><tr><td style="text-align:left">appreciate</td><td style="text-align:left">put off</td><td style="text-align:left">enjoy</td><td style="text-align:left">finish</td><td style="text-align:left">burst out</td><td style="text-align:left">imagine</td></tr><tr><td style="text-align:left">forbid</td><td style="text-align:left">pardon</td><td style="text-align:left">escape</td><td style="text-align:left">give up</td><td style="text-align:left">can’t stand</td><td style="text-align:left">include</td></tr><tr><td style="text-align:left">practise</td><td style="text-align:left"></td><td style="text-align:left">excuse</td><td style="text-align:left">be worth</td><td style="text-align:left">feel like</td><td style="text-align:left">prevent</td></tr></tbody></table><h4 id="verb-to-do"><a href="#verb-to-do" class="headerlink" title="verb + to do"></a>verb + to do</h4><table><thead><tr><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th style="text-align:left"></th><th></th></tr></thead><tbody><tr><td style="text-align:left">ask</td><td style="text-align:left">should like</td><td style="text-align:left">learn</td><td style="text-align:left">offer</td><td style="text-align:left">intend</td><td style="text-align:left">promise</td><td>desire</td></tr><tr><td style="text-align:left">demand</td><td style="text-align:left">would prefer</td><td style="text-align:left">wish</td><td style="text-align:left">apply</td><td style="text-align:left">mean</td><td style="text-align:left">decide</td><td>expect</td></tr><tr><td style="text-align:left">plan</td><td style="text-align:left">agree</td><td style="text-align:left">hope</td><td style="text-align:left">help</td><td style="text-align:left">determine long</td><td style="text-align:left">pretend</td><td>manage</td></tr><tr><td style="text-align:left">would like</td><td style="text-align:left">happen</td><td style="text-align:left">want</td><td style="text-align:left">prepare</td><td style="text-align:left">fail</td><td style="text-align:left">refuse</td></tr><tr><td style="text-align:left">afford choose</td><td style="text-align:left">do / try one’s best</td><td style="text-align:left">make an attempt /</td><td style="text-align:left">make a decision</td><td style="text-align:left">make up one’s mind</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> english </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> english </tag>
+            
+            <tag> verb </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo-theme-matery</title>
       <link href="/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/"/>
       <url>/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/</url>
@@ -3192,6 +3192,33 @@
             <tag> hexo </tag>
             
             <tag> hexo-theme-matery </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>apt-get command</title>
+      <link href="/1999/01/01/study-linux-apt-get/"/>
+      <url>/1999/01/01/study-linux-apt-get/</url>
+      
+        <content type="html"><![CDATA[<h4 id="apt-get"><a href="#apt-get" class="headerlink" title="apt-get"></a>apt-get</h4><pre><code>apt-get [选项] 命令</code></pre><h5 id="选项"><a href="#选项" class="headerlink" title="选项"></a>选项</h5><pre><code>-h 本帮助文件。-q 输出到日志 - 无进展指示-qq 不输出信息，错误除外-d 仅下载 - 不安装或解压归档文件-s 不实际安装。模拟执行命令-y 假定对所有的询问选是，不提示-f 尝试修正系统依赖损坏处-m 如果归档无法定位，尝试继续-u 同时显示更新软件包的列表-b 获取源码包后编译 -V 显示详细的版本号-c=? 阅读此配置文件-o=? 设置自定的配置选项，如 -o dir::cache=/tmp</code></pre><h5 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h5><pre><code>update - 重新获取软件包列表upgrade - 进行更新install - 安装新的软件包remove - 移除软件包autoremove - 自动移除全部不使用的软件包purge - 移除软件包和配置文件source - 下载源码档案build-dep - 为源码包配置编译依赖dist-upgrade - 发行版升级dselect-upgrade - 依照 dselect 的选择更新clean - 清除下载的归档文件autoclean - 清除旧的的已下载的归档文件check - 检验是否有损坏的依赖</code></pre><h5 id="常用示例"><a href="#常用示例" class="headerlink" title="常用示例"></a>常用示例</h5><pre><code>apt-cache searchpackagename #搜索包apt-cache show packagename #获取包的相关信息，如说明、大小、版本等apt-get install packagename #安装包apt-get install packagename --reinstall #重新安装包apt-get -f install #修复安装”-f = –fix-missing”apt-get remove packagename #删除包apt-get remove packagename --purge #删除包，包括删除配置文件等apt-get update #更新源apt-get upgrade #更新已安装的包apt-get dist-upgrade #升级系统apt-get dselect-upgrade #使用 dselect 升级apt-cache depends packagename #了解使用依赖apt-cache rdepends packagename #是查看该包被哪些包依赖apt-get build-dep packagename #安装相关的编译环境apt-get source packagename #下载该包的源代码apt-get clean apt-get autoclean #清理无用的包apt-get check #检查是否有损坏的依赖</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> apt-get </tag>
+            
+            <tag> shell </tag>
             
         </tags>
       
@@ -3227,38 +3254,11 @@
     
     
     <entry>
-      <title>date format</title>
-      <link href="/1999/01/01/study-java-date/"/>
-      <url>/1999/01/01/study-java-date/</url>
+      <title>Mac command</title>
+      <link href="/1999/01/01/mac-command/"/>
+      <url>/1999/01/01/mac-command/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>字母</th><th>日期或时间元素</th><th>表示</th><th>示例</th></tr></thead><tbody><tr><td>G</td><td>Era 标志符</td><td>Text</td><td>AD</td></tr><tr><td>y</td><td>年</td><td>Year</td><td>1996; 96</td></tr><tr><td>M</td><td>年中的月份</td><td>Month</td><td>July; Jul;07</td></tr><tr><td>w</td><td>年中的周数</td><td>Number</td><td>27</td></tr><tr><td>W</td><td>月份中的周数</td><td>Number</td><td>2</td></tr><tr><td>D</td><td>年中的天数</td><td>Number</td><td>189</td></tr><tr><td>d</td><td>月份中的天数</td><td>Number</td><td>10</td></tr><tr><td>F</td><td>月份中的星期</td><td>Number</td><td>2</td></tr><tr><td>E</td><td>星期中的天数</td><td>Text</td><td>Tuesday; Tue</td></tr><tr><td>a</td><td>Am/pm 标记</td><td>Text</td><td>PM</td></tr><tr><td>H</td><td>一天中的小时数（0-23）</td><td>Number</td><td>0</td></tr><tr><td>k</td><td>一天中的小时数（1-24）</td><td>Number</td><td>24</td></tr><tr><td>K</td><td>am/pm 中的小时数（0-11）</td><td>Number</td><td>0</td></tr><tr><td>h</td><td>am/pm 中的小时数（1-12）</td><td>Number</td><td>12</td></tr><tr><td>m</td><td>小时中的分钟数</td><td>Number</td><td>30</td></tr><tr><td>s</td><td>分钟中的秒数</td><td>Number</td><td>55</td></tr><tr><td>S</td><td>毫秒数</td><td>Number</td><td>978</td></tr><tr><td>z</td><td>时区</td><td>General time zone Pacific Standard Time;</td><td>PST; GMT-08:00</td></tr><tr><td>Z</td><td>时区</td><td>RFC 822 time zone</td><td>-0800</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-            <tag> date </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux command</title>
-      <link href="/1999/01/01/linux-command/"/>
-      <url>/1999/01/01/linux-command/</url>
-      
-        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">></span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span><span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span><span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span><span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class=" language-bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> -D <span class="token comment" spellcheck="true">#后台启动</span></code></pre>]]></content>
       
       
       <categories>
@@ -3295,9 +3295,9 @@
       
         <tags>
             
-            <tag> mount </tag>
-            
             <tag> shell </tag>
+            
+            <tag> mount </tag>
             
         </tags>
       
@@ -3306,25 +3306,25 @@
     
     
     <entry>
-      <title>apt-get command</title>
-      <link href="/1999/01/01/study-linux-apt-get/"/>
-      <url>/1999/01/01/study-linux-apt-get/</url>
+      <title>date format</title>
+      <link href="/1999/01/01/study-java-date/"/>
+      <url>/1999/01/01/study-java-date/</url>
       
-        <content type="html"><![CDATA[<h4 id="apt-get"><a href="#apt-get" class="headerlink" title="apt-get"></a>apt-get</h4><pre><code>apt-get [选项] 命令</code></pre><h5 id="选项"><a href="#选项" class="headerlink" title="选项"></a>选项</h5><pre><code>-h 本帮助文件。-q 输出到日志 - 无进展指示-qq 不输出信息，错误除外-d 仅下载 - 不安装或解压归档文件-s 不实际安装。模拟执行命令-y 假定对所有的询问选是，不提示-f 尝试修正系统依赖损坏处-m 如果归档无法定位，尝试继续-u 同时显示更新软件包的列表-b 获取源码包后编译 -V 显示详细的版本号-c=? 阅读此配置文件-o=? 设置自定的配置选项，如 -o dir::cache=/tmp</code></pre><h5 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h5><pre><code>update - 重新获取软件包列表upgrade - 进行更新install - 安装新的软件包remove - 移除软件包autoremove - 自动移除全部不使用的软件包purge - 移除软件包和配置文件source - 下载源码档案build-dep - 为源码包配置编译依赖dist-upgrade - 发行版升级dselect-upgrade - 依照 dselect 的选择更新clean - 清除下载的归档文件autoclean - 清除旧的的已下载的归档文件check - 检验是否有损坏的依赖</code></pre><h5 id="常用示例"><a href="#常用示例" class="headerlink" title="常用示例"></a>常用示例</h5><pre><code>apt-cache searchpackagename #搜索包apt-cache show packagename #获取包的相关信息，如说明、大小、版本等apt-get install packagename #安装包apt-get install packagename --reinstall #重新安装包apt-get -f install #修复安装”-f = –fix-missing”apt-get remove packagename #删除包apt-get remove packagename --purge #删除包，包括删除配置文件等apt-get update #更新源apt-get upgrade #更新已安装的包apt-get dist-upgrade #升级系统apt-get dselect-upgrade #使用 dselect 升级apt-cache depends packagename #了解使用依赖apt-cache rdepends packagename #是查看该包被哪些包依赖apt-get build-dep packagename #安装相关的编译环境apt-get source packagename #下载该包的源代码apt-get clean apt-get autoclean #清理无用的包apt-get check #检查是否有损坏的依赖</code></pre>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>字母</th><th>日期或时间元素</th><th>表示</th><th>示例</th></tr></thead><tbody><tr><td>G</td><td>Era 标志符</td><td>Text</td><td>AD</td></tr><tr><td>y</td><td>年</td><td>Year</td><td>1996; 96</td></tr><tr><td>M</td><td>年中的月份</td><td>Month</td><td>July; Jul;07</td></tr><tr><td>w</td><td>年中的周数</td><td>Number</td><td>27</td></tr><tr><td>W</td><td>月份中的周数</td><td>Number</td><td>2</td></tr><tr><td>D</td><td>年中的天数</td><td>Number</td><td>189</td></tr><tr><td>d</td><td>月份中的天数</td><td>Number</td><td>10</td></tr><tr><td>F</td><td>月份中的星期</td><td>Number</td><td>2</td></tr><tr><td>E</td><td>星期中的天数</td><td>Text</td><td>Tuesday; Tue</td></tr><tr><td>a</td><td>Am/pm 标记</td><td>Text</td><td>PM</td></tr><tr><td>H</td><td>一天中的小时数（0-23）</td><td>Number</td><td>0</td></tr><tr><td>k</td><td>一天中的小时数（1-24）</td><td>Number</td><td>24</td></tr><tr><td>K</td><td>am/pm 中的小时数（0-11）</td><td>Number</td><td>0</td></tr><tr><td>h</td><td>am/pm 中的小时数（1-12）</td><td>Number</td><td>12</td></tr><tr><td>m</td><td>小时中的分钟数</td><td>Number</td><td>30</td></tr><tr><td>s</td><td>分钟中的秒数</td><td>Number</td><td>55</td></tr><tr><td>S</td><td>毫秒数</td><td>Number</td><td>978</td></tr><tr><td>z</td><td>时区</td><td>General time zone Pacific Standard Time;</td><td>PST; GMT-08:00</td></tr><tr><td>Z</td><td>时区</td><td>RFC 822 time zone</td><td>-0800</td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> linux </category>
+          <category> java </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> shell </tag>
+            <tag> java </tag>
             
-            <tag> apt-get </tag>
+            <tag> date </tag>
             
         </tags>
       
@@ -3358,6 +3358,31 @@
     
     
     <entry>
+      <title>Md 文档支持的代码块引用语言高亮</title>
+      <link href="/1999/01/01/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
+      <url>/1999/01/01/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Md-文档支持的代码块引用语言高亮"><a href="#Md-文档支持的代码块引用语言高亮" class="headerlink" title="Md 文档支持的代码块引用语言高亮"></a>Md 文档支持的代码块引用语言高亮</h4><h5 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h5><blockquote><p>```css<br>.bg-cover .description {<br>&nbsp;&nbsp;font-weight: 300;<br>&nbsp;&nbsp;line-height: 1.4em;<br>&nbsp;&nbsp;color: #eee;<br>&nbsp;&nbsp;cursor: default;<br>}<br>```<br>注意: ``` 后面填写的为下表的关键字</p></blockquote><h5 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h5><pre class=" language-css"><code class="language-css"><span class="token selector"><span class="token class">.bg-cover</span> <span class="token class">.description</span> </span><span class="token punctuation">{</span>  <span class="token property">font-size</span><span class="token punctuation">:</span> <span class="token number">1.25</span>rem<span class="token punctuation">;</span>  <span class="token property">font-weight</span><span class="token punctuation">:</span> <span class="token number">300</span><span class="token punctuation">;</span>  <span class="token property">line-height</span><span class="token punctuation">:</span> <span class="token number">1.4</span>em<span class="token punctuation">;</span>  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token hexcode">#eee</span><span class="token punctuation">;</span>  <span class="token property">cursor</span><span class="token punctuation">:</span> default<span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre><table><thead><tr><th>名称</th><th>关键字</th><th>调用的 js</th><th>说明</th></tr></thead><tbody><tr><td>AppleScript</td><td>applescript</td><td>shBrushAppleScript.js</td><td></td></tr><tr><td>ActionScript 3.0</td><td>actionscript3 , as3</td><td>shBrushAS3.js</td><td></td></tr><tr><td>Shell</td><td>bash , shell</td><td>shBrushBash.js</td><td></td></tr><tr><td>ColdFusion</td><td>coldfusion , cf</td><td>shBrushColdFusion.js</td><td></td></tr><tr><td>C</td><td>cpp , c</td><td>shBrushCpp.js</td><td></td></tr><tr><td>C#</td><td>c# , c-sharp , csharp</td><td>shBrushCSharp.js</td><td></td></tr><tr><td>CSS</td><td>css</td><td>shBrushCss.js</td><td></td></tr><tr><td>Delphi</td><td>delphi , pascal , pas</td><td>shBrushDelphi.js</td><td></td></tr><tr><td>diff&amp;patch</td><td>diff patch</td><td>shBrushDiff.js</td><td>用代码版本库时,遇到代码冲突,其语法就是这个.</td></tr><tr><td>Erlang</td><td>erl , erlang</td><td>shBrushErlang.js</td><td></td></tr><tr><td>Groovy</td><td>groovy</td><td>shBrushGroovy.js</td><td></td></tr><tr><td>Java</td><td>java</td><td>shBrushJava.js</td><td></td></tr><tr><td>JavaFX</td><td>jfx , javafx</td><td>shBrushJavaFX.js</td><td></td></tr><tr><td>JavaScript</td><td>js , jscript , javascript</td><td>shBrushJScript.js</td><td></td></tr><tr><td>Perl</td><td>perl , pl , Perl</td><td>shBrushPerl.js</td><td></td></tr><tr><td>PHP</td><td>php</td><td>shBrushPhp.js</td><td></td></tr><tr><td>text</td><td>text , plain</td><td>shBrushPlain.js</td><td>就是普通文本.</td></tr><tr><td>Python</td><td>py , python</td><td>shBrushPython.js</td><td></td></tr><tr><td>Ruby</td><td>ruby , rails , ror , rb</td><td>shBrushRuby.js</td><td></td></tr><tr><td>SASS&amp;SCSS</td><td>sass , scss</td><td>shBrushSass.js</td><td></td></tr><tr><td>Scala</td><td>scala</td><td>shBrushScala.js</td><td></td></tr><tr><td>SQL</td><td>sql</td><td>shBrushSql.js</td><td></td></tr><tr><td>Visual Basic</td><td>vb , vbnet</td><td>shBrushVb.js</td><td></td></tr><tr><td>XML</td><td>xml , xhtml , xslt , html</td><td>shBrushXml.js</td><td></td></tr><tr><td>Objective C</td><td>objc , obj-c</td><td>shBrushObjectiveC.js</td><td></td></tr><tr><td>F#</td><td>f# f-sharp , fsharp</td><td>shBrushFSharp.js</td><td></td></tr><tr><td></td><td>xpp , dynamics-xpp</td><td>shBrushDynamics.js</td><td></td></tr><tr><td>R</td><td>r , s , splus</td><td>shBrushR.js</td><td></td></tr><tr><td>matlab</td><td>matlab</td><td>shBrushMatlab.js</td><td></td></tr><tr><td>swift</td><td>swift</td><td>shBrushSwift.js</td><td></td></tr><tr><td>GO</td><td>go , golang</td><td>shBrushGo.js</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> md </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> md </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>str-length command</title>
       <link href="/1999/01/01/study-linux-str-length/"/>
       <url>/1999/01/01/study-linux-str-length/</url>
@@ -3377,31 +3402,6 @@
             <tag> shell </tag>
             
             <tag> str-length </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Md 文档支持的代码块引用语言高亮</title>
-      <link href="/1999/01/01/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
-      <url>/1999/01/01/study-md-md-dai-ma-kuai-ke-xuan-yu-yan/</url>
-      
-        <content type="html"><![CDATA[<h4 id="Md-文档支持的代码块引用语言高亮"><a href="#Md-文档支持的代码块引用语言高亮" class="headerlink" title="Md 文档支持的代码块引用语言高亮"></a>Md 文档支持的代码块引用语言高亮</h4><h5 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h5><blockquote><p>```css<br>.bg-cover .description {<br>&nbsp;&nbsp;font-weight: 300;<br>&nbsp;&nbsp;line-height: 1.4em;<br>&nbsp;&nbsp;color: #eee;<br>&nbsp;&nbsp;cursor: default;<br>}<br>```<br>注意: ``` 后面填写的为下表的关键字</p></blockquote><h5 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h5><pre class=" language-css"><code class="language-css"><span class="token selector"><span class="token class">.bg-cover</span> <span class="token class">.description</span> </span><span class="token punctuation">{</span>  <span class="token property">font-size</span><span class="token punctuation">:</span> <span class="token number">1.25</span>rem<span class="token punctuation">;</span>  <span class="token property">font-weight</span><span class="token punctuation">:</span> <span class="token number">300</span><span class="token punctuation">;</span>  <span class="token property">line-height</span><span class="token punctuation">:</span> <span class="token number">1.4</span>em<span class="token punctuation">;</span>  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token hexcode">#eee</span><span class="token punctuation">;</span>  <span class="token property">cursor</span><span class="token punctuation">:</span> default<span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre><table><thead><tr><th>名称</th><th>关键字</th><th>调用的 js</th><th>说明</th></tr></thead><tbody><tr><td>AppleScript</td><td>applescript</td><td>shBrushAppleScript.js</td><td></td></tr><tr><td>ActionScript 3.0</td><td>actionscript3 , as3</td><td>shBrushAS3.js</td><td></td></tr><tr><td>Shell</td><td>bash , shell</td><td>shBrushBash.js</td><td></td></tr><tr><td>ColdFusion</td><td>coldfusion , cf</td><td>shBrushColdFusion.js</td><td></td></tr><tr><td>C</td><td>cpp , c</td><td>shBrushCpp.js</td><td></td></tr><tr><td>C#</td><td>c# , c-sharp , csharp</td><td>shBrushCSharp.js</td><td></td></tr><tr><td>CSS</td><td>css</td><td>shBrushCss.js</td><td></td></tr><tr><td>Delphi</td><td>delphi , pascal , pas</td><td>shBrushDelphi.js</td><td></td></tr><tr><td>diff&amp;patch</td><td>diff patch</td><td>shBrushDiff.js</td><td>用代码版本库时,遇到代码冲突,其语法就是这个.</td></tr><tr><td>Erlang</td><td>erl , erlang</td><td>shBrushErlang.js</td><td></td></tr><tr><td>Groovy</td><td>groovy</td><td>shBrushGroovy.js</td><td></td></tr><tr><td>Java</td><td>java</td><td>shBrushJava.js</td><td></td></tr><tr><td>JavaFX</td><td>jfx , javafx</td><td>shBrushJavaFX.js</td><td></td></tr><tr><td>JavaScript</td><td>js , jscript , javascript</td><td>shBrushJScript.js</td><td></td></tr><tr><td>Perl</td><td>perl , pl , Perl</td><td>shBrushPerl.js</td><td></td></tr><tr><td>PHP</td><td>php</td><td>shBrushPhp.js</td><td></td></tr><tr><td>text</td><td>text , plain</td><td>shBrushPlain.js</td><td>就是普通文本.</td></tr><tr><td>Python</td><td>py , python</td><td>shBrushPython.js</td><td></td></tr><tr><td>Ruby</td><td>ruby , rails , ror , rb</td><td>shBrushRuby.js</td><td></td></tr><tr><td>SASS&amp;SCSS</td><td>sass , scss</td><td>shBrushSass.js</td><td></td></tr><tr><td>Scala</td><td>scala</td><td>shBrushScala.js</td><td></td></tr><tr><td>SQL</td><td>sql</td><td>shBrushSql.js</td><td></td></tr><tr><td>Visual Basic</td><td>vb , vbnet</td><td>shBrushVb.js</td><td></td></tr><tr><td>XML</td><td>xml , xhtml , xslt , html</td><td>shBrushXml.js</td><td></td></tr><tr><td>Objective C</td><td>objc , obj-c</td><td>shBrushObjectiveC.js</td><td></td></tr><tr><td>F#</td><td>f# f-sharp , fsharp</td><td>shBrushFSharp.js</td><td></td></tr><tr><td></td><td>xpp , dynamics-xpp</td><td>shBrushDynamics.js</td><td></td></tr><tr><td>R</td><td>r , s , splus</td><td>shBrushR.js</td><td></td></tr><tr><td>matlab</td><td>matlab</td><td>shBrushMatlab.js</td><td></td></tr><tr><td>swift</td><td>swift</td><td>shBrushSwift.js</td><td></td></tr><tr><td>GO</td><td>go , golang</td><td>shBrushGo.js</td><td></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> md </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> md </tag>
             
         </tags>
       
