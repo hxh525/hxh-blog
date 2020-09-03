@@ -1429,11 +1429,11 @@
     
     
     <entry>
-      <title>uncle</title>
-      <link href="/2019/01/01/essays-uncle/"/>
-      <url>/2019/01/01/essays-uncle/</url>
+      <title>money</title>
+      <link href="/2019/01/01/essays-money/"/>
+      <url>/2019/01/01/essays-money/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th></th><th>金额</th><th>备注</th></tr></thead><tbody><tr><td>2020.03.25</td><td>-1000</td><td>微信</td></tr><tr><td></td><td>132498-1000</td><td>131498</td></tr><tr><td>2020.03.25</td><td>-888</td><td>微信</td></tr><tr><td></td><td>133386-888</td><td>132498</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2020.01.07</td><td>36</td><td>借呗利息</td></tr><tr><td></td><td>133350+36</td><td>133386</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.12.07</td><td>69</td><td>借呗利息</td></tr><tr><td></td><td>133281+69</td><td>133350</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.11.07</td><td>153</td><td>借呗利息</td></tr><tr><td></td><td>133128+153</td><td>133281</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.09.15</td><td>-1000</td><td>微信</td></tr><tr><td>2019.09.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>133982-1000+146</td><td>133128</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.08.07</td><td>88</td><td>借呗利息</td></tr><tr><td>2019.08.09</td><td>145</td><td>信用卡利息</td></tr><tr><td>2019.08.09</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.08.11</td><td>-1500</td><td>微信</td></tr><tr><td></td><td>135044+88+145+205-1500</td><td>133982</td></tr><tr><td>2019.07.07</td><td>148</td><td>借呗利息</td></tr><tr><td>2019.07.10</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.07.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>134545+148+205+146</td><td>135044</td></tr><tr><td>2019.06.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.06.07</td><td>20</td><td>借呗利息</td></tr><tr><td>2019.06.10</td><td>-4000</td><td>微信</td></tr><tr><td>2019.06.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>138021+298+20-4000+206</td><td>134545</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.05.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.05.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.05.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>137421+298+96+206</td><td>138021</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.04.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.04.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.04.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136821+298+96+206</td><td>137421</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.03.07</td><td>269</td><td>借呗利息</td></tr><tr><td>2019.03.07</td><td>87</td><td>借呗利息</td></tr><tr><td>2019.03.15</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136259+269+87+206</td><td>136821</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.02.07</td><td>190</td><td>微信(80+30+80)</td></tr><tr><td>2019.02.07</td><td>183</td><td>朋友金条</td></tr><tr><td>2019.02.07</td><td>296</td><td>借呗利息</td></tr><tr><td>2019.02.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.02.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.02.23</td><td>633</td><td>信用卡还款</td></tr><tr><td></td><td>132486+190+183+296+96+2375+633</td><td>136259</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.01.07</td><td>95</td><td>朋友借呗</td></tr><tr><td>2019.01.07</td><td>295</td><td>借呗利息</td></tr><tr><td>2019.01.17</td><td>-3000</td><td>微信</td></tr><tr><td>2019.01.17</td><td>1922</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>13463</td><td>信用卡还款</td></tr><tr><td>2019.01.30</td><td>103</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>62</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>33</td><td>信用卡套现</td></tr><tr><td></td><td>117168+95+295-3000+1922+2375+13463+103+62+33</td><td>132486</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.12.7</td><td>253</td><td>借呗利息</td></tr><tr><td>2018.12.7</td><td>97</td><td>借呗利息</td></tr><tr><td>2018.12.13</td><td>125</td><td>京东利息</td></tr><tr><td>2018.12.19</td><td>61</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>-10000</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>7761</td><td>信用卡还款(3464+2375+1922)</td></tr><tr><td></td><td>118871+97+253+125+61-10000+7761</td><td>117168</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.11.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.11.7</td><td>96</td><td>朋友利息</td></tr><tr><td>2018.11.13</td><td>270</td><td>京东利息</td></tr><tr><td>2018.11.13</td><td>221</td><td>朋友利息</td></tr><tr><td>2018.11.14</td><td>3496</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>1922</td><td>信用卡还款</td></tr><tr><td></td><td>110193+298+96+270+221+3496+2375+1922</td><td>118871</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.10.3</td><td>500</td><td>微信</td></tr><tr><td>2018.10.7</td><td>287</td><td>借呗利息</td></tr><tr><td>2018.10.7</td><td>91</td><td>朋友利息</td></tr><tr><td>2018.10.7</td><td>1000</td><td>微信</td></tr><tr><td>2018.10.12</td><td>162</td><td>朋友利息</td></tr><tr><td>2018.10.15</td><td>300</td><td>微信</td></tr><tr><td>2018.10.16</td><td>190</td><td>京东利息</td></tr><tr><td>2018.10.19</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.10.21</td><td>120</td><td>支付宝代付</td></tr><tr><td>2018.10.22</td><td>3464</td><td>信用卡还款</td></tr><tr><td>2018.10.22</td><td>300</td><td>微信</td></tr><tr><td>2018.10.24</td><td>2375</td><td>信用卡还款</td></tr><tr><td></td><td>99483+500+287+91+1000+162+300+190+1921+120+3464+300+2375</td><td>110193</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.9.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.9.7</td><td>73</td><td>朋友借呗利息</td></tr><tr><td>2018.9.13</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.9.16</td><td>400</td><td>朋友利息(210+190)</td></tr><tr><td>2018.9.17</td><td>6523</td><td>信用卡还款(3464+3059)</td></tr><tr><td></td><td>90268+298+73+1921+400+6523</td><td>99483</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.8.2</td><td>80</td><td>朋友利息</td></tr><tr><td>2018.8.7</td><td>285</td><td>借呗利息</td></tr><tr><td>2018.8.14</td><td>190</td><td>朋友利息</td></tr><tr><td>2018.8.19</td><td>5558</td><td>信用卡(1922+750+2886)</td></tr><tr><td></td><td>84155+80+285+190+5558</td><td>90268</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.7.2</td><td>320</td><td>话费</td></tr><tr><td>2018.7.5</td><td>260</td><td>借呗</td></tr><tr><td>2018.7.10</td><td>1825</td><td>花呗</td></tr><tr><td>2018.7.22</td><td>91</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>180</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>210</td><td>朋友利息</td></tr><tr><td></td><td>81269+320+260+1825+91+180+210</td><td>84155</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.6.5</td><td>1183</td><td>给你花</td></tr><tr><td>2018.6.5</td><td>3638</td><td>招联金融</td></tr><tr><td>2018.6.7</td><td>122</td><td>借呗</td></tr><tr><td>2018.6.10</td><td>6226</td><td>花呗</td></tr><tr><td>2018.6.10</td><td>290</td><td>信用卡套现</td></tr><tr><td>2018.6.10</td><td>360</td><td>朋友 app 利息</td></tr><tr><td></td><td>68600+850+1183+3638+122+6226+290+360</td><td>81269</td></tr><tr><td>2018.6</td><td>69450</td><td>6 月前合计</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<h5 id="earn"><a href="#earn" class="headerlink" title="#earn"></a>#earn</h5><table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr></thead><tbody><tr><td>2017</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2648</td><td>7420</td><td>7420</td><td>9446</td><td>9446</td><td>9446</td></tr><tr><td>2018</td><td>9446</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>15551</td><td>16993</td><td>16993</td><td>16993</td></tr><tr><td>2019</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td></tr><tr><td></td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(补贴)</td><td>1440</td><td>合计</td><td>547085</td></tr></tbody></table><p><code>2648+7420*2+9446*4+11809*7+15551+16993*3+1440+17059*20</code></p><table><thead><tr><th></th><th>工资</th><th>公积金(37*1872)</th><th>合计</th></tr></thead><tbody><tr><td>收入(￥)</td><td>547085</td><td>69264</td><td>616349</td></tr></tbody></table><p><code>547085+69264</code></p><h5 id="expense"><a href="#expense" class="headerlink" title="#expense"></a>#expense</h5><p><a href="/2019/01/01/essays-uncle/">uncle</a></p><table><thead><tr><th></th><th>A</th><th>B</th><th>C</th><th>合计</th></tr></thead><tbody><tr><td>张少雄</td><td>131498</td><td></td><td></td><td>131498</td></tr><tr><td>Jimmy</td><td>173000</td><td></td><td></td><td>173000</td></tr><tr><td>爸</td><td>10000</td><td></td><td></td><td>10000</td></tr><tr><td>学习</td><td>40000(英孚)</td><td>5000(武纺)</td><td>3900+2300(pmp)</td><td>51200</td></tr><tr><td>房租</td><td>37*1400</td><td></td><td></td><td>51800</td></tr><tr><td>手机</td><td>3600(一加 6)</td><td>3400(小米 9)</td><td></td><td>7000</td></tr><tr><td></td><td></td><td></td><td></td><td>363982</td></tr></tbody></table><p><code>131498+173200+10000+51200+33600+7000</code></p><h5 id="截止-2020-年-9-月-3-日"><a href="#截止-2020-年-9-月-3-日" class="headerlink" title="截止 2020 年 9 月 3 日"></a><em>截止 2020 年 9 月 3 日</em></h5>]]></content>
       
       
       <categories>
@@ -1479,11 +1479,11 @@
     
     
     <entry>
-      <title>money</title>
-      <link href="/2019/01/01/essays-money/"/>
-      <url>/2019/01/01/essays-money/</url>
+      <title>uncle</title>
+      <link href="/2019/01/01/essays-uncle/"/>
+      <url>/2019/01/01/essays-uncle/</url>
       
-        <content type="html"><![CDATA[<h5 id="earn"><a href="#earn" class="headerlink" title="#earn"></a>#earn</h5><table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr></thead><tbody><tr><td>2017</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2648</td><td>7420</td><td>7420</td><td>9446</td><td>9446</td><td>9446</td></tr><tr><td>2018</td><td>9446</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>15551</td><td>16993</td><td>16993</td><td>16993</td></tr><tr><td>2019</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(补贴)</td><td>1440</td><td>合计</td><td>325318</td></tr></tbody></table><p><code>2648+7420*2+9446*4+11809*7+15551+16993*3+17059*7+1440</code></p><table><thead><tr><th></th><th>工资</th><th>公积金(24*1872)</th><th>合计</th></tr></thead><tbody><tr><td>收入(￥)</td><td>325318</td><td>44928</td><td>370246</td></tr></tbody></table><p><code>325318+44928</code></p><h5 id="arrears"><a href="#arrears" class="headerlink" title="#arrears"></a>#arrears</h5><table><thead><tr><th></th><th>詹旻(个人)</th><th>信用卡</th><th>有钱花</th><th>谭总</th><th>合计</th></tr></thead><tbody><tr><td>欠款(￥)</td><td>15000</td><td>6300</td><td>10600</td><td>30000</td><td>61900</td></tr></tbody></table><p><code>15000+6300+10600+30000</code></p><h5 id="expense"><a href="#expense" class="headerlink" title="#expense"></a>#expense</h5><p><a href="/2019/01/01/essays-uncle/">uncle</a></p><table><thead><tr><th></th><th>A</th><th>B</th><th>C</th><th>合计</th></tr></thead><tbody><tr><td>张少雄</td><td>135482</td><td></td><td></td><td>133982</td></tr><tr><td>Jimmy</td><td>128200</td><td></td><td></td><td>128200</td></tr><tr><td>爸</td><td>10000</td><td></td><td></td><td>10000</td></tr><tr><td>学习</td><td>40000(英孚)</td><td>5000(武纺)</td><td>3900+2300(pmp)</td><td>51200</td></tr><tr><td>房租</td><td>24*1400</td><td></td><td></td><td>33600</td></tr><tr><td>手机</td><td>3600(一加 6)</td><td>3400(小米 9)</td><td></td><td>7000</td></tr><tr><td></td><td></td><td></td><td></td><td>363982</td></tr></tbody></table><p><code>133982+128200+10000+51200+33600+7000</code></p><h5 id="截止-2019-年-8-月-9-日"><a href="#截止-2019-年-8-月-9-日" class="headerlink" title="截止 2019 年 8 月 9 日"></a><em>截止 2019 年 8 月 9 日</em></h5>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th></th><th>金额</th><th>备注</th></tr></thead><tbody><tr><td>2020.03.25</td><td>-1000</td><td>微信</td></tr><tr><td></td><td>132498-1000</td><td>131498</td></tr><tr><td>2020.03.25</td><td>-888</td><td>微信</td></tr><tr><td></td><td>133386-888</td><td>132498</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2020.01.07</td><td>36</td><td>借呗利息</td></tr><tr><td></td><td>133350+36</td><td>133386</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.12.07</td><td>69</td><td>借呗利息</td></tr><tr><td></td><td>133281+69</td><td>133350</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.11.07</td><td>153</td><td>借呗利息</td></tr><tr><td></td><td>133128+153</td><td>133281</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.09.15</td><td>-1000</td><td>微信</td></tr><tr><td>2019.09.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>133982-1000+146</td><td>133128</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.08.07</td><td>88</td><td>借呗利息</td></tr><tr><td>2019.08.09</td><td>145</td><td>信用卡利息</td></tr><tr><td>2019.08.09</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.08.11</td><td>-1500</td><td>微信</td></tr><tr><td></td><td>135044+88+145+205-1500</td><td>133982</td></tr><tr><td>2019.07.07</td><td>148</td><td>借呗利息</td></tr><tr><td>2019.07.10</td><td>205</td><td>信用卡利息</td></tr><tr><td>2019.07.23</td><td>146</td><td>信用卡利息</td></tr><tr><td></td><td>134545+148+205+146</td><td>135044</td></tr><tr><td>2019.06.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.06.07</td><td>20</td><td>借呗利息</td></tr><tr><td>2019.06.10</td><td>-4000</td><td>微信</td></tr><tr><td>2019.06.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>138021+298+20-4000+206</td><td>134545</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.05.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.05.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.05.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>137421+298+96+206</td><td>138021</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.04.07</td><td>298</td><td>借呗利息</td></tr><tr><td>2019.04.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.04.23</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136821+298+96+206</td><td>137421</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.03.07</td><td>269</td><td>借呗利息</td></tr><tr><td>2019.03.07</td><td>87</td><td>借呗利息</td></tr><tr><td>2019.03.15</td><td>206</td><td>信用卡利息</td></tr><tr><td></td><td>136259+269+87+206</td><td>136821</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.02.07</td><td>190</td><td>微信(80+30+80)</td></tr><tr><td>2019.02.07</td><td>183</td><td>朋友金条</td></tr><tr><td>2019.02.07</td><td>296</td><td>借呗利息</td></tr><tr><td>2019.02.07</td><td>96</td><td>借呗利息</td></tr><tr><td>2019.02.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.02.23</td><td>633</td><td>信用卡还款</td></tr><tr><td></td><td>132486+190+183+296+96+2375+633</td><td>136259</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2019.01.07</td><td>95</td><td>朋友借呗</td></tr><tr><td>2019.01.07</td><td>295</td><td>借呗利息</td></tr><tr><td>2019.01.17</td><td>-3000</td><td>微信</td></tr><tr><td>2019.01.17</td><td>1922</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2019.01.23</td><td>13463</td><td>信用卡还款</td></tr><tr><td>2019.01.30</td><td>103</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>62</td><td>信用卡套现</td></tr><tr><td>2019.01.30</td><td>33</td><td>信用卡套现</td></tr><tr><td></td><td>117168+95+295-3000+1922+2375+13463+103+62+33</td><td>132486</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.12.7</td><td>253</td><td>借呗利息</td></tr><tr><td>2018.12.7</td><td>97</td><td>借呗利息</td></tr><tr><td>2018.12.13</td><td>125</td><td>京东利息</td></tr><tr><td>2018.12.19</td><td>61</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>-10000</td><td>信用卡套现</td></tr><tr><td>2018.12.19</td><td>7761</td><td>信用卡还款(3464+2375+1922)</td></tr><tr><td></td><td>118871+97+253+125+61-10000+7761</td><td>117168</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.11.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.11.7</td><td>96</td><td>朋友利息</td></tr><tr><td>2018.11.13</td><td>270</td><td>京东利息</td></tr><tr><td>2018.11.13</td><td>221</td><td>朋友利息</td></tr><tr><td>2018.11.14</td><td>3496</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>2375</td><td>信用卡还款</td></tr><tr><td>2018.11.14</td><td>1922</td><td>信用卡还款</td></tr><tr><td></td><td>110193+298+96+270+221+3496+2375+1922</td><td>118871</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.10.3</td><td>500</td><td>微信</td></tr><tr><td>2018.10.7</td><td>287</td><td>借呗利息</td></tr><tr><td>2018.10.7</td><td>91</td><td>朋友利息</td></tr><tr><td>2018.10.7</td><td>1000</td><td>微信</td></tr><tr><td>2018.10.12</td><td>162</td><td>朋友利息</td></tr><tr><td>2018.10.15</td><td>300</td><td>微信</td></tr><tr><td>2018.10.16</td><td>190</td><td>京东利息</td></tr><tr><td>2018.10.19</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.10.21</td><td>120</td><td>支付宝代付</td></tr><tr><td>2018.10.22</td><td>3464</td><td>信用卡还款</td></tr><tr><td>2018.10.22</td><td>300</td><td>微信</td></tr><tr><td>2018.10.24</td><td>2375</td><td>信用卡还款</td></tr><tr><td></td><td>99483+500+287+91+1000+162+300+190+1921+120+3464+300+2375</td><td>110193</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.9.7</td><td>298</td><td>借呗利息</td></tr><tr><td>2018.9.7</td><td>73</td><td>朋友借呗利息</td></tr><tr><td>2018.9.13</td><td>1921</td><td>信用卡还款</td></tr><tr><td>2018.9.16</td><td>400</td><td>朋友利息(210+190)</td></tr><tr><td>2018.9.17</td><td>6523</td><td>信用卡还款(3464+3059)</td></tr><tr><td></td><td>90268+298+73+1921+400+6523</td><td>99483</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.8.2</td><td>80</td><td>朋友利息</td></tr><tr><td>2018.8.7</td><td>285</td><td>借呗利息</td></tr><tr><td>2018.8.14</td><td>190</td><td>朋友利息</td></tr><tr><td>2018.8.19</td><td>5558</td><td>信用卡(1922+750+2886)</td></tr><tr><td></td><td>84155+80+285+190+5558</td><td>90268</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.7.2</td><td>320</td><td>话费</td></tr><tr><td>2018.7.5</td><td>260</td><td>借呗</td></tr><tr><td>2018.7.10</td><td>1825</td><td>花呗</td></tr><tr><td>2018.7.22</td><td>91</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>180</td><td>信用卡利息</td></tr><tr><td>2018.7.22</td><td>210</td><td>朋友利息</td></tr><tr><td></td><td>81269+320+260+1825+91+180+210</td><td>84155</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2018.6.5</td><td>1183</td><td>给你花</td></tr><tr><td>2018.6.5</td><td>3638</td><td>招联金融</td></tr><tr><td>2018.6.7</td><td>122</td><td>借呗</td></tr><tr><td>2018.6.10</td><td>6226</td><td>花呗</td></tr><tr><td>2018.6.10</td><td>290</td><td>信用卡套现</td></tr><tr><td>2018.6.10</td><td>360</td><td>朋友 app 利息</td></tr><tr><td></td><td>68600+850+1183+3638+122+6226+290+360</td><td>81269</td></tr><tr><td>2018.6</td><td>69450</td><td>6 月前合计</td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -2475,31 +2475,6 @@
     
     
     <entry>
-      <title>To Jimmy 20160701</title>
-      <link href="/2016/07/01/jimmy-to-20160701/"/>
-      <url>/2016/07/01/jimmy-to-20160701/</url>
-      
-        <content type="html"><![CDATA[<p>Jimmy：<br>哈哈哈哈哈<br>这是第二次了，感觉挺美妙，上次写信是 520，一时肚子没货了，都不知道写啥了<br>小小的我，不能理解很多东西，就是一小孩，说话也没逻辑，也没脑子，想到啥就说，论事情无对错，吉祥教会我很多，但她总说，原本可以教的更多，可是因为这层关系，会阻碍我发展的进程，在她看来，的却如此，吉祥有她所谓的家庭，儿子，给儿子负责是她现在的任务和所有，以至于其它事都能不重要，没有任何负担的黄小黄，刚毕业，有一个不错的老板愿意培养，小孩家里也给予支持，走上外出创业的道路，在这原本好好的师徒，莫名的黄小黄就爱上了吉祥<br>黄小黄不知道吉祥的逻辑，他不知道爱上吉祥会有什么后果，给不了未来，给不了承诺，给不了相伴后生，黄小黄也有点蒙，他所谓的爱情，伴侣是这样的吗，潜意识想照顾吉祥，保护吉祥，和吉祥一直不分开，不会去想什么年龄，什么家庭，什么不可能，小孩也不知道自己在做啥，但小孩心里很满足，很快乐，觉得很幸福<br>吉祥说彼此的迁就没有意义，但迁就成了刻意为之就是没有意义，可以是很自然的理解和包容，相互信任，对任何人来说做到都不可或缺，黄小黄也有很矛盾的时候，不能很好的化解情绪，不明白吉祥的举动，不能向全世界宣布爱吉祥，但一切的一切只要和吉祥在一起的时候都烟消云散了，嘴角除了笑容就是那小酒窝，多么想时间停留在那一瞬间<br>黄小黄所谓的初恋和前女友都有过感情的付出，可最后的不欢而散没有对错，没有遗憾，青春期理应如此，在一起说的话，许的诺不能实现，只能说两个人维系感情的方式让其成了空话，在一起的时候，也成想过未来会实现，只希望各自幸福<br>黄小黄不知道和吉祥能一起走多久，现在的一切都是眼前，他也不是傻子，也知道吉祥一直说的分开是迟早的，也知道吉祥是一个母亲，可黄小黄在心里说了，爱一个人是需要勇气的，学校里的恋爱不懂事，错吧喜欢当成爱，爱是生活，不是拿那小年轻的打闹嬉戏，不高兴就分手，他决定爱上吉祥就不会轻易放弃（可能还会被说小孩不懂爱），小孩很固执，不回去放弃认定的吉祥，未来的路还有很长，不走下去，谁都不知道结果会是哪样<br>黄小黄以男人的口和吉祥说，我爱你，心里习惯有吉祥的存在，他会到处问，你们看见我家吉祥了吗，你们知道我家吉祥在哪吗，你们看见我家吉祥的簪子了吗，她会和韩姐说买菜要买土豆，买几天馒头就要吃烧饼，他会看见吉祥受伤心疼，他会对欺负吉祥的人生气，因为吉祥的一言一行而去情绪化一整天，他不喜欢吉祥对别人太好，也不喜欢别人对吉祥太好，他总会吃醋，总会心疼，他想要吉祥的关心，吉祥的疼爱，只要知道吉祥很好，没有受伤，没有委屈，再大的工作压力，黄小黄都有信心解决，黄小黄说人的极限就是看他什么时候想放弃了，他知道吉祥要来了，提前十天开始坚持跑步，因为吉祥会喜欢运动的孩子，有时间管理的孩子，好喜欢开始 5 公里，最后十公里，甚至有一天早晚加上有快二十公里，第二天依然上班工作干活，想到吉祥就没有极限，想去好好爱她，就要身体倍好，心情倍好<br>吉祥喜欢舒服的感觉，从吉祥来天津，真是风雨无阻，一个月都给了床单，真不知道两个人都是铁打的，如果条件允许都不知道现在在干嘛呢（嘻嘻。。。）爱吉祥就给吉祥最好的，不知疲惫，工作不顺心，黄小黄会和吉祥说，只会和吉祥说，他想知道专属的味道<br>吉祥喜欢簪子，阴差阳错的买了一根小狐狸，又莫名的弄丢了，只为祥云的到来，好喜欢心里明明知道第二天就会来祥云，可前一天真的郁闷了一整天，就算小狐狸是不小心跑来的，也不想让刻有字的它离开，可辛的事，最后找回了，可把好喜欢高兴坏了，有吉祥真好，丢了好多年的簪子，弄断新簪子，我想只为留存黄小黄的爱吧<br>吉祥说怕黄小黄会后悔，会恨她，会长大以后不喜欢现在的作为，她让黄小黄放心，和黄小黄约定以后的日子都不会生气（除非没有没有没有除非），黄小黄顿时觉得不对劲，生气什么的是正常行为，如果只剩下保护和害怕，这是原来的吉祥吗，不忘初心是给 🐶 吃了么，可以去做的任何行为我都觉得是多余的，会很别扭，没有什么是不能自然发展的，黄小黄只希望吉祥好好的，保护好自己不受伤害，吉祥也不用太担心黄小黄，他是男人，是该磨练的时候，各方面的考验都得有，黄小黄不会怕，也不会跑掉了，逃逸犯已经变了，一个能面对的小孩长大了，一个听教的小孩长大了，一个在慢慢磨性子，慢慢成熟的男人就要长大了，吉祥还是可以让其散养，让其自由加速成长，爱吉祥，爱吉祥说爱之人<br>来武汉回归的事也闹的不愉快，走得早，归的晚，放假也因我调整一次，但是要能和吉祥多待会，什么都能过去，你来的前一天晚上，王老师让我按时归队，xx 姐让我 1 号动身回去，我是不是真的就该回去，我不知道，但潜意识我告诉他们了，我 4 号的机票，请 2 天假，这是我的决定，这件事是黄小黄欠考虑了，没有权衡好工作时间，以后不会了，希望以后都能顺顺利利的<br>写着写着满脑子都是吉祥，吉祥说我是在操场上写信呢，哈哈，大家这次都回武汉处理后事，以后可能不会有这么大的人员变动了，工作安排上，我不知道本能的我是否喜欢生产管理，但我如果做，我会做好它，不会让吉祥担心，解决了我的工作，就会让吉祥能有些安心，反倒是吉祥的这小困兽，营销这玩意，不是那么容易，没有绝对靠谱的说法，但吉祥来做的话，肯定没问题的啦，有吉祥，没有什么不可能的呦<br>在大院里头，没有几个聪明人，固执的人，偷懒的人倒是挺多的，我有时也会看不顺眼，也会有不开心，不可理解他人的所作所为，但自己又能怎样，是不是要求别人的眼光要求自己，一切费力的事都是没有找对方法，一切不能改变的事都是自己能力不够<br>黄小黄这辈子最大的幸运就是认识吉祥，而最大的不幸就是不能拥有吉祥，也许吉祥会遇到深爱的人，但是却不会遇到第二个像黄小黄这么爱吉祥的人<br>未完待续……</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Jimmy </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Jimmy </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>20160701</title>
       <link href="/2016/07/01/daily-2016-07-01/"/>
       <url>/2016/07/01/daily-2016-07-01/</url>
@@ -2517,6 +2492,31 @@
         <tags>
             
             <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>To Jimmy 20160701</title>
+      <link href="/2016/07/01/jimmy-to-20160701/"/>
+      <url>/2016/07/01/jimmy-to-20160701/</url>
+      
+        <content type="html"><![CDATA[<p>Jimmy：<br>哈哈哈哈哈<br>这是第二次了，感觉挺美妙，上次写信是 520，一时肚子没货了，都不知道写啥了<br>小小的我，不能理解很多东西，就是一小孩，说话也没逻辑，也没脑子，想到啥就说，论事情无对错，吉祥教会我很多，但她总说，原本可以教的更多，可是因为这层关系，会阻碍我发展的进程，在她看来，的却如此，吉祥有她所谓的家庭，儿子，给儿子负责是她现在的任务和所有，以至于其它事都能不重要，没有任何负担的黄小黄，刚毕业，有一个不错的老板愿意培养，小孩家里也给予支持，走上外出创业的道路，在这原本好好的师徒，莫名的黄小黄就爱上了吉祥<br>黄小黄不知道吉祥的逻辑，他不知道爱上吉祥会有什么后果，给不了未来，给不了承诺，给不了相伴后生，黄小黄也有点蒙，他所谓的爱情，伴侣是这样的吗，潜意识想照顾吉祥，保护吉祥，和吉祥一直不分开，不会去想什么年龄，什么家庭，什么不可能，小孩也不知道自己在做啥，但小孩心里很满足，很快乐，觉得很幸福<br>吉祥说彼此的迁就没有意义，但迁就成了刻意为之就是没有意义，可以是很自然的理解和包容，相互信任，对任何人来说做到都不可或缺，黄小黄也有很矛盾的时候，不能很好的化解情绪，不明白吉祥的举动，不能向全世界宣布爱吉祥，但一切的一切只要和吉祥在一起的时候都烟消云散了，嘴角除了笑容就是那小酒窝，多么想时间停留在那一瞬间<br>黄小黄所谓的初恋和前女友都有过感情的付出，可最后的不欢而散没有对错，没有遗憾，青春期理应如此，在一起说的话，许的诺不能实现，只能说两个人维系感情的方式让其成了空话，在一起的时候，也成想过未来会实现，只希望各自幸福<br>黄小黄不知道和吉祥能一起走多久，现在的一切都是眼前，他也不是傻子，也知道吉祥一直说的分开是迟早的，也知道吉祥是一个母亲，可黄小黄在心里说了，爱一个人是需要勇气的，学校里的恋爱不懂事，错吧喜欢当成爱，爱是生活，不是拿那小年轻的打闹嬉戏，不高兴就分手，他决定爱上吉祥就不会轻易放弃（可能还会被说小孩不懂爱），小孩很固执，不回去放弃认定的吉祥，未来的路还有很长，不走下去，谁都不知道结果会是哪样<br>黄小黄以男人的口和吉祥说，我爱你，心里习惯有吉祥的存在，他会到处问，你们看见我家吉祥了吗，你们知道我家吉祥在哪吗，你们看见我家吉祥的簪子了吗，她会和韩姐说买菜要买土豆，买几天馒头就要吃烧饼，他会看见吉祥受伤心疼，他会对欺负吉祥的人生气，因为吉祥的一言一行而去情绪化一整天，他不喜欢吉祥对别人太好，也不喜欢别人对吉祥太好，他总会吃醋，总会心疼，他想要吉祥的关心，吉祥的疼爱，只要知道吉祥很好，没有受伤，没有委屈，再大的工作压力，黄小黄都有信心解决，黄小黄说人的极限就是看他什么时候想放弃了，他知道吉祥要来了，提前十天开始坚持跑步，因为吉祥会喜欢运动的孩子，有时间管理的孩子，好喜欢开始 5 公里，最后十公里，甚至有一天早晚加上有快二十公里，第二天依然上班工作干活，想到吉祥就没有极限，想去好好爱她，就要身体倍好，心情倍好<br>吉祥喜欢舒服的感觉，从吉祥来天津，真是风雨无阻，一个月都给了床单，真不知道两个人都是铁打的，如果条件允许都不知道现在在干嘛呢（嘻嘻。。。）爱吉祥就给吉祥最好的，不知疲惫，工作不顺心，黄小黄会和吉祥说，只会和吉祥说，他想知道专属的味道<br>吉祥喜欢簪子，阴差阳错的买了一根小狐狸，又莫名的弄丢了，只为祥云的到来，好喜欢心里明明知道第二天就会来祥云，可前一天真的郁闷了一整天，就算小狐狸是不小心跑来的，也不想让刻有字的它离开，可辛的事，最后找回了，可把好喜欢高兴坏了，有吉祥真好，丢了好多年的簪子，弄断新簪子，我想只为留存黄小黄的爱吧<br>吉祥说怕黄小黄会后悔，会恨她，会长大以后不喜欢现在的作为，她让黄小黄放心，和黄小黄约定以后的日子都不会生气（除非没有没有没有除非），黄小黄顿时觉得不对劲，生气什么的是正常行为，如果只剩下保护和害怕，这是原来的吉祥吗，不忘初心是给 🐶 吃了么，可以去做的任何行为我都觉得是多余的，会很别扭，没有什么是不能自然发展的，黄小黄只希望吉祥好好的，保护好自己不受伤害，吉祥也不用太担心黄小黄，他是男人，是该磨练的时候，各方面的考验都得有，黄小黄不会怕，也不会跑掉了，逃逸犯已经变了，一个能面对的小孩长大了，一个听教的小孩长大了，一个在慢慢磨性子，慢慢成熟的男人就要长大了，吉祥还是可以让其散养，让其自由加速成长，爱吉祥，爱吉祥说爱之人<br>来武汉回归的事也闹的不愉快，走得早，归的晚，放假也因我调整一次，但是要能和吉祥多待会，什么都能过去，你来的前一天晚上，王老师让我按时归队，xx 姐让我 1 号动身回去，我是不是真的就该回去，我不知道，但潜意识我告诉他们了，我 4 号的机票，请 2 天假，这是我的决定，这件事是黄小黄欠考虑了，没有权衡好工作时间，以后不会了，希望以后都能顺顺利利的<br>写着写着满脑子都是吉祥，吉祥说我是在操场上写信呢，哈哈，大家这次都回武汉处理后事，以后可能不会有这么大的人员变动了，工作安排上，我不知道本能的我是否喜欢生产管理，但我如果做，我会做好它，不会让吉祥担心，解决了我的工作，就会让吉祥能有些安心，反倒是吉祥的这小困兽，营销这玩意，不是那么容易，没有绝对靠谱的说法，但吉祥来做的话，肯定没问题的啦，有吉祥，没有什么不可能的呦<br>在大院里头，没有几个聪明人，固执的人，偷懒的人倒是挺多的，我有时也会看不顺眼，也会有不开心，不可理解他人的所作所为，但自己又能怎样，是不是要求别人的眼光要求自己，一切费力的事都是没有找对方法，一切不能改变的事都是自己能力不够<br>黄小黄这辈子最大的幸运就是认识吉祥，而最大的不幸就是不能拥有吉祥，也许吉祥会遇到深爱的人，但是却不会遇到第二个像黄小黄这么爱吉祥的人<br>未完待续……</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Jimmy </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Jimmy </tag>
             
         </tags>
       
@@ -2994,6 +2994,31 @@
     
     
     <entry>
+      <title>mysql</title>
+      <link href="/1999/01/01/study-db-mysql/"/>
+      <url>/1999/01/01/study-db-mysql/</url>
+      
+        <content type="html"><![CDATA[<h4 id="mac-mysql-5-7-no-paasword-login"><a href="#mac-mysql-5-7-no-paasword-login" class="headerlink" title="mac mysql 5.7 no paasword login"></a>mac mysql 5.7 no paasword login</h4><pre><code>mysql.server startmysql.server restartmysql.server stopmysqld_safe --skip-grant-tablesmysql -uroot</code></pre><h4 id="mysql-commond"><a href="#mysql-commond" class="headerlink" title="mysql commond"></a>mysql commond</h4><pre><code>show databases;show tables;flush privileges;</code></pre><h4 id="mysql-5-7-update-paasword-amp-host"><a href="#mysql-5-7-update-paasword-amp-host" class="headerlink" title="mysql 5.7 update paasword &amp; host"></a>mysql 5.7 update paasword &amp; host</h4><pre><code>update mysql.user set authentication_string=password(&#39;123456&#39;) where user=&#39;root&#39;update mysql.user set host=&#39;%&#39; where user=&#39;root&#39;</code></pre><h4 id="mysql-create-schema-amp-create-user"><a href="#mysql-create-schema-amp-create-user" class="headerlink" title="mysql create schema &amp; create user"></a>mysql create schema &amp; create user</h4><pre><code>create schema test default character set utf8 collate utf8_general_ci;create user &#39;test&#39;@&#39;%&#39; identified by &#39;123456&#39;;grant all privileges on test.* to test;flush  privileges;</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> db </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mysql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>面向对象编程的理解</title>
       <link href="/1999/01/01/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/"/>
       <url>/1999/01/01/coding-mian-xiang-dui-xiang-bian-cheng-de-li-jie/</url>
@@ -3021,11 +3046,11 @@
     
     
     <entry>
-      <title>Linux command</title>
-      <link href="/1999/01/01/linux-command/"/>
-      <url>/1999/01/01/linux-command/</url>
+      <title>Mac command</title>
+      <link href="/1999/01/01/mac-command/"/>
+      <url>/1999/01/01/mac-command/</url>
       
-        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">></span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span><span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span><span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span><span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class=" language-bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> -D <span class="token comment" spellcheck="true">#后台启动</span></code></pre>]]></content>
       
       
       <categories>
@@ -3071,31 +3096,6 @@
     
     
     <entry>
-      <title>mysql</title>
-      <link href="/1999/01/01/study-db-mysql/"/>
-      <url>/1999/01/01/study-db-mysql/</url>
-      
-        <content type="html"><![CDATA[<h4 id="mac-mysql-5-7-no-paasword-login"><a href="#mac-mysql-5-7-no-paasword-login" class="headerlink" title="mac mysql 5.7 no paasword login"></a>mac mysql 5.7 no paasword login</h4><pre><code>mysql.server startmysql.server restartmysql.server stopmysqld_safe --skip-grant-tablesmysql -uroot</code></pre><h4 id="mysql-commond"><a href="#mysql-commond" class="headerlink" title="mysql commond"></a>mysql commond</h4><pre><code>show databases;show tables;flush privileges;</code></pre><h4 id="mysql-5-7-update-paasword-amp-host"><a href="#mysql-5-7-update-paasword-amp-host" class="headerlink" title="mysql 5.7 update paasword &amp; host"></a>mysql 5.7 update paasword &amp; host</h4><pre><code>update mysql.user set authentication_string=password(&#39;123456&#39;) where user=&#39;root&#39;update mysql.user set host=&#39;%&#39; where user=&#39;root&#39;</code></pre><h4 id="mysql-create-schema-amp-create-user"><a href="#mysql-create-schema-amp-create-user" class="headerlink" title="mysql create schema &amp; create user"></a>mysql create schema &amp; create user</h4><pre><code>create schema test default character set utf8 collate utf8_general_ci;create user &#39;test&#39;@&#39;%&#39; identified by &#39;123456&#39;;grant all privileges on test.* to test;flush  privileges;</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> db </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> mysql </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>time &amp; date</title>
       <link href="/1999/01/01/study-english-time-date/"/>
       <url>/1999/01/01/study-english-time-date/</url>
@@ -3113,31 +3113,6 @@
         <tags>
             
             <tag> english </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>gitlab command</title>
-      <link href="/1999/01/01/study-gitlab-gitlab-command/"/>
-      <url>/1999/01/01/study-gitlab-gitlab-command/</url>
-      
-        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/" target="_blank" rel="noopener">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre><code>#配置路径/etc/gitlab/gitlab.rb#备份路径/var/opt/gitlab/backups</code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre><code>sudo gitlab-rake gitlab:backup:create</code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre><code>sudo  gitlab-ctl stop unicornsudo  gitlab-ctl stop sidekiqsudo  gitlab-rake gitlab:backup:restore BACKUP=&#39;备份的identity&#39;sudo  gitlab-ctl start</code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre><code>sudo gitlab-ctl statussudo gitlab-ctl reconfiguresudo gitlab-ctl startsudo gitlab-ctl stopsudo gitlab-ctl restartsudo gitlab-ctl tail</code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre><code>sudo gitlab-ctl tail redis</code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre><code>sudo gitlab-ctl tail postgresql</code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre><code>sudo gitlab-ctl tail gitlab-workhorse</code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre><code>sudo gitlab-ctl tail logrotate</code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre><code>sudo gitlab-ctl tail nginx</code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre><code>sudo gitlab-ctl tail sidekiq</code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre><code>sudo gitlab-ctl tail unicorn</code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre><code>sudo gitlab-rails console productionuser = User.where(id: 1).firstuser.password = ‘新密码‘user.password_confirmation = ‘新密码‘user.save!</code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre><code>vi /opt/gitlab/embedded/service/gitlab-rails/app/models#devise :lockable, :recoverable, :rememberable, :trackable,#    :validatable, :omniauthable, :confirmable, :registerabledevise :lockable, :recoverable, :rememberable, :trackable,    :validatable, :omniauthable,  :registerable</code></pre><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><pre><code>Guest：可以创建issue、发表评论，不能读写版本库Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限Private：只有组成员才能看到Internal：只要登录的用户就能看到Public：所有人都能看到</code></pre><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> gitlab </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> gitlab </tag>
             
         </tags>
       
@@ -3200,6 +3175,58 @@
     
     
     <entry>
+      <title>gitlab command</title>
+      <link href="/1999/01/01/study-gitlab-gitlab-command/"/>
+      <url>/1999/01/01/study-gitlab-gitlab-command/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/" target="_blank" rel="noopener">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre><code>#配置路径/etc/gitlab/gitlab.rb#备份路径/var/opt/gitlab/backups</code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre><code>sudo gitlab-rake gitlab:backup:create</code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre><code>sudo  gitlab-ctl stop unicornsudo  gitlab-ctl stop sidekiqsudo  gitlab-rake gitlab:backup:restore BACKUP=&#39;备份的identity&#39;sudo  gitlab-ctl start</code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre><code>sudo gitlab-ctl statussudo gitlab-ctl reconfiguresudo gitlab-ctl startsudo gitlab-ctl stopsudo gitlab-ctl restartsudo gitlab-ctl tail</code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre><code>sudo gitlab-ctl tail redis</code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre><code>sudo gitlab-ctl tail postgresql</code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre><code>sudo gitlab-ctl tail gitlab-workhorse</code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre><code>sudo gitlab-ctl tail logrotate</code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre><code>sudo gitlab-ctl tail nginx</code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre><code>sudo gitlab-ctl tail sidekiq</code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre><code>sudo gitlab-ctl tail unicorn</code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre><code>sudo gitlab-rails console productionuser = User.where(id: 1).firstuser.password = ‘新密码‘user.password_confirmation = ‘新密码‘user.save!</code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre><code>vi /opt/gitlab/embedded/service/gitlab-rails/app/models#devise :lockable, :recoverable, :rememberable, :trackable,#    :validatable, :omniauthable, :confirmable, :registerabledevise :lockable, :recoverable, :rememberable, :trackable,    :validatable, :omniauthable,  :registerable</code></pre><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><pre><code>Guest：可以创建issue、发表评论，不能读写版本库Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限Private：只有组成员才能看到Internal：只要登录的用户就能看到Public：所有人都能看到</code></pre><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> gitlab </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> gitlab </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mount command</title>
+      <link href="/1999/01/01/study-linux-mount/"/>
+      <url>/1999/01/01/study-linux-mount/</url>
+      
+        <content type="html"><![CDATA[<h4 id="mount"><a href="#mount" class="headerlink" title="mount"></a>mount</h4><pre><code>sudo mkdir /baksudo fdisk -lsudo mount /dev/xvdf1 /bak</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mount </tag>
+            
+            <tag> shell </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>apt-get command</title>
       <link href="/1999/01/01/study-linux-apt-get/"/>
       <url>/1999/01/01/study-linux-apt-get/</url>
@@ -3216,9 +3243,34 @@
       
         <tags>
             
+            <tag> shell </tag>
+            
             <tag> apt-get </tag>
             
-            <tag> shell </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux command</title>
+      <link href="/1999/01/01/linux-command/"/>
+      <url>/1999/01/01/linux-command/</url>
+      
+        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> computer </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> command </tag>
             
         </tags>
       
@@ -3254,85 +3306,6 @@
     
     
     <entry>
-      <title>Mac command</title>
-      <link href="/1999/01/01/mac-command/"/>
-      <url>/1999/01/01/mac-command/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">></span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span><span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span><span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span><span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class=" language-bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> -D <span class="token comment" spellcheck="true">#后台启动</span></code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> computer </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> command </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>mount command</title>
-      <link href="/1999/01/01/study-linux-mount/"/>
-      <url>/1999/01/01/study-linux-mount/</url>
-      
-        <content type="html"><![CDATA[<h4 id="mount"><a href="#mount" class="headerlink" title="mount"></a>mount</h4><pre><code>sudo mkdir /baksudo fdisk -lsudo mount /dev/xvdf1 /bak</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> shell </tag>
-            
-            <tag> mount </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>date format</title>
-      <link href="/1999/01/01/study-java-date/"/>
-      <url>/1999/01/01/study-java-date/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>字母</th><th>日期或时间元素</th><th>表示</th><th>示例</th></tr></thead><tbody><tr><td>G</td><td>Era 标志符</td><td>Text</td><td>AD</td></tr><tr><td>y</td><td>年</td><td>Year</td><td>1996; 96</td></tr><tr><td>M</td><td>年中的月份</td><td>Month</td><td>July; Jul;07</td></tr><tr><td>w</td><td>年中的周数</td><td>Number</td><td>27</td></tr><tr><td>W</td><td>月份中的周数</td><td>Number</td><td>2</td></tr><tr><td>D</td><td>年中的天数</td><td>Number</td><td>189</td></tr><tr><td>d</td><td>月份中的天数</td><td>Number</td><td>10</td></tr><tr><td>F</td><td>月份中的星期</td><td>Number</td><td>2</td></tr><tr><td>E</td><td>星期中的天数</td><td>Text</td><td>Tuesday; Tue</td></tr><tr><td>a</td><td>Am/pm 标记</td><td>Text</td><td>PM</td></tr><tr><td>H</td><td>一天中的小时数（0-23）</td><td>Number</td><td>0</td></tr><tr><td>k</td><td>一天中的小时数（1-24）</td><td>Number</td><td>24</td></tr><tr><td>K</td><td>am/pm 中的小时数（0-11）</td><td>Number</td><td>0</td></tr><tr><td>h</td><td>am/pm 中的小时数（1-12）</td><td>Number</td><td>12</td></tr><tr><td>m</td><td>小时中的分钟数</td><td>Number</td><td>30</td></tr><tr><td>s</td><td>分钟中的秒数</td><td>Number</td><td>55</td></tr><tr><td>S</td><td>毫秒数</td><td>Number</td><td>978</td></tr><tr><td>z</td><td>时区</td><td>General time zone Pacific Standard Time;</td><td>PST; GMT-08:00</td></tr><tr><td>Z</td><td>时区</td><td>RFC 822 time zone</td><td>-0800</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-            <tag> date </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>vscode配置</title>
       <link href="/1999/01/01/study-vue-vscode-pei-zhi/"/>
       <url>/1999/01/01/study-vue-vscode-pei-zhi/</url>
@@ -3350,6 +3323,33 @@
         <tags>
             
             <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>str-length command</title>
+      <link href="/1999/01/01/study-linux-str-length/"/>
+      <url>/1999/01/01/study-linux-str-length/</url>
+      
+        <content type="html"><![CDATA[<h4 id="字符串长度"><a href="#字符串长度" class="headerlink" title="字符串长度"></a>字符串长度</h4><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">wc</span> -L10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">awk</span> -F <span class="token string">""</span> <span class="token string">'{print NF}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span>  <span class="token string">"<span class="token variable">$str</span>"</span><span class="token operator">|</span> <span class="token function">awk</span> <span class="token string">'{print length(<span class="token variable">$0</span>)}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token variable">${#str}</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token function">expr</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token keyword">:</span> <span class="token string">".*"</span>10</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> shell </tag>
+            
+            <tag> str-length </tag>
             
         </tags>
       
@@ -3383,25 +3383,25 @@
     
     
     <entry>
-      <title>str-length command</title>
-      <link href="/1999/01/01/study-linux-str-length/"/>
-      <url>/1999/01/01/study-linux-str-length/</url>
+      <title>date format</title>
+      <link href="/1999/01/01/study-java-date/"/>
+      <url>/1999/01/01/study-java-date/</url>
       
-        <content type="html"><![CDATA[<h4 id="字符串长度"><a href="#字符串长度" class="headerlink" title="字符串长度"></a>字符串长度</h4><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">wc</span> -L10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">awk</span> -F <span class="token string">""</span> <span class="token string">'{print NF}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span>  <span class="token string">"<span class="token variable">$str</span>"</span><span class="token operator">|</span> <span class="token function">awk</span> <span class="token string">'{print length(<span class="token variable">$0</span>)}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token variable">${#str}</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token function">expr</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token keyword">:</span> <span class="token string">".*"</span>10</code></pre>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>字母</th><th>日期或时间元素</th><th>表示</th><th>示例</th></tr></thead><tbody><tr><td>G</td><td>Era 标志符</td><td>Text</td><td>AD</td></tr><tr><td>y</td><td>年</td><td>Year</td><td>1996; 96</td></tr><tr><td>M</td><td>年中的月份</td><td>Month</td><td>July; Jul;07</td></tr><tr><td>w</td><td>年中的周数</td><td>Number</td><td>27</td></tr><tr><td>W</td><td>月份中的周数</td><td>Number</td><td>2</td></tr><tr><td>D</td><td>年中的天数</td><td>Number</td><td>189</td></tr><tr><td>d</td><td>月份中的天数</td><td>Number</td><td>10</td></tr><tr><td>F</td><td>月份中的星期</td><td>Number</td><td>2</td></tr><tr><td>E</td><td>星期中的天数</td><td>Text</td><td>Tuesday; Tue</td></tr><tr><td>a</td><td>Am/pm 标记</td><td>Text</td><td>PM</td></tr><tr><td>H</td><td>一天中的小时数（0-23）</td><td>Number</td><td>0</td></tr><tr><td>k</td><td>一天中的小时数（1-24）</td><td>Number</td><td>24</td></tr><tr><td>K</td><td>am/pm 中的小时数（0-11）</td><td>Number</td><td>0</td></tr><tr><td>h</td><td>am/pm 中的小时数（1-12）</td><td>Number</td><td>12</td></tr><tr><td>m</td><td>小时中的分钟数</td><td>Number</td><td>30</td></tr><tr><td>s</td><td>分钟中的秒数</td><td>Number</td><td>55</td></tr><tr><td>S</td><td>毫秒数</td><td>Number</td><td>978</td></tr><tr><td>z</td><td>时区</td><td>General time zone Pacific Standard Time;</td><td>PST; GMT-08:00</td></tr><tr><td>Z</td><td>时区</td><td>RFC 822 time zone</td><td>-0800</td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> linux </category>
+          <category> java </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> shell </tag>
+            <tag> java </tag>
             
-            <tag> str-length </tag>
+            <tag> date </tag>
             
         </tags>
       
@@ -3464,11 +3464,11 @@
     
     
     <entry>
-      <title>香港红灯区</title>
-      <link href="/1970/01/01/study-av-hongkong/"/>
-      <url>/1970/01/01/study-av-hongkong/</url>
+      <title>sm</title>
+      <link href="/1970/01/01/study-av-sm/"/>
+      <url>/1970/01/01/study-av-sm/</url>
       
-        <content type="html"><![CDATA[<h5 id="一楼一凤"><a href="#一楼一凤" class="headerlink" title="一楼一凤"></a>一楼一凤</h5><p>香港红灯区的招牌就是一楼一凤，就是每个屋子里只有一个 MM 等着顾客上门。这些楼凤一般都集中在一些比较老的大厦中，大厦的入口一般都会挂一根粉色灯管作为标记。这些大厦主要分布在佐敦、旺角、深水埔，原来网上盛传的几座大厦现在感觉已经有些没落了。老一些的香港本地人一般会从大厦最高层逐个敲门看 MM，看到合适的就在门口问价格和服务，谈好后就进门开工，这个过程也被叫做扫楼。年轻人一般都会上网看看照片，然后按着照片去找自己有兴趣的 MM，具体的网站可以谷歌搜 go141 和 miss148 点进去看。这两个网站比较起来，141 信息相对全一些，但是里面的服务内容包括 MM 照片信三分就好，148 的优势是搜索功能做的比较好，可以根据自己的喜好快速搜出对应的 MM。凤楼 MM 的年龄从 20 到 60 都有，整体还是年轻的较多，但是年轻漂亮的一般没什么服务，年纪大的一般是有求必应。价格上年轻 MM 一般是 400 港币一次，东南亚和年纪大的便宜一些，一些特殊服务要自己门口议价。最后要提醒一点是进了大楼千万别拍照，楼道每个门口都有摄像头，而且每层楼不知名的角落里都有看场子的人，拍照或者和 MM 起了争执都是一种有风险的行为。<br>美少女：基本等同于国内的酒店妹，整体质量最高，基本服务都会做足。大部分酒店妹都是旅游签证过来的漂亮小姐姐，普通话完全无障碍，聊的好了加个 VX 说不定会有更多的故事。美少女主要集中在尖沙咀，国内 MM 一般在 1000 港币左右一次，东南亚 800 左右，大洋马 1500，最贵的是日韩和香港本地的要 2500 一次。具体流程就是打电话找那边的经理预约，然后按照约定的时间赶到酒店就好。</p><h5 id="指压"><a href="#指压" class="headerlink" title="指压"></a>指压</h5><p>香港本地人最喜欢去的应该就是指压了，那里几乎没有游客和外地人出没，属于还没有被广大国内玩家炒起来的一片净土。指压主要集中在旺角和太子地区，对外就是一个按摩场所，房间比较小，只有一张按摩床和一个浴室。因为最初是从按摩发展起来的，所以低价格高服务就成了指压的特色，现在的价格应该是 400 到 450 港币，45 分钟无限次数任玩任做。指压 MM 整体年龄都会偏大一些，30 岁在里面都算是后生女，40+的也会出现。一般场所里年轻漂亮或者服务好的一些的红牌都要提前预约，基本上很快当天就会预约满，直接去大概率会踩雷。香港指压有个专门的本地论坛，每个场所都会在上边更新上班的 MM，有 MM 照片，还有好多实战报告，认真读一下基本不会遇到坑，谷歌搜 winning11 夜游王讨论区就可以找到。</p><h5 id="K-压"><a href="#K-压" class="headerlink" title="K 压"></a>K 压</h5><p>K 压其实和国内的 KTV 玩法很接近了，基本就是先唱 K 然后开大。相对于指压，K 压的 MM 里面香港本地人的比例会大很多。K 压的基本流程就是进到 KTV 里面，点一瓶啤酒选 MM，然后选择是先唱 K 还是直接带出去开大。一般的 K 压在 KTV 里面只能搂搂摸摸，然后要出去到不远处另一个旅馆进行下一步。K 压收费相对会比指压高一些，唱 K 费，出台费和房费是分开算的，整体下来要 7、8 百港币一次。去 K 压的基本都是香港本地人，追求的是和 MM 唱 K 那种放松的感觉。有关 K 压的一些内容，可以在 141 或者夜游王讨论区里面找到相应的帖子。<br>楼上骨：楼上骨和一楼一凤比较类似，是一种居家按摩，分为正骨和邪骨。正骨就是正经的香薰按摩，MM 一般都有正规的按摩资格证书，基本不带任何附加服务或者只有飞机，而邪骨就是按摩加开大。相应的信息可以从 141 或者 148 网站上查询。</p><h5 id="桑拿"><a href="#桑拿" class="headerlink" title="桑拿"></a>桑拿</h5><p>和国内的各种会所相似度很高，进去先自己洗澡，洗好了会有技师来服务。服务一般分为 part1 和 part2，part1 就是正规按摩，part2 就是 happy ending。part2 部分有的场是大活有的场是飞机，这个看价格一般就能区分，500 港币多的基本是手推，800 港币以上的一般都是可以开大。每家场所具体的信息还是进门之前先问清楚价格和服务比较好，不然容易踩雷。</p><h5 id="援交女"><a href="#援交女" class="headerlink" title="援交女"></a>援交女</h5><p>PTGF（parttime girlfriend）数年前曾经火爆一时，但是在香港针对援交女的三次重大行动（Google 香港三次灭绝援交事件）后，曾经辉煌的香港大人网和香港少女论坛已经变得十分冷清，IG 上面主要也是一些专业人士打着 PTGF 的名义继续活动，真正的本地学生出来赚快钱的已经十分少见。除了大人网和少女论坛两个地方外，近期又多了一个 millionbb 的注册交友网站，本人尚未注册观察，有兴趣的榴友可自行尝试。费用方面，一般是 1500 左右见面，后面的剧情就要自行发挥，基本套路都是逛逛街然后开房一次，最好是可以提前联系的时候就谈好免得被坑。因为真正的 PTGF 都是香港本地学生，想约的还是要有一定的广东话功底比较好。<br>以上就是香港集中主流玩法的介绍，下面会放上一些专业术语解释，大家在论坛爬文或者自行到店的时候可能会用到。</p><h5 id="陀地"><a href="#陀地" class="headerlink" title="陀地"></a>陀地</h5><p>香港本地妹</p><h5 id="北姑、新移民"><a href="#北姑、新移民" class="headerlink" title="北姑、新移民"></a>北姑、新移民</h5><p>大陆妹</p><h5 id="鬼妹"><a href="#鬼妹" class="headerlink" title="鬼妹"></a>鬼妹</h5><p>外国妹</p><h5 id="3-味、4-味、5-味"><a href="#3-味、4-味、5-味" class="headerlink" title="3 味、4 味、5 味"></a>3 味、4 味、5 味</h5><p>服务内容，3 味是无套吹、毒龙钻和大活，4 味多了爆菊，5 味多了吮脚趾。</p><h5 id="环保，地球之友"><a href="#环保，地球之友" class="headerlink" title="环保，地球之友"></a>环保，地球之友</h5><p>不带 TT</p><h5 id="屎忽（patpat），后花园"><a href="#屎忽（patpat），后花园" class="headerlink" title="屎忽（patpat），后花园"></a>屎忽（patpat），后花园</h5><p>屁股，爆菊</p><h5 id="车，车轮，车牌，碰碰车，小车，中车，大车"><a href="#车，车轮，车牌，碰碰车，小车，中车，大车" class="headerlink" title="车，车轮，车牌，碰碰车，小车，中车，大车"></a>车，车轮，车牌，碰碰车，小车，中车，大车</h5><p>亲嘴的不同程度，碰碰车是简单碰一下，大车是湿吻。</p><h5 id="夹肠仔"><a href="#夹肠仔" class="headerlink" title="夹肠仔"></a>夹肠仔</h5><p>乳交</p><h5 id="HJ，BJ"><a href="#HJ，BJ" class="headerlink" title="HJ，BJ"></a>HJ，BJ</h5><p>hand job 打飞机，blow job 吹箫</p><h5 id="中超，打假波，石头波"><a href="#中超，打假波，石头波" class="headerlink" title="中超，打假波，石头波"></a>中超，打假波，石头波</h5><p>人工胸</p><h5 id="C9-师奶"><a href="#C9-师奶" class="headerlink" title="C9,师奶"></a>C9,师奶</h5><p>成熟女人</p><h5 id="即尺"><a href="#即尺" class="headerlink" title="即尺"></a>即尺</h5><p>进门脱裤子直接吹</p><h5 id="BM"><a href="#BM" class="headerlink" title="BM"></a>BM</h5><p>body massage 身体漫游</p><h5 id="袋，带袋"><a href="#袋，带袋" class="headerlink" title="袋，带袋"></a>袋，带袋</h5><p>TT，带 T</p>]]></content>
+        <content type="html"><![CDATA[<p>先聊几个我认为即使你不玩圈子，也是必不可少的东西。 1.【按摩棒】大多数人认为通过简单的亲密接触或者随便用手扣扣就能达到前戏的目的，实际不然。一个合适的按摩棒不管用于前戏，还是做爱过程当中，或者大战过后都非常有用。<br>首先按摩棒的挑选，我在和几任对象交往过程中，陆续买过十几个按摩棒，发现有一些玩十几分钟也没感觉，而有些很好用，快的时候十几秒就高潮了。有些容易坏，有些质量还不错，建议大家买之前先问一问其他人的推荐。</p><p>（在这里问个问题，跳蛋是放阴蒂而不是阴道对吧？放阴蒂的话如果想带出门怎么固定？而且好像所有跳蛋都不如按摩棒来的效果好，是只有我这样还是大家都这样？如果有女生看到这个帖子，有用到过喜欢的按摩棒、跳蛋、插入式按摩棒，希望能推荐一下，我买来试一下效果）</p><p>2.【眼罩】几乎所有女孩，在带上眼罩前后，差别都是巨大的，把双眼蒙住，对她们来说接下来的一切都充满了未知与刺激。如果没用过的建议赶紧试试。<br>对于眼罩的推荐，我建议买绑带类型的，一种真丝的，一种法兰绒的。黑色为主，不需要花里胡哨，当然如果你们对角色扮演或者拍摄感兴趣，好看的也能常备几个。</p><p>3.【润滑油】即使女人都是水做的，做爱 20 分钟后，都会开始变干。如果依然不停的抽插，事后双方都会红肿或者不舒服。这种做法也不健康。所以如果你经常 20 分钟以上，如果你懒的前戏，润滑油都是必备品。<br>润滑油分两种包装，一种是瓶装，一种是袋装（5ml），看各人使用习惯，都可以。建议第一次不要买大瓶，每个牌子的粘稠度都不一样，买小的可以在入坑前期快速找到自己喜欢的牌子。</p><p>———以上是必备，以下是进阶———<br>上面聊的是即使不玩圈子，你也必须要有的东西，下面聊的是给圈内新人推荐的道具</p><p>1.【皮鞭】皮鞭大概有三种材质，真皮，人造革，马尾。<br>从痛感排序：马尾&gt;人造革&gt;真皮。<br>马尾极难打理，很容易打结，但容易抽出血印，我个人建议避雷。<br>人造革很便宜，用多大力就多疼。买着玩的可以选这个凑合。<br>真皮分两种，一种是山羊皮，疼痛度和人造革相似，相对较硬，一种是绵羊皮，即使很用力打也不怎么疼，所以可以用比较大的力气抽出很大的响声，然而不是太疼。真皮价格有点贵，甚至很不好找。我个人喜欢绵羊皮的，我对象又喜欢被抽又怕疼。(对了我这种是面条状的，，有种一缕一缕的麻花状的我没用过)</p><p>2.【拍子】网上样式有很多，材质形状都五花八门。这个东西对材质没什么讲究，最重要是趁手，别过大或者过小。<br>最好是真皮夹海绵的，人造革也行，木制竹制也行，别是塑料就行，毕竟你掏出个塑料的人家以为你要打苍蝇，太影响气氛。不同材质拍打的痛感是不一样的，每个 m 喜欢的感觉也不一样。毕竟便宜，每种备一个也无伤大雅。<br>顺带一提，在你和 m 初次接触的时候，是要用拍子测评疼痛接受度的。一般会由轻到重分为 10 级。你必须熟悉你 m 的接受度，不同情形惩罚的力度都是不一样的。</p><p>3.【束缚带】这个品类五花八门，手铐脚铐脖圈五件套是必备，吊门上的，吊天花板的，绑床上的，麻绳，静电胶带等等。有条件的建议各种都备用一个，毕竟玩法不嫌多。<br>其中比较难的是绳艺，耗时且麻烦，但一旦熟练掌握，你就是半个大神。<br>关于选购方面，有几个建议：一切以舒适度为核心，网上卖的那些几十块一百来块的套餐大都硬邦邦，会很不舒服，务必避雷。手铐五件套建议选夹海绵的，其他束缚类的在人体接触部位必须至少是法兰绒的，不然你绑个几分钟或者吊着做的时候女方只会觉得越来越难受，最后可能就想扔了。</p><p>4.【其他类】这一类别都是小众或者不太实用的东西，这边列举一些出来供大家参考。<br>【低温蜡烛】，有盒装的，有蜡烛形态的，建议买金属盒装，能反复使用，千万别买到假的，烫伤就不美了。<br>【电疗设备】，这个有点不太好聊，乳贴，假阳具，肛门塞，尿道塞之类的，由于通电，对于接受度比较低的 m 慎用，虽然电流强度可调节，但多少有点太刺激，建议入坑的朋友，在给 m 用之前先在自己身上试一下强度。<br>【羽毛】，这类挠痒性质的东西不太实用，调情节奏太慢，中看不中用，不建议买。<br>【口塞】，选购建议，硅胶材质(不会咯牙)，带孔(方便口水流出)，大小合适(看她是樱桃小嘴还是血盆大口)。<br>【肛门塞】调教后庭花是项需要耐心的技术活。调教的好，从此爱上这种感觉，调教的不好，从此谁碰她后亭跟谁急。选购建议，硅胶材质的，从小到大准备至少 3 个型号，简单的弧形椎型就行，新手不建议选太长太粗的，她会怕，可能会直接导致没办法开始调教。塑料和金属的也建议避雷，不舒服。有种小众的充气式扩肛器也没必要买。<br>【灌肠】建议开发后庭的朋友准备点医用灌肠生理盐水和润滑剂。别贪便宜，别不讲卫生。<br>【窥阴器】新手避雷<br>【记号笔】某宝搜情趣记号笔就行，水性的易清洗。如果情到深处没道具，切勿用马克笔等油性笔，眉笔和口红也行，如果女伴给你用的话，也能用卸妆水擦掉，只是代价有点贵。<br>【贴纸】拍照必备品，类似纹身贴。记号笔的替代品。</p><p>5.【药品类】技术区有个大神专门写过一个帖子，你们去搜一下。这里我简单说点个人经验。<br>内用的有三种，治阳痿的，治早泄的，和双效。没吃过的建议半粒起步，觉得效果不够再试一整粒，过量服用很容易射不出。而且吃了基本百分百头疼。<br>外用的我就知道一种，都是麻醉类型的。包装分为喷剂和湿巾。湿巾可能就更方便些。个人建议，没用过的人，少喷点，喷完后等几分钟就冲洗掉。过量使用，你整个龟头是没有知觉的。</p><p>关于女性的内服和外用，我完全不懂，也没用过，但非常希望有大佬，在评论区科普一下。</p><p>6.【情趣内衣】样式五花八门，看个人喜好，唯一的建议就是宁可少买几件，务必买质量好的。某宝几十块一件的基本都是一次性的甚至买回来根本穿不了。</p><p>【题外话】<br>国内 SM 圈子我没进去过，但稍微了解一些，这个圈子极为小众，且还混有大量骗炮的假男 S。对我来说，SM 只是一个自己的性爱好，做爱过程中的一种仪式，如果没有这种仪式，那做爱对我来说就好像“交公粮”/“吃快餐”，毫无回味可言，也不会对下一次性爱产生期待。<br>如果你想入圈，你只要知道一点，没有定式的 SM，你只要找到你喜欢的方式就行。<br>另，SM 相比普通性爱，要花数倍的时间，没有耐心以及喜欢“吃快餐”的不建议入圈。自己偶尔和对象瞎玩玩倒是可以。</p>]]></content>
       
       
       <categories>
@@ -3489,11 +3489,11 @@
     
     
     <entry>
-      <title>sm</title>
-      <link href="/1970/01/01/study-av-sm/"/>
-      <url>/1970/01/01/study-av-sm/</url>
+      <title>香港红灯区</title>
+      <link href="/1970/01/01/study-av-hongkong/"/>
+      <url>/1970/01/01/study-av-hongkong/</url>
       
-        <content type="html"><![CDATA[<p>先聊几个我认为即使你不玩圈子，也是必不可少的东西。 1.【按摩棒】大多数人认为通过简单的亲密接触或者随便用手扣扣就能达到前戏的目的，实际不然。一个合适的按摩棒不管用于前戏，还是做爱过程当中，或者大战过后都非常有用。<br>首先按摩棒的挑选，我在和几任对象交往过程中，陆续买过十几个按摩棒，发现有一些玩十几分钟也没感觉，而有些很好用，快的时候十几秒就高潮了。有些容易坏，有些质量还不错，建议大家买之前先问一问其他人的推荐。</p><p>（在这里问个问题，跳蛋是放阴蒂而不是阴道对吧？放阴蒂的话如果想带出门怎么固定？而且好像所有跳蛋都不如按摩棒来的效果好，是只有我这样还是大家都这样？如果有女生看到这个帖子，有用到过喜欢的按摩棒、跳蛋、插入式按摩棒，希望能推荐一下，我买来试一下效果）</p><p>2.【眼罩】几乎所有女孩，在带上眼罩前后，差别都是巨大的，把双眼蒙住，对她们来说接下来的一切都充满了未知与刺激。如果没用过的建议赶紧试试。<br>对于眼罩的推荐，我建议买绑带类型的，一种真丝的，一种法兰绒的。黑色为主，不需要花里胡哨，当然如果你们对角色扮演或者拍摄感兴趣，好看的也能常备几个。</p><p>3.【润滑油】即使女人都是水做的，做爱 20 分钟后，都会开始变干。如果依然不停的抽插，事后双方都会红肿或者不舒服。这种做法也不健康。所以如果你经常 20 分钟以上，如果你懒的前戏，润滑油都是必备品。<br>润滑油分两种包装，一种是瓶装，一种是袋装（5ml），看各人使用习惯，都可以。建议第一次不要买大瓶，每个牌子的粘稠度都不一样，买小的可以在入坑前期快速找到自己喜欢的牌子。</p><p>———以上是必备，以下是进阶———<br>上面聊的是即使不玩圈子，你也必须要有的东西，下面聊的是给圈内新人推荐的道具</p><p>1.【皮鞭】皮鞭大概有三种材质，真皮，人造革，马尾。<br>从痛感排序：马尾&gt;人造革&gt;真皮。<br>马尾极难打理，很容易打结，但容易抽出血印，我个人建议避雷。<br>人造革很便宜，用多大力就多疼。买着玩的可以选这个凑合。<br>真皮分两种，一种是山羊皮，疼痛度和人造革相似，相对较硬，一种是绵羊皮，即使很用力打也不怎么疼，所以可以用比较大的力气抽出很大的响声，然而不是太疼。真皮价格有点贵，甚至很不好找。我个人喜欢绵羊皮的，我对象又喜欢被抽又怕疼。(对了我这种是面条状的，，有种一缕一缕的麻花状的我没用过)</p><p>2.【拍子】网上样式有很多，材质形状都五花八门。这个东西对材质没什么讲究，最重要是趁手，别过大或者过小。<br>最好是真皮夹海绵的，人造革也行，木制竹制也行，别是塑料就行，毕竟你掏出个塑料的人家以为你要打苍蝇，太影响气氛。不同材质拍打的痛感是不一样的，每个 m 喜欢的感觉也不一样。毕竟便宜，每种备一个也无伤大雅。<br>顺带一提，在你和 m 初次接触的时候，是要用拍子测评疼痛接受度的。一般会由轻到重分为 10 级。你必须熟悉你 m 的接受度，不同情形惩罚的力度都是不一样的。</p><p>3.【束缚带】这个品类五花八门，手铐脚铐脖圈五件套是必备，吊门上的，吊天花板的，绑床上的，麻绳，静电胶带等等。有条件的建议各种都备用一个，毕竟玩法不嫌多。<br>其中比较难的是绳艺，耗时且麻烦，但一旦熟练掌握，你就是半个大神。<br>关于选购方面，有几个建议：一切以舒适度为核心，网上卖的那些几十块一百来块的套餐大都硬邦邦，会很不舒服，务必避雷。手铐五件套建议选夹海绵的，其他束缚类的在人体接触部位必须至少是法兰绒的，不然你绑个几分钟或者吊着做的时候女方只会觉得越来越难受，最后可能就想扔了。</p><p>4.【其他类】这一类别都是小众或者不太实用的东西，这边列举一些出来供大家参考。<br>【低温蜡烛】，有盒装的，有蜡烛形态的，建议买金属盒装，能反复使用，千万别买到假的，烫伤就不美了。<br>【电疗设备】，这个有点不太好聊，乳贴，假阳具，肛门塞，尿道塞之类的，由于通电，对于接受度比较低的 m 慎用，虽然电流强度可调节，但多少有点太刺激，建议入坑的朋友，在给 m 用之前先在自己身上试一下强度。<br>【羽毛】，这类挠痒性质的东西不太实用，调情节奏太慢，中看不中用，不建议买。<br>【口塞】，选购建议，硅胶材质(不会咯牙)，带孔(方便口水流出)，大小合适(看她是樱桃小嘴还是血盆大口)。<br>【肛门塞】调教后庭花是项需要耐心的技术活。调教的好，从此爱上这种感觉，调教的不好，从此谁碰她后亭跟谁急。选购建议，硅胶材质的，从小到大准备至少 3 个型号，简单的弧形椎型就行，新手不建议选太长太粗的，她会怕，可能会直接导致没办法开始调教。塑料和金属的也建议避雷，不舒服。有种小众的充气式扩肛器也没必要买。<br>【灌肠】建议开发后庭的朋友准备点医用灌肠生理盐水和润滑剂。别贪便宜，别不讲卫生。<br>【窥阴器】新手避雷<br>【记号笔】某宝搜情趣记号笔就行，水性的易清洗。如果情到深处没道具，切勿用马克笔等油性笔，眉笔和口红也行，如果女伴给你用的话，也能用卸妆水擦掉，只是代价有点贵。<br>【贴纸】拍照必备品，类似纹身贴。记号笔的替代品。</p><p>5.【药品类】技术区有个大神专门写过一个帖子，你们去搜一下。这里我简单说点个人经验。<br>内用的有三种，治阳痿的，治早泄的，和双效。没吃过的建议半粒起步，觉得效果不够再试一整粒，过量服用很容易射不出。而且吃了基本百分百头疼。<br>外用的我就知道一种，都是麻醉类型的。包装分为喷剂和湿巾。湿巾可能就更方便些。个人建议，没用过的人，少喷点，喷完后等几分钟就冲洗掉。过量使用，你整个龟头是没有知觉的。</p><p>关于女性的内服和外用，我完全不懂，也没用过，但非常希望有大佬，在评论区科普一下。</p><p>6.【情趣内衣】样式五花八门，看个人喜好，唯一的建议就是宁可少买几件，务必买质量好的。某宝几十块一件的基本都是一次性的甚至买回来根本穿不了。</p><p>【题外话】<br>国内 SM 圈子我没进去过，但稍微了解一些，这个圈子极为小众，且还混有大量骗炮的假男 S。对我来说，SM 只是一个自己的性爱好，做爱过程中的一种仪式，如果没有这种仪式，那做爱对我来说就好像“交公粮”/“吃快餐”，毫无回味可言，也不会对下一次性爱产生期待。<br>如果你想入圈，你只要知道一点，没有定式的 SM，你只要找到你喜欢的方式就行。<br>另，SM 相比普通性爱，要花数倍的时间，没有耐心以及喜欢“吃快餐”的不建议入圈。自己偶尔和对象瞎玩玩倒是可以。</p>]]></content>
+        <content type="html"><![CDATA[<h5 id="一楼一凤"><a href="#一楼一凤" class="headerlink" title="一楼一凤"></a>一楼一凤</h5><p>香港红灯区的招牌就是一楼一凤，就是每个屋子里只有一个 MM 等着顾客上门。这些楼凤一般都集中在一些比较老的大厦中，大厦的入口一般都会挂一根粉色灯管作为标记。这些大厦主要分布在佐敦、旺角、深水埔，原来网上盛传的几座大厦现在感觉已经有些没落了。老一些的香港本地人一般会从大厦最高层逐个敲门看 MM，看到合适的就在门口问价格和服务，谈好后就进门开工，这个过程也被叫做扫楼。年轻人一般都会上网看看照片，然后按着照片去找自己有兴趣的 MM，具体的网站可以谷歌搜 go141 和 miss148 点进去看。这两个网站比较起来，141 信息相对全一些，但是里面的服务内容包括 MM 照片信三分就好，148 的优势是搜索功能做的比较好，可以根据自己的喜好快速搜出对应的 MM。凤楼 MM 的年龄从 20 到 60 都有，整体还是年轻的较多，但是年轻漂亮的一般没什么服务，年纪大的一般是有求必应。价格上年轻 MM 一般是 400 港币一次，东南亚和年纪大的便宜一些，一些特殊服务要自己门口议价。最后要提醒一点是进了大楼千万别拍照，楼道每个门口都有摄像头，而且每层楼不知名的角落里都有看场子的人，拍照或者和 MM 起了争执都是一种有风险的行为。<br>美少女：基本等同于国内的酒店妹，整体质量最高，基本服务都会做足。大部分酒店妹都是旅游签证过来的漂亮小姐姐，普通话完全无障碍，聊的好了加个 VX 说不定会有更多的故事。美少女主要集中在尖沙咀，国内 MM 一般在 1000 港币左右一次，东南亚 800 左右，大洋马 1500，最贵的是日韩和香港本地的要 2500 一次。具体流程就是打电话找那边的经理预约，然后按照约定的时间赶到酒店就好。</p><h5 id="指压"><a href="#指压" class="headerlink" title="指压"></a>指压</h5><p>香港本地人最喜欢去的应该就是指压了，那里几乎没有游客和外地人出没，属于还没有被广大国内玩家炒起来的一片净土。指压主要集中在旺角和太子地区，对外就是一个按摩场所，房间比较小，只有一张按摩床和一个浴室。因为最初是从按摩发展起来的，所以低价格高服务就成了指压的特色，现在的价格应该是 400 到 450 港币，45 分钟无限次数任玩任做。指压 MM 整体年龄都会偏大一些，30 岁在里面都算是后生女，40+的也会出现。一般场所里年轻漂亮或者服务好的一些的红牌都要提前预约，基本上很快当天就会预约满，直接去大概率会踩雷。香港指压有个专门的本地论坛，每个场所都会在上边更新上班的 MM，有 MM 照片，还有好多实战报告，认真读一下基本不会遇到坑，谷歌搜 winning11 夜游王讨论区就可以找到。</p><h5 id="K-压"><a href="#K-压" class="headerlink" title="K 压"></a>K 压</h5><p>K 压其实和国内的 KTV 玩法很接近了，基本就是先唱 K 然后开大。相对于指压，K 压的 MM 里面香港本地人的比例会大很多。K 压的基本流程就是进到 KTV 里面，点一瓶啤酒选 MM，然后选择是先唱 K 还是直接带出去开大。一般的 K 压在 KTV 里面只能搂搂摸摸，然后要出去到不远处另一个旅馆进行下一步。K 压收费相对会比指压高一些，唱 K 费，出台费和房费是分开算的，整体下来要 7、8 百港币一次。去 K 压的基本都是香港本地人，追求的是和 MM 唱 K 那种放松的感觉。有关 K 压的一些内容，可以在 141 或者夜游王讨论区里面找到相应的帖子。<br>楼上骨：楼上骨和一楼一凤比较类似，是一种居家按摩，分为正骨和邪骨。正骨就是正经的香薰按摩，MM 一般都有正规的按摩资格证书，基本不带任何附加服务或者只有飞机，而邪骨就是按摩加开大。相应的信息可以从 141 或者 148 网站上查询。</p><h5 id="桑拿"><a href="#桑拿" class="headerlink" title="桑拿"></a>桑拿</h5><p>和国内的各种会所相似度很高，进去先自己洗澡，洗好了会有技师来服务。服务一般分为 part1 和 part2，part1 就是正规按摩，part2 就是 happy ending。part2 部分有的场是大活有的场是飞机，这个看价格一般就能区分，500 港币多的基本是手推，800 港币以上的一般都是可以开大。每家场所具体的信息还是进门之前先问清楚价格和服务比较好，不然容易踩雷。</p><h5 id="援交女"><a href="#援交女" class="headerlink" title="援交女"></a>援交女</h5><p>PTGF（parttime girlfriend）数年前曾经火爆一时，但是在香港针对援交女的三次重大行动（Google 香港三次灭绝援交事件）后，曾经辉煌的香港大人网和香港少女论坛已经变得十分冷清，IG 上面主要也是一些专业人士打着 PTGF 的名义继续活动，真正的本地学生出来赚快钱的已经十分少见。除了大人网和少女论坛两个地方外，近期又多了一个 millionbb 的注册交友网站，本人尚未注册观察，有兴趣的榴友可自行尝试。费用方面，一般是 1500 左右见面，后面的剧情就要自行发挥，基本套路都是逛逛街然后开房一次，最好是可以提前联系的时候就谈好免得被坑。因为真正的 PTGF 都是香港本地学生，想约的还是要有一定的广东话功底比较好。<br>以上就是香港集中主流玩法的介绍，下面会放上一些专业术语解释，大家在论坛爬文或者自行到店的时候可能会用到。</p><h5 id="陀地"><a href="#陀地" class="headerlink" title="陀地"></a>陀地</h5><p>香港本地妹</p><h5 id="北姑、新移民"><a href="#北姑、新移民" class="headerlink" title="北姑、新移民"></a>北姑、新移民</h5><p>大陆妹</p><h5 id="鬼妹"><a href="#鬼妹" class="headerlink" title="鬼妹"></a>鬼妹</h5><p>外国妹</p><h5 id="3-味、4-味、5-味"><a href="#3-味、4-味、5-味" class="headerlink" title="3 味、4 味、5 味"></a>3 味、4 味、5 味</h5><p>服务内容，3 味是无套吹、毒龙钻和大活，4 味多了爆菊，5 味多了吮脚趾。</p><h5 id="环保，地球之友"><a href="#环保，地球之友" class="headerlink" title="环保，地球之友"></a>环保，地球之友</h5><p>不带 TT</p><h5 id="屎忽（patpat），后花园"><a href="#屎忽（patpat），后花园" class="headerlink" title="屎忽（patpat），后花园"></a>屎忽（patpat），后花园</h5><p>屁股，爆菊</p><h5 id="车，车轮，车牌，碰碰车，小车，中车，大车"><a href="#车，车轮，车牌，碰碰车，小车，中车，大车" class="headerlink" title="车，车轮，车牌，碰碰车，小车，中车，大车"></a>车，车轮，车牌，碰碰车，小车，中车，大车</h5><p>亲嘴的不同程度，碰碰车是简单碰一下，大车是湿吻。</p><h5 id="夹肠仔"><a href="#夹肠仔" class="headerlink" title="夹肠仔"></a>夹肠仔</h5><p>乳交</p><h5 id="HJ，BJ"><a href="#HJ，BJ" class="headerlink" title="HJ，BJ"></a>HJ，BJ</h5><p>hand job 打飞机，blow job 吹箫</p><h5 id="中超，打假波，石头波"><a href="#中超，打假波，石头波" class="headerlink" title="中超，打假波，石头波"></a>中超，打假波，石头波</h5><p>人工胸</p><h5 id="C9-师奶"><a href="#C9-师奶" class="headerlink" title="C9,师奶"></a>C9,师奶</h5><p>成熟女人</p><h5 id="即尺"><a href="#即尺" class="headerlink" title="即尺"></a>即尺</h5><p>进门脱裤子直接吹</p><h5 id="BM"><a href="#BM" class="headerlink" title="BM"></a>BM</h5><p>body massage 身体漫游</p><h5 id="袋，带袋"><a href="#袋，带袋" class="headerlink" title="袋，带袋"></a>袋，带袋</h5><p>TT，带 T</p>]]></content>
       
       
       <categories>
