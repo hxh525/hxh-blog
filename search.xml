@@ -1479,31 +1479,6 @@
     
     
     <entry>
-      <title>new year</title>
-      <link href="/2019/01/01/essays-new-year/"/>
-      <url>/2019/01/01/essays-new-year/</url>
-      
-        <content type="html"><![CDATA[<p>元旦<br>这是一个跨年夜,步入 2019 已经有几分钟了<br>渐渐地明白了自己,长大了<br>长大到我能明白这个社会的进步<br>长大到我能认识到自己的不足</p><p>这个日志我有好久没有跟新了<br>不是因为工作忙,也不是因为去学习了<br>其实就是过了那个新鲜度</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> essays </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> essays </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>money</title>
       <link href="/2019/01/01/essays-money/"/>
       <url>/2019/01/01/essays-money/</url>
@@ -1521,6 +1496,31 @@
         <tags>
             
             <tag> money </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>new year</title>
+      <link href="/2019/01/01/essays-new-year/"/>
+      <url>/2019/01/01/essays-new-year/</url>
+      
+        <content type="html"><![CDATA[<p>元旦<br>这是一个跨年夜,步入 2019 已经有几分钟了<br>渐渐地明白了自己,长大了<br>长大到我能明白这个社会的进步<br>长大到我能认识到自己的不足</p><p>这个日志我有好久没有跟新了<br>不是因为工作忙,也不是因为去学习了<br>其实就是过了那个新鲜度</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> essays </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> essays </tag>
             
         </tags>
       
@@ -2938,33 +2938,6 @@
     
     
     <entry>
-      <title>hexo-theme-matery</title>
-      <link href="/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/"/>
-      <url>/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/</url>
-      
-        <content type="html"><![CDATA[<h4 id="hexo-theme-matery"><a href="#hexo-theme-matery" class="headerlink" title="hexo-theme-matery"></a><a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a></h4><h4 id="Front-matter-选项详解"><a href="#Front-matter-选项详解" class="headerlink" title="Front-matter 选项详解"></a>Front-matter 选项详解</h4><p><code>Front-matter</code> 选项中的所有内容均为<strong>非必填</strong>的。但我仍然建议至少填写 <code>title</code> 和 <code>date</code> 的值。</p><table><thead><tr><th>配置选项</th><th>默认值</th><th>描述</th></tr></thead><tbody><tr><td>title</td><td><code>Markdown</code> 的文件标题</td><td>文章标题，强烈建议填写此选项</td></tr><tr><td>date</td><td>文件创建时的日期时间</td><td>发布时间，强烈建议填写此选项，且最好保证全局唯一</td></tr><tr><td>author</td><td>根 <code>_config.yml</code> 中的 <code>author</code></td><td>文章作者</td></tr><tr><td>img</td><td><code>featureImages</code> 中的某个值</td><td>文章特征图，推荐使用图床(腾讯云、七牛云、又拍云等)来做图片的路径.如: <code>http://xxx.com/xxx.jpg</code></td></tr><tr><td>top</td><td><code>true</code></td><td>推荐文章（文章是否置顶），如果 <code>top</code> 值为 <code>true</code>，则会作为首页推荐文章</td></tr><tr><td>cover</td><td><code>false</code></td><td><code>v1.0.2</code>版本新增，表示该文章是否需要加入到首页轮播封面中</td></tr><tr><td>coverImg</td><td>无</td><td><code>v1.0.2</code>版本新增，表示该文章在首页轮播封面需要显示的图片路径，如果没有，则默认使用文章的特色图片</td></tr><tr><td>password</td><td>无</td><td>文章阅读密码，如果要对文章设置阅读验证密码的话，就可以设置 <code>password</code> 的值，该值必须是用 <code>SHA256</code> 加密后的密码，防止被他人识破。前提是在主题的 <code>config.yml</code> 中激活了 <code>verifyPassword</code> 选项</td></tr><tr><td>toc</td><td><code>true</code></td><td>是否开启 TOC，可以针对某篇文章单独关闭 TOC 的功能。前提是在主题的 <code>config.yml</code> 中激活了 <code>toc</code> 选项</td></tr><tr><td>mathjax</td><td><code>false</code></td><td>是否开启数学公式支持 ，本文章是否开启 <code>mathjax</code>，且需要在主题的 <code>_config.yml</code> 文件中也需要开启才行</td></tr><tr><td>summary</td><td>无</td><td>文章摘要，自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要</td></tr><tr><td>categories</td><td>无</td><td>文章分类，本主题的分类表示宏观上大的分类，只建议一篇文章一个分类</td></tr><tr><td>tags</td><td>无</td><td>文章标签，一篇文章可以多个标签</td></tr></tbody></table><blockquote><p><strong>注意</strong>:</p><ol><li>如果 <code>img</code> 属性不填写的话，文章特色图会根据文章标题的 <code>hashcode</code> 的值取余，然后选取主题中对应的特色图片，从而达到让所有文章都的特色图<strong>各有特色</strong>。</li><li><code>date</code> 的值尽量保证每篇文章是唯一的，因为本主题中 <code>Gitalk</code> 和 <code>Gitment</code> 识别 <code>id</code> 是通过 <code>date</code> 的值来作为唯一标识的。</li><li>如果要对文章设置阅读验证密码的功能，不仅要在 Front-matter 中设置采用了 SHA256 加密的 password 的值，还需要在主题的 <code>_config.yml</code> 中激活了配置。有些在线的 SHA256 加密的地址，可供你使用：<a href="https://tool.oschina.net/encrypt?type=2" target="_blank" rel="noopener">开源中国在线工具</a>、<a href="http://encode.chahuo.com/" target="_blank" rel="noopener">chahuo</a>、<a href="https://tool.chinaz.com/tools/hash.aspx" target="_blank" rel="noopener">站长工具</a>。</li><li>网易云音乐外链示例 <code>https://music.163.com/song/media/outer/url?id=108697.mp3</code></li></ol></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-            <tag> hexo-theme-matery </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>apt-get command</title>
       <link href="/1999/01/01/study-linux-apt-get/"/>
       <url>/1999/01/01/study-linux-apt-get/</url>
@@ -2996,7 +2969,7 @@
       <link href="/1999/01/01/study-hexo-https-pei-zhi/"/>
       <url>/1999/01/01/study-hexo-https-pei-zhi/</url>
       
-        <content type="html"><![CDATA[<h4 id="blog-域名解析"><a href="#blog-域名解析" class="headerlink" title="blog 域名解析"></a>blog 域名解析</h4><p><a href="https://console.dnspod.cn/dns/jayehuang.com/record?source=cloud" target="_blank" rel="noopener">https://console.dnspod.cn/dns/jayehuang.com/record?source=cloud</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>主机记录</td><td>记录类型</td><td>线路类型</td><td>记录值</td><td>权重</td><td>MX</td><td>TTL</td><td>最后操作时间</td></tr><tr><td>@</td><td>CNAME</td><td>默认</td><td>hxh525.github.io.</td><td>-</td><td>-</td><td>600</td><td>2021/5/8 14:59</td></tr><tr><td>res</td><td>CNAME</td><td>默认</td><td>res.jayehuang.com.qiniudns.com.</td><td>-</td><td>-</td><td>600</td><td>2019/9/25 16:58</td></tr><tr><td>www</td><td>CNAME</td><td>默认</td><td>jayehuang.com.</td><td>-</td><td>-</td><td>600</td><td>2019/8/19 01:36</td></tr></tbody></table><h4 id="腾讯云申请-ssl-证书"><a href="#腾讯云申请-ssl-证书" class="headerlink" title="腾讯云申请 ssl 证书"></a>腾讯云申请 ssl 证书</h4><p><a href="https://console.cloud.tencent.com/ssl" target="_blank" rel="noopener">https://console.cloud.tencent.com/ssl</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>ID</td><td>绑定域名</td><td>证书类型</td><td>到期时间</td><td>所属项目</td><td>关联资源</td><td>状态</td><td>操作</td></tr><tr><td>mUtGXGgm blog 图片</td><td>res.jayehuang.com</td><td>TrustAsia TLS RSA CA(1 年)</td><td>2022-05-08 07:59:59</td><td>默认项目</td><td></td><td>已签发</td><td>更多</td></tr></tbody></table><h4 id="七牛云-cdn-服务申请域名加速"><a href="#七牛云-cdn-服务申请域名加速" class="headerlink" title="七牛云 cdn 服务申请域名加速"></a>七牛云 cdn 服务申请域名加速</h4><p><a href="https://portal.qiniu.com/cdn/domain" target="_blank" rel="noopener">https://portal.qiniu.com/cdn/domain</a></p>]]></content>
+        <content type="html"><![CDATA[<h4 id="blog-域名解析"><a href="#blog-域名解析" class="headerlink" title="blog 域名解析"></a>blog 域名解析</h4><p><a href="https://console.dnspod.cn/dns/jayehuang.com/record?source=cloud" target="_blank" rel="noopener">https://console.dnspod.cn/dns/jayehuang.com/record?source=cloud</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>主机记录</td><td>记录类型</td><td>线路类型</td><td>记录值</td><td>权重</td><td>MX</td><td>TTL</td><td>最后操作时间</td></tr><tr><td>@</td><td>CNAME</td><td>默认</td><td>hxh525.github.io.</td><td>-</td><td>-</td><td>600</td><td>2021/5/8 14:59</td></tr><tr><td>res</td><td>CNAME</td><td>默认</td><td>res.jayehuang.com.qiniudns.com.</td><td>-</td><td>-</td><td>600</td><td>2019/9/25 16:58</td></tr><tr><td>www</td><td>CNAME</td><td>默认</td><td>jayehuang.com.</td><td>-</td><td>-</td><td>600</td><td>2019/8/19 01:36</td></tr></tbody></table><h4 id="腾讯云申请-ssl-证书"><a href="#腾讯云申请-ssl-证书" class="headerlink" title="腾讯云申请 ssl 证书"></a>腾讯云申请 ssl 证书</h4><p><a href="https://console.cloud.tencent.com/ssl" target="_blank" rel="noopener">https://console.cloud.tencent.com/ssl</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>ID</td><td>绑定域名</td><td>证书类型</td><td>到期时间</td><td>所属项目</td><td>关联资源</td><td>状态</td><td>操作</td></tr><tr><td>mUtGXGgm blog 图片</td><td>res.jayehuang.com</td><td>TrustAsia TLS RSA CA(1 年)</td><td>2022-05-08 07:59:59</td><td>默认项目</td><td></td><td>已签发</td><td>更多</td></tr></tbody></table><h4 id="七牛云-cdn-服务申请域名加速"><a href="#七牛云-cdn-服务申请域名加速" class="headerlink" title="七牛云 cdn 服务申请域名加速"></a>七牛云 cdn 服务申请域名加速</h4><p><a href="https://portal.qiniu.com/cdn/domain" target="_blank" rel="noopener">https://portal.qiniu.com/cdn/domain</a></p><h4 id="七牛云-实时消费明细"><a href="#七牛云-实时消费明细" class="headerlink" title="七牛云 实时消费明细"></a>七牛云 实时消费明细</h4><p><a href="https://portal.qiniu.com/financial/bills/estimated-consume" target="_blank" rel="noopener">https://portal.qiniu.com/financial/bills/estimated-consume</a></p><h4 id="切换-https-http"><a href="#切换-https-http" class="headerlink" title="切换 https - http"></a>切换 https - http</h4><!--##### 开启 https 步骤打开 [blog 域名解析](#blog 域名解析) res 解析记录关闭 [blog 域名解析](#blog 域名解析) \* 解析记录启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jayehuang.com关闭 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jayehuang.comHXH_BLOG 全局替换 `https://res -> http://test`##### 关闭 https 步骤关闭 [blog 域名解析](#blog 域名解析) res 解析记录打开 [blog 域名解析](#blog 域名解析) \* 解析记录停用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jayehuang.com启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jayehuang.comHXH_BLOG 全局替换 `http://test -> https://res` -->]]></content>
       
       
       <categories>
@@ -3011,33 +2984,6 @@
             <tag> hexo </tag>
             
             <tag> https </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>str-length command</title>
-      <link href="/1999/01/01/study-linux-str-length/"/>
-      <url>/1999/01/01/study-linux-str-length/</url>
-      
-        <content type="html"><![CDATA[<h4 id="字符串长度"><a href="#字符串长度" class="headerlink" title="字符串长度"></a>字符串长度</h4><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">wc</span> -L10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">awk</span> -F <span class="token string">""</span> <span class="token string">'{print NF}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span>  <span class="token string">"<span class="token variable">$str</span>"</span><span class="token operator">|</span> <span class="token function">awk</span> <span class="token string">'{print length(<span class="token variable">$0</span>)}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token variable">${#str}</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token function">expr</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token keyword">:</span> <span class="token string">".*"</span>10</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> shell </tag>
-            
-            <tag> str-length </tag>
             
         </tags>
       
@@ -3100,6 +3046,33 @@
     
     
     <entry>
+      <title>str-length command</title>
+      <link href="/1999/01/01/study-linux-str-length/"/>
+      <url>/1999/01/01/study-linux-str-length/</url>
+      
+        <content type="html"><![CDATA[<h4 id="字符串长度"><a href="#字符串长度" class="headerlink" title="字符串长度"></a>字符串长度</h4><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">wc</span> -L10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token operator">|</span> <span class="token function">awk</span> -F <span class="token string">""</span> <span class="token string">'{print NF}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span>  <span class="token string">"<span class="token variable">$str</span>"</span><span class="token operator">|</span> <span class="token function">awk</span> <span class="token string">'{print length(<span class="token variable">$0</span>)}'</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token keyword">echo</span> <span class="token variable">${#str}</span>10</code></pre><pre class=" language-bash"><code class="language-bash">$ str<span class="token operator">=</span><span class="token string">"123.?+ abc"</span>$ <span class="token function">expr</span> <span class="token string">"<span class="token variable">$str</span>"</span> <span class="token keyword">:</span> <span class="token string">".*"</span>10</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> shell </tag>
+            
+            <tag> str-length </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>vscode配置</title>
       <link href="/1999/01/01/study-vue-vscode-pei-zhi/"/>
       <url>/1999/01/01/study-vue-vscode-pei-zhi/</url>
@@ -3117,6 +3090,33 @@
         <tags>
             
             <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>date format</title>
+      <link href="/1999/01/01/study-java-date/"/>
+      <url>/1999/01/01/study-java-date/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>字母</th><th>日期或时间元素</th><th>表示</th><th>示例</th></tr></thead><tbody><tr><td>G</td><td>Era 标志符</td><td>Text</td><td>AD</td></tr><tr><td>y</td><td>年</td><td>Year</td><td>1996; 96</td></tr><tr><td>M</td><td>年中的月份</td><td>Month</td><td>July; Jul;07</td></tr><tr><td>w</td><td>年中的周数</td><td>Number</td><td>27</td></tr><tr><td>W</td><td>月份中的周数</td><td>Number</td><td>2</td></tr><tr><td>D</td><td>年中的天数</td><td>Number</td><td>189</td></tr><tr><td>d</td><td>月份中的天数</td><td>Number</td><td>10</td></tr><tr><td>F</td><td>月份中的星期</td><td>Number</td><td>2</td></tr><tr><td>E</td><td>星期中的天数</td><td>Text</td><td>Tuesday; Tue</td></tr><tr><td>a</td><td>Am/pm 标记</td><td>Text</td><td>PM</td></tr><tr><td>H</td><td>一天中的小时数（0-23）</td><td>Number</td><td>0</td></tr><tr><td>k</td><td>一天中的小时数（1-24）</td><td>Number</td><td>24</td></tr><tr><td>K</td><td>am/pm 中的小时数（0-11）</td><td>Number</td><td>0</td></tr><tr><td>h</td><td>am/pm 中的小时数（1-12）</td><td>Number</td><td>12</td></tr><tr><td>m</td><td>小时中的分钟数</td><td>Number</td><td>30</td></tr><tr><td>s</td><td>分钟中的秒数</td><td>Number</td><td>55</td></tr><tr><td>S</td><td>毫秒数</td><td>Number</td><td>978</td></tr><tr><td>z</td><td>时区</td><td>General time zone Pacific Standard Time;</td><td>PST; GMT-08:00</td></tr><tr><td>Z</td><td>时区</td><td>RFC 822 time zone</td><td>-0800</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> date </tag>
             
         </tags>
       
@@ -3202,25 +3202,23 @@
     
     
     <entry>
-      <title>renameImg</title>
-      <link href="/1999/01/01/coding-renameimg/"/>
-      <url>/1999/01/01/coding-renameimg/</url>
+      <title>大学</title>
+      <link href="/1999/01/01/classic-da-xue/"/>
+      <url>/1999/01/01/classic-da-xue/</url>
       
-        <content type="html"><![CDATA[<h4 id="修改指定文件夹下的图片名称按照序号重命名"><a href="#修改指定文件夹下的图片名称按照序号重命名" class="headerlink" title="修改指定文件夹下的图片名称按照序号重命名"></a>修改指定文件夹下的图片名称按照序号重命名</h4><pre class=" language-java"><code class="language-java"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span>String<span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>    File file <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token string">"/Users/x/Downloads/untitled folder"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        String filename <span class="token operator">=</span>            System<span class="token punctuation">.</span><span class="token function">nanoTime</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>        files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files1 <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files1<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        String filename <span class="token operator">=</span> i <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>        files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">forEach</span><span class="token punctuation">(</span>f <span class="token operator">-</span><span class="token operator">></span> System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>f<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h5 id="大学-《礼记·大学》古本"><a href="#大学-《礼记·大学》古本" class="headerlink" title="大学 (《礼记·大学》古本)"></a>大学 (《礼记·大学》古本)</h5><p>大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，事有终始。知所先后，则近道矣。</p><p>古之欲明明德于天下者，先治其国。欲治其国者，先齐其家。欲齐其家者，先修其身。欲修其身者，先正其心。欲正其心者，先诚其意。欲诚其意者，先致其知。致知在格物。物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。</p><p>自天子以至于庶人，一是皆以修身为本。其本乱而末治者否矣。其所厚者薄，而其所薄者厚，未之有也。此谓知本，此谓知之至也。</p><p>所谓诚其意者，毋自欺也。如恶恶臭，如好好色，此之谓自谦。故君子必慎其独也。小人闲居为不善，无所不至，见君子而后厌然，掩其不善而著其善。 人之视己，如见其肺肝然，则何益矣。此谓诚于中，形于外，故君子必慎其独也。 曾子曰：“十目所视，十手所指，其严乎 ！”富润屋，德润身，心广体胖，故君子必诚其意。</p><p>《诗》云：“瞻彼淇澳，菉竹猗猗。有斐君子，如切如磋，如琢如磨。 瑟兮僴兮，赫兮喧兮。有斐君子，终不可喧兮。”“如切如磋”者，道学也。 “如琢如磨”者，自修也。“瑟兮僴兮”者，恂傈也。“赫兮喧兮”者，威仪也。“有斐君子，终不可喧兮”者，道盛德至善，民之不能忘也。《诗》 云：“於戏，前王不忘 ！”君子贤其贤而亲其亲，小人乐其乐而利其利，此以没世不忘也。《康诰》曰：“克明德。”《大甲》曰：“顾諟天之明命。”《帝典》曰： “克明峻德。”皆自明也。汤之《盘铭》曰：“苟日新，日日新，又日新。”《康诰》曰：“作新民。” 《诗》曰：“周虽旧邦，其命维新。”是故君子无所不用其极。《诗》云：“邦畿千里，维民所止。”《诗》云：“缗蛮黄鸟，止于丘隅。” 子曰：“于止，知其所止，可以人而不如鸟乎 74？”《诗》云：“穆穆文王，於缉熙敬止 ！”为人君，止于仁；为人臣止于敬；为人子，止于孝；为人父，止于慈； 与国人交，止于信。子曰：“听讼，吾犹人也。必也使无讼乎 80！”无情者不得尽其辞，大畏民志。此谓知本”。</p><p>所谓修身在正其心者，身有所忿懥，则不得其正，有所恐惧，则不得其正， 有所好乐，则不得其正，有所忧患，则不得其正。心不在焉，视而不见，听而不闻，食而不知其味。此谓修身在正其心。</p><p>所谓齐其家在修其身者，人之其所亲爱而辟焉，之其所贱恶而辟焉，之其所畏敬而辟焉，之其所哀矜而辟焉，之其所敖惰而辟焉。故好而知其恶，恶而知其美者，天下鲜矣。故谚有之曰：“人莫知其子之恶，莫知其苗之硕。”此谓身不修，不可以齐其家。</p><p>所谓治国必先齐其家者，其家不可教而能教人者，无之。故君子不出家而成教于国。孝者，所以事君也；弟者，所以事长也；慈者，所以使众也。《康诰》 曰：“如保赤子。”心诚求之，虽不中，不远矣。未有学养子而后嫁者也。一家仁，一国兴仁；一家让，一国兴让；一人贪戾，一国作乱，其机如此。此谓一言偾事， 一人定国。尧、舜率天下以仁，而民从之。桀、纣率天下以暴，而民从之。其所令反其所好，而民不从。是故君子有诸己而后求诸人，无诸己而后非诸人。所藏乎身不恕，而能喻诸人者，未之有也。故治国在齐其家。《诗》云：“桃之夭夭， 其叶蓁蓁。之子于归，宜其家人。”宜其家人，而后可以教国人。《诗》云：“ 宜兄宜弟。”宜兄宜弟，而后可以教国人。《诗》云：“其仪不忒，正是四国。” 其为父子兄弟足法，而后民法之也。此谓治国在齐其家。</p><p>所谓平天下在治其国者，上老老而民兴孝，上长长而民兴弟，上恤孤而民不倍，是以君子有絜矩之道也。所恶于上，毋以使下，所恶于下，毋以事上；所恶于前，毋以先后；所恶于后，毋以从前；所恶于右，毋以交于左；所恶于左，毋以交于右；此之谓絜矩之道。《诗》云：“乐只君子，民之父母。”民之所好好之，民之所恶恶之，此之谓民之父母。《诗》云：“节彼南山，维石岩岩。赫赫师尹，民具尔瞻。”有国者不可以不慎，辟，则为天下僇矣。《诗》云：“殷之未丧师，克配上帝。仪监于殷，峻命不易。”道得众则得国，失众则失国。</p><p>是故君子先慎乎德。有德此有人，有人此有土，有土此有财，有财此有用。德者本也，财者末也。外本内末，争民施夺。是故财聚则民散，财散则民聚。是故言悖而出者，亦悖而入；货悖而入者，亦悖而出。《康诰》曰：“惟命不于常。”道善则得之，不善则失之矣。《楚书》曰：“楚国无以为宝，惟善以为宝。”舅犯曰：“亡人无以为宝，仁亲以为宝。”</p><p>《秦誓》曰：“若有一介臣，断断兮无他技，其心休休焉，其如有容焉。人之有技，若己有之；人之彦圣，其心好之，不啻若自其口出。实能容之，以能保我子孙黎民，尚亦有利哉！人之有技，媢疾以恶之 158；人之彦圣，而违之俾不通：实不能容，以不能保我子孙黎民，亦曰殆哉 160！”唯仁人放流之，迸诸四夷，不与同中国。此谓唯仁人为能爱人，能恶人。见贤而不能举，举而不能先，命也 ；见不善而不能退，退而不能远，过也。好人之所恶，恶人之所好，是谓拂人之性，菑必逮夫身。是故君子有大道，必忠信以得之，骄泰以失之。</p><p>生财有大道，生之者众，食之者寡，为之者疾，用之者舒，则财恒足矣。仁者以财发身，不仁者以身发财。未有上好仁而下不好义者也，未有好义其事不终者也，未有府库财非其财者也。孟献子曰：“畜马乘，不察于鸡豚；伐冰之家，不畜牛羊；百乘之家，不畜聚敛之臣。与其有聚敛之臣，宁有盗臣。”此谓国不以利为利，以义为利也。长国家而务财用者，必自小人矣。彼为善之，小人之使为国家， 灾害并至。虽有善者，亦无如之何矣 190！此谓国不以利为利，以义为利也。</p>]]></content>
       
       
       <categories>
           
-          <category> coding </category>
+          <category> classic </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> coding </tag>
-            
-            <tag> java </tag>
+            <tag> classic </tag>
             
         </tags>
       
@@ -3285,11 +3283,11 @@
     
     
     <entry>
-      <title>Linux command</title>
-      <link href="/1999/01/01/linux-command/"/>
-      <url>/1999/01/01/linux-command/</url>
+      <title>Mac command</title>
+      <link href="/1999/01/01/mac-command/"/>
+      <url>/1999/01/01/mac-command/</url>
       
-        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">></span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span><span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span><span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span><span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class=" language-bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> -D <span class="token comment" spellcheck="true">#后台启动</span></code></pre>]]></content>
       
       
       <categories>
@@ -3327,6 +3325,33 @@
         <tags>
             
             <tag> mysql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>renameImg</title>
+      <link href="/1999/01/01/coding-renameimg/"/>
+      <url>/1999/01/01/coding-renameimg/</url>
+      
+        <content type="html"><![CDATA[<h4 id="修改指定文件夹下的图片名称按照序号重命名"><a href="#修改指定文件夹下的图片名称按照序号重命名" class="headerlink" title="修改指定文件夹下的图片名称按照序号重命名"></a>修改指定文件夹下的图片名称按照序号重命名</h4><pre class=" language-java"><code class="language-java"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span>String<span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>    File file <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token string">"/Users/x/Downloads/untitled folder"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        String filename <span class="token operator">=</span>            System<span class="token punctuation">.</span><span class="token function">nanoTime</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>        files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    List<span class="token operator">&lt;</span>File<span class="token operator">></span> files1 <span class="token operator">=</span> Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span>a <span class="token operator">-</span><span class="token operator">></span> <span class="token operator">!</span>a<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">equals</span><span class="token punctuation">(</span><span class="token string">".DS_Store"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">collect</span><span class="token punctuation">(</span>            Collectors<span class="token punctuation">.</span><span class="token function">toList</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> files1<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token comment" spellcheck="true">//文件名除了后缀没有字符 .</span>        String filename <span class="token operator">=</span> i <span class="token operator">+</span> <span class="token string">"."</span> <span class="token operator">+</span> files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">"\\."</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">;</span>        files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">renameTo</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span>files1<span class="token punctuation">.</span><span class="token function">get</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getParent</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">}</span>    Arrays<span class="token punctuation">.</span><span class="token function">stream</span><span class="token punctuation">(</span>file<span class="token punctuation">.</span><span class="token function">listFiles</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">.</span><span class="token function">forEach</span><span class="token punctuation">(</span>f <span class="token operator">-</span><span class="token operator">></span> System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>f<span class="token punctuation">.</span><span class="token function">getName</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> coding </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> coding </tag>
+            
+            <tag> java </tag>
             
         </tags>
       
@@ -3412,36 +3437,11 @@
     
     
     <entry>
-      <title>大学</title>
-      <link href="/1999/01/01/classic-da-xue/"/>
-      <url>/1999/01/01/classic-da-xue/</url>
+      <title>Linux command</title>
+      <link href="/1999/01/01/linux-command/"/>
+      <url>/1999/01/01/linux-command/</url>
       
-        <content type="html"><![CDATA[<h5 id="大学-《礼记·大学》古本"><a href="#大学-《礼记·大学》古本" class="headerlink" title="大学 (《礼记·大学》古本)"></a>大学 (《礼记·大学》古本)</h5><p>大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，事有终始。知所先后，则近道矣。</p><p>古之欲明明德于天下者，先治其国。欲治其国者，先齐其家。欲齐其家者，先修其身。欲修其身者，先正其心。欲正其心者，先诚其意。欲诚其意者，先致其知。致知在格物。物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。</p><p>自天子以至于庶人，一是皆以修身为本。其本乱而末治者否矣。其所厚者薄，而其所薄者厚，未之有也。此谓知本，此谓知之至也。</p><p>所谓诚其意者，毋自欺也。如恶恶臭，如好好色，此之谓自谦。故君子必慎其独也。小人闲居为不善，无所不至，见君子而后厌然，掩其不善而著其善。 人之视己，如见其肺肝然，则何益矣。此谓诚于中，形于外，故君子必慎其独也。 曾子曰：“十目所视，十手所指，其严乎 ！”富润屋，德润身，心广体胖，故君子必诚其意。</p><p>《诗》云：“瞻彼淇澳，菉竹猗猗。有斐君子，如切如磋，如琢如磨。 瑟兮僴兮，赫兮喧兮。有斐君子，终不可喧兮。”“如切如磋”者，道学也。 “如琢如磨”者，自修也。“瑟兮僴兮”者，恂傈也。“赫兮喧兮”者，威仪也。“有斐君子，终不可喧兮”者，道盛德至善，民之不能忘也。《诗》 云：“於戏，前王不忘 ！”君子贤其贤而亲其亲，小人乐其乐而利其利，此以没世不忘也。《康诰》曰：“克明德。”《大甲》曰：“顾諟天之明命。”《帝典》曰： “克明峻德。”皆自明也。汤之《盘铭》曰：“苟日新，日日新，又日新。”《康诰》曰：“作新民。” 《诗》曰：“周虽旧邦，其命维新。”是故君子无所不用其极。《诗》云：“邦畿千里，维民所止。”《诗》云：“缗蛮黄鸟，止于丘隅。” 子曰：“于止，知其所止，可以人而不如鸟乎 74？”《诗》云：“穆穆文王，於缉熙敬止 ！”为人君，止于仁；为人臣止于敬；为人子，止于孝；为人父，止于慈； 与国人交，止于信。子曰：“听讼，吾犹人也。必也使无讼乎 80！”无情者不得尽其辞，大畏民志。此谓知本”。</p><p>所谓修身在正其心者，身有所忿懥，则不得其正，有所恐惧，则不得其正， 有所好乐，则不得其正，有所忧患，则不得其正。心不在焉，视而不见，听而不闻，食而不知其味。此谓修身在正其心。</p><p>所谓齐其家在修其身者，人之其所亲爱而辟焉，之其所贱恶而辟焉，之其所畏敬而辟焉，之其所哀矜而辟焉，之其所敖惰而辟焉。故好而知其恶，恶而知其美者，天下鲜矣。故谚有之曰：“人莫知其子之恶，莫知其苗之硕。”此谓身不修，不可以齐其家。</p><p>所谓治国必先齐其家者，其家不可教而能教人者，无之。故君子不出家而成教于国。孝者，所以事君也；弟者，所以事长也；慈者，所以使众也。《康诰》 曰：“如保赤子。”心诚求之，虽不中，不远矣。未有学养子而后嫁者也。一家仁，一国兴仁；一家让，一国兴让；一人贪戾，一国作乱，其机如此。此谓一言偾事， 一人定国。尧、舜率天下以仁，而民从之。桀、纣率天下以暴，而民从之。其所令反其所好，而民不从。是故君子有诸己而后求诸人，无诸己而后非诸人。所藏乎身不恕，而能喻诸人者，未之有也。故治国在齐其家。《诗》云：“桃之夭夭， 其叶蓁蓁。之子于归，宜其家人。”宜其家人，而后可以教国人。《诗》云：“ 宜兄宜弟。”宜兄宜弟，而后可以教国人。《诗》云：“其仪不忒，正是四国。” 其为父子兄弟足法，而后民法之也。此谓治国在齐其家。</p><p>所谓平天下在治其国者，上老老而民兴孝，上长长而民兴弟，上恤孤而民不倍，是以君子有絜矩之道也。所恶于上，毋以使下，所恶于下，毋以事上；所恶于前，毋以先后；所恶于后，毋以从前；所恶于右，毋以交于左；所恶于左，毋以交于右；此之谓絜矩之道。《诗》云：“乐只君子，民之父母。”民之所好好之，民之所恶恶之，此之谓民之父母。《诗》云：“节彼南山，维石岩岩。赫赫师尹，民具尔瞻。”有国者不可以不慎，辟，则为天下僇矣。《诗》云：“殷之未丧师，克配上帝。仪监于殷，峻命不易。”道得众则得国，失众则失国。</p><p>是故君子先慎乎德。有德此有人，有人此有土，有土此有财，有财此有用。德者本也，财者末也。外本内末，争民施夺。是故财聚则民散，财散则民聚。是故言悖而出者，亦悖而入；货悖而入者，亦悖而出。《康诰》曰：“惟命不于常。”道善则得之，不善则失之矣。《楚书》曰：“楚国无以为宝，惟善以为宝。”舅犯曰：“亡人无以为宝，仁亲以为宝。”</p><p>《秦誓》曰：“若有一介臣，断断兮无他技，其心休休焉，其如有容焉。人之有技，若己有之；人之彦圣，其心好之，不啻若自其口出。实能容之，以能保我子孙黎民，尚亦有利哉！人之有技，媢疾以恶之 158；人之彦圣，而违之俾不通：实不能容，以不能保我子孙黎民，亦曰殆哉 160！”唯仁人放流之，迸诸四夷，不与同中国。此谓唯仁人为能爱人，能恶人。见贤而不能举，举而不能先，命也 ；见不善而不能退，退而不能远，过也。好人之所恶，恶人之所好，是谓拂人之性，菑必逮夫身。是故君子有大道，必忠信以得之，骄泰以失之。</p><p>生财有大道，生之者众，食之者寡，为之者疾，用之者舒，则财恒足矣。仁者以财发身，不仁者以身发财。未有上好仁而下不好义者也，未有好义其事不终者也，未有府库财非其财者也。孟献子曰：“畜马乘，不察于鸡豚；伐冰之家，不畜牛羊；百乘之家，不畜聚敛之臣。与其有聚敛之臣，宁有盗臣。”此谓国不以利为利，以义为利也。长国家而务财用者，必自小人矣。彼为善之，小人之使为国家， 灾害并至。虽有善者，亦无如之何矣 190！此谓国不以利为利，以义为利也。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> classic </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> classic </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Mac command</title>
-      <link href="/1999/01/01/mac-command/"/>
-      <url>/1999/01/01/mac-command/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236" target="_blank" rel="noopener">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class=" language-bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl</code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class=" language-bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">></span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符</code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class=" language-bash"><code class="language-bash">uuidgen <span class="token comment" spellcheck="true">#生成uuid</span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class=" language-bash"><code class="language-bash">last <span class="token comment" spellcheck="true">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment" spellcheck="true">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment" spellcheck="true">#打印系统环境变量</span><span class="token keyword">set</span> KEY<span class="token operator">=</span>VALUE <span class="token comment" spellcheck="true">#设置环境变量</span>unuset KEY <span class="token comment" spellcheck="true">#删除环境变量</span><span class="token function">uname</span> -a <span class="token comment" spellcheck="true">#当前系统信息</span><span class="token function">uname</span> -r <span class="token comment" spellcheck="true">#当前系统内核版本</span>sw_vers <span class="token comment" spellcheck="true">#当前 OSX 版本信息</span>sysctl -a <span class="token operator">|</span> <span class="token function">grep</span> -Eo <span class="token string">"core_count:(.+?)$"</span> <span class="token comment" spellcheck="true"># cpu核心数</span>sysctl -n machdep.cpu.brand_string <span class="token comment" spellcheck="true">#cpu品牌</span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class=" language-bash"><code class="language-bash">whois HOST <span class="token comment" spellcheck="true">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment" spellcheck="true">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment" spellcheck="true">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment" spellcheck="true">#查询域名查找的路由信息</span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class=" language-bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> -D <span class="token comment" spellcheck="true">#后台启动</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="cpu-信息"><a href="#cpu-信息" class="headerlink" title="cpu 信息"></a>cpu 信息</h4><pre><code>#查看物理 CPU 个数cat /proc/cpuinfo | grep &quot;physical id&quot; | sort | uniq | wc -l#查看每个物理 CPU 中 core 的个数(即核数)`cat /proc/cpuinfo | grep &quot;cpu cores&quot; | uniq#查看逻辑 CPU 的个数`cat /proc/cpuinfo | grep &quot;processor&quot; | wc -l</code></pre>]]></content>
       
       
       <categories>
@@ -3454,6 +3454,33 @@
         <tags>
             
             <tag> command </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo-theme-matery</title>
+      <link href="/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/"/>
+      <url>/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/</url>
+      
+        <content type="html"><![CDATA[<h4 id="hexo-theme-matery"><a href="#hexo-theme-matery" class="headerlink" title="hexo-theme-matery"></a><a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a></h4><h4 id="Front-matter-选项详解"><a href="#Front-matter-选项详解" class="headerlink" title="Front-matter 选项详解"></a>Front-matter 选项详解</h4><p><code>Front-matter</code> 选项中的所有内容均为<strong>非必填</strong>的。但我仍然建议至少填写 <code>title</code> 和 <code>date</code> 的值。</p><table><thead><tr><th>配置选项</th><th>默认值</th><th>描述</th></tr></thead><tbody><tr><td>title</td><td><code>Markdown</code> 的文件标题</td><td>文章标题，强烈建议填写此选项</td></tr><tr><td>date</td><td>文件创建时的日期时间</td><td>发布时间，强烈建议填写此选项，且最好保证全局唯一</td></tr><tr><td>author</td><td>根 <code>_config.yml</code> 中的 <code>author</code></td><td>文章作者</td></tr><tr><td>img</td><td><code>featureImages</code> 中的某个值</td><td>文章特征图，推荐使用图床(腾讯云、七牛云、又拍云等)来做图片的路径.如: <code>http://xxx.com/xxx.jpg</code></td></tr><tr><td>top</td><td><code>true</code></td><td>推荐文章（文章是否置顶），如果 <code>top</code> 值为 <code>true</code>，则会作为首页推荐文章</td></tr><tr><td>cover</td><td><code>false</code></td><td><code>v1.0.2</code>版本新增，表示该文章是否需要加入到首页轮播封面中</td></tr><tr><td>coverImg</td><td>无</td><td><code>v1.0.2</code>版本新增，表示该文章在首页轮播封面需要显示的图片路径，如果没有，则默认使用文章的特色图片</td></tr><tr><td>password</td><td>无</td><td>文章阅读密码，如果要对文章设置阅读验证密码的话，就可以设置 <code>password</code> 的值，该值必须是用 <code>SHA256</code> 加密后的密码，防止被他人识破。前提是在主题的 <code>config.yml</code> 中激活了 <code>verifyPassword</code> 选项</td></tr><tr><td>toc</td><td><code>true</code></td><td>是否开启 TOC，可以针对某篇文章单独关闭 TOC 的功能。前提是在主题的 <code>config.yml</code> 中激活了 <code>toc</code> 选项</td></tr><tr><td>mathjax</td><td><code>false</code></td><td>是否开启数学公式支持 ，本文章是否开启 <code>mathjax</code>，且需要在主题的 <code>_config.yml</code> 文件中也需要开启才行</td></tr><tr><td>summary</td><td>无</td><td>文章摘要，自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要</td></tr><tr><td>categories</td><td>无</td><td>文章分类，本主题的分类表示宏观上大的分类，只建议一篇文章一个分类</td></tr><tr><td>tags</td><td>无</td><td>文章标签，一篇文章可以多个标签</td></tr></tbody></table><blockquote><p><strong>注意</strong>:</p><ol><li>如果 <code>img</code> 属性不填写的话，文章特色图会根据文章标题的 <code>hashcode</code> 的值取余，然后选取主题中对应的特色图片，从而达到让所有文章都的特色图<strong>各有特色</strong>。</li><li><code>date</code> 的值尽量保证每篇文章是唯一的，因为本主题中 <code>Gitalk</code> 和 <code>Gitment</code> 识别 <code>id</code> 是通过 <code>date</code> 的值来作为唯一标识的。</li><li>如果要对文章设置阅读验证密码的功能，不仅要在 Front-matter 中设置采用了 SHA256 加密的 password 的值，还需要在主题的 <code>_config.yml</code> 中激活了配置。有些在线的 SHA256 加密的地址，可供你使用：<a href="https://tool.oschina.net/encrypt?type=2" target="_blank" rel="noopener">开源中国在线工具</a>、<a href="http://encode.chahuo.com/" target="_blank" rel="noopener">chahuo</a>、<a href="https://tool.chinaz.com/tools/hash.aspx" target="_blank" rel="noopener">站长工具</a>。</li><li>网易云音乐外链示例 <code>https://music.163.com/song/media/outer/url?id=108697.mp3</code></li></ol></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> hexo-theme-matery </tag>
             
         </tags>
       
@@ -3479,33 +3506,6 @@
         <tags>
             
             <tag> gitlab runner </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>date format</title>
-      <link href="/1999/01/01/study-java-date/"/>
-      <url>/1999/01/01/study-java-date/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>字母</th><th>日期或时间元素</th><th>表示</th><th>示例</th></tr></thead><tbody><tr><td>G</td><td>Era 标志符</td><td>Text</td><td>AD</td></tr><tr><td>y</td><td>年</td><td>Year</td><td>1996; 96</td></tr><tr><td>M</td><td>年中的月份</td><td>Month</td><td>July; Jul;07</td></tr><tr><td>w</td><td>年中的周数</td><td>Number</td><td>27</td></tr><tr><td>W</td><td>月份中的周数</td><td>Number</td><td>2</td></tr><tr><td>D</td><td>年中的天数</td><td>Number</td><td>189</td></tr><tr><td>d</td><td>月份中的天数</td><td>Number</td><td>10</td></tr><tr><td>F</td><td>月份中的星期</td><td>Number</td><td>2</td></tr><tr><td>E</td><td>星期中的天数</td><td>Text</td><td>Tuesday; Tue</td></tr><tr><td>a</td><td>Am/pm 标记</td><td>Text</td><td>PM</td></tr><tr><td>H</td><td>一天中的小时数（0-23）</td><td>Number</td><td>0</td></tr><tr><td>k</td><td>一天中的小时数（1-24）</td><td>Number</td><td>24</td></tr><tr><td>K</td><td>am/pm 中的小时数（0-11）</td><td>Number</td><td>0</td></tr><tr><td>h</td><td>am/pm 中的小时数（1-12）</td><td>Number</td><td>12</td></tr><tr><td>m</td><td>小时中的分钟数</td><td>Number</td><td>30</td></tr><tr><td>s</td><td>分钟中的秒数</td><td>Number</td><td>55</td></tr><tr><td>S</td><td>毫秒数</td><td>Number</td><td>978</td></tr><tr><td>z</td><td>时区</td><td>General time zone Pacific Standard Time;</td><td>PST; GMT-08:00</td></tr><tr><td>Z</td><td>时区</td><td>RFC 822 time zone</td><td>-0800</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-            <tag> date </tag>
             
         </tags>
       
