@@ -31,3 +31,26 @@ tags:
 #### 七牛云 cdn 服务申请域名加速
 
 <https://portal.qiniu.com/cdn/domain>
+
+#### 七牛云 实时消费明细
+
+<https://portal.qiniu.com/financial/bills/estimated-consume>
+
+#### 切换 https - http
+
+<!--
+##### 开启 https 步骤
+
+打开 [blog 域名解析](#blog 域名解析) res 解析记录
+关闭 [blog 域名解析](#blog 域名解析) \* 解析记录
+启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jayehuang.com
+关闭 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jayehuang.com
+HXH_BLOG 全局替换 `https://res -> http://test`
+
+##### 关闭 https 步骤
+
+关闭 [blog 域名解析](#blog 域名解析) res 解析记录
+打开 [blog 域名解析](#blog 域名解析) \* 解析记录
+停用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jayehuang.com
+启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jayehuang.com
+HXH_BLOG 全局替换 `http://test -> https://res` -->
