@@ -45,10 +45,10 @@ music:
   title: music
   fixed: true # 开启吸底模式
   autoplay: false # 是否自动播放
-  theme: "#42b983"
-  loop: "none" # 音频循环播放, 可选值: 'all', 'one', 'none'
-  order: "list" # 音频循环顺序, 可选值: 'list', 'random'
-  preload: "metadata" # 预加载，可选值: 'none', 'metadata', 'auto'
+  theme: '#42b983'
+  loop: 'none' # 音频循环播放, 可选值: 'all', 'one', 'none'
+  order: 'list' # 音频循环顺序, 可选值: 'list', 'random'
+  preload: 'metadata' # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.7 # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
   listFolded: false # 列表默认折叠
   listMaxHeight: #列表最大高度
@@ -64,9 +64,9 @@ video:
   thumbnails:
   height: # 如：400
   autoplay: false # 是否自动播放
-  theme: "#42b983"
+  theme: '#42b983'
   loop: false # 是否循环播放
-  preload: "auto" # 预加载，可选值: 'none', 'metadata', 'auto'
+  preload: 'auto' # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.7
 
 # Whether to display the title of the recommended posts
@@ -77,7 +77,7 @@ recommend:
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
 favicon: /favicon.png
-logo: http://res.jayehuang.com/images/logo.png
+logo: https://res.jayehuang.com/images/logo.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -153,7 +153,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: http://res.jayehuang.com/images/avatar.png
+  avatar: https://res.jayehuang.com/images/avatar.png
   career: Software Engineer
   introduction: I'm Jay,I like free.
     最难的就是描述自己, 我是个害羞shy的人, 不太习惯人前表露太多自己的想法, 但想说的时候会让你觉得烦
@@ -167,17 +167,17 @@ myProjects:
   data:
     hexo-theme-matery:
       icon: fa-meetup
-      iconBackground: "linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)"
+      iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
       url: https://github.com/blinkfox/hexo-theme-matery
       desc: This is a Hexo blog theme with 'Material Design' and responsive design.
     zealt:
       icon: fa-database
-      iconBackground: "linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)"
+      iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
       url: https://github.com/blinkfox/zealot
       desc: 一个轻量级的SQL和参数动态生成工具库
     typora-vue-theme:
       icon: fa-file-text-o
-      iconBackground: "linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)"
+      iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
       url: https://github.com/blinkfox/typora-vue-theme
       desc: This is a typora theme inspired by Vue document style.
 
@@ -188,22 +188,22 @@ mySkills:
   enable: false
   data:
     Java:
-      background: "linear-gradient(to right, #FF0066 0%, #FF00CC 100%)"
+      background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
       percent: 85%
     JavaScript:
-      background: "linear-gradient(to right, #9900FF 0%, #CC66FF 100%)"
+      background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
       percent: 80%
     HTML5:
-      background: "linear-gradient(to right, #2196F3 0%, #42A5F5 100%)"
+      background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
       percent: 80%
     CSS:
-      background: "linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)"
+      background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
       percent: 70%
     SQL:
-      background: "linear-gradient(to right, #4CAF50 0%, #81C784 100%)"
+      background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 90%
     程序设计:
-      background: "linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)"
+      background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
       percent: 75%
 
 # config gallery of my photos in about page.
@@ -212,9 +212,9 @@ mySkills:
 myGallery:
   enable: false
   data:
-    - http://res.jayehuang.com/images/featureimages/0.jpg
-    - http://res.jayehuang.com/images/featureimages/1.jpg
-    - http://res.jayehuang.com/images/featureimages/2.jpg
+    - https://res.jayehuang.com/images/featureimages/0.jpg
+    - https://res.jayehuang.com/images/featureimages/1.jpg
+    - https://res.jayehuang.com/images/featureimages/2.jpg
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件

@@ -48,7 +48,7 @@ highlight:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ""
+  path: ''
   per_page: 0
   order_by: -date
 
@@ -88,15 +88,15 @@ search:
 
 # hexo-prism-plugin
 prism_plugin: # 高亮插件
-  mode: "preprocess" # realtime/preprocess
-  theme: "tomorrow"
+  mode: 'preprocess' # realtime/preprocess
+  theme: 'tomorrow'
   line_number: false # default false
   custom_css:
 
 # permalink_pinyin
 permalink_pinyin:
   enable: true
-  separator: "-" # default: '-'
+  separator: '-' # default: '-'
 
 feed:
   type: atom
@@ -105,7 +105,7 @@ feed:
   hub:
   content:
   content_limit: 140
-  content_limit_delim: " "
+  content_limit_delim: ' '
   order_by: -date
 
   #七牛云存储设置
@@ -131,7 +131,7 @@ qiniu:
   access_key: 6J6eVzl9ME1vMADmdhgn0UATOr24fyF8x8FdeGrA
   secret_key: KXviMdOi5UbfLyd_Y6UjHe5TVOl2rUyOeTeor0pV
   dirPrefix:
-  urlPrefix: http://res.jayehuang.com/
+  urlPrefix: https://res.jayehuang.com/
   up_host: http://up-z2.qiniup.com
   local_dir: static
   update_exist: true
