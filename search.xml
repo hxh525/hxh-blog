@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>20220103</title>
+      <link href="/2022/01/03/shallow-2022-01-03/"/>
+      <url>/2022/01/03/shallow-2022-01-03/</url>
+      
+        <content type="html"><![CDATA[<p>明天上班<br>今天要去武汉坐车回深圳<br>昨天提完亲爸妈就回去上班的地方了<br>早上起来，吃了早饭<br>把车送到脉旺<br>坐车来了邹老师家吃中饭<br>丈母狼给做的饭<br>吃完饭我们就去汉川站坐火车了<br>邹老师一路给我送到了武汉站<br>看着她打车离开后我就踏上了深圳的列车<br>满心期待的2022年</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> shallow </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> shallow </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20220102</title>
+      <link href="/2022/01/02/shallow-2022-01-02/"/>
+      <url>/2022/01/02/shallow-2022-01-02/</url>
+      
+        <content type="html"><![CDATA[<p>元旦从深圳回分水了<br>昨天去了脉旺找幺父借了车<br>昨晚父母也回分水了<br>大清早起来收拾好<br>提着礼品就去提亲的路上了<br>先去了趟姑姑家碰头<br>来邹老师家，喝茶，聊天<br>邹老师舅娘过来了<br>休息了会就去酒店吃饭了<br>小舅子定了个大包房<br>吃完饭去了旁边八马茶叶喝茶<br>聊的还挺好<br>最后落定了<br>开年初五就报日、订婚<br>五月初结婚<br>最后送岳父岳母回去<br>都没来得及亲一口就走了<br>提亲结束</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> shallow </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> shallow </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20211107</title>
       <link href="/2021/11/07/shallow-2021-11-07/"/>
       <url>/2021/11/07/shallow-2021-11-07/</url>
@@ -6327,7 +6377,7 @@
       <link href="/1999/01/01/study-work-gitlab-gitlab-command/"/>
       <url>/1999/01/01/study-work-gitlab-gitlab-command/</url>
       
-        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre><code>#配置路径/etc/gitlab/gitlab.rb#备份路径/var/opt/gitlab/backups</code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre><code>sudo gitlab-rake gitlab:backup:create</code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre><code>sudo  gitlab-ctl stop unicornsudo  gitlab-ctl stop sidekiqsudo  gitlab-rake gitlab:backup:restore BACKUP='备份的identity'sudo  gitlab-ctl start</code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre><code>sudo gitlab-ctl statussudo gitlab-ctl reconfiguresudo gitlab-ctl startsudo gitlab-ctl stopsudo gitlab-ctl restartsudo gitlab-ctl tail</code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre><code>sudo gitlab-ctl tail redis</code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre><code>sudo gitlab-ctl tail postgresql</code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre><code>sudo gitlab-ctl tail gitlab-workhorse</code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre><code>sudo gitlab-ctl tail logrotate</code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre><code>sudo gitlab-ctl tail nginx</code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre><code>sudo gitlab-ctl tail sidekiq</code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre><code>sudo gitlab-ctl tail unicorn</code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre><code>sudo gitlab-rails console productionuser = User.where(id: 1).firstuser.password = ‘新密码‘user.password_confirmation = ‘新密码‘user.save!</code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre><code>vi /opt/gitlab/embedded/service/gitlab-rails/app/models#devise :lockable, :recoverable, :rememberable, :trackable,#    :validatable, :omniauthable, :confirmable, :registerabledevise :lockable, :recoverable, :rememberable, :trackable,    :validatable, :omniauthable,  :registerable</code></pre><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><pre><code>Guest：可以创建issue、发表评论，不能读写版本库Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限Private：只有组成员才能看到Internal：只要登录的用户就能看到Public：所有人都能看到</code></pre><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#配置路径</span>/etc/gitlab/gitlab.rb<span class="token comment">#备份路径</span>/var/opt/gitlab/backups<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rake gitlab:backup:create<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span>  gitlab-ctl stop unicorn<span class="token function">sudo</span>  gitlab-ctl stop sidekiq<span class="token function">sudo</span>  gitlab-rake gitlab:backup:restore <span class="token assign-left variable">BACKUP</span><span class="token operator">=</span><span class="token string">'备份的identity'</span><span class="token function">sudo</span>  gitlab-ctl start<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl status<span class="token function">sudo</span> gitlab-ctl reconfigure<span class="token function">sudo</span> gitlab-ctl start<span class="token function">sudo</span> gitlab-ctl stop<span class="token function">sudo</span> gitlab-ctl restart<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> redis<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> postgresql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> gitlab-workhorse<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> <span class="token function">logrotate</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> sidekiq<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> unicorn<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>user = User.where(id: 1).first<br>user.password = ‘新密码‘<br>user.password_confirmation = ‘新密码‘<br>user.save!</p><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">vi</span> /opt/gitlab/embedded/service/gitlab-rails/app/models<span class="token comment">#devise :lockable, :recoverable, :rememberable, :trackable,</span><span class="token comment">#    :validatable, :omniauthable, :confirmable, :registerable</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>devise :lockable, :recoverable, :rememberable, :trackable,<br>        :validatable, :omniauthable,  :registerable</p><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><p>Guest：可以创建issue、发表评论，不能读写版本库<br>Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限<br>Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限<br>Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限<br>Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限</p><p>Private：只有组成员才能看到<br>Internal：只要登录的用户就能看到<br>Public：所有人都能看到</p><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
       
       
       <categories>
@@ -6352,7 +6402,7 @@
       <link href="/1999/01/01/study-work-gitlab-gitlab-runner/"/>
       <url>/1999/01/01/study-work-gitlab-gitlab-runner/</url>
       
-        <content type="html"><![CDATA[<h5 id="Gitlab-runner-restart"><a href="#Gitlab-runner-restart" class="headerlink" title="Gitlab runner restart"></a>Gitlab runner restart</h5><pre><code>sudo gitlab-ci-multi-runner restart</code></pre>]]></content>
+        <content type="html"><![CDATA[<h5 id="Gitlab-runner-restart"><a href="#Gitlab-runner-restart" class="headerlink" title="Gitlab runner restart"></a>Gitlab runner restart</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ci-multi-runner restart<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
       
       
       <categories>
