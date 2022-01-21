@@ -373,14 +373,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>Word Count:&nbsp;&nbsp;
-                    420
+                    444
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>Read Times:&nbsp;&nbsp;
-                    1 Min
+                    2 Min
                 </div>
                 
 
@@ -412,11 +412,13 @@
 <span class="token function">sudo</span>  gitlab-ctl start<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
 
 <h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl status
-<span class="token function">sudo</span> gitlab-ctl reconfigure
 <span class="token function">sudo</span> gitlab-ctl start
 <span class="token function">sudo</span> gitlab-ctl stop
 <span class="token function">sudo</span> gitlab-ctl restart
-<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h5 id="gitlab-刷新配置"><a href="#gitlab-刷新配置" class="headerlink" title="gitlab 刷新配置"></a>gitlab 刷新配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl reconfigure
+<span class="token function">sudo</span> systemctl restart gitlab-runsvdir<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
 
 <h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> redis<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
@@ -432,9 +434,15 @@
 
 <h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> unicorn<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
-<h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<h5 id="生产日志"><a href="#生产日志" class="headerlink" title="生产日志"></a>生产日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
-<p>user = User.where(id: 1).first<br>user.password = ‘新密码‘<br>user.password_confirmation = ‘新密码‘<br>user.save!</p>
+<h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">user <span class="token operator">=</span> User.where<span class="token punctuation">(</span>id: <span class="token number">1</span><span class="token punctuation">)</span>.first
+user.password <span class="token operator">=</span> ‘新密码‘
+user.password_confirmation <span class="token operator">=</span> ‘新密码‘
+user.save<span class="token operator">!</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h5 id="Gitlab-检查配置"><a href="#Gitlab-检查配置" class="headerlink" title="Gitlab 检查配置"></a>Gitlab 检查配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">gitlab-rake gitlab:check<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
 <h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">vi</span> /opt/gitlab/embedded/service/gitlab-rails/app/models
 
 <span class="token comment">#devise :lockable, :recoverable, :rememberable, :trackable,</span>
@@ -787,7 +795,7 @@
                 <span id="year">2018-2022</span>
             
             &nbsp;|&nbsp;<span class="white-color">Jaye Huang</span>
-            &nbsp;|&nbsp;100.7k
+            &nbsp;|&nbsp;100.8k
 
             <!-- <span id="year">2018</span> -->
             <!-- <a href="/about" target="_blank">Jaye Huang</a>
@@ -796,7 +804,7 @@
             <br> -->
             <!-- 
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">100.7k</span>&nbsp;字
+                class="white-color">100.8k</span>&nbsp;字
              -->
             <!-- 
             
