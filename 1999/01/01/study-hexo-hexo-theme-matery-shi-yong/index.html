@@ -383,14 +383,14 @@ Markdo">
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>Word Count:&nbsp;&nbsp;
-                    709
+                    865
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>Read Times:&nbsp;&nbsp;
-                    2 Min
+                    3 Min
                 </div>
                 
 
@@ -492,6 +492,60 @@ Markdo">
 <li>网易云音乐外链示例 <code>https://music.163.com/song/media/outer/url?id=108697.mp3</code></li>
 </ol>
 </blockquote>
+<h4 id="背景色修改"><a href="#背景色修改" class="headerlink" title="背景色修改"></a>背景色修改</h4><blockquote>
+<p>path: themes/hexo-theme-matery/source/css/matery.css</p>
+</blockquote>
+ <pre class="line-numbers language-css" data-language="css"><code class="language-css"> <span class="token selector">.bg-color</span> <span class="token punctuation">{</span>
+  <span class="token property">background-image</span><span class="token punctuation">:</span> <span class="token function">linear-gradient</span><span class="token punctuation">(</span>
+    45deg<span class="token punctuation">,</span>
+    <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+    <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+  <span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token atrule"><span class="token rule">@-webkit-keyframes</span> rainbow</span> <span class="token punctuation">{</span>
+  <span class="token selector">0%,
+  100%</span> <span class="token punctuation">{</span>
+    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">linear-gradient</span><span class="token punctuation">(</span>
+      45deg<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">-moz-linear-gradient</span><span class="token punctuation">(</span>
+      45deg<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">-webkit-linear-gradient</span><span class="token punctuation">(</span>
+      45deg<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token atrule"><span class="token rule">@keyframes</span> rainbow</span> <span class="token punctuation">{</span>
+  <span class="token selector">0%,
+  100%</span> <span class="token punctuation">{</span>
+    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">linear-gradient</span><span class="token punctuation">(</span>
+      45deg<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">-moz-linear-gradient</span><span class="token punctuation">(</span>
+      45deg<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">-webkit-linear-gradient</span><span class="token punctuation">(</span>
+      45deg<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>225<span class="token punctuation">,</span> 43<span class="token punctuation">,</span> 40<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 0%<span class="token punctuation">,</span>
+      <span class="token function">rgba</span><span class="token punctuation">(</span>52<span class="token punctuation">,</span> 109<span class="token punctuation">,</span> 240<span class="token punctuation">,</span> 0.75<span class="token punctuation">)</span> 100%
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
                 
             </div>
@@ -838,12 +892,12 @@ Markdo">
                 <span id="year">2018-2022</span>
             
             &nbsp;|&nbsp;<span class="white-color">Jaye Huang</span>
-            &nbsp;|&nbsp;100.8k
+            &nbsp;|&nbsp;101.6k
 
             <!-- <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;Total Words:&nbsp;<span
-                        class="white-color">100.8k</span>
+                        class="white-color">101.6k</span>
             
             
             
