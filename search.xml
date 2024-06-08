@@ -4479,31 +4479,6 @@
     
     
     <entry>
-      <title>new year</title>
-      <link href="/2019/01/01/essays-new-year/"/>
-      <url>/2019/01/01/essays-new-year/</url>
-      
-        <content type="html"><![CDATA[<p>元旦<br>这是一个跨年夜,步入 2019 已经有几分钟了<br>渐渐地明白了自己,长大了<br>长大到我能明白这个社会的进步<br>长大到我能认识到自己的不足</p><p>这个日志我有好久没有跟新了<br>不是因为工作忙,也不是因为去学习了<br>其实就是过了那个新鲜度</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> essays </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> essays </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>money</title>
       <link href="/2019/01/01/essays-money/"/>
       <url>/2019/01/01/essays-money/</url>
@@ -4521,6 +4496,31 @@
         <tags>
             
             <tag> money </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>new year</title>
+      <link href="/2019/01/01/essays-new-year/"/>
+      <url>/2019/01/01/essays-new-year/</url>
+      
+        <content type="html"><![CDATA[<p>元旦<br>这是一个跨年夜,步入 2019 已经有几分钟了<br>渐渐地明白了自己,长大了<br>长大到我能明白这个社会的进步<br>长大到我能认识到自己的不足</p><p>这个日志我有好久没有跟新了<br>不是因为工作忙,也不是因为去学习了<br>其实就是过了那个新鲜度</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> essays </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> essays </tag>
             
         </tags>
       
@@ -6323,31 +6323,6 @@
     
     
     <entry>
-      <title>Md 文档支持的代码块引用语言高亮</title>
-      <link href="/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
-      <url>/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/</url>
-      
-        <content type="html"><![CDATA[<h4 id="Md-文档支持的代码块引用语言高亮"><a href="#Md-文档支持的代码块引用语言高亮" class="headerlink" title="Md 文档支持的代码块引用语言高亮"></a>Md 文档支持的代码块引用语言高亮</h4><h5 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h5><blockquote><p>```css<br>.bg-cover .description {<br>&nbsp;&nbsp;font-weight: 300;<br>&nbsp;&nbsp;line-height: 1.4em;<br>&nbsp;&nbsp;color: #eee;<br>&nbsp;&nbsp;cursor: default;<br>}<br>```<br>注意: ``` 后面填写的为下表的关键字</p></blockquote><h5 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h5><pre class="line-numbers language-css" data-language="css"><code class="language-css"><span class="token selector">.bg-cover .description</span> <span class="token punctuation">{</span>  <span class="token property">font-size</span><span class="token punctuation">:</span> 1.25rem<span class="token punctuation">;</span>  <span class="token property">font-weight</span><span class="token punctuation">:</span> 300<span class="token punctuation">;</span>  <span class="token property">line-height</span><span class="token punctuation">:</span> 1.4em<span class="token punctuation">;</span>  <span class="token property">color</span><span class="token punctuation">:</span> #eee<span class="token punctuation">;</span>  <span class="token property">cursor</span><span class="token punctuation">:</span> default<span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><table><thead><tr><th>名称</th><th>关键字</th><th>调用的 js</th><th>说明</th></tr></thead><tbody><tr><td>AppleScript</td><td>applescript</td><td>shBrushAppleScript.js</td><td></td></tr><tr><td>ActionScript 3.0</td><td>actionscript3 , as3</td><td>shBrushAS3.js</td><td></td></tr><tr><td>Shell</td><td>bash , shell</td><td>shBrushBash.js</td><td></td></tr><tr><td>ColdFusion</td><td>coldfusion , cf</td><td>shBrushColdFusion.js</td><td></td></tr><tr><td>C</td><td>cpp , c</td><td>shBrushCpp.js</td><td></td></tr><tr><td>C#</td><td>c# , c-sharp , csharp</td><td>shBrushCSharp.js</td><td></td></tr><tr><td>CSS</td><td>css</td><td>shBrushCss.js</td><td></td></tr><tr><td>Delphi</td><td>delphi , pascal , pas</td><td>shBrushDelphi.js</td><td></td></tr><tr><td>diff&amp;patch</td><td>diff patch</td><td>shBrushDiff.js</td><td>用代码版本库时,遇到代码冲突,其语法就是这个.</td></tr><tr><td>Erlang</td><td>erl , erlang</td><td>shBrushErlang.js</td><td></td></tr><tr><td>Groovy</td><td>groovy</td><td>shBrushGroovy.js</td><td></td></tr><tr><td>Java</td><td>java</td><td>shBrushJava.js</td><td></td></tr><tr><td>JavaFX</td><td>jfx , javafx</td><td>shBrushJavaFX.js</td><td></td></tr><tr><td>JavaScript</td><td>js , jscript , javascript</td><td>shBrushJScript.js</td><td></td></tr><tr><td>Perl</td><td>perl , pl , Perl</td><td>shBrushPerl.js</td><td></td></tr><tr><td>PHP</td><td>php</td><td>shBrushPhp.js</td><td></td></tr><tr><td>text</td><td>text , plain</td><td>shBrushPlain.js</td><td>就是普通文本.</td></tr><tr><td>Python</td><td>py , python</td><td>shBrushPython.js</td><td></td></tr><tr><td>Ruby</td><td>ruby , rails , ror , rb</td><td>shBrushRuby.js</td><td></td></tr><tr><td>SASS&amp;SCSS</td><td>sass , scss</td><td>shBrushSass.js</td><td></td></tr><tr><td>Scala</td><td>scala</td><td>shBrushScala.js</td><td></td></tr><tr><td>SQL</td><td>sql</td><td>shBrushSql.js</td><td></td></tr><tr><td>Visual Basic</td><td>vb , vbnet</td><td>shBrushVb.js</td><td></td></tr><tr><td>XML</td><td>xml , xhtml , xslt , html</td><td>shBrushXml.js</td><td></td></tr><tr><td>Objective C</td><td>objc , obj-c</td><td>shBrushObjectiveC.js</td><td></td></tr><tr><td>F#</td><td>f# f-sharp , fsharp</td><td>shBrushFSharp.js</td><td></td></tr><tr><td></td><td>xpp , dynamics-xpp</td><td>shBrushDynamics.js</td><td></td></tr><tr><td>R</td><td>r , s , splus</td><td>shBrushR.js</td><td></td></tr><tr><td>matlab</td><td>matlab</td><td>shBrushMatlab.js</td><td></td></tr><tr><td>swift</td><td>swift</td><td>shBrushSwift.js</td><td></td></tr><tr><td>GO</td><td>go , golang</td><td>shBrushGo.js</td><td></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> md </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>hexo-theme-matery</title>
       <link href="/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/"/>
       <url>/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/</url>
@@ -6390,6 +6365,31 @@
         <tags>
             
             <tag> hexo-https </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Md 文档支持的代码块引用语言高亮</title>
+      <link href="/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
+      <url>/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Md-文档支持的代码块引用语言高亮"><a href="#Md-文档支持的代码块引用语言高亮" class="headerlink" title="Md 文档支持的代码块引用语言高亮"></a>Md 文档支持的代码块引用语言高亮</h4><h5 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h5><blockquote><p>```css<br>.bg-cover .description {<br>&nbsp;&nbsp;font-weight: 300;<br>&nbsp;&nbsp;line-height: 1.4em;<br>&nbsp;&nbsp;color: #eee;<br>&nbsp;&nbsp;cursor: default;<br>}<br>```<br>注意: ``` 后面填写的为下表的关键字</p></blockquote><h5 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h5><pre class="line-numbers language-css" data-language="css"><code class="language-css"><span class="token selector">.bg-cover .description</span> <span class="token punctuation">{</span>  <span class="token property">font-size</span><span class="token punctuation">:</span> 1.25rem<span class="token punctuation">;</span>  <span class="token property">font-weight</span><span class="token punctuation">:</span> 300<span class="token punctuation">;</span>  <span class="token property">line-height</span><span class="token punctuation">:</span> 1.4em<span class="token punctuation">;</span>  <span class="token property">color</span><span class="token punctuation">:</span> #eee<span class="token punctuation">;</span>  <span class="token property">cursor</span><span class="token punctuation">:</span> default<span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><table><thead><tr><th>名称</th><th>关键字</th><th>调用的 js</th><th>说明</th></tr></thead><tbody><tr><td>AppleScript</td><td>applescript</td><td>shBrushAppleScript.js</td><td></td></tr><tr><td>ActionScript 3.0</td><td>actionscript3 , as3</td><td>shBrushAS3.js</td><td></td></tr><tr><td>Shell</td><td>bash , shell</td><td>shBrushBash.js</td><td></td></tr><tr><td>ColdFusion</td><td>coldfusion , cf</td><td>shBrushColdFusion.js</td><td></td></tr><tr><td>C</td><td>cpp , c</td><td>shBrushCpp.js</td><td></td></tr><tr><td>C#</td><td>c# , c-sharp , csharp</td><td>shBrushCSharp.js</td><td></td></tr><tr><td>CSS</td><td>css</td><td>shBrushCss.js</td><td></td></tr><tr><td>Delphi</td><td>delphi , pascal , pas</td><td>shBrushDelphi.js</td><td></td></tr><tr><td>diff&amp;patch</td><td>diff patch</td><td>shBrushDiff.js</td><td>用代码版本库时,遇到代码冲突,其语法就是这个.</td></tr><tr><td>Erlang</td><td>erl , erlang</td><td>shBrushErlang.js</td><td></td></tr><tr><td>Groovy</td><td>groovy</td><td>shBrushGroovy.js</td><td></td></tr><tr><td>Java</td><td>java</td><td>shBrushJava.js</td><td></td></tr><tr><td>JavaFX</td><td>jfx , javafx</td><td>shBrushJavaFX.js</td><td></td></tr><tr><td>JavaScript</td><td>js , jscript , javascript</td><td>shBrushJScript.js</td><td></td></tr><tr><td>Perl</td><td>perl , pl , Perl</td><td>shBrushPerl.js</td><td></td></tr><tr><td>PHP</td><td>php</td><td>shBrushPhp.js</td><td></td></tr><tr><td>text</td><td>text , plain</td><td>shBrushPlain.js</td><td>就是普通文本.</td></tr><tr><td>Python</td><td>py , python</td><td>shBrushPython.js</td><td></td></tr><tr><td>Ruby</td><td>ruby , rails , ror , rb</td><td>shBrushRuby.js</td><td></td></tr><tr><td>SASS&amp;SCSS</td><td>sass , scss</td><td>shBrushSass.js</td><td></td></tr><tr><td>Scala</td><td>scala</td><td>shBrushScala.js</td><td></td></tr><tr><td>SQL</td><td>sql</td><td>shBrushSql.js</td><td></td></tr><tr><td>Visual Basic</td><td>vb , vbnet</td><td>shBrushVb.js</td><td></td></tr><tr><td>XML</td><td>xml , xhtml , xslt , html</td><td>shBrushXml.js</td><td></td></tr><tr><td>Objective C</td><td>objc , obj-c</td><td>shBrushObjectiveC.js</td><td></td></tr><tr><td>F#</td><td>f# f-sharp , fsharp</td><td>shBrushFSharp.js</td><td></td></tr><tr><td></td><td>xpp , dynamics-xpp</td><td>shBrushDynamics.js</td><td></td></tr><tr><td>R</td><td>r , s , splus</td><td>shBrushR.js</td><td></td></tr><tr><td>matlab</td><td>matlab</td><td>shBrushMatlab.js</td><td></td></tr><tr><td>swift</td><td>swift</td><td>shBrushSwift.js</td><td></td></tr><tr><td>GO</td><td>go , golang</td><td>shBrushGo.js</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> md </tag>
             
         </tags>
       
@@ -6473,6 +6473,56 @@
     
     
     <entry>
+      <title>gitlab command</title>
+      <link href="/1999/01/01/study-work-gitlab-gitlab-command/"/>
+      <url>/1999/01/01/study-work-gitlab-gitlab-command/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#配置路径</span>/etc/gitlab/gitlab.rb<span class="token comment">#备份路径</span>/var/opt/gitlab/backups<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rake gitlab:backup:create<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span>  gitlab-ctl stop unicorn<span class="token function">sudo</span>  gitlab-ctl stop sidekiq<span class="token function">sudo</span>  gitlab-rake gitlab:backup:restore <span class="token assign-left variable">BACKUP</span><span class="token operator">=</span><span class="token string">'备份的identity'</span><span class="token function">sudo</span>  gitlab-ctl start<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl status<span class="token function">sudo</span> gitlab-ctl start<span class="token function">sudo</span> gitlab-ctl stop<span class="token function">sudo</span> gitlab-ctl restart<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="gitlab-刷新配置"><a href="#gitlab-刷新配置" class="headerlink" title="gitlab 刷新配置"></a>gitlab 刷新配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl reconfigure<span class="token function">sudo</span> systemctl restart gitlab-runsvdir<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> redis<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> postgresql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> gitlab-workhorse<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> <span class="token function">logrotate</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> sidekiq<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> unicorn<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="生产日志"><a href="#生产日志" class="headerlink" title="生产日志"></a>生产日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">user <span class="token operator">=</span> User.where<span class="token punctuation">(</span>id: <span class="token number">1</span><span class="token punctuation">)</span>.firstuser.password <span class="token operator">=</span> ‘新密码‘user.password_confirmation <span class="token operator">=</span> ‘新密码‘user.save<span class="token operator">!</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-检查配置"><a href="#Gitlab-检查配置" class="headerlink" title="Gitlab 检查配置"></a>Gitlab 检查配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">gitlab-rake gitlab:check<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">vi</span> /opt/gitlab/embedded/service/gitlab-rails/app/models<span class="token comment">#devise :lockable, :recoverable, :rememberable, :trackable,</span><span class="token comment">#    :validatable, :omniauthable, :confirmable, :registerable</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>devise :lockable, :recoverable, :rememberable, :trackable,<br>        :validatable, :omniauthable,  :registerable</p><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><p>Guest：可以创建issue、发表评论，不能读写版本库<br>Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限<br>Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限<br>Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限<br>Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限</p><p>Private：只有组成员才能看到<br>Internal：只要登录的用户就能看到<br>Public：所有人都能看到</p><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> work </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> gitlab </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>gitlab runner</title>
+      <link href="/1999/01/01/study-work-gitlab-gitlab-runner/"/>
+      <url>/1999/01/01/study-work-gitlab-gitlab-runner/</url>
+      
+        <content type="html"><![CDATA[<h5 id="Gitlab-runner-restart"><a href="#Gitlab-runner-restart" class="headerlink" title="Gitlab runner restart"></a>Gitlab runner restart</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ci-multi-runner restart<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> work </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> gitlab </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>verb</title>
       <link href="/1999/01/01/study-life-english-doing/"/>
       <url>/1999/01/01/study-life-english-doing/</url>
@@ -6540,56 +6590,6 @@
         <tags>
             
             <tag> date </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>gitlab runner</title>
-      <link href="/1999/01/01/study-work-gitlab-gitlab-runner/"/>
-      <url>/1999/01/01/study-work-gitlab-gitlab-runner/</url>
-      
-        <content type="html"><![CDATA[<h5 id="Gitlab-runner-restart"><a href="#Gitlab-runner-restart" class="headerlink" title="Gitlab runner restart"></a>Gitlab runner restart</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ci-multi-runner restart<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> work </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> gitlab </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>gitlab command</title>
-      <link href="/1999/01/01/study-work-gitlab-gitlab-command/"/>
-      <url>/1999/01/01/study-work-gitlab-gitlab-command/</url>
-      
-        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#配置路径</span>/etc/gitlab/gitlab.rb<span class="token comment">#备份路径</span>/var/opt/gitlab/backups<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rake gitlab:backup:create<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span>  gitlab-ctl stop unicorn<span class="token function">sudo</span>  gitlab-ctl stop sidekiq<span class="token function">sudo</span>  gitlab-rake gitlab:backup:restore <span class="token assign-left variable">BACKUP</span><span class="token operator">=</span><span class="token string">'备份的identity'</span><span class="token function">sudo</span>  gitlab-ctl start<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl status<span class="token function">sudo</span> gitlab-ctl start<span class="token function">sudo</span> gitlab-ctl stop<span class="token function">sudo</span> gitlab-ctl restart<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="gitlab-刷新配置"><a href="#gitlab-刷新配置" class="headerlink" title="gitlab 刷新配置"></a>gitlab 刷新配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl reconfigure<span class="token function">sudo</span> systemctl restart gitlab-runsvdir<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> redis<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> postgresql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> gitlab-workhorse<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> <span class="token function">logrotate</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> sidekiq<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> unicorn<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="生产日志"><a href="#生产日志" class="headerlink" title="生产日志"></a>生产日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">user <span class="token operator">=</span> User.where<span class="token punctuation">(</span>id: <span class="token number">1</span><span class="token punctuation">)</span>.firstuser.password <span class="token operator">=</span> ‘新密码‘user.password_confirmation <span class="token operator">=</span> ‘新密码‘user.save<span class="token operator">!</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-检查配置"><a href="#Gitlab-检查配置" class="headerlink" title="Gitlab 检查配置"></a>Gitlab 检查配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">gitlab-rake gitlab:check<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">vi</span> /opt/gitlab/embedded/service/gitlab-rails/app/models<span class="token comment">#devise :lockable, :recoverable, :rememberable, :trackable,</span><span class="token comment">#    :validatable, :omniauthable, :confirmable, :registerable</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>devise :lockable, :recoverable, :rememberable, :trackable,<br>        :validatable, :omniauthable,  :registerable</p><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><p>Guest：可以创建issue、发表评论，不能读写版本库<br>Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限<br>Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限<br>Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限<br>Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限</p><p>Private：只有组成员才能看到<br>Internal：只要登录的用户就能看到<br>Public：所有人都能看到</p><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> work </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> gitlab </tag>
             
         </tags>
       
