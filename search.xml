@@ -4479,31 +4479,6 @@
     
     
     <entry>
-      <title>money</title>
-      <link href="/2019/01/01/essays-money/"/>
-      <url>/2019/01/01/essays-money/</url>
-      
-        <content type="html"><![CDATA[<h5 id="earn-法院执行-127939"><a href="#earn-法院执行-127939" class="headerlink" title="#earn 法院执行 127939"></a>#earn <code>法院执行 127939</code></h5><table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr></thead><tbody><tr><td>2017</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2648</td><td>7420</td><td>7420</td><td>9446</td><td>9446</td><td>9446</td></tr><tr><td>2018</td><td>9446</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>15551</td><td>16993</td><td>16993</td><td>16993</td></tr><tr><td>2019</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td></tr><tr><td></td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(补贴)</td><td>1440</td><td>合计</td><td>581203</td></tr></tbody></table><p><code>2648+7420*2+9446*4+11809*7+15551+16993*3+1440+17059*22</code></p><table><thead><tr><th></th><th>工资</th><th>公积金(39*1872)</th><th>合计</th></tr></thead><tbody><tr><td>收入(￥)</td><td>581203</td><td>73008</td><td>654211</td></tr></tbody></table><p><code>581203+73008</code></p><table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr></thead><tbody><tr><td>2020</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3904</td><td>10092</td></tr><tr><td>2021</td><td>8866</td><td>9479</td><td>9263</td><td>8614</td><td>8982</td><td>3660</td><td>9549</td><td>12526</td><td>23523</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>合计</td><td>108458</td></tr></tbody></table><p><code>3904+10092+8866+9479+9263+8614+8982+3660+9549+12526+23523</code></p><p><code>654211+108458</code></p><h5 id="expense"><a href="#expense" class="headerlink" title="#expense"></a>#expense</h5><p><a href="/2019/01/01/essays-uncle/">uncle</a></p><table><thead><tr><th></th><th>A</th><th>合计</th></tr></thead><tbody><tr><td>张少雄</td><td>132598</td><td>132598</td></tr><tr><td>Jimmy</td><td>203260</td><td>203260</td></tr><tr><td>爸</td><td>10000</td><td>10000</td></tr><tr><td>一加 6</td><td>3600</td><td>3600</td></tr><tr><td>小米 9</td><td>3400</td><td>3400</td></tr><tr><td>英孚</td><td>40000</td><td>40000</td></tr><tr><td>武纺</td><td>5000</td><td>5000</td></tr><tr><td>pmp</td><td>3900+2300</td><td>6200</td></tr><tr><td>acp</td><td>3900+2200</td><td>6100</td></tr><tr><td>一加 9RT</td><td>3200</td><td>3200</td></tr><tr><td>钻戒</td><td>4760+20258</td><td>25018</td></tr><tr><td>房租（2017.7-2020.10）</td><td>39*1400</td><td>54600</td></tr><tr><td>房租（2021.4-2021.8）</td><td>4*1200</td><td>4800</td></tr><tr><td>房租（2021.8-2021.10）</td><td>3*2000</td><td>6000</td></tr><tr><td>合计</td><td></td><td>503776</td></tr></tbody></table><p><code>132598+203260+10000+3600+3400+40000+5000+6200+6100+3200+25018+54600+4800+6000</code></p><h5 id="截止-2021-年-10-月-15-日"><a href="#截止-2021-年-10-月-15-日" class="headerlink" title="截止 2021 年 10 月 15 日"></a><em>截止 2021 年 10 月 15 日</em></h5>]]></content>
-      
-      
-      <categories>
-          
-          <category> essays </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> money </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>new year</title>
       <link href="/2019/01/01/essays-new-year/"/>
       <url>/2019/01/01/essays-new-year/</url>
@@ -4521,6 +4496,31 @@
         <tags>
             
             <tag> essays </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>money</title>
+      <link href="/2019/01/01/essays-money/"/>
+      <url>/2019/01/01/essays-money/</url>
+      
+        <content type="html"><![CDATA[<h5 id="earn-法院执行-127939"><a href="#earn-法院执行-127939" class="headerlink" title="#earn 法院执行 127939"></a>#earn <code>法院执行 127939</code></h5><table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr></thead><tbody><tr><td>2017</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2648</td><td>7420</td><td>7420</td><td>9446</td><td>9446</td><td>9446</td></tr><tr><td>2018</td><td>9446</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>11809</td><td>15551</td><td>16993</td><td>16993</td><td>16993</td></tr><tr><td>2019</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td></tr><tr><td></td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td>17059</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(补贴)</td><td>1440</td><td>合计</td><td>581203</td></tr></tbody></table><p><code>2648+7420*2+9446*4+11809*7+15551+16993*3+1440+17059*22</code></p><table><thead><tr><th></th><th>工资</th><th>公积金(39*1872)</th><th>合计</th></tr></thead><tbody><tr><td>收入(￥)</td><td>581203</td><td>73008</td><td>654211</td></tr></tbody></table><p><code>581203+73008</code></p><table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr></thead><tbody><tr><td>2020</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3904</td><td>10092</td></tr><tr><td>2021</td><td>8866</td><td>9479</td><td>9263</td><td>8614</td><td>8982</td><td>3660</td><td>9549</td><td>12526</td><td>23523</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>合计</td><td>108458</td></tr></tbody></table><p><code>3904+10092+8866+9479+9263+8614+8982+3660+9549+12526+23523</code></p><p><code>654211+108458</code></p><h5 id="expense"><a href="#expense" class="headerlink" title="#expense"></a>#expense</h5><p><a href="/2019/01/01/essays-uncle/">uncle</a></p><table><thead><tr><th></th><th>A</th><th>合计</th></tr></thead><tbody><tr><td>张少雄</td><td>132598</td><td>132598</td></tr><tr><td>Jimmy</td><td>203260</td><td>203260</td></tr><tr><td>爸</td><td>10000</td><td>10000</td></tr><tr><td>一加 6</td><td>3600</td><td>3600</td></tr><tr><td>小米 9</td><td>3400</td><td>3400</td></tr><tr><td>英孚</td><td>40000</td><td>40000</td></tr><tr><td>武纺</td><td>5000</td><td>5000</td></tr><tr><td>pmp</td><td>3900+2300</td><td>6200</td></tr><tr><td>acp</td><td>3900+2200</td><td>6100</td></tr><tr><td>一加 9RT</td><td>3200</td><td>3200</td></tr><tr><td>钻戒</td><td>4760+20258</td><td>25018</td></tr><tr><td>房租（2017.7-2020.10）</td><td>39*1400</td><td>54600</td></tr><tr><td>房租（2021.4-2021.8）</td><td>4*1200</td><td>4800</td></tr><tr><td>房租（2021.8-2021.10）</td><td>3*2000</td><td>6000</td></tr><tr><td>合计</td><td></td><td>503776</td></tr></tbody></table><p><code>132598+203260+10000+3600+3400+40000+5000+6200+6100+3200+25018+54600+4800+6000</code></p><h5 id="截止-2021-年-10-月-15-日"><a href="#截止-2021-年-10-月-15-日" class="headerlink" title="截止 2021 年 10 月 15 日"></a><em>截止 2021 年 10 月 15 日</em></h5>]]></content>
+      
+      
+      <categories>
+          
+          <category> essays </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> money </tag>
             
         </tags>
       
@@ -6323,6 +6323,31 @@
     
     
     <entry>
+      <title>Md 文档支持的代码块引用语言高亮</title>
+      <link href="/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
+      <url>/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Md-文档支持的代码块引用语言高亮"><a href="#Md-文档支持的代码块引用语言高亮" class="headerlink" title="Md 文档支持的代码块引用语言高亮"></a>Md 文档支持的代码块引用语言高亮</h4><h5 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h5><blockquote><p>```css<br>.bg-cover .description {<br>&nbsp;&nbsp;font-weight: 300;<br>&nbsp;&nbsp;line-height: 1.4em;<br>&nbsp;&nbsp;color: #eee;<br>&nbsp;&nbsp;cursor: default;<br>}<br>```<br>注意: ``` 后面填写的为下表的关键字</p></blockquote><h5 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h5><pre class="line-numbers language-css" data-language="css"><code class="language-css"><span class="token selector">.bg-cover .description</span> <span class="token punctuation">{</span>  <span class="token property">font-size</span><span class="token punctuation">:</span> 1.25rem<span class="token punctuation">;</span>  <span class="token property">font-weight</span><span class="token punctuation">:</span> 300<span class="token punctuation">;</span>  <span class="token property">line-height</span><span class="token punctuation">:</span> 1.4em<span class="token punctuation">;</span>  <span class="token property">color</span><span class="token punctuation">:</span> #eee<span class="token punctuation">;</span>  <span class="token property">cursor</span><span class="token punctuation">:</span> default<span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><table><thead><tr><th>名称</th><th>关键字</th><th>调用的 js</th><th>说明</th></tr></thead><tbody><tr><td>AppleScript</td><td>applescript</td><td>shBrushAppleScript.js</td><td></td></tr><tr><td>ActionScript 3.0</td><td>actionscript3 , as3</td><td>shBrushAS3.js</td><td></td></tr><tr><td>Shell</td><td>bash , shell</td><td>shBrushBash.js</td><td></td></tr><tr><td>ColdFusion</td><td>coldfusion , cf</td><td>shBrushColdFusion.js</td><td></td></tr><tr><td>C</td><td>cpp , c</td><td>shBrushCpp.js</td><td></td></tr><tr><td>C#</td><td>c# , c-sharp , csharp</td><td>shBrushCSharp.js</td><td></td></tr><tr><td>CSS</td><td>css</td><td>shBrushCss.js</td><td></td></tr><tr><td>Delphi</td><td>delphi , pascal , pas</td><td>shBrushDelphi.js</td><td></td></tr><tr><td>diff&amp;patch</td><td>diff patch</td><td>shBrushDiff.js</td><td>用代码版本库时,遇到代码冲突,其语法就是这个.</td></tr><tr><td>Erlang</td><td>erl , erlang</td><td>shBrushErlang.js</td><td></td></tr><tr><td>Groovy</td><td>groovy</td><td>shBrushGroovy.js</td><td></td></tr><tr><td>Java</td><td>java</td><td>shBrushJava.js</td><td></td></tr><tr><td>JavaFX</td><td>jfx , javafx</td><td>shBrushJavaFX.js</td><td></td></tr><tr><td>JavaScript</td><td>js , jscript , javascript</td><td>shBrushJScript.js</td><td></td></tr><tr><td>Perl</td><td>perl , pl , Perl</td><td>shBrushPerl.js</td><td></td></tr><tr><td>PHP</td><td>php</td><td>shBrushPhp.js</td><td></td></tr><tr><td>text</td><td>text , plain</td><td>shBrushPlain.js</td><td>就是普通文本.</td></tr><tr><td>Python</td><td>py , python</td><td>shBrushPython.js</td><td></td></tr><tr><td>Ruby</td><td>ruby , rails , ror , rb</td><td>shBrushRuby.js</td><td></td></tr><tr><td>SASS&amp;SCSS</td><td>sass , scss</td><td>shBrushSass.js</td><td></td></tr><tr><td>Scala</td><td>scala</td><td>shBrushScala.js</td><td></td></tr><tr><td>SQL</td><td>sql</td><td>shBrushSql.js</td><td></td></tr><tr><td>Visual Basic</td><td>vb , vbnet</td><td>shBrushVb.js</td><td></td></tr><tr><td>XML</td><td>xml , xhtml , xslt , html</td><td>shBrushXml.js</td><td></td></tr><tr><td>Objective C</td><td>objc , obj-c</td><td>shBrushObjectiveC.js</td><td></td></tr><tr><td>F#</td><td>f# f-sharp , fsharp</td><td>shBrushFSharp.js</td><td></td></tr><tr><td></td><td>xpp , dynamics-xpp</td><td>shBrushDynamics.js</td><td></td></tr><tr><td>R</td><td>r , s , splus</td><td>shBrushR.js</td><td></td></tr><tr><td>matlab</td><td>matlab</td><td>shBrushMatlab.js</td><td></td></tr><tr><td>swift</td><td>swift</td><td>shBrushSwift.js</td><td></td></tr><tr><td>GO</td><td>go , golang</td><td>shBrushGo.js</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> md </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo-theme-matery</title>
       <link href="/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/"/>
       <url>/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/</url>
@@ -6373,23 +6398,23 @@
     
     
     <entry>
-      <title>Md 文档支持的代码块引用语言高亮</title>
-      <link href="/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/"/>
-      <url>/1999/01/01/study-hexo-md-dai-ma-kuai-ke-xuan-yu-yan/</url>
+      <title>香港红灯区</title>
+      <link href="/1999/01/01/study-life-av-hongkong/"/>
+      <url>/1999/01/01/study-life-av-hongkong/</url>
       
-        <content type="html"><![CDATA[<h4 id="Md-文档支持的代码块引用语言高亮"><a href="#Md-文档支持的代码块引用语言高亮" class="headerlink" title="Md 文档支持的代码块引用语言高亮"></a>Md 文档支持的代码块引用语言高亮</h4><h5 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h5><blockquote><p>```css<br>.bg-cover .description {<br>&nbsp;&nbsp;font-weight: 300;<br>&nbsp;&nbsp;line-height: 1.4em;<br>&nbsp;&nbsp;color: #eee;<br>&nbsp;&nbsp;cursor: default;<br>}<br>```<br>注意: ``` 后面填写的为下表的关键字</p></blockquote><h5 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h5><pre class="line-numbers language-css" data-language="css"><code class="language-css"><span class="token selector">.bg-cover .description</span> <span class="token punctuation">{</span>  <span class="token property">font-size</span><span class="token punctuation">:</span> 1.25rem<span class="token punctuation">;</span>  <span class="token property">font-weight</span><span class="token punctuation">:</span> 300<span class="token punctuation">;</span>  <span class="token property">line-height</span><span class="token punctuation">:</span> 1.4em<span class="token punctuation">;</span>  <span class="token property">color</span><span class="token punctuation">:</span> #eee<span class="token punctuation">;</span>  <span class="token property">cursor</span><span class="token punctuation">:</span> default<span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><table><thead><tr><th>名称</th><th>关键字</th><th>调用的 js</th><th>说明</th></tr></thead><tbody><tr><td>AppleScript</td><td>applescript</td><td>shBrushAppleScript.js</td><td></td></tr><tr><td>ActionScript 3.0</td><td>actionscript3 , as3</td><td>shBrushAS3.js</td><td></td></tr><tr><td>Shell</td><td>bash , shell</td><td>shBrushBash.js</td><td></td></tr><tr><td>ColdFusion</td><td>coldfusion , cf</td><td>shBrushColdFusion.js</td><td></td></tr><tr><td>C</td><td>cpp , c</td><td>shBrushCpp.js</td><td></td></tr><tr><td>C#</td><td>c# , c-sharp , csharp</td><td>shBrushCSharp.js</td><td></td></tr><tr><td>CSS</td><td>css</td><td>shBrushCss.js</td><td></td></tr><tr><td>Delphi</td><td>delphi , pascal , pas</td><td>shBrushDelphi.js</td><td></td></tr><tr><td>diff&amp;patch</td><td>diff patch</td><td>shBrushDiff.js</td><td>用代码版本库时,遇到代码冲突,其语法就是这个.</td></tr><tr><td>Erlang</td><td>erl , erlang</td><td>shBrushErlang.js</td><td></td></tr><tr><td>Groovy</td><td>groovy</td><td>shBrushGroovy.js</td><td></td></tr><tr><td>Java</td><td>java</td><td>shBrushJava.js</td><td></td></tr><tr><td>JavaFX</td><td>jfx , javafx</td><td>shBrushJavaFX.js</td><td></td></tr><tr><td>JavaScript</td><td>js , jscript , javascript</td><td>shBrushJScript.js</td><td></td></tr><tr><td>Perl</td><td>perl , pl , Perl</td><td>shBrushPerl.js</td><td></td></tr><tr><td>PHP</td><td>php</td><td>shBrushPhp.js</td><td></td></tr><tr><td>text</td><td>text , plain</td><td>shBrushPlain.js</td><td>就是普通文本.</td></tr><tr><td>Python</td><td>py , python</td><td>shBrushPython.js</td><td></td></tr><tr><td>Ruby</td><td>ruby , rails , ror , rb</td><td>shBrushRuby.js</td><td></td></tr><tr><td>SASS&amp;SCSS</td><td>sass , scss</td><td>shBrushSass.js</td><td></td></tr><tr><td>Scala</td><td>scala</td><td>shBrushScala.js</td><td></td></tr><tr><td>SQL</td><td>sql</td><td>shBrushSql.js</td><td></td></tr><tr><td>Visual Basic</td><td>vb , vbnet</td><td>shBrushVb.js</td><td></td></tr><tr><td>XML</td><td>xml , xhtml , xslt , html</td><td>shBrushXml.js</td><td></td></tr><tr><td>Objective C</td><td>objc , obj-c</td><td>shBrushObjectiveC.js</td><td></td></tr><tr><td>F#</td><td>f# f-sharp , fsharp</td><td>shBrushFSharp.js</td><td></td></tr><tr><td></td><td>xpp , dynamics-xpp</td><td>shBrushDynamics.js</td><td></td></tr><tr><td>R</td><td>r , s , splus</td><td>shBrushR.js</td><td></td></tr><tr><td>matlab</td><td>matlab</td><td>shBrushMatlab.js</td><td></td></tr><tr><td>swift</td><td>swift</td><td>shBrushSwift.js</td><td></td></tr><tr><td>GO</td><td>go , golang</td><td>shBrushGo.js</td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<h5 id="一楼一凤"><a href="#一楼一凤" class="headerlink" title="一楼一凤"></a>一楼一凤</h5><p>香港红灯区的招牌就是一楼一凤，就是每个屋子里只有一个 MM 等着顾客上门。这些楼凤一般都集中在一些比较老的大厦中，大厦的入口一般都会挂一根粉色灯管作为标记。这些大厦主要分布在佐敦、旺角、深水埔，原来网上盛传的几座大厦现在感觉已经有些没落了。老一些的香港本地人一般会从大厦最高层逐个敲门看 MM，看到合适的就在门口问价格和服务，谈好后就进门开工，这个过程也被叫做扫楼。年轻人一般都会上网看看照片，然后按着照片去找自己有兴趣的 MM，具体的网站可以谷歌搜 go141 和 miss148 点进去看。这两个网站比较起来，141 信息相对全一些，但是里面的服务内容包括 MM 照片信三分就好，148 的优势是搜索功能做的比较好，可以根据自己的喜好快速搜出对应的 MM。凤楼 MM 的年龄从 20 到 60 都有，整体还是年轻的较多，但是年轻漂亮的一般没什么服务，年纪大的一般是有求必应。价格上年轻 MM 一般是 400 港币一次，东南亚和年纪大的便宜一些，一些特殊服务要自己门口议价。最后要提醒一点是进了大楼千万别拍照，楼道每个门口都有摄像头，而且每层楼不知名的角落里都有看场子的人，拍照或者和 MM 起了争执都是一种有风险的行为。<br>美少女：基本等同于国内的酒店妹，整体质量最高，基本服务都会做足。大部分酒店妹都是旅游签证过来的漂亮小姐姐，普通话完全无障碍，聊的好了加个 VX 说不定会有更多的故事。美少女主要集中在尖沙咀，国内 MM 一般在 1000 港币左右一次，东南亚 800 左右，大洋马 1500，最贵的是日韩和香港本地的要 2500 一次。具体流程就是打电话找那边的经理预约，然后按照约定的时间赶到酒店就好。</p><h5 id="指压"><a href="#指压" class="headerlink" title="指压"></a>指压</h5><p>香港本地人最喜欢去的应该就是指压了，那里几乎没有游客和外地人出没，属于还没有被广大国内玩家炒起来的一片净土。指压主要集中在旺角和太子地区，对外就是一个按摩场所，房间比较小，只有一张按摩床和一个浴室。因为最初是从按摩发展起来的，所以低价格高服务就成了指压的特色，现在的价格应该是 400 到 450 港币，45 分钟无限次数任玩任做。指压 MM 整体年龄都会偏大一些，30 岁在里面都算是后生女，40+的也会出现。一般场所里年轻漂亮或者服务好的一些的红牌都要提前预约，基本上很快当天就会预约满，直接去大概率会踩雷。香港指压有个专门的本地论坛，每个场所都会在上边更新上班的 MM，有 MM 照片，还有好多实战报告，认真读一下基本不会遇到坑，谷歌搜 winning11 夜游王讨论区就可以找到。</p><h5 id="K-压"><a href="#K-压" class="headerlink" title="K 压"></a>K 压</h5><p>K 压其实和国内的 KTV 玩法很接近了，基本就是先唱 K 然后开大。相对于指压，K 压的 MM 里面香港本地人的比例会大很多。K 压的基本流程就是进到 KTV 里面，点一瓶啤酒选 MM，然后选择是先唱 K 还是直接带出去开大。一般的 K 压在 KTV 里面只能搂搂摸摸，然后要出去到不远处另一个旅馆进行下一步。K 压收费相对会比指压高一些，唱 K 费，出台费和房费是分开算的，整体下来要 7、8 百港币一次。去 K 压的基本都是香港本地人，追求的是和 MM 唱 K 那种放松的感觉。有关 K 压的一些内容，可以在 141 或者夜游王讨论区里面找到相应的帖子。<br>楼上骨：楼上骨和一楼一凤比较类似，是一种居家按摩，分为正骨和邪骨。正骨就是正经的香薰按摩，MM 一般都有正规的按摩资格证书，基本不带任何附加服务或者只有飞机，而邪骨就是按摩加开大。相应的信息可以从 141 或者 148 网站上查询。</p><h5 id="桑拿"><a href="#桑拿" class="headerlink" title="桑拿"></a>桑拿</h5><p>和国内的各种会所相似度很高，进去先自己洗澡，洗好了会有技师来服务。服务一般分为 part1 和 part2，part1 就是正规按摩，part2 就是 happy ending。part2 部分有的场是大活有的场是飞机，这个看价格一般就能区分，500 港币多的基本是手推，800 港币以上的一般都是可以开大。每家场所具体的信息还是进门之前先问清楚价格和服务比较好，不然容易踩雷。</p><h5 id="援交女"><a href="#援交女" class="headerlink" title="援交女"></a>援交女</h5><p>PTGF（parttime girlfriend）数年前曾经火爆一时，但是在香港针对援交女的三次重大行动（Google 香港三次灭绝援交事件）后，曾经辉煌的香港大人网和香港少女论坛已经变得十分冷清，IG 上面主要也是一些专业人士打着 PTGF 的名义继续活动，真正的本地学生出来赚快钱的已经十分少见。除了大人网和少女论坛两个地方外，近期又多了一个 millionbb 的注册交友网站，本人尚未注册观察，有兴趣的榴友可自行尝试。费用方面，一般是 1500 左右见面，后面的剧情就要自行发挥，基本套路都是逛逛街然后开房一次，最好是可以提前联系的时候就谈好免得被坑。因为真正的 PTGF 都是香港本地学生，想约的还是要有一定的广东话功底比较好。<br>以上就是香港集中主流玩法的介绍，下面会放上一些专业术语解释，大家在论坛爬文或者自行到店的时候可能会用到。</p><h5 id="陀地"><a href="#陀地" class="headerlink" title="陀地"></a>陀地</h5><p>香港本地妹</p><h5 id="北姑、新移民"><a href="#北姑、新移民" class="headerlink" title="北姑、新移民"></a>北姑、新移民</h5><p>大陆妹</p><h5 id="鬼妹"><a href="#鬼妹" class="headerlink" title="鬼妹"></a>鬼妹</h5><p>外国妹</p><h5 id="3-味、4-味、5-味"><a href="#3-味、4-味、5-味" class="headerlink" title="3 味、4 味、5 味"></a>3 味、4 味、5 味</h5><p>服务内容，3 味是无套吹、毒龙钻和大活，4 味多了爆菊，5 味多了吮脚趾。</p><h5 id="环保，地球之友"><a href="#环保，地球之友" class="headerlink" title="环保，地球之友"></a>环保，地球之友</h5><p>不带 TT</p><h5 id="屎忽（patpat），后花园"><a href="#屎忽（patpat），后花园" class="headerlink" title="屎忽（patpat），后花园"></a>屎忽（patpat），后花园</h5><p>屁股，爆菊</p><h5 id="车，车轮，车牌，碰碰车，小车，中车，大车"><a href="#车，车轮，车牌，碰碰车，小车，中车，大车" class="headerlink" title="车，车轮，车牌，碰碰车，小车，中车，大车"></a>车，车轮，车牌，碰碰车，小车，中车，大车</h5><p>亲嘴的不同程度，碰碰车是简单碰一下，大车是湿吻。</p><h5 id="夹肠仔"><a href="#夹肠仔" class="headerlink" title="夹肠仔"></a>夹肠仔</h5><p>乳交</p><h5 id="HJ，BJ"><a href="#HJ，BJ" class="headerlink" title="HJ，BJ"></a>HJ，BJ</h5><p>hand job 打飞机，blow job 吹箫</p><h5 id="中超，打假波，石头波"><a href="#中超，打假波，石头波" class="headerlink" title="中超，打假波，石头波"></a>中超，打假波，石头波</h5><p>人工胸</p><h5 id="C9-师奶"><a href="#C9-师奶" class="headerlink" title="C9,师奶"></a>C9,师奶</h5><p>成熟女人</p><h5 id="即尺"><a href="#即尺" class="headerlink" title="即尺"></a>即尺</h5><p>进门脱裤子直接吹</p><h5 id="BM"><a href="#BM" class="headerlink" title="BM"></a>BM</h5><p>body massage 身体漫游</p><h5 id="袋，带袋"><a href="#袋，带袋" class="headerlink" title="袋，带袋"></a>袋，带袋</h5><p>TT，带 T</p>]]></content>
       
       
       <categories>
           
-          <category> hexo </category>
+          <category> av </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> md </tag>
+            <tag> ばんごう </tag>
             
         </tags>
       
@@ -6398,11 +6423,136 @@
     
     
     <entry>
-      <title>gitlab command</title>
-      <link href="/1999/01/01/study-work-gitlab-gitlab-command/"/>
-      <url>/1999/01/01/study-work-gitlab-gitlab-command/</url>
+      <title>友情链接</title>
+      <link href="/1999/01/01/study-life-av-link/"/>
+      <url>/1999/01/01/study-life-av-link/</url>
       
-        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#配置路径</span>/etc/gitlab/gitlab.rb<span class="token comment">#备份路径</span>/var/opt/gitlab/backups<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rake gitlab:backup:create<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span>  gitlab-ctl stop unicorn<span class="token function">sudo</span>  gitlab-ctl stop sidekiq<span class="token function">sudo</span>  gitlab-rake gitlab:backup:restore <span class="token assign-left variable">BACKUP</span><span class="token operator">=</span><span class="token string">'备份的identity'</span><span class="token function">sudo</span>  gitlab-ctl start<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl status<span class="token function">sudo</span> gitlab-ctl start<span class="token function">sudo</span> gitlab-ctl stop<span class="token function">sudo</span> gitlab-ctl restart<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="gitlab-刷新配置"><a href="#gitlab-刷新配置" class="headerlink" title="gitlab 刷新配置"></a>gitlab 刷新配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl reconfigure<span class="token function">sudo</span> systemctl restart gitlab-runsvdir<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> redis<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> postgresql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> gitlab-workhorse<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> <span class="token function">logrotate</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> sidekiq<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> unicorn<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="生产日志"><a href="#生产日志" class="headerlink" title="生产日志"></a>生产日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">user <span class="token operator">=</span> User.where<span class="token punctuation">(</span>id: <span class="token number">1</span><span class="token punctuation">)</span>.firstuser.password <span class="token operator">=</span> ‘新密码‘user.password_confirmation <span class="token operator">=</span> ‘新密码‘user.save<span class="token operator">!</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-检查配置"><a href="#Gitlab-检查配置" class="headerlink" title="Gitlab 检查配置"></a>Gitlab 检查配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">gitlab-rake gitlab:check<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">vi</span> /opt/gitlab/embedded/service/gitlab-rails/app/models<span class="token comment">#devise :lockable, :recoverable, :rememberable, :trackable,</span><span class="token comment">#    :validatable, :omniauthable, :confirmable, :registerable</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>devise :lockable, :recoverable, :rememberable, :trackable,<br>        :validatable, :omniauthable,  :registerable</p><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><p>Guest：可以创建issue、发表评论，不能读写版本库<br>Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限<br>Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限<br>Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限<br>Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限</p><p>Private：只有组成员才能看到<br>Internal：只要登录的用户就能看到<br>Public：所有人都能看到</p><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h5 id="porn-site"><a href="#porn-site" class="headerlink" title="porn site"></a>porn site</h5><p><a href="https://zh.chaturbate.com/">直播</a><a href="https://t66y.com/">草榴</a><a href="https://www.pornhub.com/">pornhub</a><a href="https://www.youporn.com/">youporn</a><a href="https://www.xvideos.com/">xvideos</a><a href="https://toppornsites.com/">站点列表</a></p><h5 id="av-片商"><a href="#av-片商" class="headerlink" title="av 片商"></a>av 片商</h5><p><a href="https://en.1pondo.tv/">1pondo</a><br><a href="https://www.tokyo-hot.com/">tokyo-hot</a></p><h5 id="番号"><a href="#番号" class="headerlink" title="番号"></a>番号</h5><p><a href="https://www.fhz360.com/">番号族</a><br><a href="https://www.gzkd888.com/">解花语</a><br><a href="https://www.2535fh.com/">番号列表</a><br><a href="http://www.javlibrary.com/cn/">jav 情报站</a><br><a href="http://av.nightlife141.com/">av 资料库</a></p><h5 id="番号搜索"><a href="#番号搜索" class="headerlink" title="番号搜索"></a>番号搜索</h5><p><a href="https://www.seedmao.top/">种子猫</a></p><h5 id="香港"><a href="#香港" class="headerlink" title="香港"></a>香港</h5><p><a href="https://sn11.cc/forum/dz/forum.php">夜遊王討論區</a><br><a href="https://miss148.com/main.php?&amp;method=new&amp;value=">MISS148</a><br><a href="https://go141.com/zh/">go141</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> av </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ばんごう </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sm</title>
+      <link href="/1999/01/01/study-life-av-sm/"/>
+      <url>/1999/01/01/study-life-av-sm/</url>
+      
+        <content type="html"><![CDATA[<p>先聊几个我认为即使你不玩圈子，也是必不可少的东西。 1.【按摩棒】大多数人认为通过简单的亲密接触或者随便用手扣扣就能达到前戏的目的，实际不然。一个合适的按摩棒不管用于前戏，还是做爱过程当中，或者大战过后都非常有用。<br>首先按摩棒的挑选，我在和几任对象交往过程中，陆续买过十几个按摩棒，发现有一些玩十几分钟也没感觉，而有些很好用，快的时候十几秒就高潮了。有些容易坏，有些质量还不错，建议大家买之前先问一问其他人的推荐。</p><p>（在这里问个问题，跳蛋是放阴蒂而不是阴道对吧？放阴蒂的话如果想带出门怎么固定？而且好像所有跳蛋都不如按摩棒来的效果好，是只有我这样还是大家都这样？如果有女生看到这个帖子，有用到过喜欢的按摩棒、跳蛋、插入式按摩棒，希望能推荐一下，我买来试一下效果）</p><p>2.【眼罩】几乎所有女孩，在带上眼罩前后，差别都是巨大的，把双眼蒙住，对她们来说接下来的一切都充满了未知与刺激。如果没用过的建议赶紧试试。<br>对于眼罩的推荐，我建议买绑带类型的，一种真丝的，一种法兰绒的。黑色为主，不需要花里胡哨，当然如果你们对角色扮演或者拍摄感兴趣，好看的也能常备几个。</p><p>3.【润滑油】即使女人都是水做的，做爱 20 分钟后，都会开始变干。如果依然不停的抽插，事后双方都会红肿或者不舒服。这种做法也不健康。所以如果你经常 20 分钟以上，如果你懒的前戏，润滑油都是必备品。<br>润滑油分两种包装，一种是瓶装，一种是袋装（5ml），看各人使用习惯，都可以。建议第一次不要买大瓶，每个牌子的粘稠度都不一样，买小的可以在入坑前期快速找到自己喜欢的牌子。</p><p>———以上是必备，以下是进阶———<br>上面聊的是即使不玩圈子，你也必须要有的东西，下面聊的是给圈内新人推荐的道具</p><p>1.【皮鞭】皮鞭大概有三种材质，真皮，人造革，马尾。<br>从痛感排序：马尾&gt;人造革&gt;真皮。<br>马尾极难打理，很容易打结，但容易抽出血印，我个人建议避雷。<br>人造革很便宜，用多大力就多疼。买着玩的可以选这个凑合。<br>真皮分两种，一种是山羊皮，疼痛度和人造革相似，相对较硬，一种是绵羊皮，即使很用力打也不怎么疼，所以可以用比较大的力气抽出很大的响声，然而不是太疼。真皮价格有点贵，甚至很不好找。我个人喜欢绵羊皮的，我对象又喜欢被抽又怕疼。(对了我这种是面条状的，，有种一缕一缕的麻花状的我没用过)</p><p>2.【拍子】网上样式有很多，材质形状都五花八门。这个东西对材质没什么讲究，最重要是趁手，别过大或者过小。<br>最好是真皮夹海绵的，人造革也行，木制竹制也行，别是塑料就行，毕竟你掏出个塑料的人家以为你要打苍蝇，太影响气氛。不同材质拍打的痛感是不一样的，每个 m 喜欢的感觉也不一样。毕竟便宜，每种备一个也无伤大雅。<br>顺带一提，在你和 m 初次接触的时候，是要用拍子测评疼痛接受度的。一般会由轻到重分为 10 级。你必须熟悉你 m 的接受度，不同情形惩罚的力度都是不一样的。</p><p>3.【束缚带】这个品类五花八门，手铐脚铐脖圈五件套是必备，吊门上的，吊天花板的，绑床上的，麻绳，静电胶带等等。有条件的建议各种都备用一个，毕竟玩法不嫌多。<br>其中比较难的是绳艺，耗时且麻烦，但一旦熟练掌握，你就是半个大神。<br>关于选购方面，有几个建议：一切以舒适度为核心，网上卖的那些几十块一百来块的套餐大都硬邦邦，会很不舒服，务必避雷。手铐五件套建议选夹海绵的，其他束缚类的在人体接触部位必须至少是法兰绒的，不然你绑个几分钟或者吊着做的时候女方只会觉得越来越难受，最后可能就想扔了。</p><p>4.【其他类】这一类别都是小众或者不太实用的东西，这边列举一些出来供大家参考。<br>【低温蜡烛】，有盒装的，有蜡烛形态的，建议买金属盒装，能反复使用，千万别买到假的，烫伤就不美了。<br>【电疗设备】，这个有点不太好聊，乳贴，假阳具，肛门塞，尿道塞之类的，由于通电，对于接受度比较低的 m 慎用，虽然电流强度可调节，但多少有点太刺激，建议入坑的朋友，在给 m 用之前先在自己身上试一下强度。<br>【羽毛】，这类挠痒性质的东西不太实用，调情节奏太慢，中看不中用，不建议买。<br>【口塞】，选购建议，硅胶材质(不会咯牙)，带孔(方便口水流出)，大小合适(看她是樱桃小嘴还是血盆大口)。<br>【肛门塞】调教后庭花是项需要耐心的技术活。调教的好，从此爱上这种感觉，调教的不好，从此谁碰她后亭跟谁急。选购建议，硅胶材质的，从小到大准备至少 3 个型号，简单的弧形椎型就行，新手不建议选太长太粗的，她会怕，可能会直接导致没办法开始调教。塑料和金属的也建议避雷，不舒服。有种小众的充气式扩肛器也没必要买。<br>【灌肠】建议开发后庭的朋友准备点医用灌肠生理盐水和润滑剂。别贪便宜，别不讲卫生。<br>【窥阴器】新手避雷<br>【记号笔】某宝搜情趣记号笔就行，水性的易清洗。如果情到深处没道具，切勿用马克笔等油性笔，眉笔和口红也行，如果女伴给你用的话，也能用卸妆水擦掉，只是代价有点贵。<br>【贴纸】拍照必备品，类似纹身贴。记号笔的替代品。</p><p>5.【药品类】技术区有个大神专门写过一个帖子，你们去搜一下。这里我简单说点个人经验。<br>内用的有三种，治阳痿的，治早泄的，和双效。没吃过的建议半粒起步，觉得效果不够再试一整粒，过量服用很容易射不出。而且吃了基本百分百头疼。<br>外用的我就知道一种，都是麻醉类型的。包装分为喷剂和湿巾。湿巾可能就更方便些。个人建议，没用过的人，少喷点，喷完后等几分钟就冲洗掉。过量使用，你整个龟头是没有知觉的。</p><p>关于女性的内服和外用，我完全不懂，也没用过，但非常希望有大佬，在评论区科普一下。</p><p>6.【情趣内衣】样式五花八门，看个人喜好，唯一的建议就是宁可少买几件，务必买质量好的。某宝几十块一件的基本都是一次性的甚至买回来根本穿不了。</p><p>【题外话】<br>国内 SM 圈子我没进去过，但稍微了解一些，这个圈子极为小众，且还混有大量骗炮的假男 S。对我来说，SM 只是一个自己的性爱好，做爱过程中的一种仪式，如果没有这种仪式，那做爱对我来说就好像“交公粮”/“吃快餐”，毫无回味可言，也不会对下一次性爱产生期待。<br>如果你想入圈，你只要知道一点，没有定式的 SM，你只要找到你喜欢的方式就行。<br>另，SM 相比普通性爱，要花数倍的时间，没有耐心以及喜欢“吃快餐”的不建议入圈。自己偶尔和对象瞎玩玩倒是可以。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> av </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ばんごう </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>verb</title>
+      <link href="/1999/01/01/study-life-english-doing/"/>
+      <url>/1999/01/01/study-life-english-doing/</url>
+      
+        <content type="html"><![CDATA[<h4 id="verb-doing"><a href="#verb-doing" class="headerlink" title="verb + doing"></a>verb + doing</h4><table><thead><tr><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th></tr></thead><tbody><tr><td align="left">allow</td><td align="left">discuss</td><td align="left">permit</td><td align="left">report</td><td align="left">miss</td><td align="left">be busy</td></tr><tr><td align="left">consider</td><td align="left">admit</td><td align="left">suggest</td><td align="left">mind</td><td align="left">dislike</td><td align="left">forgive</td></tr><tr><td align="left">advice</td><td align="left">risk</td><td align="left">keep on</td><td align="left">insist on</td><td align="left">understand</td><td align="left">delay</td></tr><tr><td align="left">appreciate</td><td align="left">put off</td><td align="left">enjoy</td><td align="left">finish</td><td align="left">burst out</td><td align="left">imagine</td></tr><tr><td align="left">forbid</td><td align="left">pardon</td><td align="left">escape</td><td align="left">give up</td><td align="left">can’t stand</td><td align="left">include</td></tr><tr><td align="left">practise</td><td align="left"></td><td align="left">excuse</td><td align="left">be worth</td><td align="left">feel like</td><td align="left">prevent</td></tr></tbody></table><h4 id="verb-to-do"><a href="#verb-to-do" class="headerlink" title="verb + to do"></a>verb + to do</h4><table><thead><tr><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th></th></tr></thead><tbody><tr><td align="left">ask</td><td align="left">should like</td><td align="left">learn</td><td align="left">offer</td><td align="left">intend</td><td align="left">promise</td><td>desire</td></tr><tr><td align="left">demand</td><td align="left">would prefer</td><td align="left">wish</td><td align="left">apply</td><td align="left">mean</td><td align="left">decide</td><td>expect</td></tr><tr><td align="left">plan</td><td align="left">agree</td><td align="left">hope</td><td align="left">help</td><td align="left">determine long</td><td align="left">pretend</td><td>manage</td></tr><tr><td align="left">would like</td><td align="left">happen</td><td align="left">want</td><td align="left">prepare</td><td align="left">fail</td><td align="left">refuse</td><td></td></tr><tr><td align="left">afford choose</td><td align="left">do / try one’s best</td><td align="left">make an attempt /</td><td align="left">make a decision</td><td align="left">make up one’s mind</td><td align="left"></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> english </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> verb </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sentence</title>
+      <link href="/1999/01/01/study-life-english-sentence/"/>
+      <url>/1999/01/01/study-life-english-sentence/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Englist-sentence"><a href="#Englist-sentence" class="headerlink" title="Englist sentence"></a>Englist sentence</h4><blockquote><p>I wish I could be strong enough to protect those I care for<br>我希望我强大起来，可以保护那些我在乎的人。</p><p>Some things, no matter how hard we try, can not go back to just can’t go back<br>有些事，不管我们如何努力，回不去就是回不去了。</p><p>Life is too short to waste time hating anyone<br>生命是如此短暂，所以不要把时间都浪费在记恨一个人身上。</p><p>Brave do yourself, don’t change for anyone If they cannot accept the worst you, also do not deserve the best you<br>勇敢的做自己，不要&gt; 为任何人而改变。如果他们不能接受最差的你，也不配拥有最好的你</p><p>Don’t promise when you’re happy Don’t reply when you’re angry Don’t decide when you’re sad 开心时不要给承诺。愤怒时不要给答复。伤心时不&gt; 要做决定。</p><p>Try my best to forgive, do my best to forget<br>尽最大努力去宽恕，尽最大的努力去遗忘。</p><p>Whether friendship or love I want a life, not a spur of the moment<br>无论友情还是爱情。我要的是一世，而不是一时。</p><p>All rulers are either butchers or meat<br>为人君者，不为刀俎，便成鱼肉。《权力的游戏》</p><p>We can do anything we want to do if we stick to it long enough<br>只要我们足够坚持，想做任何事都能做到。</p><p>You don’t have to look like everybody else<br>你不必看起来和别人一样。</p><p>Life can be wandering, can be lonely, but your soul has to be a refuge<br>生活可以漂泊，可以孤独，但你的灵魂必须有所归依。</p><p>too fast to live, too young to die<br>生命匆匆，青春已逝</p><p>I’d rather stay quiet than explain my problems to people who don’t care<br>我宁愿保持沉默，也不向那些根本不在意我的人诉苦。</p><p>Sometimes，forgotten，is the best of liberation．And sometimes，silence，is the best say．<br>有时候，遗忘，是最好的解脱；有时候，沉默，却是最好的诉说。</p><p>There are plenty of things in life that you don’t want to do but you have to,this is responsibilityFor the things that you want to do but you can’t,this is fate<br>生命中有许多你不想做却不能不做的事，这就是责任；生命中有许多你想做却不能做的事，这就是命运。</p><p>When you’re happy, you enjoy the music And when you’re sad, you understand the lyrics<br>快乐的时候，你听的是音乐。难过的时候，你开始懂得了歌词。</p><p>I always have this fear that one day you are going to discover that I’m not as great as you once thought I was<br>我总是害怕，有一天你会发现，我没你想的那么好。</p><p>I just want to be free in my world<br>我只想在我的世界里，自由自在。</p><p>But put your mind, there is no wisdom; heart put, but others, there is no mercy<br>心里放不过自己，是没有智慧；心里放不过别人，是没有慈悲。</p><p>I believe that there is one among those stars that guides my life through the dark unknown<br>我相信在群星当中有一颗星星， 引领我的生命，穿越不可知的黑暗。</p><p>I guess it comes down to a simple choice: get busy living or get busy dying<br>生命可以归结为一种简单的选择：要么忙于生存，要么赶着去死。</p><p>God didn’t add another day in your life because you needed it, he added it because someone out there needs you<br>上帝让你再活一天并不是因为你需要，而是因为有人需要你。</p><p>Without being stubborn, I would haven’t seen the present sights that are so splendid<br>没有曾经的固执，我也不会看到如今繁华的风景。</p><p>Keep your head up, keep your heart strong<br>抬起你的头，强大你的心。</p><p>The kind of magic where one person’s smile will just set sparkles to your heart, It’s called love<br>有种魔法，让某人的笑容如绚烂烟花在你心扉绽放，这就是爱。</p><p>People do a lot of thinking, and sometimes, that’s what kills us<br>有时候是我们自己想太多才让自己如此难受。</p><p>Millions of failures are caused by people who do things not thoroughly It happens that some people cease or give up when it is just one step before success<br>世界千万人的失败，都是失败在做事不彻底，往往做到离成功尚差一步就终止不做了。</p><p>I’m not here to be average I’m here to be awesome<br>我生来不是为了平庸，而是为了牛逼。</p><p>The tangle of life is to give up you insist that the insist on you give up<br>人生最纠结的是 该放弃的你在坚持 该坚持你却放弃了。</p><p>For some things you have to insist on, whatever the result is<br>有些事情，必须坚持下去，不论结果如何。</p><p>As you grow older, you will discover that you have two hands, one for helping yourself and the other for helping others<br>当你再成熟有担当一点后，你会发现你有两只手：一只用来助己，另一只助人。</p><p>The only person you should try to be better than, is the person you were yesterday<br>你需要努力去超越的人，唯有昨天的自己。</p><p>Learn to be yourself, and gracefully to let go of all does not belong to you<br>学着做你自己，并优雅地放手所有不属于你的东西。</p><p>When you know that the face is not the most important thing, you really grow up<br>当你知道了面子是最不重要的东西时，你便真的长大了。 骄傲多半不外乎我们对我们自己的估价，虚荣却牵涉到我们希望别人对我们的看法。</p><p>Pride relates more to our valuation on our own, vanity is to involve we want others to think of us Life always offers you a second chance, it’s called tomorrow<br>生活总会给你的第二次机会，叫明天。</p><p>To strive, to seek, to find, and not to yield 去奋斗，<br>去追求，去发现，且不要放弃。</p><p>We shouldn’t blame， laugh at and envy anyone We should be colorful in the sunshine， run in the winds and rains， dream your own dreams and go your own way<br>不埋怨谁，不嘲笑谁，也不羡慕谁，阳光下灿烂，风雨中奔跑，做自己的梦，走自己的路。</p><p>Better late than never<br>只要开始，虽晚不迟！</p><p>Life is very interesting In the end, some of your greatest pains become your greatest strengths<br>人生很有意思。最终，那些最深的痛楚变成了你最强大的力量。</p><p>Caring for someone is easy, but to make someone care for you is difficult So never lose the one who really cares for you!<br>关心别人不难，难的是让别人关心你。所以我们要好好珍惜那个真正关心你的。</p><p>Sometimes you can’t see yourself clearly until you see yourself through the eyes of others<br>有时候，透过别人的眼睛才能完全看清自己。</p><p>If the incapable of action, so let it be Give the tangle of you 如果无能为力，那就顺其自然。送给此时纠结的你。</p><p>You make me happier than I ever thought I could be And if you’ll let me, I will spend the rest of my life trying to make you feel the same way<br>你给了我难以想像的幸福。如果你愿意，我愿意用我的一生让你感受到同样的幸福。《老友记》</p><p>Success is liking yourself, liking what you do, and liking how you do it<br>热爱你自己，热爱你所做的一切，热情你做每件事的方式，那么你已经成功了</p><p>Maya Angelou Let’s just live and what happens will happen<br>顺其自然地生活吧，该发生的总会发生</p><p>Work banishes those three great evils: boredom, vice and poverty<br>工作撵跑三个魔鬼：无聊，堕落和贫穷。</p><p>Most folks are about as happy as they make up their minds to be<br>对于大多数人来说，他们认定自己有多幸福，就有多幸福。</p><p>If we wait for the moment when everything, absolutely everything is ready, we shall never begin<br>如果我们非得等到一切都准备好了才行动，那我们甚至都不会有开始。</p><p>No matter how bad your life may seem in the moment, it will always get better<br>哪怕此刻的生活有多糟糕，也总会有好转的一天。</p><p>Ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow<br>问问自己今天做的事有没有让自己离期待的明天更近一点。</p><p>Life is short Break the rules, forgive quickly, kiss slowly, love truly, laugh uncontrollably and never regret anything that made you smile<br>生命如此短暂。何不打破成规，原谅快一点，亲吻慢一点，爱得真一点，笑得疯一点，并且只要是让自己笑过的事，就永远不会后悔。</p><p>From now on, I will expect nothing, and just take what I get<br>从现在起，我将不再期待，只珍惜我所拥有的。</p><p>Remember to look back upon your mistakes from time to time, but never regret them<br>记得常回头看看以前犯的错误，但绝不要为它们感到后悔。</p><p>Everybody needs just a little love, lots of hope and unshakable faith<br>每个人需要的仅仅是一点点爱，大大的希望和不可动摇的信念。</p><p>It’s no one’s fault if you get hurt of your expectations about them Keep your expectations low, and just be happy<br>因为对他人的期待而使自己受到伤害，这绝不是别人的错。期待不要太高，开心就好。</p><p>Go confidently in the direction of your dreams Live the life you have imagined<br>自信的向梦想前进，过你想要的生活。</p><p>The world breaks everyone and afterward many are strong at the broken places<br>这世界会打击每一个人。但经历过后，许多人会在受伤的地方变得更强壮。</p><p>There is only one success — to be able to spend your life in your own way<br>只有一种成功：那就是能够用自己的方式度过自己的一生。</p><p>What you do today can improve all your tomorrows<br>今天你做好的事情，将改善你未来的每一天。</p><p>The world makes way for the man who knows where he is going<br>如果你明确自己的方向，世界也会为你让路。</p><p>When someone forward, you can’t envy; When others envy, you need to move forward!<br>当别人前进时，你不能嫉妒；当别人嫉妒时，你必须前进！</p><p>I miss those years that future seemed distant while we simply had no troubles<br>我怀念，那些年，未来遥远的没有形状，我们单纯得没有烦恼。</p><p>Sometimes, things aren’t meant to last They just take a place in your heart and make you smarter next time<br>有时候，有些事注定不会永恒。它们只会留在你心里，让你下次变得更聪明。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> english </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sentence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>time &amp; date</title>
+      <link href="/1999/01/01/study-life-english-time-date/"/>
+      <url>/1999/01/01/study-life-english-time-date/</url>
+      
+        <content type="html"><![CDATA[<h4 id="time-amp-date"><a href="#time-amp-date" class="headerlink" title="time &amp; date"></a>time &amp; date</h4><h5 id="month"><a href="#month" class="headerlink" title="month"></a>month</h5><pre><code>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</code></pre><h5 id="wenkend"><a href="#wenkend" class="headerlink" title="wenkend"></a>wenkend</h5><pre><code>MondayTuesdayWednesdayThursdayFridaySundaySaturday</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> english </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> date </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>gitlab runner</title>
+      <link href="/1999/01/01/study-work-gitlab-gitlab-runner/"/>
+      <url>/1999/01/01/study-work-gitlab-gitlab-runner/</url>
+      
+        <content type="html"><![CDATA[<h5 id="Gitlab-runner-restart"><a href="#Gitlab-runner-restart" class="headerlink" title="Gitlab runner restart"></a>Gitlab runner restart</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ci-multi-runner restart<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
       
       
       <categories>
@@ -6423,11 +6573,11 @@
     
     
     <entry>
-      <title>gitlab runner</title>
-      <link href="/1999/01/01/study-work-gitlab-gitlab-runner/"/>
-      <url>/1999/01/01/study-work-gitlab-gitlab-runner/</url>
+      <title>gitlab command</title>
+      <link href="/1999/01/01/study-work-gitlab-gitlab-command/"/>
+      <url>/1999/01/01/study-work-gitlab-gitlab-command/</url>
       
-        <content type="html"><![CDATA[<h5 id="Gitlab-runner-restart"><a href="#Gitlab-runner-restart" class="headerlink" title="Gitlab runner restart"></a>Gitlab runner restart</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ci-multi-runner restart<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="Gitlab"><a href="#Gitlab" class="headerlink" title="Gitlab"></a>Gitlab</h4><h5 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h5><p><a href="https://about.gitlab.com/install/">https://about.gitlab.com/install/</a></p><h5 id="Gitlab-默认路径"><a href="#Gitlab-默认路径" class="headerlink" title="Gitlab 默认路径"></a>Gitlab 默认路径</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#配置路径</span>/etc/gitlab/gitlab.rb<span class="token comment">#备份路径</span>/var/opt/gitlab/backups<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-数据备份"><a href="#Gitlab-数据备份" class="headerlink" title="Gitlab 数据备份"></a>Gitlab 数据备份</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rake gitlab:backup:create<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-数据恢复"><a href="#Gitlab-数据恢复" class="headerlink" title="Gitlab 数据恢复"></a>Gitlab 数据恢复</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span>  gitlab-ctl stop unicorn<span class="token function">sudo</span>  gitlab-ctl stop sidekiq<span class="token function">sudo</span>  gitlab-rake gitlab:backup:restore <span class="token assign-left variable">BACKUP</span><span class="token operator">=</span><span class="token string">'备份的identity'</span><span class="token function">sudo</span>  gitlab-ctl start<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="安装完-gitlab-后的运维操作"><a href="#安装完-gitlab-后的运维操作" class="headerlink" title="安装完 gitlab 后的运维操作"></a>安装完 gitlab 后的运维操作</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl status<span class="token function">sudo</span> gitlab-ctl start<span class="token function">sudo</span> gitlab-ctl stop<span class="token function">sudo</span> gitlab-ctl restart<span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="gitlab-刷新配置"><a href="#gitlab-刷新配置" class="headerlink" title="gitlab 刷新配置"></a>gitlab 刷新配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl reconfigure<span class="token function">sudo</span> systemctl restart gitlab-runsvdir<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h5 id="检查-redis-的日志"><a href="#检查-redis-的日志" class="headerlink" title="检查 redis 的日志"></a>检查 redis 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> redis<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-postgresql-的日志"><a href="#检查-postgresql-的日志" class="headerlink" title="检查 postgresql 的日志"></a>检查 postgresql 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> postgresql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-gitlab-workhorse-的日志"><a href="#检查-gitlab-workhorse-的日志" class="headerlink" title="检查 gitlab-workhorse 的日志"></a>检查 gitlab-workhorse 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> gitlab-workhorse<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-logrotate-的日志"><a href="#检查-logrotate-的日志" class="headerlink" title="检查 logrotate 的日志"></a>检查 logrotate 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> <span class="token function">logrotate</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-nginx-的日志"><a href="#检查-nginx-的日志" class="headerlink" title="检查 nginx 的日志"></a>检查 nginx 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-sidekiq-的日志"><a href="#检查-sidekiq-的日志" class="headerlink" title="检查 sidekiq 的日志"></a>检查 sidekiq 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> sidekiq<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="检查-unicorn-的日志"><a href="#检查-unicorn-的日志" class="headerlink" title="检查 unicorn 的日志"></a>检查 unicorn 的日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-ctl <span class="token function">tail</span> unicorn<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="生产日志"><a href="#生产日志" class="headerlink" title="生产日志"></a>生产日志</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> gitlab-rails console production<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-修改-root-用户密码"><a href="#Gitlab-修改-root-用户密码" class="headerlink" title="Gitlab 修改 root 用户密码"></a>Gitlab 修改 root 用户密码</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">user <span class="token operator">=</span> User.where<span class="token punctuation">(</span>id: <span class="token number">1</span><span class="token punctuation">)</span>.firstuser.password <span class="token operator">=</span> ‘新密码‘user.password_confirmation <span class="token operator">=</span> ‘新密码‘user.save<span class="token operator">!</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h5 id="Gitlab-检查配置"><a href="#Gitlab-检查配置" class="headerlink" title="Gitlab 检查配置"></a>Gitlab 检查配置</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">gitlab-rake gitlab:check<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="Gitlab-取消注册有效确认"><a href="#Gitlab-取消注册有效确认" class="headerlink" title="Gitlab 取消注册有效确认"></a>Gitlab 取消注册有效确认</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">vi</span> /opt/gitlab/embedded/service/gitlab-rails/app/models<span class="token comment">#devise :lockable, :recoverable, :rememberable, :trackable,</span><span class="token comment">#    :validatable, :omniauthable, :confirmable, :registerable</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>devise :lockable, :recoverable, :rememberable, :trackable,<br>        :validatable, :omniauthable,  :registerable</p><h5 id="gitlab-setting"><a href="#gitlab-setting" class="headerlink" title="gitlab setting"></a>gitlab setting</h5><p>Guest：可以创建issue、发表评论，不能读写版本库<br>Reporter：可以克隆代码，不能提交，QA、PM可以赋予这个权限<br>Developer：可以克隆代码、开发、提交、push，RD可以赋予这个权限<br>Master：可以创建项目、添加tag、保护分支、添加项目成员、编辑项目，核心RD负责人可以赋予这个权限<br>Owner：可以设置项目访问权限 - Visibility Level、删除项目、迁移项目、管理组成员，开发组leader可以赋予这个权限</p><p>Private：只有组成员才能看到<br>Internal：只要登录的用户就能看到<br>Public：所有人都能看到</p><blockquote><p>ps:开源项目和组设置的是 Internal</p></blockquote>]]></content>
       
       
       <categories>
@@ -6690,156 +6840,6 @@
         <tags>
             
             <tag> setting </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>香港红灯区</title>
-      <link href="/1999/01/01/study-life-av-hongkong/"/>
-      <url>/1999/01/01/study-life-av-hongkong/</url>
-      
-        <content type="html"><![CDATA[<h5 id="一楼一凤"><a href="#一楼一凤" class="headerlink" title="一楼一凤"></a>一楼一凤</h5><p>香港红灯区的招牌就是一楼一凤，就是每个屋子里只有一个 MM 等着顾客上门。这些楼凤一般都集中在一些比较老的大厦中，大厦的入口一般都会挂一根粉色灯管作为标记。这些大厦主要分布在佐敦、旺角、深水埔，原来网上盛传的几座大厦现在感觉已经有些没落了。老一些的香港本地人一般会从大厦最高层逐个敲门看 MM，看到合适的就在门口问价格和服务，谈好后就进门开工，这个过程也被叫做扫楼。年轻人一般都会上网看看照片，然后按着照片去找自己有兴趣的 MM，具体的网站可以谷歌搜 go141 和 miss148 点进去看。这两个网站比较起来，141 信息相对全一些，但是里面的服务内容包括 MM 照片信三分就好，148 的优势是搜索功能做的比较好，可以根据自己的喜好快速搜出对应的 MM。凤楼 MM 的年龄从 20 到 60 都有，整体还是年轻的较多，但是年轻漂亮的一般没什么服务，年纪大的一般是有求必应。价格上年轻 MM 一般是 400 港币一次，东南亚和年纪大的便宜一些，一些特殊服务要自己门口议价。最后要提醒一点是进了大楼千万别拍照，楼道每个门口都有摄像头，而且每层楼不知名的角落里都有看场子的人，拍照或者和 MM 起了争执都是一种有风险的行为。<br>美少女：基本等同于国内的酒店妹，整体质量最高，基本服务都会做足。大部分酒店妹都是旅游签证过来的漂亮小姐姐，普通话完全无障碍，聊的好了加个 VX 说不定会有更多的故事。美少女主要集中在尖沙咀，国内 MM 一般在 1000 港币左右一次，东南亚 800 左右，大洋马 1500，最贵的是日韩和香港本地的要 2500 一次。具体流程就是打电话找那边的经理预约，然后按照约定的时间赶到酒店就好。</p><h5 id="指压"><a href="#指压" class="headerlink" title="指压"></a>指压</h5><p>香港本地人最喜欢去的应该就是指压了，那里几乎没有游客和外地人出没，属于还没有被广大国内玩家炒起来的一片净土。指压主要集中在旺角和太子地区，对外就是一个按摩场所，房间比较小，只有一张按摩床和一个浴室。因为最初是从按摩发展起来的，所以低价格高服务就成了指压的特色，现在的价格应该是 400 到 450 港币，45 分钟无限次数任玩任做。指压 MM 整体年龄都会偏大一些，30 岁在里面都算是后生女，40+的也会出现。一般场所里年轻漂亮或者服务好的一些的红牌都要提前预约，基本上很快当天就会预约满，直接去大概率会踩雷。香港指压有个专门的本地论坛，每个场所都会在上边更新上班的 MM，有 MM 照片，还有好多实战报告，认真读一下基本不会遇到坑，谷歌搜 winning11 夜游王讨论区就可以找到。</p><h5 id="K-压"><a href="#K-压" class="headerlink" title="K 压"></a>K 压</h5><p>K 压其实和国内的 KTV 玩法很接近了，基本就是先唱 K 然后开大。相对于指压，K 压的 MM 里面香港本地人的比例会大很多。K 压的基本流程就是进到 KTV 里面，点一瓶啤酒选 MM，然后选择是先唱 K 还是直接带出去开大。一般的 K 压在 KTV 里面只能搂搂摸摸，然后要出去到不远处另一个旅馆进行下一步。K 压收费相对会比指压高一些，唱 K 费，出台费和房费是分开算的，整体下来要 7、8 百港币一次。去 K 压的基本都是香港本地人，追求的是和 MM 唱 K 那种放松的感觉。有关 K 压的一些内容，可以在 141 或者夜游王讨论区里面找到相应的帖子。<br>楼上骨：楼上骨和一楼一凤比较类似，是一种居家按摩，分为正骨和邪骨。正骨就是正经的香薰按摩，MM 一般都有正规的按摩资格证书，基本不带任何附加服务或者只有飞机，而邪骨就是按摩加开大。相应的信息可以从 141 或者 148 网站上查询。</p><h5 id="桑拿"><a href="#桑拿" class="headerlink" title="桑拿"></a>桑拿</h5><p>和国内的各种会所相似度很高，进去先自己洗澡，洗好了会有技师来服务。服务一般分为 part1 和 part2，part1 就是正规按摩，part2 就是 happy ending。part2 部分有的场是大活有的场是飞机，这个看价格一般就能区分，500 港币多的基本是手推，800 港币以上的一般都是可以开大。每家场所具体的信息还是进门之前先问清楚价格和服务比较好，不然容易踩雷。</p><h5 id="援交女"><a href="#援交女" class="headerlink" title="援交女"></a>援交女</h5><p>PTGF（parttime girlfriend）数年前曾经火爆一时，但是在香港针对援交女的三次重大行动（Google 香港三次灭绝援交事件）后，曾经辉煌的香港大人网和香港少女论坛已经变得十分冷清，IG 上面主要也是一些专业人士打着 PTGF 的名义继续活动，真正的本地学生出来赚快钱的已经十分少见。除了大人网和少女论坛两个地方外，近期又多了一个 millionbb 的注册交友网站，本人尚未注册观察，有兴趣的榴友可自行尝试。费用方面，一般是 1500 左右见面，后面的剧情就要自行发挥，基本套路都是逛逛街然后开房一次，最好是可以提前联系的时候就谈好免得被坑。因为真正的 PTGF 都是香港本地学生，想约的还是要有一定的广东话功底比较好。<br>以上就是香港集中主流玩法的介绍，下面会放上一些专业术语解释，大家在论坛爬文或者自行到店的时候可能会用到。</p><h5 id="陀地"><a href="#陀地" class="headerlink" title="陀地"></a>陀地</h5><p>香港本地妹</p><h5 id="北姑、新移民"><a href="#北姑、新移民" class="headerlink" title="北姑、新移民"></a>北姑、新移民</h5><p>大陆妹</p><h5 id="鬼妹"><a href="#鬼妹" class="headerlink" title="鬼妹"></a>鬼妹</h5><p>外国妹</p><h5 id="3-味、4-味、5-味"><a href="#3-味、4-味、5-味" class="headerlink" title="3 味、4 味、5 味"></a>3 味、4 味、5 味</h5><p>服务内容，3 味是无套吹、毒龙钻和大活，4 味多了爆菊，5 味多了吮脚趾。</p><h5 id="环保，地球之友"><a href="#环保，地球之友" class="headerlink" title="环保，地球之友"></a>环保，地球之友</h5><p>不带 TT</p><h5 id="屎忽（patpat），后花园"><a href="#屎忽（patpat），后花园" class="headerlink" title="屎忽（patpat），后花园"></a>屎忽（patpat），后花园</h5><p>屁股，爆菊</p><h5 id="车，车轮，车牌，碰碰车，小车，中车，大车"><a href="#车，车轮，车牌，碰碰车，小车，中车，大车" class="headerlink" title="车，车轮，车牌，碰碰车，小车，中车，大车"></a>车，车轮，车牌，碰碰车，小车，中车，大车</h5><p>亲嘴的不同程度，碰碰车是简单碰一下，大车是湿吻。</p><h5 id="夹肠仔"><a href="#夹肠仔" class="headerlink" title="夹肠仔"></a>夹肠仔</h5><p>乳交</p><h5 id="HJ，BJ"><a href="#HJ，BJ" class="headerlink" title="HJ，BJ"></a>HJ，BJ</h5><p>hand job 打飞机，blow job 吹箫</p><h5 id="中超，打假波，石头波"><a href="#中超，打假波，石头波" class="headerlink" title="中超，打假波，石头波"></a>中超，打假波，石头波</h5><p>人工胸</p><h5 id="C9-师奶"><a href="#C9-师奶" class="headerlink" title="C9,师奶"></a>C9,师奶</h5><p>成熟女人</p><h5 id="即尺"><a href="#即尺" class="headerlink" title="即尺"></a>即尺</h5><p>进门脱裤子直接吹</p><h5 id="BM"><a href="#BM" class="headerlink" title="BM"></a>BM</h5><p>body massage 身体漫游</p><h5 id="袋，带袋"><a href="#袋，带袋" class="headerlink" title="袋，带袋"></a>袋，带袋</h5><p>TT，带 T</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> av </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> ばんごう </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/1999/01/01/study-life-av-link/"/>
-      <url>/1999/01/01/study-life-av-link/</url>
-      
-        <content type="html"><![CDATA[<h5 id="porn-site"><a href="#porn-site" class="headerlink" title="porn site"></a>porn site</h5><p><a href="https://zh.chaturbate.com/">直播</a><a href="https://t66y.com/">草榴</a><a href="https://www.pornhub.com/">pornhub</a><a href="https://www.youporn.com/">youporn</a><a href="https://www.xvideos.com/">xvideos</a><a href="https://toppornsites.com/">站点列表</a></p><h5 id="av-片商"><a href="#av-片商" class="headerlink" title="av 片商"></a>av 片商</h5><p><a href="https://en.1pondo.tv/">1pondo</a><br><a href="https://www.tokyo-hot.com/">tokyo-hot</a></p><h5 id="番号"><a href="#番号" class="headerlink" title="番号"></a>番号</h5><p><a href="https://www.fhz360.com/">番号族</a><br><a href="https://www.gzkd888.com/">解花语</a><br><a href="https://www.2535fh.com/">番号列表</a><br><a href="http://www.javlibrary.com/cn/">jav 情报站</a><br><a href="http://av.nightlife141.com/">av 资料库</a></p><h5 id="番号搜索"><a href="#番号搜索" class="headerlink" title="番号搜索"></a>番号搜索</h5><p><a href="https://www.seedmao.top/">种子猫</a></p><h5 id="香港"><a href="#香港" class="headerlink" title="香港"></a>香港</h5><p><a href="https://sn11.cc/forum/dz/forum.php">夜遊王討論區</a><br><a href="https://miss148.com/main.php?&amp;method=new&amp;value=">MISS148</a><br><a href="https://go141.com/zh/">go141</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> av </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> ばんごう </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>sm</title>
-      <link href="/1999/01/01/study-life-av-sm/"/>
-      <url>/1999/01/01/study-life-av-sm/</url>
-      
-        <content type="html"><![CDATA[<p>先聊几个我认为即使你不玩圈子，也是必不可少的东西。 1.【按摩棒】大多数人认为通过简单的亲密接触或者随便用手扣扣就能达到前戏的目的，实际不然。一个合适的按摩棒不管用于前戏，还是做爱过程当中，或者大战过后都非常有用。<br>首先按摩棒的挑选，我在和几任对象交往过程中，陆续买过十几个按摩棒，发现有一些玩十几分钟也没感觉，而有些很好用，快的时候十几秒就高潮了。有些容易坏，有些质量还不错，建议大家买之前先问一问其他人的推荐。</p><p>（在这里问个问题，跳蛋是放阴蒂而不是阴道对吧？放阴蒂的话如果想带出门怎么固定？而且好像所有跳蛋都不如按摩棒来的效果好，是只有我这样还是大家都这样？如果有女生看到这个帖子，有用到过喜欢的按摩棒、跳蛋、插入式按摩棒，希望能推荐一下，我买来试一下效果）</p><p>2.【眼罩】几乎所有女孩，在带上眼罩前后，差别都是巨大的，把双眼蒙住，对她们来说接下来的一切都充满了未知与刺激。如果没用过的建议赶紧试试。<br>对于眼罩的推荐，我建议买绑带类型的，一种真丝的，一种法兰绒的。黑色为主，不需要花里胡哨，当然如果你们对角色扮演或者拍摄感兴趣，好看的也能常备几个。</p><p>3.【润滑油】即使女人都是水做的，做爱 20 分钟后，都会开始变干。如果依然不停的抽插，事后双方都会红肿或者不舒服。这种做法也不健康。所以如果你经常 20 分钟以上，如果你懒的前戏，润滑油都是必备品。<br>润滑油分两种包装，一种是瓶装，一种是袋装（5ml），看各人使用习惯，都可以。建议第一次不要买大瓶，每个牌子的粘稠度都不一样，买小的可以在入坑前期快速找到自己喜欢的牌子。</p><p>———以上是必备，以下是进阶———<br>上面聊的是即使不玩圈子，你也必须要有的东西，下面聊的是给圈内新人推荐的道具</p><p>1.【皮鞭】皮鞭大概有三种材质，真皮，人造革，马尾。<br>从痛感排序：马尾&gt;人造革&gt;真皮。<br>马尾极难打理，很容易打结，但容易抽出血印，我个人建议避雷。<br>人造革很便宜，用多大力就多疼。买着玩的可以选这个凑合。<br>真皮分两种，一种是山羊皮，疼痛度和人造革相似，相对较硬，一种是绵羊皮，即使很用力打也不怎么疼，所以可以用比较大的力气抽出很大的响声，然而不是太疼。真皮价格有点贵，甚至很不好找。我个人喜欢绵羊皮的，我对象又喜欢被抽又怕疼。(对了我这种是面条状的，，有种一缕一缕的麻花状的我没用过)</p><p>2.【拍子】网上样式有很多，材质形状都五花八门。这个东西对材质没什么讲究，最重要是趁手，别过大或者过小。<br>最好是真皮夹海绵的，人造革也行，木制竹制也行，别是塑料就行，毕竟你掏出个塑料的人家以为你要打苍蝇，太影响气氛。不同材质拍打的痛感是不一样的，每个 m 喜欢的感觉也不一样。毕竟便宜，每种备一个也无伤大雅。<br>顺带一提，在你和 m 初次接触的时候，是要用拍子测评疼痛接受度的。一般会由轻到重分为 10 级。你必须熟悉你 m 的接受度，不同情形惩罚的力度都是不一样的。</p><p>3.【束缚带】这个品类五花八门，手铐脚铐脖圈五件套是必备，吊门上的，吊天花板的，绑床上的，麻绳，静电胶带等等。有条件的建议各种都备用一个，毕竟玩法不嫌多。<br>其中比较难的是绳艺，耗时且麻烦，但一旦熟练掌握，你就是半个大神。<br>关于选购方面，有几个建议：一切以舒适度为核心，网上卖的那些几十块一百来块的套餐大都硬邦邦，会很不舒服，务必避雷。手铐五件套建议选夹海绵的，其他束缚类的在人体接触部位必须至少是法兰绒的，不然你绑个几分钟或者吊着做的时候女方只会觉得越来越难受，最后可能就想扔了。</p><p>4.【其他类】这一类别都是小众或者不太实用的东西，这边列举一些出来供大家参考。<br>【低温蜡烛】，有盒装的，有蜡烛形态的，建议买金属盒装，能反复使用，千万别买到假的，烫伤就不美了。<br>【电疗设备】，这个有点不太好聊，乳贴，假阳具，肛门塞，尿道塞之类的，由于通电，对于接受度比较低的 m 慎用，虽然电流强度可调节，但多少有点太刺激，建议入坑的朋友，在给 m 用之前先在自己身上试一下强度。<br>【羽毛】，这类挠痒性质的东西不太实用，调情节奏太慢，中看不中用，不建议买。<br>【口塞】，选购建议，硅胶材质(不会咯牙)，带孔(方便口水流出)，大小合适(看她是樱桃小嘴还是血盆大口)。<br>【肛门塞】调教后庭花是项需要耐心的技术活。调教的好，从此爱上这种感觉，调教的不好，从此谁碰她后亭跟谁急。选购建议，硅胶材质的，从小到大准备至少 3 个型号，简单的弧形椎型就行，新手不建议选太长太粗的，她会怕，可能会直接导致没办法开始调教。塑料和金属的也建议避雷，不舒服。有种小众的充气式扩肛器也没必要买。<br>【灌肠】建议开发后庭的朋友准备点医用灌肠生理盐水和润滑剂。别贪便宜，别不讲卫生。<br>【窥阴器】新手避雷<br>【记号笔】某宝搜情趣记号笔就行，水性的易清洗。如果情到深处没道具，切勿用马克笔等油性笔，眉笔和口红也行，如果女伴给你用的话，也能用卸妆水擦掉，只是代价有点贵。<br>【贴纸】拍照必备品，类似纹身贴。记号笔的替代品。</p><p>5.【药品类】技术区有个大神专门写过一个帖子，你们去搜一下。这里我简单说点个人经验。<br>内用的有三种，治阳痿的，治早泄的，和双效。没吃过的建议半粒起步，觉得效果不够再试一整粒，过量服用很容易射不出。而且吃了基本百分百头疼。<br>外用的我就知道一种，都是麻醉类型的。包装分为喷剂和湿巾。湿巾可能就更方便些。个人建议，没用过的人，少喷点，喷完后等几分钟就冲洗掉。过量使用，你整个龟头是没有知觉的。</p><p>关于女性的内服和外用，我完全不懂，也没用过，但非常希望有大佬，在评论区科普一下。</p><p>6.【情趣内衣】样式五花八门，看个人喜好，唯一的建议就是宁可少买几件，务必买质量好的。某宝几十块一件的基本都是一次性的甚至买回来根本穿不了。</p><p>【题外话】<br>国内 SM 圈子我没进去过，但稍微了解一些，这个圈子极为小众，且还混有大量骗炮的假男 S。对我来说，SM 只是一个自己的性爱好，做爱过程中的一种仪式，如果没有这种仪式，那做爱对我来说就好像“交公粮”/“吃快餐”，毫无回味可言，也不会对下一次性爱产生期待。<br>如果你想入圈，你只要知道一点，没有定式的 SM，你只要找到你喜欢的方式就行。<br>另，SM 相比普通性爱，要花数倍的时间，没有耐心以及喜欢“吃快餐”的不建议入圈。自己偶尔和对象瞎玩玩倒是可以。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> av </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> ばんごう </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>verb</title>
-      <link href="/1999/01/01/study-life-english-doing/"/>
-      <url>/1999/01/01/study-life-english-doing/</url>
-      
-        <content type="html"><![CDATA[<h4 id="verb-doing"><a href="#verb-doing" class="headerlink" title="verb + doing"></a>verb + doing</h4><table><thead><tr><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th></tr></thead><tbody><tr><td align="left">allow</td><td align="left">discuss</td><td align="left">permit</td><td align="left">report</td><td align="left">miss</td><td align="left">be busy</td></tr><tr><td align="left">consider</td><td align="left">admit</td><td align="left">suggest</td><td align="left">mind</td><td align="left">dislike</td><td align="left">forgive</td></tr><tr><td align="left">advice</td><td align="left">risk</td><td align="left">keep on</td><td align="left">insist on</td><td align="left">understand</td><td align="left">delay</td></tr><tr><td align="left">appreciate</td><td align="left">put off</td><td align="left">enjoy</td><td align="left">finish</td><td align="left">burst out</td><td align="left">imagine</td></tr><tr><td align="left">forbid</td><td align="left">pardon</td><td align="left">escape</td><td align="left">give up</td><td align="left">can’t stand</td><td align="left">include</td></tr><tr><td align="left">practise</td><td align="left"></td><td align="left">excuse</td><td align="left">be worth</td><td align="left">feel like</td><td align="left">prevent</td></tr></tbody></table><h4 id="verb-to-do"><a href="#verb-to-do" class="headerlink" title="verb + to do"></a>verb + to do</h4><table><thead><tr><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th align="left"></th><th></th></tr></thead><tbody><tr><td align="left">ask</td><td align="left">should like</td><td align="left">learn</td><td align="left">offer</td><td align="left">intend</td><td align="left">promise</td><td>desire</td></tr><tr><td align="left">demand</td><td align="left">would prefer</td><td align="left">wish</td><td align="left">apply</td><td align="left">mean</td><td align="left">decide</td><td>expect</td></tr><tr><td align="left">plan</td><td align="left">agree</td><td align="left">hope</td><td align="left">help</td><td align="left">determine long</td><td align="left">pretend</td><td>manage</td></tr><tr><td align="left">would like</td><td align="left">happen</td><td align="left">want</td><td align="left">prepare</td><td align="left">fail</td><td align="left">refuse</td><td></td></tr><tr><td align="left">afford choose</td><td align="left">do / try one’s best</td><td align="left">make an attempt /</td><td align="left">make a decision</td><td align="left">make up one’s mind</td><td align="left"></td><td></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> english </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> verb </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>sentence</title>
-      <link href="/1999/01/01/study-life-english-sentence/"/>
-      <url>/1999/01/01/study-life-english-sentence/</url>
-      
-        <content type="html"><![CDATA[<h4 id="Englist-sentence"><a href="#Englist-sentence" class="headerlink" title="Englist sentence"></a>Englist sentence</h4><blockquote><p>I wish I could be strong enough to protect those I care for<br>我希望我强大起来，可以保护那些我在乎的人。</p><p>Some things, no matter how hard we try, can not go back to just can’t go back<br>有些事，不管我们如何努力，回不去就是回不去了。</p><p>Life is too short to waste time hating anyone<br>生命是如此短暂，所以不要把时间都浪费在记恨一个人身上。</p><p>Brave do yourself, don’t change for anyone If they cannot accept the worst you, also do not deserve the best you<br>勇敢的做自己，不要&gt; 为任何人而改变。如果他们不能接受最差的你，也不配拥有最好的你</p><p>Don’t promise when you’re happy Don’t reply when you’re angry Don’t decide when you’re sad 开心时不要给承诺。愤怒时不要给答复。伤心时不&gt; 要做决定。</p><p>Try my best to forgive, do my best to forget<br>尽最大努力去宽恕，尽最大的努力去遗忘。</p><p>Whether friendship or love I want a life, not a spur of the moment<br>无论友情还是爱情。我要的是一世，而不是一时。</p><p>All rulers are either butchers or meat<br>为人君者，不为刀俎，便成鱼肉。《权力的游戏》</p><p>We can do anything we want to do if we stick to it long enough<br>只要我们足够坚持，想做任何事都能做到。</p><p>You don’t have to look like everybody else<br>你不必看起来和别人一样。</p><p>Life can be wandering, can be lonely, but your soul has to be a refuge<br>生活可以漂泊，可以孤独，但你的灵魂必须有所归依。</p><p>too fast to live, too young to die<br>生命匆匆，青春已逝</p><p>I’d rather stay quiet than explain my problems to people who don’t care<br>我宁愿保持沉默，也不向那些根本不在意我的人诉苦。</p><p>Sometimes，forgotten，is the best of liberation．And sometimes，silence，is the best say．<br>有时候，遗忘，是最好的解脱；有时候，沉默，却是最好的诉说。</p><p>There are plenty of things in life that you don’t want to do but you have to,this is responsibilityFor the things that you want to do but you can’t,this is fate<br>生命中有许多你不想做却不能不做的事，这就是责任；生命中有许多你想做却不能做的事，这就是命运。</p><p>When you’re happy, you enjoy the music And when you’re sad, you understand the lyrics<br>快乐的时候，你听的是音乐。难过的时候，你开始懂得了歌词。</p><p>I always have this fear that one day you are going to discover that I’m not as great as you once thought I was<br>我总是害怕，有一天你会发现，我没你想的那么好。</p><p>I just want to be free in my world<br>我只想在我的世界里，自由自在。</p><p>But put your mind, there is no wisdom; heart put, but others, there is no mercy<br>心里放不过自己，是没有智慧；心里放不过别人，是没有慈悲。</p><p>I believe that there is one among those stars that guides my life through the dark unknown<br>我相信在群星当中有一颗星星， 引领我的生命，穿越不可知的黑暗。</p><p>I guess it comes down to a simple choice: get busy living or get busy dying<br>生命可以归结为一种简单的选择：要么忙于生存，要么赶着去死。</p><p>God didn’t add another day in your life because you needed it, he added it because someone out there needs you<br>上帝让你再活一天并不是因为你需要，而是因为有人需要你。</p><p>Without being stubborn, I would haven’t seen the present sights that are so splendid<br>没有曾经的固执，我也不会看到如今繁华的风景。</p><p>Keep your head up, keep your heart strong<br>抬起你的头，强大你的心。</p><p>The kind of magic where one person’s smile will just set sparkles to your heart, It’s called love<br>有种魔法，让某人的笑容如绚烂烟花在你心扉绽放，这就是爱。</p><p>People do a lot of thinking, and sometimes, that’s what kills us<br>有时候是我们自己想太多才让自己如此难受。</p><p>Millions of failures are caused by people who do things not thoroughly It happens that some people cease or give up when it is just one step before success<br>世界千万人的失败，都是失败在做事不彻底，往往做到离成功尚差一步就终止不做了。</p><p>I’m not here to be average I’m here to be awesome<br>我生来不是为了平庸，而是为了牛逼。</p><p>The tangle of life is to give up you insist that the insist on you give up<br>人生最纠结的是 该放弃的你在坚持 该坚持你却放弃了。</p><p>For some things you have to insist on, whatever the result is<br>有些事情，必须坚持下去，不论结果如何。</p><p>As you grow older, you will discover that you have two hands, one for helping yourself and the other for helping others<br>当你再成熟有担当一点后，你会发现你有两只手：一只用来助己，另一只助人。</p><p>The only person you should try to be better than, is the person you were yesterday<br>你需要努力去超越的人，唯有昨天的自己。</p><p>Learn to be yourself, and gracefully to let go of all does not belong to you<br>学着做你自己，并优雅地放手所有不属于你的东西。</p><p>When you know that the face is not the most important thing, you really grow up<br>当你知道了面子是最不重要的东西时，你便真的长大了。 骄傲多半不外乎我们对我们自己的估价，虚荣却牵涉到我们希望别人对我们的看法。</p><p>Pride relates more to our valuation on our own, vanity is to involve we want others to think of us Life always offers you a second chance, it’s called tomorrow<br>生活总会给你的第二次机会，叫明天。</p><p>To strive, to seek, to find, and not to yield 去奋斗，<br>去追求，去发现，且不要放弃。</p><p>We shouldn’t blame， laugh at and envy anyone We should be colorful in the sunshine， run in the winds and rains， dream your own dreams and go your own way<br>不埋怨谁，不嘲笑谁，也不羡慕谁，阳光下灿烂，风雨中奔跑，做自己的梦，走自己的路。</p><p>Better late than never<br>只要开始，虽晚不迟！</p><p>Life is very interesting In the end, some of your greatest pains become your greatest strengths<br>人生很有意思。最终，那些最深的痛楚变成了你最强大的力量。</p><p>Caring for someone is easy, but to make someone care for you is difficult So never lose the one who really cares for you!<br>关心别人不难，难的是让别人关心你。所以我们要好好珍惜那个真正关心你的。</p><p>Sometimes you can’t see yourself clearly until you see yourself through the eyes of others<br>有时候，透过别人的眼睛才能完全看清自己。</p><p>If the incapable of action, so let it be Give the tangle of you 如果无能为力，那就顺其自然。送给此时纠结的你。</p><p>You make me happier than I ever thought I could be And if you’ll let me, I will spend the rest of my life trying to make you feel the same way<br>你给了我难以想像的幸福。如果你愿意，我愿意用我的一生让你感受到同样的幸福。《老友记》</p><p>Success is liking yourself, liking what you do, and liking how you do it<br>热爱你自己，热爱你所做的一切，热情你做每件事的方式，那么你已经成功了</p><p>Maya Angelou Let’s just live and what happens will happen<br>顺其自然地生活吧，该发生的总会发生</p><p>Work banishes those three great evils: boredom, vice and poverty<br>工作撵跑三个魔鬼：无聊，堕落和贫穷。</p><p>Most folks are about as happy as they make up their minds to be<br>对于大多数人来说，他们认定自己有多幸福，就有多幸福。</p><p>If we wait for the moment when everything, absolutely everything is ready, we shall never begin<br>如果我们非得等到一切都准备好了才行动，那我们甚至都不会有开始。</p><p>No matter how bad your life may seem in the moment, it will always get better<br>哪怕此刻的生活有多糟糕，也总会有好转的一天。</p><p>Ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow<br>问问自己今天做的事有没有让自己离期待的明天更近一点。</p><p>Life is short Break the rules, forgive quickly, kiss slowly, love truly, laugh uncontrollably and never regret anything that made you smile<br>生命如此短暂。何不打破成规，原谅快一点，亲吻慢一点，爱得真一点，笑得疯一点，并且只要是让自己笑过的事，就永远不会后悔。</p><p>From now on, I will expect nothing, and just take what I get<br>从现在起，我将不再期待，只珍惜我所拥有的。</p><p>Remember to look back upon your mistakes from time to time, but never regret them<br>记得常回头看看以前犯的错误，但绝不要为它们感到后悔。</p><p>Everybody needs just a little love, lots of hope and unshakable faith<br>每个人需要的仅仅是一点点爱，大大的希望和不可动摇的信念。</p><p>It’s no one’s fault if you get hurt of your expectations about them Keep your expectations low, and just be happy<br>因为对他人的期待而使自己受到伤害，这绝不是别人的错。期待不要太高，开心就好。</p><p>Go confidently in the direction of your dreams Live the life you have imagined<br>自信的向梦想前进，过你想要的生活。</p><p>The world breaks everyone and afterward many are strong at the broken places<br>这世界会打击每一个人。但经历过后，许多人会在受伤的地方变得更强壮。</p><p>There is only one success — to be able to spend your life in your own way<br>只有一种成功：那就是能够用自己的方式度过自己的一生。</p><p>What you do today can improve all your tomorrows<br>今天你做好的事情，将改善你未来的每一天。</p><p>The world makes way for the man who knows where he is going<br>如果你明确自己的方向，世界也会为你让路。</p><p>When someone forward, you can’t envy; When others envy, you need to move forward!<br>当别人前进时，你不能嫉妒；当别人嫉妒时，你必须前进！</p><p>I miss those years that future seemed distant while we simply had no troubles<br>我怀念，那些年，未来遥远的没有形状，我们单纯得没有烦恼。</p><p>Sometimes, things aren’t meant to last They just take a place in your heart and make you smarter next time<br>有时候，有些事注定不会永恒。它们只会留在你心里，让你下次变得更聪明。</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> english </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> sentence </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>time &amp; date</title>
-      <link href="/1999/01/01/study-life-english-time-date/"/>
-      <url>/1999/01/01/study-life-english-time-date/</url>
-      
-        <content type="html"><![CDATA[<h4 id="time-amp-date"><a href="#time-amp-date" class="headerlink" title="time &amp; date"></a>time &amp; date</h4><h5 id="month"><a href="#month" class="headerlink" title="month"></a>month</h5><pre><code>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</code></pre><h5 id="wenkend"><a href="#wenkend" class="headerlink" title="wenkend"></a>wenkend</h5><pre><code>MondayTuesdayWednesdayThursdayFridaySundaySaturday</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> english </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> date </tag>
             
         </tags>
       
