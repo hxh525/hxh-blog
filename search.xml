@@ -6498,31 +6498,6 @@
     
     
     <entry>
-      <title>time &amp; date</title>
-      <link href="/1999/01/01/study-life-english-time-date/"/>
-      <url>/1999/01/01/study-life-english-time-date/</url>
-      
-        <content type="html"><![CDATA[<h4 id="time-amp-date"><a href="#time-amp-date" class="headerlink" title="time &amp; date"></a>time &amp; date</h4><h5 id="month"><a href="#month" class="headerlink" title="month"></a>month</h5><pre><code>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</code></pre><h5 id="wenkend"><a href="#wenkend" class="headerlink" title="wenkend"></a>wenkend</h5><pre><code>MondayTuesdayWednesdayThursdayFridaySundaySaturday</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> english </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> date </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>sentence</title>
       <link href="/1999/01/01/study-life-english-sentence/"/>
       <url>/1999/01/01/study-life-english-sentence/</url>
@@ -6540,6 +6515,31 @@
         <tags>
             
             <tag> sentence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>time &amp; date</title>
+      <link href="/1999/01/01/study-life-english-time-date/"/>
+      <url>/1999/01/01/study-life-english-time-date/</url>
+      
+        <content type="html"><![CDATA[<h4 id="time-amp-date"><a href="#time-amp-date" class="headerlink" title="time &amp; date"></a>time &amp; date</h4><h5 id="month"><a href="#month" class="headerlink" title="month"></a>month</h5><pre><code>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</code></pre><h5 id="wenkend"><a href="#wenkend" class="headerlink" title="wenkend"></a>wenkend</h5><pre><code>MondayTuesdayWednesdayThursdayFridaySundaySaturday</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> english </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> date </tag>
             
         </tags>
       
@@ -6698,31 +6698,6 @@
     
     
     <entry>
-      <title>mount command</title>
-      <link href="/1999/01/01/study-work-linux-mount/"/>
-      <url>/1999/01/01/study-work-linux-mount/</url>
-      
-        <content type="html"><![CDATA[<h4 id="mount"><a href="#mount" class="headerlink" title="mount"></a>mount</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">mkdir</span> /bak<span class="token function">sudo</span> <span class="token function">fdisk</span> <span class="token parameter variable">-l</span><span class="token function">sudo</span> <span class="token function">mount</span> /dev/xvdf1 /bak<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> work </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>str-length command</title>
       <link href="/1999/01/01/study-work-linux-str-length/"/>
       <url>/1999/01/01/study-work-linux-str-length/</url>
@@ -6773,6 +6748,31 @@
     
     
     <entry>
+      <title>Mac command</title>
+      <link href="/1999/01/01/study-work-mac-command/"/>
+      <url>/1999/01/01/study-work-mac-command/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">&gt;</span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">uuidgen <span class="token comment">#生成uuid</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">last <span class="token comment">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment">#打印系统环境变量</span><span class="token builtin class-name">set</span> <span class="token assign-left variable">KEY</span><span class="token operator">=</span>VALUE <span class="token comment">#设置环境变量</span>unuset KEY <span class="token comment">#删除环境变量</span><span class="token function">uname</span> <span class="token parameter variable">-a</span> <span class="token comment">#当前系统信息</span><span class="token function">uname</span> <span class="token parameter variable">-r</span> <span class="token comment">#当前系统内核版本</span>sw_vers <span class="token comment">#当前 OSX 版本信息</span><span class="token function">sysctl</span> <span class="token parameter variable">-a</span> <span class="token operator">|</span> <span class="token function">grep</span> <span class="token parameter variable">-Eo</span> <span class="token string">"core_count:(.+?)$"</span> <span class="token comment"># cpu核心数</span><span class="token function">sysctl</span> <span class="token parameter variable">-n</span> machdep.cpu.brand_string <span class="token comment">#cpu品牌</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">whois HOST <span class="token comment">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment">#查询域名查找的路由信息</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> <span class="token parameter variable">-D</span> <span class="token comment">#后台启动</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> command </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>mysql</title>
       <link href="/1999/01/01/study-work-mac-mysql/"/>
       <url>/1999/01/01/study-work-mac-mysql/</url>
@@ -6798,6 +6798,31 @@
     
     
     <entry>
+      <title>mount command</title>
+      <link href="/1999/01/01/study-work-linux-mount/"/>
+      <url>/1999/01/01/study-work-linux-mount/</url>
+      
+        <content type="html"><![CDATA[<h4 id="mount"><a href="#mount" class="headerlink" title="mount"></a>mount</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">mkdir</span> /bak<span class="token function">sudo</span> <span class="token function">fdisk</span> <span class="token parameter variable">-l</span><span class="token function">sudo</span> <span class="token function">mount</span> /dev/xvdf1 /bak<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> work </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>vscode配置</title>
       <link href="/1999/01/01/study-work-mac-vscode-setting/"/>
       <url>/1999/01/01/study-work-mac-vscode-setting/</url>
@@ -6815,31 +6840,6 @@
         <tags>
             
             <tag> setting </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Mac command</title>
-      <link href="/1999/01/01/study-work-mac-command/"/>
-      <url>/1999/01/01/study-work-mac-command/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">&gt;</span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">uuidgen <span class="token comment">#生成uuid</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">last <span class="token comment">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment">#打印系统环境变量</span><span class="token builtin class-name">set</span> <span class="token assign-left variable">KEY</span><span class="token operator">=</span>VALUE <span class="token comment">#设置环境变量</span>unuset KEY <span class="token comment">#删除环境变量</span><span class="token function">uname</span> <span class="token parameter variable">-a</span> <span class="token comment">#当前系统信息</span><span class="token function">uname</span> <span class="token parameter variable">-r</span> <span class="token comment">#当前系统内核版本</span>sw_vers <span class="token comment">#当前 OSX 版本信息</span><span class="token function">sysctl</span> <span class="token parameter variable">-a</span> <span class="token operator">|</span> <span class="token function">grep</span> <span class="token parameter variable">-Eo</span> <span class="token string">"core_count:(.+?)$"</span> <span class="token comment"># cpu核心数</span><span class="token function">sysctl</span> <span class="token parameter variable">-n</span> machdep.cpu.brand_string <span class="token comment">#cpu品牌</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">whois HOST <span class="token comment">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment">#查询域名查找的路由信息</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> <span class="token parameter variable">-D</span> <span class="token comment">#后台启动</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> command </tag>
             
         </tags>
       
