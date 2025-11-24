@@ -6323,31 +6323,6 @@
     
     
     <entry>
-      <title>https配置</title>
-      <link href="/1999/01/01/study-hexo-https-pei-zhi/"/>
-      <url>/1999/01/01/study-hexo-https-pei-zhi/</url>
-      
-        <content type="html"><![CDATA[<h4 id="blog-域名解析"><a href="#blog-域名解析" class="headerlink" title="blog 域名解析"></a>blog 域名解析</h4><p><a href="https://console.dnspod.cn/dns/jaywong.com/record?source=cloud">https://console.dnspod.cn/dns/jaywong.com/record?source=cloud</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>主机记录</td><td>记录类型</td><td>线路类型</td><td>记录值</td><td>权重</td><td>MX</td><td>TTL</td><td>最后操作时间</td></tr><tr><td>@</td><td>CNAME</td><td>默认</td><td>hxh525.github.io.</td><td>-</td><td>-</td><td>600</td><td>2021/5/8 14:59</td></tr><tr><td>res</td><td>CNAME</td><td>默认</td><td>res.jaywong.com.qiniudns.com.</td><td>-</td><td>-</td><td>600</td><td>2019/9/25 16:58</td></tr><tr><td>www</td><td>CNAME</td><td>默认</td><td>jaywong.com.</td><td>-</td><td>-</td><td>600</td><td>2019/8/19 01:36</td></tr></tbody></table><h4 id="腾讯云申请-ssl-证书"><a href="#腾讯云申请-ssl-证书" class="headerlink" title="腾讯云申请 ssl 证书"></a>腾讯云申请 ssl 证书</h4><p><a href="https://console.cloud.tencent.com/ssl">https://console.cloud.tencent.com/ssl</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>ID</td><td>绑定域名</td><td>证书类型</td><td>到期时间</td><td>所属项目</td><td>关联资源</td><td>状态</td><td>操作</td></tr><tr><td>mUtGXGgm blog 图片</td><td>res.jaywong.com</td><td>TrustAsia TLS RSA CA(1 年)</td><td>2022-05-08 07:59:59</td><td>默认项目</td><td></td><td>已签发</td><td>更多</td></tr></tbody></table><h4 id="七牛云-cdn-服务申请域名加速"><a href="#七牛云-cdn-服务申请域名加速" class="headerlink" title="七牛云 cdn 服务申请域名加速"></a>七牛云 cdn 服务申请域名加速</h4><p><a href="https://portal.qiniu.com/cdn/domain">https://portal.qiniu.com/cdn/domain</a></p><h4 id="七牛云-实时消费明细"><a href="#七牛云-实时消费明细" class="headerlink" title="七牛云 实时消费明细"></a>七牛云 实时消费明细</h4><p><a href="https://portal.qiniu.com/financial/bills/estimated-consume">https://portal.qiniu.com/financial/bills/estimated-consume</a></p><h4 id="切换-https-http"><a href="#切换-https-http" class="headerlink" title="切换 https - http"></a>切换 https - http</h4><!--##### 开启 https 步骤打开 [blog 域名解析](#blog 域名解析) res 解析记录关闭 [blog 域名解析](#blog 域名解析) \* 解析记录启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jaywong.com关闭 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jaywong.comHXH_BLOG 全局替换 `http://test -> https://res`##### 关闭 https 步骤关闭 [blog 域名解析](#blog 域名解析) res 解析记录打开 [blog 域名解析](#blog 域名解析) \* 解析记录停用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jaywong.com启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jaywong.comHXH_BLOG 全局替换 `https://res -> http://test` -->]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo-https </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>hexo-theme-matery</title>
       <link href="/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/"/>
       <url>/1999/01/01/study-hexo-hexo-theme-matery-shi-yong/</url>
@@ -6365,6 +6340,31 @@
         <tags>
             
             <tag> hexo-theme-matery </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>https配置</title>
+      <link href="/1999/01/01/study-hexo-https-pei-zhi/"/>
+      <url>/1999/01/01/study-hexo-https-pei-zhi/</url>
+      
+        <content type="html"><![CDATA[<h4 id="blog-域名解析"><a href="#blog-域名解析" class="headerlink" title="blog 域名解析"></a>blog 域名解析</h4><p><a href="https://console.dnspod.cn/dns/jaywong.com/record?source=cloud">https://console.dnspod.cn/dns/jaywong.com/record?source=cloud</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>主机记录</td><td>记录类型</td><td>线路类型</td><td>记录值</td><td>权重</td><td>MX</td><td>TTL</td><td>最后操作时间</td></tr><tr><td>@</td><td>CNAME</td><td>默认</td><td>hxh525.github.io.</td><td>-</td><td>-</td><td>600</td><td>2021/5/8 14:59</td></tr><tr><td>res</td><td>CNAME</td><td>默认</td><td>res.jaywong.com.qiniudns.com.</td><td>-</td><td>-</td><td>600</td><td>2019/9/25 16:58</td></tr><tr><td>www</td><td>CNAME</td><td>默认</td><td>jaywong.com.</td><td>-</td><td>-</td><td>600</td><td>2019/8/19 01:36</td></tr></tbody></table><h4 id="腾讯云申请-ssl-证书"><a href="#腾讯云申请-ssl-证书" class="headerlink" title="腾讯云申请 ssl 证书"></a>腾讯云申请 ssl 证书</h4><p><a href="https://console.cloud.tencent.com/ssl">https://console.cloud.tencent.com/ssl</a></p><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>ID</td><td>绑定域名</td><td>证书类型</td><td>到期时间</td><td>所属项目</td><td>关联资源</td><td>状态</td><td>操作</td></tr><tr><td>mUtGXGgm blog 图片</td><td>res.jaywong.com</td><td>TrustAsia TLS RSA CA(1 年)</td><td>2022-05-08 07:59:59</td><td>默认项目</td><td></td><td>已签发</td><td>更多</td></tr></tbody></table><h4 id="七牛云-cdn-服务申请域名加速"><a href="#七牛云-cdn-服务申请域名加速" class="headerlink" title="七牛云 cdn 服务申请域名加速"></a>七牛云 cdn 服务申请域名加速</h4><p><a href="https://portal.qiniu.com/cdn/domain">https://portal.qiniu.com/cdn/domain</a></p><h4 id="七牛云-实时消费明细"><a href="#七牛云-实时消费明细" class="headerlink" title="七牛云 实时消费明细"></a>七牛云 实时消费明细</h4><p><a href="https://portal.qiniu.com/financial/bills/estimated-consume">https://portal.qiniu.com/financial/bills/estimated-consume</a></p><h4 id="切换-https-http"><a href="#切换-https-http" class="headerlink" title="切换 https - http"></a>切换 https - http</h4><!--##### 开启 https 步骤打开 [blog 域名解析](#blog 域名解析) res 解析记录关闭 [blog 域名解析](#blog 域名解析) \* 解析记录启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jaywong.com关闭 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jaywong.comHXH_BLOG 全局替换 `http://test -> https://res`##### 关闭 https 步骤关闭 [blog 域名解析](#blog 域名解析) res 解析记录打开 [blog 域名解析](#blog 域名解析) \* 解析记录停用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) res.jaywong.com启用 [七牛云 cdn 服务申请域名加速](#七牛云 cdn 服务申请域名加速) .jaywong.comHXH_BLOG 全局替换 `https://res -> http://test` -->]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo-https </tag>
             
         </tags>
       
@@ -6498,31 +6498,6 @@
     
     
     <entry>
-      <title>time &amp; date</title>
-      <link href="/1999/01/01/study-life-english-time-date/"/>
-      <url>/1999/01/01/study-life-english-time-date/</url>
-      
-        <content type="html"><![CDATA[<h4 id="time-amp-date"><a href="#time-amp-date" class="headerlink" title="time &amp; date"></a>time &amp; date</h4><h5 id="month"><a href="#month" class="headerlink" title="month"></a>month</h5><pre><code>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</code></pre><h5 id="wenkend"><a href="#wenkend" class="headerlink" title="wenkend"></a>wenkend</h5><pre><code>MondayTuesdayWednesdayThursdayFridaySundaySaturday</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> english </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> date </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>sentence</title>
       <link href="/1999/01/01/study-life-english-sentence/"/>
       <url>/1999/01/01/study-life-english-sentence/</url>
@@ -6540,6 +6515,31 @@
         <tags>
             
             <tag> sentence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>time &amp; date</title>
+      <link href="/1999/01/01/study-life-english-time-date/"/>
+      <url>/1999/01/01/study-life-english-time-date/</url>
+      
+        <content type="html"><![CDATA[<h4 id="time-amp-date"><a href="#time-amp-date" class="headerlink" title="time &amp; date"></a>time &amp; date</h4><h5 id="month"><a href="#month" class="headerlink" title="month"></a>month</h5><pre><code>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</code></pre><h5 id="wenkend"><a href="#wenkend" class="headerlink" title="wenkend"></a>wenkend</h5><pre><code>MondayTuesdayWednesdayThursdayFridaySundaySaturday</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> english </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> date </tag>
             
         </tags>
       
@@ -6673,11 +6673,11 @@
     
     
     <entry>
-      <title>apt-get command</title>
-      <link href="/1999/01/01/study-work-linux-apt-get/"/>
-      <url>/1999/01/01/study-work-linux-apt-get/</url>
+      <title>mount command</title>
+      <link href="/1999/01/01/study-work-linux-mount/"/>
+      <url>/1999/01/01/study-work-linux-mount/</url>
       
-        <content type="html"><![CDATA[<h4 id="apt-get"><a href="#apt-get" class="headerlink" title="apt-get"></a>apt-get</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">apt-get</span> <span class="token punctuation">[</span>选项<span class="token punctuation">]</span> 命令<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="选项"><a href="#选项" class="headerlink" title="选项"></a>选项</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token parameter variable">-h</span> 本帮助文件。<span class="token parameter variable">-q</span> 输出到日志 - 无进展指示<span class="token parameter variable">-qq</span> 不输出信息，错误除外<span class="token parameter variable">-d</span> 仅下载 - 不安装或解压归档文件<span class="token parameter variable">-s</span> 不实际安装。模拟执行命令<span class="token parameter variable">-y</span> 假定对所有的询问选是，不提示<span class="token parameter variable">-f</span> 尝试修正系统依赖损坏处<span class="token parameter variable">-m</span> 如果归档无法定位，尝试继续<span class="token parameter variable">-u</span> 同时显示更新软件包的列表<span class="token parameter variable">-b</span> 获取源码包后编译 <span class="token parameter variable">-V</span> 显示详细的版本号<span class="token parameter variable">-c</span><span class="token operator">=</span>? 阅读此配置文件<span class="token parameter variable">-o</span><span class="token operator">=</span>? 设置自定的配置选项，如 <span class="token parameter variable">-o</span> dir::cache<span class="token operator">=</span>/tmp<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">update - 重新获取软件包列表upgrade - 进行更新<span class="token function">install</span> - 安装新的软件包remove - 移除软件包autoremove - 自动移除全部不使用的软件包purge - 移除软件包和配置文件<span class="token builtin class-name">source</span> - 下载源码档案build-dep - 为源码包配置编译依赖dist-upgrade - 发行版升级dselect-upgrade - 依照 dselect 的选择更新clean - 清除下载的归档文件autoclean - 清除旧的的已下载的归档文件check - 检验是否有损坏的依赖<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="常用示例"><a href="#常用示例" class="headerlink" title="常用示例"></a>常用示例</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">apt-cache</span> searchpackagename <span class="token comment">#搜索包</span><span class="token function">apt-cache</span> show packagename <span class="token comment">#获取包的相关信息，如说明、大小、版本等</span><span class="token function">apt-get</span> <span class="token function">install</span> packagename <span class="token comment">#安装包</span><span class="token function">apt-get</span> <span class="token function">install</span> packagename <span class="token parameter variable">--reinstall</span> <span class="token comment">#重新安装包</span><span class="token function">apt-get</span> <span class="token parameter variable">-f</span> <span class="token function">install</span> <span class="token comment">#修复安装”-f = –fix-missing”</span><span class="token function">apt-get</span> remove packagename <span class="token comment">#删除包</span><span class="token function">apt-get</span> remove packagename <span class="token parameter variable">--purge</span> <span class="token comment">#删除包，包括删除配置文件等</span><span class="token function">apt-get</span> update <span class="token comment">#更新源</span><span class="token function">apt-get</span> upgrade <span class="token comment">#更新已安装的包</span><span class="token function">apt-get</span> dist-upgrade <span class="token comment">#升级系统</span><span class="token function">apt-get</span> dselect-upgrade <span class="token comment">#使用 dselect 升级</span><span class="token function">apt-cache</span> depends packagename <span class="token comment">#了解使用依赖</span><span class="token function">apt-cache</span> rdepends packagename <span class="token comment">#是查看该包被哪些包依赖</span><span class="token function">apt-get</span> build-dep packagename <span class="token comment">#安装相关的编译环境</span><span class="token function">apt-get</span> <span class="token builtin class-name">source</span> packagename <span class="token comment">#下载该包的源代码</span><span class="token function">apt-get</span> clean <span class="token function">apt-get</span> autoclean <span class="token comment">#清理无用的包</span><span class="token function">apt-get</span> check <span class="token comment">#检查是否有损坏的依赖</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="mount"><a href="#mount" class="headerlink" title="mount"></a>mount</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">mkdir</span> /bak<span class="token function">sudo</span> <span class="token function">fdisk</span> <span class="token parameter variable">-l</span><span class="token function">sudo</span> <span class="token function">mount</span> /dev/xvdf1 /bak<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       <categories>
@@ -6698,11 +6698,11 @@
     
     
     <entry>
-      <title>mount command</title>
-      <link href="/1999/01/01/study-work-linux-mount/"/>
-      <url>/1999/01/01/study-work-linux-mount/</url>
+      <title>apt-get command</title>
+      <link href="/1999/01/01/study-work-linux-apt-get/"/>
+      <url>/1999/01/01/study-work-linux-apt-get/</url>
       
-        <content type="html"><![CDATA[<h4 id="mount"><a href="#mount" class="headerlink" title="mount"></a>mount</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">mkdir</span> /bak<span class="token function">sudo</span> <span class="token function">fdisk</span> <span class="token parameter variable">-l</span><span class="token function">sudo</span> <span class="token function">mount</span> /dev/xvdf1 /bak<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="apt-get"><a href="#apt-get" class="headerlink" title="apt-get"></a>apt-get</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">apt-get</span> <span class="token punctuation">[</span>选项<span class="token punctuation">]</span> 命令<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h5 id="选项"><a href="#选项" class="headerlink" title="选项"></a>选项</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token parameter variable">-h</span> 本帮助文件。<span class="token parameter variable">-q</span> 输出到日志 - 无进展指示<span class="token parameter variable">-qq</span> 不输出信息，错误除外<span class="token parameter variable">-d</span> 仅下载 - 不安装或解压归档文件<span class="token parameter variable">-s</span> 不实际安装。模拟执行命令<span class="token parameter variable">-y</span> 假定对所有的询问选是，不提示<span class="token parameter variable">-f</span> 尝试修正系统依赖损坏处<span class="token parameter variable">-m</span> 如果归档无法定位，尝试继续<span class="token parameter variable">-u</span> 同时显示更新软件包的列表<span class="token parameter variable">-b</span> 获取源码包后编译 <span class="token parameter variable">-V</span> 显示详细的版本号<span class="token parameter variable">-c</span><span class="token operator">=</span>? 阅读此配置文件<span class="token parameter variable">-o</span><span class="token operator">=</span>? 设置自定的配置选项，如 <span class="token parameter variable">-o</span> dir::cache<span class="token operator">=</span>/tmp<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">update - 重新获取软件包列表upgrade - 进行更新<span class="token function">install</span> - 安装新的软件包remove - 移除软件包autoremove - 自动移除全部不使用的软件包purge - 移除软件包和配置文件<span class="token builtin class-name">source</span> - 下载源码档案build-dep - 为源码包配置编译依赖dist-upgrade - 发行版升级dselect-upgrade - 依照 dselect 的选择更新clean - 清除下载的归档文件autoclean - 清除旧的的已下载的归档文件check - 检验是否有损坏的依赖<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h5 id="常用示例"><a href="#常用示例" class="headerlink" title="常用示例"></a>常用示例</h5><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">apt-cache</span> searchpackagename <span class="token comment">#搜索包</span><span class="token function">apt-cache</span> show packagename <span class="token comment">#获取包的相关信息，如说明、大小、版本等</span><span class="token function">apt-get</span> <span class="token function">install</span> packagename <span class="token comment">#安装包</span><span class="token function">apt-get</span> <span class="token function">install</span> packagename <span class="token parameter variable">--reinstall</span> <span class="token comment">#重新安装包</span><span class="token function">apt-get</span> <span class="token parameter variable">-f</span> <span class="token function">install</span> <span class="token comment">#修复安装”-f = –fix-missing”</span><span class="token function">apt-get</span> remove packagename <span class="token comment">#删除包</span><span class="token function">apt-get</span> remove packagename <span class="token parameter variable">--purge</span> <span class="token comment">#删除包，包括删除配置文件等</span><span class="token function">apt-get</span> update <span class="token comment">#更新源</span><span class="token function">apt-get</span> upgrade <span class="token comment">#更新已安装的包</span><span class="token function">apt-get</span> dist-upgrade <span class="token comment">#升级系统</span><span class="token function">apt-get</span> dselect-upgrade <span class="token comment">#使用 dselect 升级</span><span class="token function">apt-cache</span> depends packagename <span class="token comment">#了解使用依赖</span><span class="token function">apt-cache</span> rdepends packagename <span class="token comment">#是查看该包被哪些包依赖</span><span class="token function">apt-get</span> build-dep packagename <span class="token comment">#安装相关的编译环境</span><span class="token function">apt-get</span> <span class="token builtin class-name">source</span> packagename <span class="token comment">#下载该包的源代码</span><span class="token function">apt-get</span> clean <span class="token function">apt-get</span> autoclean <span class="token comment">#清理无用的包</span><span class="token function">apt-get</span> check <span class="token comment">#检查是否有损坏的依赖</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       <categories>
@@ -6773,11 +6773,11 @@
     
     
     <entry>
-      <title>mysql</title>
-      <link href="/1999/01/01/study-work-mac-mysql/"/>
-      <url>/1999/01/01/study-work-mac-mysql/</url>
+      <title>Mac command</title>
+      <link href="/1999/01/01/study-work-mac-command/"/>
+      <url>/1999/01/01/study-work-mac-command/</url>
       
-        <content type="html"><![CDATA[<h4 id="mac-mysql-5-7-no-paasword-login"><a href="#mac-mysql-5-7-no-paasword-login" class="headerlink" title="mac mysql 5.7 no paasword login"></a>mac mysql 5.7 no paasword login</h4><pre><code>mysql.server startmysql.server restartmysql.server stopmysqld_safe --skip-grant-tablesmysql -uroot</code></pre><h4 id="mysql-commond"><a href="#mysql-commond" class="headerlink" title="mysql commond"></a>mysql commond</h4><pre><code>show databases;show tables;flush privileges;</code></pre><h4 id="mysql-5-7-update-paasword-amp-host"><a href="#mysql-5-7-update-paasword-amp-host" class="headerlink" title="mysql 5.7 update paasword &amp; host"></a>mysql 5.7 update paasword &amp; host</h4><pre><code>update mysql.user set authentication_string=password('123456') where user='root'update mysql.user set host='%' where user='root'</code></pre><h4 id="mysql-create-schema-amp-create-user"><a href="#mysql-create-schema-amp-create-user" class="headerlink" title="mysql create schema &amp; create user"></a>mysql create schema &amp; create user</h4><pre><code>create schema test default character set utf8 collate utf8_general_ci;create user 'test'@'%' identified by '123456';grant all privileges on test.* to test;flush  privileges;</code></pre>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">&gt;</span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">uuidgen <span class="token comment">#生成uuid</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">last <span class="token comment">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment">#打印系统环境变量</span><span class="token builtin class-name">set</span> <span class="token assign-left variable">KEY</span><span class="token operator">=</span>VALUE <span class="token comment">#设置环境变量</span>unuset KEY <span class="token comment">#删除环境变量</span><span class="token function">uname</span> <span class="token parameter variable">-a</span> <span class="token comment">#当前系统信息</span><span class="token function">uname</span> <span class="token parameter variable">-r</span> <span class="token comment">#当前系统内核版本</span>sw_vers <span class="token comment">#当前 OSX 版本信息</span><span class="token function">sysctl</span> <span class="token parameter variable">-a</span> <span class="token operator">|</span> <span class="token function">grep</span> <span class="token parameter variable">-Eo</span> <span class="token string">"core_count:(.+?)$"</span> <span class="token comment"># cpu核心数</span><span class="token function">sysctl</span> <span class="token parameter variable">-n</span> machdep.cpu.brand_string <span class="token comment">#cpu品牌</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">whois HOST <span class="token comment">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment">#查询域名查找的路由信息</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> <span class="token parameter variable">-D</span> <span class="token comment">#后台启动</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
       
       
       <categories>
@@ -6798,11 +6798,11 @@
     
     
     <entry>
-      <title>Mac command</title>
-      <link href="/1999/01/01/study-work-mac-command/"/>
-      <url>/1999/01/01/study-work-mac-command/</url>
+      <title>mysql</title>
+      <link href="/1999/01/01/study-work-mac-mysql/"/>
+      <url>/1999/01/01/study-work-mac-mysql/</url>
       
-        <content type="html"><![CDATA[<p><a href="https://support.apple.com/zh-cn/HT201236">Mac 键盘快捷键</a></p><h4 id="mac-safeguard-外部源安装"><a href="#mac-safeguard-外部源安装" class="headerlink" title="mac safeguard (外部源安装)"></a>mac safeguard (外部源安装)</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> spctl --master-disabl<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-line-shortcut"><a href="#mac-command-line-shortcut" class="headerlink" title="mac command line shortcut"></a>mac command line shortcut</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">option <span class="token operator">&lt;</span> 光标向前移动一个单词option b 光标向前移动一个单词option <span class="token operator">&gt;</span> 光标向后移动一个单词option f 光标向后移动一个单词ctrl a 将光标移至行首ctrl e 将光标移至行尾ctrl u 剪切命令行中光标所在处之前的所有字符（不包括自身）ctrl k 剪切命令行中光标所在处之后的所有字符（包括自身）ctrl w 删除你键入的最后一个单词ctrl <span class="token function">v</span> 插入特殊字符,如Ctrl+v+Tab加入Tab字符键ctrl <span class="token punctuation">(</span>x u<span class="token punctuation">)</span> 按住Ctrl的同时再先后按x和u，撤销刚才的操作ctrl+y 粘贴刚才所删除的字符<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command"><a href="#mac-command" class="headerlink" title="mac command"></a>mac command</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">uuidgen <span class="token comment">#生成uuid</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h4 id="mac-command-system"><a href="#mac-command-system" class="headerlink" title="mac command system"></a>mac command system</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">last <span class="token comment">#命令行登录记录</span><span class="token function">netstat</span> <span class="token comment">#显示当前网络情况</span><span class="token function">printenv</span> <span class="token comment">#打印系统环境变量</span><span class="token builtin class-name">set</span> <span class="token assign-left variable">KEY</span><span class="token operator">=</span>VALUE <span class="token comment">#设置环境变量</span>unuset KEY <span class="token comment">#删除环境变量</span><span class="token function">uname</span> <span class="token parameter variable">-a</span> <span class="token comment">#当前系统信息</span><span class="token function">uname</span> <span class="token parameter variable">-r</span> <span class="token comment">#当前系统内核版本</span>sw_vers <span class="token comment">#当前 OSX 版本信息</span><span class="token function">sysctl</span> <span class="token parameter variable">-a</span> <span class="token operator">|</span> <span class="token function">grep</span> <span class="token parameter variable">-Eo</span> <span class="token string">"core_count:(.+?)$"</span> <span class="token comment"># cpu核心数</span><span class="token function">sysctl</span> <span class="token parameter variable">-n</span> machdep.cpu.brand_string <span class="token comment">#cpu品牌</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-command-domain"><a href="#mac-command-domain" class="headerlink" title="mac command domain"></a>mac command domain</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">whois HOST <span class="token comment">#查询域名的注册信息</span><span class="token function">ping</span> HOST <span class="token comment">#测试域名的连接延迟</span><span class="token function">nslookup</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">dig</span> HOST <span class="token comment">#查询域名的 DNS 信息</span><span class="token function">traceroute</span> HOST <span class="token comment">#查询域名查找的路由信息</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="mac-ari2"><a href="#mac-ari2" class="headerlink" title="mac ari2"></a>mac ari2</h4><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">aria2c --conf-path<span class="token operator">=</span><span class="token string">"/Users/x/.aria2/aria2.conf"</span> <span class="token parameter variable">-D</span> <span class="token comment">#后台启动</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h4 id="mac-mysql-5-7-no-paasword-login"><a href="#mac-mysql-5-7-no-paasword-login" class="headerlink" title="mac mysql 5.7 no paasword login"></a>mac mysql 5.7 no paasword login</h4><pre><code>mysql.server startmysql.server restartmysql.server stopmysqld_safe --skip-grant-tablesmysql -uroot</code></pre><h4 id="mysql-commond"><a href="#mysql-commond" class="headerlink" title="mysql commond"></a>mysql commond</h4><pre><code>show databases;show tables;flush privileges;</code></pre><h4 id="mysql-5-7-update-paasword-amp-host"><a href="#mysql-5-7-update-paasword-amp-host" class="headerlink" title="mysql 5.7 update paasword &amp; host"></a>mysql 5.7 update paasword &amp; host</h4><pre><code>update mysql.user set authentication_string=password('123456') where user='root'update mysql.user set host='%' where user='root'</code></pre><h4 id="mysql-create-schema-amp-create-user"><a href="#mysql-create-schema-amp-create-user" class="headerlink" title="mysql create schema &amp; create user"></a>mysql create schema &amp; create user</h4><pre><code>create schema test default character set utf8 collate utf8_general_ci;create user 'test'@'%' identified by '123456';grant all privileges on test.* to test;flush  privileges;</code></pre>]]></content>
       
       
       <categories>
